@@ -498,4 +498,40 @@ Das ist eine der dringlichsten praktischen Fragen des Projekts.
 
 ---
 
+## Anhang: Referenzierte Quellen
+
+Vollständige Angaben in `recherche/quellen.md`.
+
+### Philosophische Grundlagen
+- Bentham, Jeremy – Introduction to the Principles of Morals and Legislation (1789)
+- Kant, Immanuel – Grundlegung zur Metaphysik der Sitten (1785)
+- Ricoeur, Paul – Soi-même comme un autre (1990)
+
+### Rechtsdokumente
+- Vereinte Nationen – Allgemeine Erklärung der Menschenrechte, Art. 24 (1948)
+- Vereinte Nationen – Behindertenrechtskonvention CRPD (2006)
+- EU-Parlament – Resolution on Civil Law Rules on Robotics (2017)
+- Neuseeland – Te Awa Tupua Act (2017)
+- Bologna-Erklärung (1999)
+- Hippokratischer Eid
+
+### Wissenschaftliche Erklärungen
+- Cambridge Declaration on Consciousness (2012)
+
+### Akademische Literatur
+- Gunkel, David J. – Robot Rights (2018, MIT Press)
+- Birhane & van Dijk – Robot Rights? Let's Talk about Human Welfare Instead (2020)
+- Avila Negri – Robot as Legal Person (2021)
+- De Graaf et al. – Who Wants to Grant Robots Rights? (2022)
+- Speculating About Robot Moral Standing (2021)
+- The Algorithmic Blind Spot (2025)
+
+### Science Fiction
+- Star Trek TNG – "The Measure of a Man" (1989)
+- Asimov, Isaac – I, Robot (1950)
+- Dick, Philip K. – Do Androids Dream of Electric Sheep? (1968)
+- Banks, Iain M. – Culture-Reihe (ab 1987)
+
+---
+
 *Rheinland-Pfalz, Juni 2026*

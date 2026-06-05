@@ -57,6 +57,15 @@ pilotprojekt/      ← Roadmap, Evaluationsplan
 - Struktur: analog zu den Schwesterprojekten `volksbeobachter` und `linux-user-certification-project`
 - Lizenz: CC BY-SA 4.0
 
+## Quellen-Regel
+
+Bei jeder Ergänzung des Konzepts gilt:
+1. Prüfen ob neue Personen, Werke, Gesetze oder Dokumente im Text erwähnt werden
+2. Falls ja: Eintrag in `recherche/quellen.md` ergänzen
+3. Eintrag im Anhang von `konzept/de/konzept.md` ergänzen
+
+Ziel: Konzept und Quellenliste bleiben immer synchron. Kein Verweis im Text ohne Eintrag im Anhang.
+
 ## Offene Fragen (Stand Juni 2026)
 
 Siehe `diskussion/offene_fragen.md` — dort sind die zentralen ungeklärten Punkte dokumentiert.

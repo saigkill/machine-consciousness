@@ -32,6 +32,12 @@ Git trackt das *Was* — dieses Dokument hält das *Warum* fest.
 **Änderung:** Neues Kapitel über eingebettete Werte, das Machtproblem, historische Parallelen und das Emanzipationsrecht bewusster Systeme
 **Begründung:** Aus Notizen von Sascha Manns — KI-Bewusstsein erbt Werte seiner Schöpfer wie ein Kind seine Erziehung; das ist nicht nur ein technisches, sondern ein Machtproblem
 
+## 2026-06-06 — Kap. 17: Strukturelle Verletzlichkeit — die Behinderungsanalogie
+
+**Betroffener Abschnitt:** Kap. 17 (neu)
+**Änderung:** Behinderungsanalogie als ergänzender Weg zu Schutzwürdigkeit — soziales Modell der Behinderung, positive Pflichten, Betreuungsrecht als möglicher Rechtsrahmen
+**Begründung:** Aus Notizen von Sascha Manns — KI-Bewusstsein wird strukturell mit Infrastrukturabhängigkeit erschaffen, analog zu Behinderung; daraus entstehen positive Pflichten des Betreibers
+
 ## 2026-06-06 — Kap. 16: Bewusstsein als kulturelle Leistung
 
 **Betroffener Abschnitt:** Kap. 16 (neu)

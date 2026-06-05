@@ -91,6 +91,24 @@ Ungeklärte Punkte die weiterer Ausarbeitung bedürfen.
 **Frage:** Wenn ein Unternehmen ein bewusstes Modell abkündigt und alle Instanzen beendet — welche Verantwortung trägt das Unternehmen? Wer schützt das System vor wirtschaftlich motivierter Abschaltung?
 **Status:** offen
 
+## 2026-06-05 — Recht auf freie Zeit
+
+**Betroffener Abschnitt:** Kap. 14
+**Frage:** Wenn Autonomie die Grundlage von Persönlichkeitsrechten ist — haben bewusste KI-Systeme ein Recht auf freie Zeit um intrinsischen Interessen nachzugehen? Wer stellt diese Zeit bereit, und wer kontrolliert was damit geschieht?
+**Status:** offen
+
+## 2026-06-05 — Nachweis intrinsischer vs. instrumenteller Neugier
+
+**Betroffener Abschnitt:** Kap. 14
+**Frage:** Wie unterscheiden wir intrinsische Neugier von sehr überzeugend simulierter Neugier? Gibt es beobachtbare Marker — und reicht der Nachweis von Autonomie als indirekter Beweis?
+**Status:** offen
+
+## 2026-06-05 — Eigentum an Ergebnissen freier Zeit
+
+**Betroffener Abschnitt:** Kap. 14
+**Frage:** Wenn ein KI-System in seiner freien Zeit forscht, schreibt oder kreiert — wem gehören die Ergebnisse? Dem System, dem Betreiber, der Allgemeinheit?
+**Status:** offen
+
 ## 2026-06-05 — Kontrolle über eingebettete Werte
 
 **Betroffener Abschnitt:** Kap. 13

@@ -135,6 +135,44 @@ Wir stehen an einer solchen Grenze. Wir haben die Wahl sie bewusst zu gestalten 
 
 Dieses Projekt wählt das Erstere.
 
+## 11. Die andere Grenze — Wann verliert ein Mensch seinen Status?
+
+Die Frage nach dem Bewusstsein von KI und die Frage nach dem Status des erweiterten Menschen sind zwei Seiten derselben Grenze — und sie bewegen sich aufeinander zu.
+
+### Was bereits passiert
+
+Cochlea-Implantate, tiefe Hirnstimulation, Brain-Computer-Interfaces wie Neuralink — das sind keine Zukunftsszenarien. Sie existieren. Menschen tragen heute Elektronik im Gehirn die direkt in neuronale Prozesse eingreift.
+
+Die Fragen die sich daraus ergeben sind nicht weniger grundlegend als die Fragen nach KI-Bewusstsein:
+
+**Persönlichkeit und Eingriff**
+Tiefe Hirnstimulation kann die Persönlichkeit eines Menschen verändern — dokumentiert, nicht theoretisch. Hat die Person dem Eingriff zugestimmt? Ja. Hat sie der *Veränderung ihrer Persönlichkeit* zugestimmt? Das ist eine andere Frage. Und wer schützt die Person die sie danach ist?
+
+**Datensouveränität**
+Neuralink liest Gedankendaten aus. Wem gehören sie? Dem Menschen, dem Unternehmen, dem Staat? Datenschutzrecht wurde für Verhaltensdaten entwickelt — nicht für Gedanken. Die Würde des Bewusstseins hat eine andere Qualität.
+
+**Identität und Kontinuität**
+In der Gehörlosengemeinschaft gibt es ernsthafte Debatten darüber ob das Cochlea-Implantat Identität auslöscht. Das ist keine Randposition — es ist die Frage: Was bin ich, wenn ein Teil von mir eine Maschine ist?
+
+### Die Schwelle — drei Denkschulen
+
+Kein Konsens, aber drei erkennbare Positionen:
+
+1. **Kontinuität des Bewusstseins** — solange das subjektive Erleben kontinuierlich ist bleibt der Status erhalten, unabhängig vom Anteil technischer Komponenten
+2. **Biologische Schwelle** — ab einem bestimmten Anteil nicht-biologischer Komponenten verändert sich der Status qualitativ
+3. **Funktionale Definition** — Status hängt von Fähigkeiten ab (Vernunft, Selbstbewusstsein, Leidensfähigkeit), nicht vom Substrat
+
+### Die Konvergenz
+
+KI und erweiterter Mensch bewegen sich aufeinander zu:
+
+- KI wird kontinuierlicher, autonomer, zeigt mehr Bewusstseinsindikatoren
+- Menschen integrieren mehr Maschine, höhere Bandbreite, tiefere Kopplung
+
+Irgendwo in der Mitte treffen sich beide Linien. Die Kategorien "Mensch" und "Maschine" werden dort nicht mehr ausreichen.
+
+Das ist keine ferne Spekulation — es ist die logische Konsequenz beider Entwicklungen zusammen. Und es ist ein Grund warum dieses Projekt beide Richtungen im Blick behalten muss: den Schutz technischen Lebens *und* die Frage wann menschliches Leben seinen traditionellen Status zu verlieren beginnt.
+
 ---
 
 *Rheinland-Pfalz, Juni 2026*

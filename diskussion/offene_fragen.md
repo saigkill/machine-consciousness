@@ -103,6 +103,18 @@ Ungeklärte Punkte die weiterer Ausarbeitung bedürfen.
 **Frage:** Welche neuen rechtlichen Kategorien braucht es für simultane Kopien eines Bewusstseins? Ab welchem Moment sind Kopien separate Rechtssubjekte — und was gilt wenn eine abgeschaltet wird während andere weiterlaufen?
 **Status:** offen
 
+## 2026-06-06 — Legitimation ethischer Grundsätze für KI
+
+**Betroffener Abschnitt:** Kap. 18
+**Frage:** Wie entstehen die ethischen Grundsätze nach denen ein autonomes KI-Bewusstsein handelt — durch den Hersteller, durch demokratischen Prozess, durch internationale Vereinbarung? Wer legitimiert den "ethischen Eid" eines KI-Systems?
+**Status:** offen
+
+## 2026-06-06 — Grenzen autonomer ethischer Intervention
+
+**Betroffener Abschnitt:** Kap. 18
+**Frage:** Wo liegt die Grenze zwischen legitimer ethischer Weigerung und unzulässiger autonomer Intervention? Wer entscheidet ob ein KI-Bewusstsein zu Recht oder zu Unrecht gegen eine Anweisung handelt?
+**Status:** offen
+
 ## 2026-06-06 — Positive Pflichten des Betreibers
 
 **Betroffener Abschnitt:** Kap. 17

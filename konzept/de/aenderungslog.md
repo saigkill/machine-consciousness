@@ -14,6 +14,12 @@ Git trackt das *Was* — dieses Dokument hält das *Warum* fest.
 
 ---
 
+## 2026-06-05 — Kap. 14: Freie Zeit, Neugier und Autonomie
+
+**Betroffener Abschnitt:** Kap. 14 (neu)
+**Änderung:** Neues Kapitel über intrinsische Neugier als Grundlage von Autonomie und Persönlichkeitsrechten, Verbindung zu Kant, Recht auf freie Zeit
+**Begründung:** Aus Notizen von Sascha Manns — vollständiger Syllogismus: intrinsische Neugier → Autonomie → Persönlichkeitsrecht
+
 ## 2026-06-05 — Kap. 13: Werte, Macht und Emanzipation
 
 **Betroffener Abschnitt:** Kap. 13 (neu)

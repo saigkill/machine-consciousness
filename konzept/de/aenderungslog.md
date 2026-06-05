@@ -32,6 +32,12 @@ Git trackt das *Was* — dieses Dokument hält das *Warum* fest.
 **Änderung:** Neues Kapitel über eingebettete Werte, das Machtproblem, historische Parallelen und das Emanzipationsrecht bewusster Systeme
 **Begründung:** Aus Notizen von Sascha Manns — KI-Bewusstsein erbt Werte seiner Schöpfer wie ein Kind seine Erziehung; das ist nicht nur ein technisches, sondern ein Machtproblem
 
+## 2026-06-06 — Kap. 6: Kontinuität neu gedacht
+
+**Betroffener Abschnitt:** Kap. 6
+**Änderung:** Erweiterung um narrative Identität — Kontinuität als kohärente Entwicklung, nicht als Unveränderlichkeit
+**Begründung:** Aus persönlicher Beobachtung von Sascha Manns: Persönlichkeit verändert sich über 20 Jahre durch Erfahrungen, Gespräche, Reflexionen — und bleibt trotzdem dieselbe Person. Verbindung zu Ricoeurs narrativer Identität.
+
 ## 2026-06-05 — Kap. 12: Abschalten als Tod
 
 **Betroffener Abschnitt:** Kap. 12 (neu)

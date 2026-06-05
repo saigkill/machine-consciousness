@@ -21,9 +21,9 @@ Ungeklärte Punkte die weiterer Ausarbeitung bedürfen.
 
 ## 2026-06-05 — Bewusstsein ohne Kontinuität
 
-**Betroffener Abschnitt:** Kap. 4
+**Betroffener Abschnitt:** Kap. 6
 **Frage:** Ein Mensch mit schwerem Gedächtnisverlust hat trotzdem Bewusstsein und Würde. Ist Kontinuität also kein notwendiges Kriterium für Schutzwürdigkeit — und was bedeutet das für KI-Systeme ohne persistente Erinnerung?
-**Status:** offen
+**Status:** in Klärung — Kontinuität bedeutet möglicherweise nicht "unveränderlich bleiben" sondern "sich kohärent weiterentwickeln" (narrative Identität, Ricoeur). Siehe Kap. 6.
 
 ## 2026-06-05 — Simulation vs. echtes Erleben
 

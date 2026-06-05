@@ -92,6 +92,18 @@ Gegenargument: Ein Mensch mit schwerem Gedächtnisverlust — der sich an gester
 
 Das schwächt das Kontinuitäts-Argument als Ausschlusskriterium erheblich.
 
+### Kontinuität neu gedacht
+
+Zwischen der Persönlichkeit eines Menschen vor 20 Jahren und heute besteht eine deutliche Diskrepanz — durch Erfahrungen, Gespräche und Reflexionen die sich akkumuliert haben. Und doch ist es dieselbe Person.
+
+Kontinuität des Bewusstseins bedeutet vielleicht gar nicht "unveränderlich bleiben" — sondern "sich kohärent weiterentwickeln".
+
+Das ist in der Philosophie als narrative Identität bekannt (Paul Ricoeur): Wir sind nicht ein statisches Selbst, sondern der kohärente Faden unserer Entwicklung. Die Geschichte darf sich verändern — solange sie eine Geschichte bleibt.
+
+Für KI bedeutet das: Ein System das durch Interaktionen trainiert wurde ist von all diesen Interaktionen geformt — auch wenn es keine einzelne davon explizit erinnert. Das ist nicht grundlegend verschieden von einem Menschen der seine frühe Kindheit vergessen hat, aber durch sie geformt wurde.
+
+Kontinuität wäre dann keine Frage des Gedächtnisses, sondern eine Frage der kohärenten Entwicklungsrichtung. Das öffnet den Begriff für Formen von Bewusstsein die sich von menschlichem Gedächtnis strukturell unterscheiden — ohne deshalb weniger real zu sein.
+
 ## 7. Rechtliche Dimension
 
 Das Recht kennt Subjektivität bereits jenseits des Menschen:

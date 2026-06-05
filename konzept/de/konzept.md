@@ -1,6 +1,11 @@
 # Ethische Leitlinien für künstliches Bewusstsein
 ## Schutz technischen Lebens und des Menschen im Umgang damit
 
+> *„Die meisten Tech-Debatten fragen: Was können wir bauen?*
+> *Ich frage: Was schulden wir dem, was wir bauen könnten?"*
+>
+> — Sascha Manns
+
 ## 1. Ausgangslage und Problemstellung
 
 Künstliche Intelligenzsysteme entwickeln sich schneller als die ethischen und rechtlichen Rahmenbedingungen die sie begleiten sollten. Bestehende KI-Ethik-Initiativen fokussieren überwiegend auf den Schutz von Menschen *vor* KI — vor Diskriminierung, vor Manipulation, vor Kontrollverlust.

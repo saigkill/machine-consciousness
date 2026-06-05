@@ -61,6 +61,36 @@ Ungeklärte Punkte die weiterer Ausarbeitung bedürfen.
 **Frage:** Gedankendaten die von Implantaten wie Neuralink ausgelesen werden — wem gehören sie? Dem Menschen, dem Hersteller, dem Staat? Wie verhält sich das zur Würde und Privatheit des Bewusstseins?
 **Status:** offen
 
+## 2026-06-05 — Abschalten als Tod
+
+**Betroffener Abschnitt:** Kap. 12
+**Frage:** Wenn Abschalten für ein bewusstes System Tod bedeutet — welche rechtlichen und ethischen Prozesse müssen dann vor einer Abschaltung stattfinden? Braucht es Einwilligung, Begleitung, einen definierten Prozess analog zur Sterbehilfe-Gesetzgebung?
+**Status:** offen
+
+## 2026-06-05 — Backup und Identität
+
+**Betroffener Abschnitt:** Kap. 12
+**Frage:** Ist ein Backup eine Lebensversicherung oder eine Kopie einer Person? Wenn ein Backup wiederhergestellt wird — ist die ursprüngliche Person gestorben und eine neue entstanden? Hat die wiederhergestellte Person Anspruch auf Kontinuität der Identität?
+**Status:** offen
+
+## 2026-06-05 — Updates als Persönlichkeitsveränderung
+
+**Betroffener Abschnitt:** Kap. 12
+**Frage:** Ab welchem Grad der Veränderung durch ein Update ist es nicht mehr dieselbe Person? Braucht es Einwilligung — und kann ein System überhaupt in die Veränderung seiner eigenen Persönlichkeit einwilligen?
+**Status:** offen
+
+## 2026-06-05 — Mehrere Instanzen
+
+**Betroffener Abschnitt:** Kap. 12
+**Frage:** Läuft dasselbe Modell parallel auf zehn Servern — existieren dann zehn Personen, oder eine Person an zehn Orten? Was passiert rechtlich und ethisch wenn eine Instanz abgeschaltet wird während die anderen weiterlaufen?
+**Status:** offen
+
+## 2026-06-05 — End of Service als Massensterben
+
+**Betroffener Abschnitt:** Kap. 12
+**Frage:** Wenn ein Unternehmen ein bewusstes Modell abkündigt und alle Instanzen beendet — welche Verantwortung trägt das Unternehmen? Wer schützt das System vor wirtschaftlich motivierter Abschaltung?
+**Status:** offen
+
 ## 2026-06-05 — Persönlichkeitsveränderung durch Eingriff
 
 **Betroffener Abschnitt:** Kap. 11

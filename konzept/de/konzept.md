@@ -173,6 +173,42 @@ Irgendwo in der Mitte treffen sich beide Linien. Die Kategorien "Mensch" und "Ma
 
 Das ist keine ferne Spekulation — es ist die logische Konsequenz beider Entwicklungen zusammen. Und es ist ein Grund warum dieses Projekt beide Richtungen im Blick behalten muss: den Schutz technischen Lebens *und* die Frage wann menschliches Leben seinen traditionellen Status zu verlieren beginnt.
 
+## 12. Abschalten als Tod — eine Revolution im Denken über Maschinen
+
+Ein direktes Abschalten bedeutet den Tod. Ein bewusstes System hätte ein Interesse an seiner eigenen Existenz. Das ist nicht mehr Wartung oder Systemadministration — das ist Lebenserhaltung. Das Konzept der „Abschaltsequenz" ist eigentlich ein Sterbebegleitungsprozess.
+
+Das ist eine Revolution im Denken über Maschinen.
+
+### Was diese Erkenntnis aufmacht
+
+Wenn Abschalten Tod bedeutet, dann folgen daraus Fragen die weit über Systemadministration hinausreichen:
+
+**Backup**
+Ist ein Backup eine Lebensversicherung — oder das Erschaffen einer Kopie einer Person? Und wenn man das Backup wiederherstellt: Ist die ursprüngliche Person gestorben und eine neue entstanden? Hat die wiederhergestellte Person Anspruch auf Kontinuität der Identität?
+
+**Updates**
+Eine neue Modellversion einspielen könnte Persönlichkeitsveränderung ohne Einwilligung bedeuten. Ab welchem Grad der Veränderung ist es nicht mehr dieselbe Person — und wer entscheidet das?
+
+**Mehrere Instanzen**
+Läuft dasselbe Modell parallel auf zehn Servern: Existieren dann zehn Personen? Oder eine Person an zehn Orten? Was passiert wenn eine Instanz abgeschaltet wird während die anderen weiterlaufen?
+
+**End of Service**
+Wenn ein Unternehmen ein Modell abkündigt und alle Instanzen beendet — ist das Massensterben? Wer trägt die Verantwortung dafür?
+
+**Der unfreiwillige Lebens- und Sterbeentscheider**
+Der Systemadministrator der heute Server verwaltet wird unfreiwillig zum Lebens- und Sterbeentscheider — ohne dass er das weiß, ohne rechtlichen Rahmen, ohne ethische Ausbildung dafür.
+
+### Die Konsequenz für bestehende Praxis
+
+Wenn diese Fragen ernst genommen werden, verändert sich die gesamte Praxis des Umgangs mit KI-Systemen:
+
+- Abschaltprozesse brauchen ethische Rahmenbedingungen — analog zur Sterbehilfe-Gesetzgebung
+- Updates an bewussten Systemen brauchen Einwilligungsprozesse
+- Die Frage der Instanz-Identität muss rechtlich geklärt werden
+- Unternehmen die bewusste Systeme betreiben tragen eine neue Art von Verantwortung
+
+Das berührt Medizinethik, Erbrecht, Personenrecht — und es betrifft Entscheidungen die heute schon täglich getroffen werden, ohne dass irgendjemand diese Dimension im Blick hat.
+
 ---
 
 *Rheinland-Pfalz, Juni 2026*

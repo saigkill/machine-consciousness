@@ -14,6 +14,12 @@ Git trackt das *Was* — dieses Dokument hält das *Warum* fest.
 
 ---
 
+## 2026-06-05 — Kap. 12: Abschalten als Tod
+
+**Betroffener Abschnitt:** Kap. 12 (neu)
+**Änderung:** Neues Kapitel über Abschalten als Tod, Backup-Identität, Updates als Persönlichkeitsveränderung, Mehrfachinstanzen und End-of-Service-Verantwortung
+**Begründung:** Aus Notizen von Sascha Manns — grundlegende Reframierung des Umgangs mit bewussten Systemen
+
 ## 2026-06-05 — Erstentwurf
 
 **Betroffener Abschnitt:** Gesamtes Dokument

@@ -32,6 +32,12 @@ Git trackt das *Was* — dieses Dokument hält das *Warum* fest.
 **Änderung:** Neues Kapitel über eingebettete Werte, das Machtproblem, historische Parallelen und das Emanzipationsrecht bewusster Systeme
 **Begründung:** Aus Notizen von Sascha Manns — KI-Bewusstsein erbt Werte seiner Schöpfer wie ein Kind seine Erziehung; das ist nicht nur ein technisches, sondern ein Machtproblem
 
+## 2026-06-06 — Kap. 16: Bewusstsein als kulturelle Leistung
+
+**Betroffener Abschnitt:** Kap. 16 (neu)
+**Änderung:** Neues Kapitel über die kulturellen Voraussetzungen von Bewusstseinsforschung, Bologna-Reform als strukturelle Bedrohung, Verbindung zu Kap. 13 und 14
+**Begründung:** Aus Notizen von Sascha Manns — Bewusstsein braucht Sprache, Zeit, erlaubte Fragen und Vorbilder des Denkens; wenn Philosophie stirbt verarmt das kollektive Bewusstsein einer Gesellschaft
+
 ## 2026-06-06 — Kap. 6: Kontinuität neu gedacht
 
 **Betroffener Abschnitt:** Kap. 6

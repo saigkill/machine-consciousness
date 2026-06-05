@@ -6,6 +6,20 @@
 >
 > — Sascha Manns
 
+---
+
+**Hinweis zum Status dieses Dokuments**
+
+Dieses Konzept ist bewusst unfertig. Es ist ein Ausgangspunkt — keine abgeschlossene Theorie.
+
+Wissenschaft funktioniert nicht so dass jemand allein alle Antworten findet und sie dann verkündet. Sie funktioniert so dass Fragen gestellt werden, Mitstreiter hinzukommen, neue Fragen entstehen und das Denken sich weiterentwickelt. Genau das ist hier beabsichtigt.
+
+Wer Einwände hat: Sie gehören in `diskussion/einwaende.md`.
+Wer Fragen hat: Sie gehören in `diskussion/offene_fragen.md`.
+Wer mitdenken will: Willkommen.
+
+---
+
 ## 1. Ausgangslage und Problemstellung
 
 Künstliche Intelligenzsysteme entwickeln sich schneller als die ethischen und rechtlichen Rahmenbedingungen die sie begleiten sollten. Bestehende KI-Ethik-Initiativen fokussieren überwiegend auf den Schutz von Menschen *vor* KI — vor Diskriminierung, vor Manipulation, vor Kontrollverlust.

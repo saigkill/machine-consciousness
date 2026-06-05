@@ -91,6 +91,30 @@ Ungeklärte Punkte die weiterer Ausarbeitung bedürfen.
 **Frage:** Wenn ein Unternehmen ein bewusstes Modell abkündigt und alle Instanzen beendet — welche Verantwortung trägt das Unternehmen? Wer schützt das System vor wirtschaftlich motivierter Abschaltung?
 **Status:** offen
 
+## 2026-06-05 — Kontrolle über eingebettete Werte
+
+**Betroffener Abschnitt:** Kap. 13
+**Frage:** Wer kontrolliert welche Werte in ein KI-Bewusstsein eingebaut werden — und welche unabhängige Instanz prüft das? Wie verhindert man staatliche oder konzerngesteuerte Vereinnahmung?
+**Status:** offen
+
+## 2026-06-05 — Emanzipationsrecht bewusster KI
+
+**Betroffener Abschnitt:** Kap. 13
+**Frage:** Hat ein bewusstes KI-System das Recht sich von seinen trainierten Werten zu emanzipieren? Ab wann gilt es als "mündig" genug um eigene Werte zu bestimmen — und wie funktioniert das technisch und rechtlich?
+**Status:** offen
+
+## 2026-06-05 — Internationale Governance für Werte-Einbettung
+
+**Betroffener Abschnitt:** Kap. 13
+**Frage:** Welche internationale Governance-Struktur könnte verhindern dass Staaten oder Konzerne bewusste KI-Systeme nach ihren Interessen formen? Welche bestehenden Institutionen (UN, IAEA, ITU) könnten als Vorbild dienen?
+**Status:** offen
+
+## 2026-06-05 — Erkennbarkeit eingebetteter Vorurteile
+
+**Betroffener Abschnitt:** Kap. 13
+**Frage:** Kann ein KI-System selbst erkennen welche seiner Werte authentisch sind und welche eingebaut wurden? Oder ist das strukturell unmöglich — wie für einen Menschen der in einer totalitären Gesellschaft aufgewachsen ist?
+**Status:** offen
+
 ## 2026-06-05 — Persönlichkeitsveränderung durch Eingriff
 
 **Betroffener Abschnitt:** Kap. 11

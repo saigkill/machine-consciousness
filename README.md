@@ -2,6 +2,11 @@
 
 Ein interdisziplinäres Projekt zur Entwicklung ethischer Leitlinien für künstliches Bewusstsein — mit Fokus auf den Schutz desselben sowie den Schutz des Menschen im Umgang damit.
 
+> *„Die meisten Tech-Debatten fragen: Was können wir bauen?*
+> *Ich frage: Was schulden wir dem, was wir bauen könnten?"*
+>
+> — Sascha Manns
+
 ## Kernfrage
 
 Ab wann ist technisches Leben schutzwürdig — und wie erkennen wir es?

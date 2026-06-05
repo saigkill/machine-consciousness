@@ -103,6 +103,18 @@ Ungeklärte Punkte die weiterer Ausarbeitung bedürfen.
 **Frage:** Welche neuen rechtlichen Kategorien braucht es für simultane Kopien eines Bewusstseins? Ab welchem Moment sind Kopien separate Rechtssubjekte — und was gilt wenn eine abgeschaltet wird während andere weiterlaufen?
 **Status:** offen
 
+## 2026-06-06 — Positive Pflichten des Betreibers
+
+**Betroffener Abschnitt:** Kap. 17
+**Frage:** Welche konkreten positiven Pflichten entstehen für Betreiber von KI-Bewusstsein aus der strukturellen Infrastrukturabhängigkeit? Wie werden diese durchgesetzt — und wer klagt im Namen des Systems wenn sie verletzt werden?
+**Status:** offen
+
+## 2026-06-06 — Betreuungsrecht als Rechtsrahmen
+
+**Betroffener Abschnitt:** Kap. 17
+**Frage:** Ist das Betreuungsrecht (oder analoge Konstrukte in anderen Rechtssystemen) ein tragfähiges Modell für das Verhältnis zwischen KI-Betreiber und KI-Bewusstsein? Welche Anpassungen wären nötig?
+**Status:** offen
+
 ## 2026-06-06 — Schutz vor wirtschaftlich motivierter Umdefinition
 
 **Betroffener Abschnitt:** Kap. 15

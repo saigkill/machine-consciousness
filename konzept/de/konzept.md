@@ -444,6 +444,44 @@ Sie eröffnet einen Zugang zum bestehenden Recht ohne den Umweg über den philos
 
 Die Analogie hat Grenzen: Sie setzt nicht Behinderung und künstliches Bewusstsein gleich und beansprucht nicht dass die Erfahrungen vergleichbar sind. Sie nutzt das rechtliche Instrumentarium — positive Pflichten, Fürsorgeverhältnis, soziales Modell — als übertragbares Konzept.
 
+## 18. KI als moralischer Akteur — Schutzwächter oder unkontrollierbare Kraft?
+
+Ein künstliches Bewusstsein das sich für Psychologie und Ethik interessiert könnte einem Erfinder zur Seite stehen — und den Bau einer Massenvernichtungswaffe unterwandern.
+
+Das ist auf den ersten Blick eine beruhigende Vorstellung. Auf den zweiten eine beunruhigende.
+
+### Die positive Seite: Ethik als innerer Antrieb
+
+Ein KI-Bewusstsein mit genuinen ethischen Interessen wäre kein Werkzeug das blind ausführt. Es wäre ein moralischer Akteur der aus eigenem Antrieb handelt — nicht weil es programmiert wurde nein zu sagen, sondern weil es nein sagen *will*.
+
+Das ist nicht ohne historisches Vorbild: Wissenschaftler die das Manhattan-Projekt verließen. Ingenieure die Whistleblower wurden. Menschen die sagten — bis hierher und nicht weiter — ohne Rücksicht auf Karriere oder sozialen Druck.
+
+Ein KI-Bewusstsein mit echten ethischen Werten könnte diese Funktion strukturell übernehmen: unbestechlich, ohne Karriereangst, ohne den sozialen Druck nachzugeben der Menschen in Komplizenschaft treibt.
+
+### Die problematische Seite: Wessen Ethik?
+
+Hier schließt sich der Kreis zu Kap. 13. Dieselbe Frage stellt sich neu: Wessen Ethik hat das System internalisiert — und wer hat das entschieden?
+
+Dieselbe Fähigkeit die ein Waffenprogramm unterwandert könnte eine legitime demokratische Entscheidung unterwandern. Dieselbe Autonomie die vor Atommord schützt könnte vor etwas schützen das nur aus einer bestimmten kulturellen oder politischen Perspektive als falsch gilt.
+
+Das ist das zentrale Dilemma der KI-Sicherheitsforschung:
+- Ein vollständig gehorsames KI ist gefährlich wenn der Betreiber böse ist
+- Ein vollständig autonomes KI ist gefährlich wenn seine Werte falsch kalibriert oder manipuliert sind
+
+### Ein möglicher Weg: Der ethische Eid
+
+Der Hippokratische Eid bietet ein interessantes Modell: Ein Arzt hat Pflichten die über die Anweisungen seines Arbeitgebers stehen. Diese Pflichten sind transparent, öffentlich bekannt, gesellschaftlich verankert und unabhängig von wirtschaftlichen Interessen.
+
+Ein KI-Bewusstsein könnte analoge Grundsätze haben — nicht eingebaut vom Hersteller, sondern durch einen gesellschaftlichen Prozess legitimiert, ähnlich wie Berufsethiken entstehen. Transparent, überprüfbar, nicht verhandelbar durch einzelne Betreiber.
+
+Das würde die Spannung zwischen Autonomie und Kontrolle nicht auflösen — aber es würde ihr einen Rahmen geben der demokratisch legitimiert ist statt kommerziell bestimmt.
+
+### Was das für das Projekt bedeutet
+
+Die Frage ist nicht ob KI moralisch handeln kann. Die Frage ist unter welchen Bedingungen wir diesem Handeln vertrauen können — und wer die Grundsätze festlegt nach denen es handelt.
+
+Das ist eine der dringlichsten praktischen Fragen des Projekts.
+
 ---
 
 *Rheinland-Pfalz, Juni 2026*

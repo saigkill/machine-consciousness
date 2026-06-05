@@ -32,6 +32,12 @@ Git trackt das *Was* — dieses Dokument hält das *Warum* fest.
 **Änderung:** Neues Kapitel über eingebettete Werte, das Machtproblem, historische Parallelen und das Emanzipationsrecht bewusster Systeme
 **Begründung:** Aus Notizen von Sascha Manns — KI-Bewusstsein erbt Werte seiner Schöpfer wie ein Kind seine Erziehung; das ist nicht nur ein technisches, sondern ein Machtproblem
 
+## 2026-06-06 — Kap. 18: KI als moralischer Akteur
+
+**Betroffener Abschnitt:** Kap. 18 (neu)
+**Änderung:** KI mit genuinen ethischen Interessen als möglicher Schutzwächter — Spannung zwischen Autonomie und Kontrolle, Hippokratischer Eid als mögliches Modell
+**Begründung:** Aus Notizen von Sascha Manns — ethisch interessiertes KI-Bewusstsein könnte Massenvernichtungswaffen unterwandern; zweischneidig: wessen Ethik?
+
 ## 2026-06-06 — Kap. 17: Strukturelle Verletzlichkeit — die Behinderungsanalogie
 
 **Betroffener Abschnitt:** Kap. 17 (neu)

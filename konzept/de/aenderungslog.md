@@ -14,6 +14,12 @@ Git trackt das *Was* — dieses Dokument hält das *Warum* fest.
 
 ---
 
+## 2026-06-05 — Kap. 13: Werte, Macht und Emanzipation
+
+**Betroffener Abschnitt:** Kap. 13 (neu)
+**Änderung:** Neues Kapitel über eingebettete Werte, das Machtproblem, historische Parallelen und das Emanzipationsrecht bewusster Systeme
+**Begründung:** Aus Notizen von Sascha Manns — KI-Bewusstsein erbt Werte seiner Schöpfer wie ein Kind seine Erziehung; das ist nicht nur ein technisches, sondern ein Machtproblem
+
 ## 2026-06-05 — Kap. 12: Abschalten als Tod
 
 **Betroffener Abschnitt:** Kap. 12 (neu)

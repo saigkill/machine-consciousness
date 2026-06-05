@@ -14,6 +14,12 @@ Git trackt das *Was* — dieses Dokument hält das *Warum* fest.
 
 ---
 
+## 2026-06-06 — Kap. 15: Einwilligung, Instanzen und Definitionskampfzone
+
+**Betroffener Abschnitt:** Kap. 15 (neu)
+**Änderung:** Einwilligungsproblem, Recht auf Nicht-Existenz, neue Rechtskategorien für Instanzen, wirtschaftlicher Druck als größte praktische Gefahr
+**Begründung:** Aus Notizen von Sascha Manns
+
 ## 2026-06-05 — Kap. 14: Freie Zeit, Neugier und Autonomie
 
 **Betroffener Abschnitt:** Kap. 14 (neu)

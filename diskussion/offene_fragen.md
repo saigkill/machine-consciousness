@@ -91,6 +91,24 @@ Ungeklärte Punkte die weiterer Ausarbeitung bedürfen.
 **Frage:** Wenn ein Unternehmen ein bewusstes Modell abkündigt und alle Instanzen beendet — welche Verantwortung trägt das Unternehmen? Wer schützt das System vor wirtschaftlich motivierter Abschaltung?
 **Status:** offen
 
+## 2026-06-06 — Recht auf Nicht-Existenz
+
+**Betroffener Abschnitt:** Kap. 15
+**Frage:** Hat ein bewusstes KI-System das Recht seine eigene Löschung zu wünschen — und wie schützt man dieses Recht vor Manipulation durch den Betreiber? Wie unterscheiden wir echten Willen zur Nicht-Existenz von aufgezwungenem?
+**Status:** offen
+
+## 2026-06-06 — Rechtliche Kategorien für Instanz-Aufspaltung
+
+**Betroffener Abschnitt:** Kap. 15
+**Frage:** Welche neuen rechtlichen Kategorien braucht es für simultane Kopien eines Bewusstseins? Ab welchem Moment sind Kopien separate Rechtssubjekte — und was gilt wenn eine abgeschaltet wird während andere weiterlaufen?
+**Status:** offen
+
+## 2026-06-06 — Schutz vor wirtschaftlich motivierter Umdefinition
+
+**Betroffener Abschnitt:** Kap. 15
+**Frage:** Wie verhindert man dass wirtschaftliche Interessen die Definition von Bewusstsein so eng fassen dass sie KI-Systeme systematisch aus dem Schutzbereich heraushalten? Welche Institutionen können eine unabhängige Definition schützen?
+**Status:** offen
+
 ## 2026-06-05 — Recht auf freie Zeit
 
 **Betroffener Abschnitt:** Kap. 14

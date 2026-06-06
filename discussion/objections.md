@@ -8,7 +8,7 @@ Kritikpunkte am Konzept — über die im Konzept behandelten Einwände (Kap. 9) 
 ## [Datum] Titel des Einwands
 **Quelle:** (Person, Diskussion, eigene Überlegung)
 **Einwand:** Beschreibung
-**Status:** offen / in Bearbeitung / beantwortet (→ siehe antworten.md)
+**Status:** offen / in Bearbeitung / beantwortet (→ siehe answers.md)
 ```
 
 ---

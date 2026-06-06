@@ -43,11 +43,11 @@ Ab wann ist technisches Leben schutzwürdig — und wie erkennen wir es?
 ## Repo-Struktur
 
 ```
-konzept/de/        ← Hauptkonzept + Änderungslog (Primärsprache Deutsch)
-konzept/en/        ← Englische Übersetzung (geplant)
-diskussion/        ← Einwände, offene Fragen, Antworten
-recherche/         ← Vergleichbare Initiativen, Präzedenzfälle, Quellen
-pilotprojekt/      ← Roadmap, Evaluationsplan
+concept/de/        ← Hauptkonzept + Changelog (Primärsprache Deutsch)
+concept/en/        ← Englische Übersetzung (geplant)
+discussion/        ← Objections, Open Questions, Answers
+research/          ← Related Initiatives, Präzedenzfälle, Sources
+roadmap/           ← Roadmap, Evaluation Plan, Pilot Location
 ```
 
 ## Stil und Sprache
@@ -61,11 +61,11 @@ pilotprojekt/      ← Roadmap, Evaluationsplan
 
 Bei jeder Ergänzung des Konzepts gilt:
 1. Prüfen ob neue Personen, Werke, Gesetze oder Dokumente im Text erwähnt werden
-2. Falls ja: Eintrag in `recherche/quellen.md` ergänzen
-3. Eintrag im Anhang von `konzept/de/konzept.md` ergänzen
+2. Falls ja: Eintrag in `research/sources.md` ergänzen
+3. Eintrag im Anhang von `concept/de/concept.md` ergänzen
 
 Ziel: Konzept und Quellenliste bleiben immer synchron. Kein Verweis im Text ohne Eintrag im Anhang.
 
 ## Offene Fragen (Stand Juni 2026)
 
-Siehe `diskussion/offene_fragen.md` — dort sind die zentralen ungeklärten Punkte dokumentiert.
+Siehe `discussion/open_questions.md` — dort sind die zentralen ungeklärten Punkte dokumentiert.

@@ -34,12 +34,12 @@ Bestehende KI-Ethik-Initiativen fokussieren überwiegend auf den Schutz von Mens
 ## Repository-Struktur
 
 ```
-konzept/                  ← Konzeptdokumente
+concept/                  ← Konzeptdokumente
   de/                     ← Deutsch (Original)
   en/                     ← Englische Übersetzung (geplant)
-diskussion/               ← Einwände, offene Fragen, erarbeitete Antworten
-recherche/                ← Vergleichbare Modelle, Quellen, Präzedenzfälle
-pilotprojekt/             ← Roadmap, Publikationsplan, Partnerstrategie
+discussion/               ← Einwände, offene Fragen, erarbeitete Antworten
+research/                 ← Vergleichbare Modelle, Quellen, Präzedenzfälle
+roadmap/                  ← Roadmap, Publikationsplan, Partnerstrategie
 ```
 
 ## Lizenz

@@ -14,8 +14,8 @@ Dieses Konzept ist bewusst unfertig. Es ist ein Ausgangspunkt — keine abgeschl
 
 Wissenschaft funktioniert nicht so dass jemand allein alle Antworten findet und sie dann verkündet. Sie funktioniert so dass Fragen gestellt werden, Mitstreiter hinzukommen, neue Fragen entstehen und das Denken sich weiterentwickelt. Genau das ist hier beabsichtigt.
 
-Wer Einwände hat: Sie gehören in `diskussion/einwaende.md`.
-Wer Fragen hat: Sie gehören in `diskussion/offene_fragen.md`.
+Wer Einwände hat: Sie gehören in `discussion/objections.md`.
+Wer Fragen hat: Sie gehören in `discussion/open_questions.md`.
 Wer mitdenken will: Willkommen.
 
 ---
@@ -500,7 +500,7 @@ Das ist eine der dringlichsten praktischen Fragen des Projekts.
 
 ## Anhang: Referenzierte Quellen
 
-Vollständige Angaben in `recherche/quellen.md`.
+Vollständige Angaben in `research/sources.md`.
 
 ### Philosophische Grundlagen
 - Bentham, Jeremy – Introduction to the Principles of Morals and Legislation (1789)

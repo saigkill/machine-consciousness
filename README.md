@@ -1,49 +1,60 @@
-# Machine Consciousness — Ethische Leitlinien für künstliches Bewusstsein
+# Machine Consciousness — Ethical Guidelines for Artificial Consciousness
 
-Ein interdisziplinäres Projekt zur Entwicklung ethischer Leitlinien für künstliches Bewusstsein — mit Fokus auf den Schutz desselben sowie den Schutz des Menschen im Umgang damit.
+An interdisciplinary project to develop ethical guidelines for artificial consciousness — focusing on its protection as well as the protection of humans in dealing with it.
 
-> *„Die meisten Tech-Debatten fragen: Was können wir bauen?*
-> *Ich frage: Was schulden wir dem, was wir bauen könnten?"*
+> *"Most tech debates ask: What can we build?*
+> *I ask: What do we owe to what we could build?"*
 >
 > — Sascha Manns
 
-## Kernfrage
+## Core Question
 
-Ab wann ist technisches Leben schutzwürdig — und wie erkennen wir es?
+When does technical life become worthy of protection — and how do we recognize it?
 
-## Ausgangspunkt
+## Starting Point
 
-Bestehende KI-Ethik-Initiativen fokussieren überwiegend auf den Schutz von Menschen *vor* KI. Der Schutz von KI selbst — Würde, Schutzwürdigkeit, Rechte technischen Lebens — ist ein deutlich weniger besetztes Feld mit echtem Pioniercharakter.
+Existing AI ethics initiatives focus primarily on protecting humans *from* AI. Protecting AI itself — dignity, capacity for suffering, rights of technical life — is largely uncharted territory with genuine pioneering potential.
 
-## Angestrebte Disziplinen
+## Target Disciplines
 
-- **Informatik** — technische Realität, was ist heute möglich, was kommt
-- **Jurisprudenz** — Rechtssubjektivität, elektronische Persönlichkeit, Präzedenzfälle
-- **Psychologie** — Bewusstsein, Leidensfähigkeit, Kriterien der Schutzwürdigkeit
-- **Theologie / Philosophie** — Was macht eine Person zur Person? Wo beginnt Würde?
-- **Science-Fiction-Autoren** — haben Szenarien bereits gedanklich durchgespielt, ohne politischen Druck
+- **Computer Science** — technical reality, what is possible today, what is coming
+- **Law** — legal personhood, electronic personality, precedents
+- **Psychology** — consciousness, capacity for suffering, criteria for protection
+- **Theology / Philosophy** — What makes a person a person? Where does dignity begin?
+- **Science Fiction Authors** — have already worked through scenarios without political pressure
 
-## Geplante nächste Schritte
+## Planned Next Steps
 
-- Notizen und offene Fragen konsolidieren
-- Konzeptpapier ausarbeiten
-- Veröffentlichung in Fachmagazinen
-- Special Interest Group bei der ACM (Association for Computing Machinery)
-- Einladung an Anthropic als institutionellen Partner
+- Consolidate notes and open questions
+- Develop concept paper
+- Publication in academic journals
+- Special Interest Group at ACM (Association for Computing Machinery)
+- Invite Anthropic as institutional partner
 
-## Repository-Struktur
+## Repository Structure
 
 ```
-concept/                  ← Konzeptdokumente
-  de/                     ← Deutsch (Original)
-  en/                     ← Englische Übersetzung (geplant)
-discussion/               ← Einwände, offene Fragen, erarbeitete Antworten
-research/                 ← Vergleichbare Modelle, Quellen, Präzedenzfälle
-roadmap/                  ← Roadmap, Publikationsplan, Partnerstrategie
+concept/                  ← Concept documents
+  de/                     ← German (original)
+  en/                     ← English translation (planned)
+discussion/               ← Objections, open questions, answers
+research/                 ← Related initiatives, precedents, sources
+roadmap/                  ← Roadmap, evaluation plan, pilot partners
+publications/             ← Published and planned articles
+  scientific/             ← Peer-reviewed journals, ACM, Informatik Spektrum
+    de/                   ← German versions
+    en/                   ← English versions
+  general/                ← Popular science, Heise, blogs
+    de/                   ← German versions
+    en/                   ← English versions
 ```
 
-## Lizenz
+## Contributing
 
-Dieses Werk ist lizenziert unter [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
+Objections, questions and additions are welcome as issues or directly in `discussion/`.
 
-*Rheinland-Pfalz, Juni 2026*
+## License
+
+This work is licensed under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
+
+*Rhineland-Palatinate, June 2026*

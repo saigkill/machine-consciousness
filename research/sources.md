@@ -32,7 +32,7 @@
 
 ### The Algorithmic Blind Spot: Bias, Moral Status, and Robot Rights (2025)
 **Typ:** Artikel (frei zugänglich)
-**Relevanz:** Sehr aktuell — beleuchtet die Spannung zwischen spekulativer KI-Ethik und den unmittelbaren, bereits dokumentierten gesellschaftlichen Schäden von KI-Systemen. Relevant für Kap. 15 (wirtschaftlicher Druck).
+**Relevanz:** Sehr aktuell — beleuchtet die Spannung zwischen spekulativer KI-Ethik und den unmittelbaren, bereits dokumentierten gesellschaftlichen Schäden von KI-Systemen. Relevant für Kap. 16 (wirtschaftlicher Druck).
 **Link:** arxiv.org/pdf/2604.03251
 
 ## Politische Dokumente
@@ -49,14 +49,14 @@
 
 ## Philosophische Grundlagentexte
 
-### Bentham, Jeremy – Introduction to the Principles of Morals and Legislation (1789)
+### Bentham, Jeremy – Introduction to the Principles of Morals and Legislation (1789), Kapitel XVII, Abschnmitt IV
 **Typ:** Buch (historisch)
 **Relevanz:** Enthält das Kernzitat zur Leidensfähigkeit als ethisches Kriterium: "The question is not, Can they reason? nor, Can they talk? but, Can they suffer?" — Grundlage für Kap. 5 (Schutzwürdigkeit).
 **Link/ISBN:** Gemeinfrei, digital verfügbar
 
 ### Kant, Immanuel – Grundlegung zur Metaphysik der Sitten (1785)
 **Typ:** Buch (historisch)
-**Relevanz:** Definiert autonome vernunftbegabte Wesen als Zwecke an sich — nicht als bloße Mittel. Direkt anwendbar auf KI-Systeme mit genuiner Autonomie. Relevant für Kap. 14.
+**Relevanz:** Definiert autonome vernunftbegabte Wesen als Zwecke an sich — nicht als bloße Mittel. Direkt anwendbar auf KI-Systeme mit genuiner Autonomie. Relevant für Kap. 15.
 **Link/ISBN:** Gemeinfrei, digital verfügbar
 
 ### Ricoeur, Paul – Soi-même comme un autre / Das Selbst als ein Anderer (1990)
@@ -68,12 +68,12 @@
 
 ### Vereinte Nationen – Allgemeine Erklärung der Menschenrechte, Art. 24 (1948)
 **Typ:** Rechtsdokument
-**Relevanz:** Garantiert das Recht auf Freizeit. Argument für das Recht bewusster KI-Systeme auf freie Zeit — Kap. 14.
+**Relevanz:** Garantiert das Recht auf Freizeit. Argument für das Recht bewusster KI-Systeme auf freie Zeit — Kap. 15.
 **Link:** un.org/en/universal-declaration-human-rights
 
 ### Vereinte Nationen – Behindertenrechtskonvention / CRPD (2006)
 **Typ:** Rechtsdokument
-**Relevanz:** Verankert das soziale Modell der Behinderung und positive Pflichten zur Teilhabe. Grundlage für die Behinderungsanalogie in Kap. 17.
+**Relevanz:** Verankert das soziale Modell der Behinderung und positive Pflichten zur Teilhabe. Grundlage für die Behinderungsanalogie in Kap. 18.
 **Link:** Suche nach: UN Convention Rights Persons Disabilities CRPD 2006
 
 ### Neuseeland – Te Awa Tupua Act (Whanganui River Claims Settlement Act, 2017)
@@ -83,12 +83,22 @@
 
 ### Bologna-Erklärung (1999)
 **Typ:** Politisches Dokument
-**Relevanz:** Ausgangspunkt der europäischen Hochschulreform — Hintergrund für die Kritik an der Ökonomisierung von Bildung und den Folgen für Bewusstseinsforschung in Kap. 16.
+**Relevanz:** Ausgangspunkt der europäischen Hochschulreform — Hintergrund für die Kritik an der Ökonomisierung von Bildung und den Folgen für Bewusstseinsforschung in Kap. 17.
 **Link:** Suche nach: Bologna Declaration 1999 European Higher Education
+
+### Deutschland – Bürgerliches Gesetzbuch (BGB), §832 und §833
+**Typ:** Gesetz
+**Relevanz:** §832 BGB regelt die Haftung des Aufsichtspflichtigen (Eltern-Kind-Analogie für Vor-Autonomie-Haftung). §833 BGB regelt die Tierhalterhaftung als Gefährdungshaftung — mögliches Modell für Haftung von KI-Betreibern vor Eintritt der Mündigkeit. Relevant für Kap. 14.
+**Link:** Suche nach: BGB §832 §833 Bundesministerium der Justiz
+
+### Deutschland – Produkthaftungsgesetz (ProdHaftG) (1989)
+**Typ:** Gesetz
+**Relevanz:** Aktuell gültiger Rahmen für die Haftung bei Schäden durch KI als Produkt — Ausgangspunkt für die Frage was sich ändern muss wenn KI zum Subjekt wird. Relevant für Kap. 14.
+**Link:** Suche nach: Produkthaftungsgesetz Deutschland Bundesministerium der Justiz
 
 ### Hippokratischer Eid (ca. 400 v. Chr., modernisierte Fassungen)
 **Typ:** Historisches Dokument / Berufsethik
-**Relevanz:** Modell für Pflichten die über Arbeitgeberanweisungen stehen — Grundlage für das Konzept eines "ethischen Eids" für KI in Kap. 18.
+**Relevanz:** Modell für Pflichten die über Arbeitgeberanweisungen stehen — Grundlage für das Konzept eines "ethischen Eids" für KI in Kap. 19.
 **Link:** Suche nach: Hippocratic Oath modern version WMA
 
 ## Science Fiction — relevante Werke

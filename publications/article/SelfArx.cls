@@ -16,7 +16,6 @@
 \RequirePackage{times}      % Loads the Times-Roman Fonts
 \RequirePackage{mathptmx}   % Loads the Times-Roman Math Fonts
 \RequirePackage{ifpdf}      % Needed to pick between latex and pdflatex
-
 % ---------------------------------------------------------------------
 \RequirePackage[utf8]{inputenc}
 \RequirePackage{amsmath,amsfonts,amssymb}

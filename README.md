@@ -55,6 +55,6 @@ Objections, questions and additions are welcome as issues or directly in `discus
 
 ## License
 
-This work is licensed under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
+This work is licensed under [Creative Commons 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
 *Rhineland-Palatinate, June 2026*

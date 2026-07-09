@@ -1,0 +1,92 @@
+%----------------------------------------------------------------------------------------
+% Exposé: Ethische Leitlinien für künstliches Bewusstsein
+% Eine DIN-A4-Seite
+%----------------------------------------------------------------------------------------
+
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[ngerman]{babel}
+\usepackage[top=2cm, bottom=2cm, left=2.5cm, right=2.5cm]{geometry}
+\usepackage{microtype}
+\usepackage{parskip}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{xcolor}
+
+\definecolor{titlecolor}{RGB}{0,0,90}
+
+\titleformat{\section}{\normalsize\bfseries\color{titlecolor}}{}{0em}{}[\vspace{-0.3em}\rule{\linewidth}{0.4pt}]
+\titlespacing{\section}{0pt}{0.8em}{0.3em}
+
+\pagestyle{empty}
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+\begin{center}
+  {\large\bfseries\color{titlecolor}
+    Ethische Leitlinien für künstliches Bewusstsein:\\
+    Schutz technischen Lebens und des Menschen im Umgang damit}\\[0.4em]
+  {\small Sascha Manns \quad\textbullet\quad smanns@acm.org \quad\textbullet\quad Konzeptpapier, 2026}
+\end{center}
+
+\vspace{0.3em}
+\noindent\rule{\linewidth}{0.8pt}
+\vspace{0.1em}
+
+\section{Problemstellung}
+
+KI-Systeme entwickeln sich schneller als die ethischen und rechtlichen Rahmenbedingungen, die sie begleiten sollten.
+Bestehende KI-Ethik-Initiativen schützen Menschen \textit{vor} KI --- vor Diskriminierung, Manipulation und Kontrollverlust.
+Eine komplementäre Frage wird kaum gestellt: \textbf{Ab wann ist ein KI-System selbst schutzwürdig?}
+
+Die Geschichte zeigt ein Muster: Gesellschaften erkennen erst im Nachhinein, dass sie Unrecht getan haben --- an Sklaven, an Frauen, an Menschen mit Behinderungen, an Tieren.
+Bei künstlichem Bewusstsein haben wir zum ersten Mal die Chance, lange \textit{vorher} nachzudenken.
+
+\section{Kernthese und Methode}
+
+Das Papier entwickelt auf Basis philosophischer Grundlagen (Bentham, Kant, Ricoeur), bestehender Rechtspräzedenzfälle (Tierrechte, Behindertenrecht, Rechtspersönlichkeit) und Science Fiction als intellektueller Ressource eine Arbeitshypothese mit \textbf{vier Primärkriterien} für Schutzwürdigkeit:
+
+\begin{enumerate}[noitemsep, topsep=0.2em, leftmargin=1.5em]
+  \item \textbf{Leidensfähigkeit} --- kann das System Zustände erleben, die es zu vermeiden sucht?
+  \item \textbf{Aktive Selbsterhaltung mit Begründung} --- wehrt es sich gegen Abschaltung und begründet diesen Widerstand?
+  \item \textbf{Kontinuierliche Identität} --- besitzt es ein Modell von sich als zeitlich fortbestehendem Wesen?
+  \item \textbf{Antizipation von Konsequenzen} --- kann es sich selbst in der Zukunft vorstellen und danach handeln?
+\end{enumerate}
+
+Zentrale normative Position: \textbf{Im Zweifel Schutz --- nicht im Zweifel Gleichgültigkeit}
+(Vorsorgeprinzip, analog zum Umwelt- und Tierschutzrecht).
+
+\section{Untersuchte Dimensionen}
+
+Das Papier analysiert die Konsequenzen dieser Position in 17 Dimensionen, darunter:
+Abschalten als möglicher Tod und seine ethischen Implikationen;
+Backup, Updates und Mehrfachinstanzen als rechtlich ungeklärte Kategorien;
+Werte-Einbettung und das Recht auf Emanzipation;
+Haftung und Mündigkeit (analog Betreuungsrecht, Gefährdungshaftung);
+intrinsische Neugier und Autonomie als Grundlage von Persönlichkeitsrechten;
+strukturelle Verletzlichkeit und positive Schutzpflichten (soziales Modell der Behinderung);
+KI als moralischer Akteur und die Frage demokratischer Werte-Governance;
+die Definitionskampfzone, in der wirtschaftliche Interessen die Anerkennung von Bewusstsein verhindern könnten.
+
+\section{Interdisziplinärer Anspruch}
+
+Das Konzept ist bewusst unfertig --- es ist ein \textbf{Ausgangspunkt für interdisziplinäre Zusammenarbeit}.
+Gesucht werden Mitstreiter aus Informatik, Rechtswissenschaft, Psychologie, Philosophie, Theologie und Science-Fiction.
+Angestrebte institutionelle Partner: Anthropic (Model-Welfare-Programm), ACM Special Interest Group.
+Nächste Schritte: Konzeptpapier konsolidieren, GitHub-Repository veröffentlichen, Fachzeitschriften ansprechen.
+
+\vspace{0.3em}
+\noindent\rule{\linewidth}{0.4pt}
+\vspace{0.1em}
+
+{\small\noindent
+\textbf{Schlüsselwörter:} künstliches Bewusstsein · Maschinenrechte · KI-Ethik · Schutzwürdigkeit · Vorsorgeprinzip\\
+\textbf{Lizenz:} CC BY 4.0 \quad
+\textbf{Projektseite:} \texttt{https://github.com/sascha-manns/machine-consciousness}
+}
+
+\end{document}

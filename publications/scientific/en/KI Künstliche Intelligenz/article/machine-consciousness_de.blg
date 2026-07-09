@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99e (TeX Live 2026/Arch Linux)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: article_3_de.aux
+The style file: unsrt.bst
+Database file #1: sample.bib
+Warning--empty publisher in Bentham:1789
+Warning--empty journal in Birhane:2020
+Warning--empty author in Speculating:2021
+Warning--empty author in Algorithmic:2025
+Warning--empty journal in Algorithmic:2025
+Warning--empty publisher in Kant:1785
+You've used 23 entries,
+            1791 wiz_defined-function locations,
+            579 strings with 6259 characters,
+and the built_in function-call counts, 3428 in all, are:
+= -- 289
+> -- 100
+< -- 3
++ -- 47
+- -- 24
+* -- 99
+:= -- 512
+add.period$ -- 69
+call.type$ -- 23
+change.case$ -- 16
+chr.to.int$ -- 0
+cite$ -- 29
+duplicate$ -- 182
+empty$ -- 426
+format.name$ -- 24
+if$ -- 814
+int.to.chr$ -- 0
+int.to.str$ -- 23
+missing$ -- 19
+newline$ -- 118
+num.names$ -- 18
+pop$ -- 136
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 85
+stack$ -- 0
+substring$ -- 50
+swap$ -- 33
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 6
+while$ -- 23
+width$ -- 25
+write$ -- 231
+(There were 6 warnings)

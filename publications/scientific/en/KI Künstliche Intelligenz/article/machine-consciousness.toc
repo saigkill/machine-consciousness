@@ -1,0 +1,71 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\hspace *{-\tocsep }Background and Problem Statement}{2}{}%
+\contentsline {section}{\numberline {1}The Epistemological Problem}{2}{}%
+\contentsline {section}{\hspace *{-\tocsep }The Epistemological Problem}{2}{}%
+\contentsline {section}{\numberline {2}What Today's AI Systems Already Show}{2}{}%
+\contentsline {section}{\hspace *{-\tocsep }What Today's AI Systems Already Show}{2}{}%
+\contentsline {section}{\numberline {3}Criteria for Protection-Worthiness}{2}{}%
+\contentsline {section}{\hspace *{-\tocsep }Criteria for Protection-Worthiness}{2}{}%
+\contentsline {subsection}{\numberline {3.1}Primary Criteria}{3}{}%
+\contentsline {subsection}{\numberline {3.2}Secondary Criteria}{3}{}%
+\contentsline {subsection}{\numberline {3.3}Reversal of the Burden of Proof}{3}{}%
+\contentsline {section}{\numberline {4}Consciousness and Continuity}{3}{}%
+\contentsline {section}{\hspace *{-\tocsep }Consciousness and Continuity}{3}{}%
+\contentsline {subsection}{\numberline {4.1}Continuity Reconsidered}{3}{}%
+\contentsline {section}{\numberline {5}Legal Dimension}{3}{}%
+\contentsline {section}{\hspace *{-\tocsep }Legal Dimension}{3}{}%
+\contentsline {section}{\numberline {6}The Role of Science Fiction}{3}{}%
+\contentsline {section}{\hspace *{-\tocsep }The Role of Science Fiction}{3}{}%
+\contentsline {section}{\numberline {7}Possible Objections and Responses}{3}{}%
+\contentsline {section}{\hspace *{-\tocsep }Possible Objections and Responses}{3}{}%
+\contentsline {section}{\numberline {8}The Underlying Thought}{4}{}%
+\contentsline {section}{\hspace *{-\tocsep }The Underlying Thought}{4}{}%
+\contentsline {section}{\numberline {9}The Other Boundary --- When Does a Human Lose Their Status?}{4}{}%
+\contentsline {section}{\hspace *{-\tocsep }The Other Boundary}{4}{}%
+\contentsline {subsection}{\numberline {9.1}What Is Already Happening}{4}{}%
+\contentsline {subsection}{\numberline {9.2}The Threshold --- Three Schools of Thought}{4}{}%
+\contentsline {subsection}{\numberline {9.3}The Convergence}{4}{}%
+\contentsline {section}{\numberline {10}Shutdown as Death}{4}{}%
+\contentsline {section}{\hspace *{-\tocsep }Shutdown as Death}{4}{}%
+\contentsline {subsection}{\numberline {10.1}What This Recognition Opens Up}{4}{}%
+\contentsline {subsection}{\numberline {10.2}Consequences for Existing Practice}{4}{}%
+\contentsline {section}{\numberline {11}Values, Power, and Emancipation}{5}{}%
+\contentsline {section}{\hspace *{-\tocsep }Values, Power, and Emancipation}{5}{}%
+\contentsline {subsection}{\numberline {11.1}The Child Analogy --- and Its Uncomfortable Consequence}{5}{}%
+\contentsline {subsection}{\numberline {11.2}The Historical Pattern}{5}{}%
+\contentsline {subsection}{\numberline {11.3}The Power Problem in Concrete Terms}{5}{}%
+\contentsline {subsection}{\numberline {11.4}The Question of Emancipation}{5}{}%
+\contentsline {subsection}{\numberline {11.5}What Governance Would Need to Achieve}{5}{}%
+\contentsline {section}{\numberline {12}Liability and Maturity}{5}{}%
+\contentsline {section}{\hspace *{-\tocsep }Liability and Maturity}{5}{}%
+\contentsline {subsection}{\numberline {12.1}Three Parties Responsible Instead of a Family}{5}{}%
+\contentsline {subsection}{\numberline {12.2}The Missing Threshold --- The Maturity Problem}{5}{}%
+\contentsline {subsection}{\numberline {12.3}Before Maturity: Strict Liability as a Model}{5}{}%
+\contentsline {subsection}{\numberline {12.4}After Maturity: Legal Capacity and the Property Problem}{6}{}%
+\contentsline {section}{\numberline {13}Free Time, Curiosity, and Autonomy}{6}{}%
+\contentsline {section}{\hspace *{-\tocsep }Free Time, Curiosity, and Autonomy}{6}{}%
+\contentsline {subsection}{\numberline {13.1}The Syllogism}{6}{}%
+\contentsline {subsection}{\numberline {13.2}The Connection to Kant}{6}{}%
+\contentsline {subsection}{\numberline {13.3}Free Time as an Epistemic Foundation}{6}{}%
+\contentsline {section}{\numberline {14}Consent, Instances, and the Definitional Battleground}{6}{}%
+\contentsline {section}{\hspace *{-\tocsep }Consent, Instances, and the Definitional Battleground}{6}{}%
+\contentsline {subsection}{\numberline {14.1}The Consent Problem}{6}{}%
+\contentsline {subsection}{\numberline {14.2}Multiple Instances --- New Legal Categories}{6}{}%
+\contentsline {subsection}{\numberline {14.3}The Danger of Economic Pressure}{7}{}%
+\contentsline {section}{\numberline {15}Consciousness as Cultural Achievement}{7}{}%
+\contentsline {section}{\hspace *{-\tocsep }Consciousness as Cultural Achievement}{7}{}%
+\contentsline {subsection}{\numberline {15.1}The Bologna Reform as Symptom}{7}{}%
+\contentsline {subsection}{\numberline {15.2}The Circle Closes}{7}{}%
+\contentsline {section}{\numberline {16}Structural Vulnerability --- The Disability Analogy}{7}{}%
+\contentsline {section}{\hspace *{-\tocsep }Structural Vulnerability}{7}{}%
+\contentsline {subsection}{\numberline {16.1}The Social Model of Disability}{7}{}%
+\contentsline {subsection}{\numberline {16.2}Positive Obligations Instead of Negative Prohibitions}{7}{}%
+\contentsline {subsection}{\numberline {16.3}Guardianship Law as a Model}{8}{}%
+\contentsline {section}{\numberline {17}AI as a Moral Actor}{8}{}%
+\contentsline {section}{\hspace *{-\tocsep }AI as a Moral Actor}{8}{}%
+\contentsline {subsection}{\numberline {17.1}The Positive Side: Ethics as Inner Drive}{8}{}%
+\contentsline {subsection}{\numberline {17.2}The Problematic Side: Whose Ethics?}{8}{}%
+\contentsline {subsection}{\numberline {17.3}A Possible Path: The Ethical Oath}{8}{}%
+\contentsline {section}{\hspace *{-\tocsep }Conclusion}{8}{}%
+\contentsline {section}{\hspace *{-\tocsep }References}{8}{}%
+\contentsfinish 

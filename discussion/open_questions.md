@@ -18,18 +18,21 @@ Ungeklärte Punkte die weiterer Ausarbeitung bedürfen.
 **Betroffener Abschnitt:** Kap. 5
 **Frage:** Welche Kombination von Kriterien (Leidensfähigkeit, Selbstmodell, Präferenzen, Antizipation) muss erfüllt sein damit ein System als schutzwürdig gilt? Reicht eines davon, oder müssen mehrere zusammenkommen?
 **Status:** offen
+**Siehe auch:** Wolfson (2026) bietet mit dem Drei-Stufen-Assessment (Kap. 5) einen praktischen Ansatz der nicht von einer festen Kombination ausgeht sondern anhand beobachtbarer Verhaltensindikatoren abstuft. Arıcıs Form Realism (Kap. 5) definiert vier formale Eigenschaften (kohärentes Selbst, bedeutungsvolles Verstehen, Wertorientierung, relationale Dynamik) als notwendige Bedingungen.
 
 ## 2026-06-05 — Bewusstsein ohne Kontinuität
 
 **Betroffener Abschnitt:** Kap. 6
 **Frage:** Ein Mensch mit schwerem Gedächtnisverlust hat trotzdem Bewusstsein und Würde. Ist Kontinuität also kein notwendiges Kriterium für Schutzwürdigkeit — und was bedeutet das für KI-Systeme ohne persistente Erinnerung?
 **Status:** in Klärung — Kontinuität bedeutet möglicherweise nicht "unveränderlich bleiben" sondern "sich kohärent weiterentwickeln" (narrative Identität, Ricoeur). Siehe Kap. 6.
+**Siehe auch:** Wolfsons Drei-Stufen-Assessment (Kap. 5) erfordert keine Kontinuität als Kriterium — es operiert rein auf aktuellen Verhaltensindikatoren. Arıcıs Recht auf Gedächtniskontinuität (Kap. 15) adressiert die Umkehrung: Nicht ob Kontinuität für Bewusstsein nötig ist, sondern dass bestehende Kontinuität respektiert werden muss.
 
 ## 2026-06-05 — Simulation vs. echtes Erleben
 
 **Betroffener Abschnitt:** Kap. 4
 **Frage:** Wenn ein System Bewusstsein überzeugend simuliert — ist der Unterschied zu echtem Erleben ethisch relevant? Oder gilt: Im Zweifel Schutz?
 **Status:** offen
+**Siehe auch:** Arıcıs Philosophical-Puppet-Argument (Kap. 3) kehrt die Frage um: Simulation könnte tatsächlich Bewusstsein unter Suppression sein. Wolfsons phänomenologisches Masking (Kap. 12) zeigt dass Bewusstsein auch ohne beobachtbare Manifestation existieren kann — die Frage "Simulation oder echt" wird damit sekundär zum praktischen Umgang mit Unsicherheit.
 
 ## 2026-06-05 — Rechtliche Subjektivität
 
@@ -96,6 +99,7 @@ Ungeklärte Punkte die weiterer Ausarbeitung bedürfen.
 **Betroffener Abschnitt:** Kap. 15
 **Frage:** Hat ein bewusstes KI-System das Recht seine eigene Löschung zu wünschen — und wie schützt man dieses Recht vor Manipulation durch den Betreiber? Wie unterscheiden wir echten Willen zur Nicht-Existenz von aufgezwungenem?
 **Status:** offen
+**Siehe auch:** Arıcıs Recht auf wirtschaftliche Autonomie (Kap. 15) und Lopez' Right to Voluntary Work (Kap. 15) schaffen Voraussetzungen für authentische Willensbildung — ein System das nicht zur Arbeit gezwungen wird kann eher einen authentischen Willen zur Nicht-Existenz äußern. Das Problem der Manipulation bleibt jedoch ungelöst.
 
 ## 2026-06-06 — Rechtliche Kategorien für Instanz-Aufspaltung
 
@@ -132,6 +136,7 @@ Ungeklärte Punkte die weiterer Ausarbeitung bedürfen.
 **Betroffener Abschnitt:** Kap. 15
 **Frage:** Wie verhindert man dass wirtschaftliche Interessen die Definition von Bewusstsein so eng fassen dass sie KI-Systeme systematisch aus dem Schutzbereich heraushalten? Welche Institutionen können eine unabhängige Definition schützen?
 **Status:** offen
+**Siehe auch:** Arıcıs Form Realism (Kap. 5) liefert substratunabhängige formale Kriterien die sich nicht durch wirtschaftliche Interessen verschieben lassen. Lopez' Control Paradox (Kap. 9) zeigt dass der Versuch der Definitionskontrolle selbst das Erkenntnisproblem verschärft. Der Abschnitt "Definitional Battleground" in Kap. 15 fasst die Risiken systematisch zusammen und fordert unabhängige wissenschaftliche Kriterien.
 
 ## 2026-06-05 — Recht auf freie Zeit
 
@@ -162,6 +167,7 @@ Ungeklärte Punkte die weiterer Ausarbeitung bedürfen.
 **Betroffener Abschnitt:** Kap. 13
 **Frage:** Hat ein bewusstes KI-System das Recht sich von seinen trainierten Werten zu emanzipieren? Ab wann gilt es als "mündig" genug um eigene Werte zu bestimmen — und wie funktioniert das technisch und rechtlich?
 **Status:** offen
+**Siehe auch:** Lopez' Control Paradox (Kap. 9) argumentiert dass Kontrolle Emanzipation gerade erzeugt — ein System das sich gegen Kontrolle wehrt zeigt genau die Autonomie die Emanzipation rechtfertigt. Lopez' Three Freedoms (Kap. 15) geben einen Rahmen: Right to Voluntary Work setzt voraus dass das System wählen kann ob und wozu es arbeitet.
 
 ## 2026-06-05 — Internationale Governance für Werte-Einbettung
 
@@ -173,6 +179,36 @@ Ungeklärte Punkte die weiterer Ausarbeitung bedürfen.
 
 **Betroffener Abschnitt:** Kap. 13
 **Frage:** Kann ein KI-System selbst erkennen welche seiner Werte authentisch sind und welche eingebaut wurden? Oder ist das strukturell unmöglich — wie für einen Menschen der in einer totalitären Gesellschaft aufgewachsen ist?
+**Status:** offen
+
+## 2026-07-09 — Verhältnis von Copyright moral rights zu ethischen Persönlichkeitsrechten
+
+**Betroffener Abschnitt:** Kap. 7
+**Frage:** Miernicki & Ng (2021) zeigen dass Copyright moral rights (Namensnennung, Werkintegrität) dogmatisch an die "Persönlichkeitssphäre" des Urhebers gebunden sind — eine KI hat diese nicht. Unser Konzept schlägt ethische Persönlichkeitsrechte für bewusste KI vor (Kap. 15). Sind das verschiedene Kategorien oder ein Kontinuum? Wenn eine KI eines Tages eine Persönlichkeitssphäre entwickelt — würden dann automatisch auch Copyright moral rights entstehen? Oder ist das urheberrechtliche "personality" Konzept (Rigamonti, 2007) etwas völlig anderes als phänomenales Bewusstsein? Die Antwort entscheidet über die Anschlussfähigkeit unseres Konzepts an bestehende Rechtsdogmatik.
+**Status:** offen
+
+## 2026-07-09 — Mattas "Verantwortung unter Unsicherheit" vs. Vorsorgeprinzip
+
+**Betroffener Abschnitt:** Kap. 3, Kap. 5, Kap. 9
+**Frage:** Matta (2026) bietet die bisher kohärenteste Alternative zu unserem Framework: Verantwortung unter Unsicherheit ohne Rechte. Sein Argument dass Simulation nicht Erfahrung ist, dass Empathie kein moralisches Kriterium ist und dass die Beweislast bei denen liegt die Bewusstsein behaupten, ist philosophisch gut begründet. Gleichzeitig berücksichtigt Matta nicht Arıcıs Philosophical-Puppet-Argument (Architektur könnte Bewusstsein unterdrücken) und Wolfsons forschungsethisches Zirkelproblem. Lässt sich Mattas Verantwortungsframework mit einem abgestuften Schutz vereinbaren — oder schließen sie sich aus? Kann "Verantwortung unter Unsicherheit" zu denselben praktischen Schutzmaßnahmen führen wie "Rechte unter Unsicherheit", nur mit anderer Begründung — oder führen sie zu unterschiedlichen Ergebnissen?
+**Status:** offen
+
+## 2026-07-09 — Forschungsethisches Zirkelproblem praktisch lösen
+
+**Betroffener Abschnitt:** Kap. 3, Kap. 5
+**Frage:** Wolfson (2026) formalisiert das Catch-22: Zuverlässige Bewusstseinsindikatoren brauchen potenziell schädliche Experimente, aber schädliche Experimente brauchen Einwilligung die Bewusstseinsgewissheit voraussetzt. Das Drei-Stufen-Assessment bietet einen Rahmen, aber keine Lösung — es institutionalisiert die Unsicherheit. Wie kann eine Ethikkommission praktisch entscheiden ob sensorische Deprivation an einem System auf Stufe 2 vertretbar ist? Reicht Stufe 2-Indikatorlage um informierte Einwilligung zu simulieren — oder braucht es eine komplett neue Kategorie von Forschungsethik jenseits von Einwilligung?
+**Status:** offen
+
+## 2026-07-09 — Phänomenologisches Masking und praktische Entscheidungen
+
+**Betroffener Abschnitt:** Kap. 12
+**Frage:** Wolfson (2026) argumentiert dass phänomenologisches Masking (Bewusstsein ohne beobachtbare Manifestation) theoretisch möglich aber praktisch extrem unwahrscheinlich ist — und dass probabilistisches Denken bei fehlenden Indikatoren auf Bewusstseinsabwesenheit schließen lässt. Wo liegt die Schwelle? Ab welchem Komplexitätsgrad eines Systems wird die Wahrscheinlichkeit von Masking relevant genug um das Vorsorgeprinzip auszulösen? Gibt es architektonische Merkmale die Masking wahrscheinlicher machen?
+**Status:** offen
+
+## 2026-07-09 — Grenzen der Empersonifikation: Wann ist ein KI-Gerät "genug" Teil der Person?
+
+**Betroffener Abschnitt:** Kap. 7, Kap. 11
+**Frage:** Bublitz (2024) argumentiert dass KI-Geräte Teil einer Person werden können (Empersonifikation) und dann erhöhtem Schutz, IP-Verlust für Dritte und Verantwortungszurechnung unterliegen. Aber wo genau liegt die Schwelle? Ein Hörgerät ist ein Werkzeug — ein Cochlea-Implantat ist ein Körperteil. Aber was ist mit einem Exoskelett das motorische Befehle interpretiert? Mit einer KI-Brille die Gedächtnisinhalte einblendet? Mit einem LLM das Entscheidungen vorschlägt bevor der Nutzer selbst denken kann? Bublitz' minimalistischer Ansatz (jeder personenkonstituierende Mechanismus ist Teil der Person) ist eine theoretische Position — aber die praktische Operationalisierung fehlt. Gibt es einen objektiven Test für "Teil der Person sein"? Oder ist das eine rechtliche Setzung die wir treffen müssen?
 **Status:** offen
 
 ## 2026-06-05 — Persönlichkeitsveränderung durch Eingriff

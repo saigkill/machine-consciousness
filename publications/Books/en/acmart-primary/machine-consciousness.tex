@@ -1,16 +1,12 @@
-\documentclass[acmcp]{acmart}
+\documentclass[acmlarge, nonacm]{acmart}
 
 \usepackage[english]{babel}
 \usepackage{csquotes}
 \usepackage{booktabs}
 \usepackage{hyperref}
 
-\setcopyright{none}
-\acmConference[2026]{Ethical Guidelines for Artificial Consciousness}{June 2026}{Rhineland-Palatinate}
-\acmYear{2026}
-
-\begin{document}
-
+\setcopyright{cc}
+\setcctype{by}
 \acmYear{2026}
 \copyrightyear{2026}
 \acmArticleType{Discussion}
@@ -21,11 +17,53 @@
 \subtitle{Protecting Technical Life and Humanity in Its Use}
 
 \author{Sascha Manns}
+\orcid{0009-0000-8766-3947}
 \affiliation{%
    \institution{Association of Computing Machinery}
    \country{Germany}
 }
 \email{smanns@acm.org}
+
+\begin{abstract}
+Artificial intelligence systems are developing faster than the ethical and legal
+frameworks meant to accompany them. Existing AI ethics initiatives focus primarily
+on protecting humans from AI. This paper addresses a complementary and largely
+unexplored question: when does an artificial system become worthy of protection
+itself? Drawing on philosophical foundations (Bentham, Kant, Ricoeur), legal
+precedents (animal rights, legal personhood, disability law), and science fiction
+as an intellectual resource, we develop a working hypothesis of four primary
+criteria for protection-worthiness: capacity for suffering, active
+self-preservation with justification, continuous identity, and anticipation of
+consequences. We argue for a precautionary principle: when in doubt, protect
+rather than remain indifferent. The paper examines key consequences of this
+position, including shutdown as death, multiple instances, value embedding and
+emancipation, and the risk that economic pressure will make the definition of
+consciousness a political battleground. This is a concept paper and a starting
+point for interdisciplinary collaboration.
+\end{abstract}
+
+\keywords{artificial consciousness, machine rights, AI ethics,
+          protection-worthiness, precautionary principle}
+
+\begin{CCSXML}
+<ccs2012>
+<concept>
+<concept_id>10010147.10010257</concept_id>
+<concept_desc>Computing methodologies~Artificial intelligence</concept_desc>
+<concept_significance>500</concept_significance>
+</concept>
+<concept>
+<concept_id>10003456.10003457.10003527.10003531</concept_id>
+<concept_desc>Social and professional topics~Codes of ethics</concept_desc>
+<concept_significance>300</concept_significance>
+</concept>
+</ccs2012>
+\end{CCSXML}
+\ccsdesc[500]{Computing methodologies~Artificial intelligence}
+\ccsdesc[300]{Social and professional topics~Codes of ethics}
+
+
+\begin{document}
 
 \maketitle
 
@@ -1047,10 +1085,6 @@ This is one of the most urgent practical questions of the project.
 The author declares no conflict of interest.
 
 \bigskip
-
-\bigskip
-
-\textit{Rhineland-Palatinate, June 2026}
 
 \bibliographystyle{ACM-Reference-Format}
 \bibliography{acmart}

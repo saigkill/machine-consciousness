@@ -1,4 +1,8 @@
-# CLAUDE.md — Kontext für Claude Code
+# AGENTS.md — Kontext für OpenCode
+
+## Globale Konfiguration
+
+Lies und befolge ~/.config/opencode/AGENTS.md
 
 ## Arbeitsweise
 
@@ -34,9 +38,9 @@ Ab wann ist technisches Leben schutzwürdig — und wie erkennen wir es?
 
 ## Geplante nächste Schritte
 
-1. Notizen und offene Fragen von Sascha konsolidieren
-2. Konzeptpapier ausarbeiten
-3. GitHub Repository veröffentlichen
+1. Notizen und offene Fragen von Sascha konsolidieren (done)
+2. Konzeptpapier ausarbeiten 
+3. GitHub Repository veröffentlichen (done)
 4. Mitstreiter suchen
 5. Anthropic und ACM ansprechen
 
@@ -52,10 +56,10 @@ roadmap/           ← Roadmap, Evaluation Plan, Pilot Location
 
 ## Stil und Sprache
 
-- Primärsprache: **Deutsch**
+- Primärsprache: **Englisch**
 - Ton: sachlich, direkt, philosophisch präzise ohne unnötige Fachsprache
 - Struktur: analog zu den Schwesterprojekten `volksbeobachter` und `linux-user-certification-project`
-- Lizenz: CC BY-SA 4.0
+- Lizenz: CC BY 4.0
 
 ## Quellen-Regel
 
@@ -65,6 +69,15 @@ Bei jeder Ergänzung des Konzepts gilt:
 3. Eintrag im Anhang von `concept/de/concept.md` ergänzen
 
 Ziel: Konzept und Quellenliste bleiben immer synchron. Kein Verweis im Text ohne Eintrag im Anhang.
+
+## Synchronisierung
+
+Halte die englische (concept/en) und die deutsche (concept/de) inhaltlich synchron. Lediglich die Sprache des Textes sollte sich unterscheiden.
+In /home/sascha/Projects/repos/society/machine-consciousness/publications/Books/de/acmart-primary/machine-consciousness_de.tex und /home/sascha/Projects/repos/society/machine-consciousness/publications/Books/en/acmart-primary/machine-consciousness.tex befinden sich Buchprojekte zu dem Projekt. Synchronisiere bei jeder Änderung der Konzepte auch die angegebenen Buchprojekte.
+
+## Einarbeitung
+
+Wenn wir mit externen Artikeln arbeiten, zitieren wir wissenschaftlich korrekt.
 
 ## Offene Fragen (Stand Juni 2026)
 

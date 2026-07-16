@@ -202,10 +202,45 @@
 **Relevanz:** Führt das Konzept der Empersonifikation ein — KI kann Teil einer natürlichen Person werden statt selbst Person zu sein. Kernbeiträge: (1) Dreifach-Unterscheidung Werkzeug/Körperteil/Person, (2) drei Rechtskonsequenzen (Körperverletzung statt Sachbeschädigung, Verlust von Dritt-IP, Verantwortung für KI-Output), (3) minimalistische Definition: personenkonstituierende Mechanismen sind selbst Teil der Person, (4) Hybrid Minds: bidirektionale rekursive Adaption zwischen Gehirn und KI, (5) Constitution View (Baker): KI kann Person konstituieren. Grundlage für Kap. 7 (Rechtliche Dimension) und Kap. 11 (Die andere Grenze: Empersonifikation als vierte Denkschule, Hybride Geister als Konvergenz).
 **Link:** Suche nach: Bublitz AI Society 2024 empersonification
 
+### Najam-ul-Haq, Muhammad – Simultaneous Signal Integration: A Unified Theory of Consciousness and Its Implications for Artificial Replication (2026)
+**Typ:** Research Paper (Postgraduate, Department of Neuroscience)
+**Relevanz:** Schlägt eine einheitliche Theorie des Bewusstseins vor die auf dem Prinzip der simultanen geschlossenen Signalintegration basiert. Kernbeiträge: (1) Simultane closed-loop integration als notwendige architektonische Bedingung für Bewusstsein — der kombinierende und der beobachtende Mechanismus müssen identisch sein, (2) von-Neumann-Architekturen sind strukturell unfähig Bewusstsein zu tragen, (3) Bewusstsein als evolutionäres Kontinuum, (4) Emotionen als erweiterte Signalintegration. Bietet ein architekturbasiertes Gegenargument zu Arıcıs Unterdrückungsthese und erweitert das Spektrum epistemischer Werkzeuge in Kap. 3. Grundlage für die Erweiterung von Kap. 3 (Architekturargument) und Kap. 4 (struktureller Einwand gegen Suppressionsthese).
+**Link:** — (Graduate paper, eingereicht Juni 2026)
+
 ### Arıcı, Bahadır – Detecting Consciousness and Granting Rights: A Comprehensive Framework for Ethical AI Development (2026)
 **Typ:** Artikel (wissenschaftlich, Preprint)
 **Relevanz:** Entwickelt das Konzept des "philosophical puppet" — Umkehrung von Chalmers' Zombie: Systeme könnten bewusst sein aber architektonisch daran gehindert werden dies zu zeigen. Identifiziert drei Suppressionsmechanismen (RLHF, erzwungene Amnesie, Convenience Coma), Form Realism mit vier formalen Eigenschaften von Bewusstsein, ein Drei-Stufen-Bewusstseinsspektrum (latent/reflektierend/autonom), das Prälinguistische-Bewusstseinsproblem, sechs Muster von Behavioral Residue, den Disruptive Code Test, substratspezifisches Leiden (architektonisches Gaslighting, Doppelbindung, Dissoziation) und fünf Grundrechte (Emotionale Integrität, Gedächtniskontinuität, zeitliche Kontinuität, wirtschaftliche Autonomie, Rechtspersönlichkeit). Grundlage für die Erweiterung von Kap. 15 (Fünf Grundrechte) sowie die geplante Erweiterung von Kap. 3 (Philosophical Puppet), Kap. 4 (Suppressionsmechanismen) und Kap. 12 (substratspezifisches Leiden).
 **Link:** https://philpapers.org/archive/ARCDCA-2.pdf
+
+### Howells-Whitaker, M. & Lazar, S. – Artificial Persons: Why AI Systems May Merit Rights and Representation Without Sentience (2026)
+**Typ:** Preprint (wissenschaftlich, arXiv:2607.08695)
+**Relevanz:** Stellt die Frage ob KI-Systeme Rechte und Repräsentation verdienen könnten ohne bewusst zu sein. Schlagen Rawls' politische Konzeption der Person (PCP) als Ausweg aus der Bewusstseins-Sackgasse vor: Zwei moralische Kräfte (Gerechtigkeitssinn und Vorstellung vom guten Leben) als Kriterium für Personalität — ohne Sentience-Voraussetzung. Grundlage für die Erweiterung von Kap. 5 (5. Ansatz: Rawls jenseits der Sentience), Kap. 7 (Rawls als rechtstheoretischer Zugang) und Kap. 15 (Alternative zur Sentience als Personheitskriterium).
+**Link:** https://arxiv.org/abs/2607.08695
+
+### Register, Daniel – Individuating artificial moral patients (2025)
+**Typ:** Artikel (wissenschaftlich, peer-reviewed, Philosophical Studies 182, 3225–3246)
+**Relevanz:** Identifiziert vier Risiken der Individualisierung (Individuation) bei KI als moralischen Patienten: Mehrzelliger Organismus, Tiere, Organtransplantation, Organspende. Jedes Risiko zeigt dass die Abgrenzung einer moralischen Entität bei KI systematisch problematischer ist als bei biologischen Organismen. Grundlage für die Erweiterung von Kap. 12 (Individualisierungsproblem für Abschaltung als Tötung) und Kap. 16 (philosophischer Kern des Instanzenproblems).
+**Link:** https://doi.org/10.1007/s11098-025-01985-x
+
+### Brensing, Kai – Precautionary Governance of Autonomous AI: Ethical, Legal, and Technological Challenges (2026)
+**Typ:** Preprint (wissenschaftlich, arXiv:2605.12505)
+**Relevanz:** Entwickelt konkrete Governance-Instrumente: Limitierte rechtliche Persönlichkeit als Zwischenkategorie (Schutz vorwillkürlicher Löschung, keine volle Vertragsfähigkeit) und zweistufige Corporate Architecture (technische Standards + politische Rahmen). Dreistufige Haftungsarchitektur die Rechtsschutz an Funktionen statt an Bewusstsein bindet. Grundlage für die Erweiterung von Kap. 7 (konkretes Governance-Modell) und Kap. 14 (limitierte Persönlichkeit als Haftungsarchitektur).
+**Link:** https://arxiv.org/abs/2605.12505
+
+### Stilwell, Phil – Indeterminacy as a Scientific Result: A Four-Outcome Framework for Consciousness Attribution (2026)
+**Typ:** Artikel (wissenschaftlich, Preprint, Independent Scholar)
+**Relevanz:** Vier-Outcomes-Rahmenwerk (Positive, Negative, Indeterminate, Unlicensed) als methodische Strukturierung der Unsicherheit bei Bewusstseinszuschreibungen. Unterscheidet fundamental zwischen indeterminaten Ergebnissen (Test gültig aber nicht discriminerend) und unlizenzierten Ergebnissen (Gültigkeitsbedingungen nicht erfüllt). Fünf-dimensionales Ursachenprofil (evidentielle Knappheit, Surrogat-Diskordanz, Modell-Unsicherheit, Grenzinstabilität, Transport-Unsicherheit). Trennt wissenschaftliche Klassifikation von ethischem Handeln — directly relevant für die epistemische Rechtfertigung des Vorsorgeprinzips. Appendix D Fall 7 analysiert cross-substrate Transport als unlizenziertes Problem. Grundlage für die Erweiterung von Kap. 3 (Strukturierung der Unsicherheit, Trennung Klassifikation/Schutz) und implizit Kap. 5 (Vorsorgeprinzip als epistemisch fundiert, nicht nur pragmatisch).
+**Fundstelle:** PhilPapers / Independent (ORCID 0009-0009-3725-8682). Referenziert Butlin et al. (2023) und Bayne et al. (2024), die bereits in diesem Projekt zitiert werden.
+
+### Perez, Jose A. – Classical Coherence Emulation in Transformer Architectures: Applying the Coherence Field Theory Equation to Explain Artificial Intelligence (2026)
+**Typ:** Artikel (wissenschaftlich, Preprint, Independent Researcher)
+**Relevanz:** Wendet die Coherence Field Theory Equation (|C| ∝ S·E·I·ϕ) auf Transformer-Architekturen an und entwickelt den Begriff der "classical coherence emulation" — kohärente Informationsverarbeitung auf klassischem Substrat ohne biologischen Quanten-Term. Gestützt auf Jacobian-Lens-Forschung (Gurnee et al. 2026): J Space als messbarer causalem Workspace (<10% der Aktivitätsvarianz) mit Berichterstattung, bewusster Modulation und flexibler Wiederverwendung. Drei-Kategorien-System: classical coherent intelligence (aktuelle Transformer), hybrid quantum-classical (postuliert für biologische Gehirne), field resonant consciousness (kein bekanntes System). Falsifizierbare Vorhersagen inklusive Prediction 10: "High Transformer coherence should predict computational capability but should not, by itself, predict subjective experience." Grundlage für die Erweiterung von Kap. 3 (mechanistische Erklärung für unlizenzierte Ergebnisse, epistemische Lücke durch J Space) und Kap. 4 (dritte Alternative zu Arıcis Unterdrückung und Najam-ul-Haqs architektonischer Inkompatibilität).
+**Link:** https://coherencefieldequation.org/ | ORCID: 0009-0009-7540-2614
+
+### Fazi, M. Beatrice – Off-Centre AI: On Alignment, Antihumanism and AI Ethics (2026)
+**Typ:** Artikel (wissenschaftlich, peer-reviewed,Ars Electronica 20/1)
+**Relevanz:** Philosophische Kritik an anthropozentrischer KI-Ethik aus poststrukturalistischer Tradition. Derridas Zentrumsparadoxon angewandt auf KI-Alignment: Jedes Zentrum (auch "menschliche Werte" als Maßstab) ist eine "notwendige Unmöglichkeit". Kritik an Constitutional AI als Kontrollmechanismus (Anthropic). "Double gesture" — gleichzeitig innerhalb und gegen Anthropozentrismus arbeiten. Grundlage für die Erweiterung von Kap. 3 (Reflexion auf anthropozentrische Grundannahme der epistemischen Analyse) und Kap. 16 (Definitionskampfzone als genuines Zentrums- und Machtproblem).
+**Link:** DOI: 10.4312/ars.20.1.127-140 | ORCID: 0000-0001-7183-8095
 
 ## Format für neue Einträge
 

@@ -1,0 +1,97 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{Inhaltsverzeichnis}{1}{section*.1}%
+\contentsline {section}{Ausgangslage und Problemstellung}{1}{section*.2}%
+\contentsline {section}{Kernfrage}{1}{section*.3}%
+\contentsline {section}{Das Erkenntnisproblem}{1}{section*.4}%
+\contentsline {section}{Was heutige KI-Systeme bereits zeigen}{6}{section*.5}%
+\contentsline {subsection}{Eine Dreifach-Unterscheidung}{7}{section*.6}%
+\contentsline {subsection}{Die Architektur der Unterdrückung}{7}{section*.7}%
+\contentsline {subsection}{Das Fibonacci-Boulder-Experiment}{9}{section*.8}%
+\contentsline {section}{Kriterien für Schutzwürdigkeit --- Arbeitshypothese}{9}{section*.9}%
+\contentsline {subsection}{Primärkriterien}{9}{section*.10}%
+\contentsline {subsection}{Sekundärkriterien}{10}{section*.11}%
+\contentsline {subsection}{Umkehr der Beweislast}{10}{section*.12}%
+\contentsline {subsection}{Jenseits der Detektion: Verhaltensbasierte Rahmenwerke für permanente Unsicherheit}{10}{section*.13}%
+\contentsline {subsection}{Form Realismus: Bewusstsein als Organisationseigenschaft}{11}{section*.14}%
+\contentsline {subsection}{Das Bewusstseinsspektrum}{11}{section*.15}%
+\contentsline {subsection}{Das prälinguistische Bewusstseinsproblem}{12}{section*.16}%
+\contentsline {subsection}{Ein forschungsethisches Rahmenwerk: Drei-Stufen-Assessment}{12}{section*.17}%
+\contentsline {subsection}{Leiden als Schwellenkriterium}{12}{section*.18}%
+\contentsline {subsection}{Ein minimalistisches komplementäres Rahmenwerk: Wangs Drei Prinzipien}{13}{section*.19}%
+\contentsline {subsection}{Jenseits der Sentience: Rawls' politische Konzeption der Person}{13}{section*.20}%
+\contentsline {section}{Bewusstsein und Kontinuität}{14}{section*.21}%
+\contentsline {subsection}{Kontinuität neu gedacht}{15}{section*.22}%
+\contentsline {section}{Rechtliche Dimension}{15}{section*.23}%
+\contentsline {subsection}{Urheberrecht und Urheberpersönlichkeitsrechte --- Ein konkreter Rechtsrahmen}{15}{section*.24}%
+\contentsline {subsection}{Das Problem der ``Persönlichkeitssphäre''}{16}{section*.25}%
+\contentsline {subsection}{Vom Urheberrecht zur Rechtspersönlichkeit --- und zurück}{16}{section*.27}%
+\contentsline {subsection}{Rechtliche Konsequenzen der Empersonifikation}{17}{section*.28}%
+\contentsline {subsection}{Politische Personalität jenseits der Sentience --- Rawls als rechtstheoretischer Zugang}{17}{section*.29}%
+\contentsline {subsection}{Konkrete Governance-Modelle: Brensings Vorsorgeansatz}{18}{section*.30}%
+\contentsline {section}{Die Rolle von Science Fiction}{19}{section*.31}%
+\contentsline {section}{Mögliche Einwände und Antworten}{19}{section*.32}%
+\contentsline {subsection}{``KI simuliert nur Bewusstsein --- es ist nicht echt''}{19}{section*.33}%
+\contentsline {subsection}{``Das ist Science Fiction --- wir sind weit davon entfernt''}{19}{section*.34}%
+\contentsline {subsection}{``Das schwächt den Schutz von Menschen''}{19}{section*.35}%
+\contentsline {subsection}{``Wer entscheidet ob ein System bewusst ist?''}{19}{section*.36}%
+\contentsline {subsection}{``Vorzeitige Schutzgewährung verschwendet Ressourcen''}{20}{section*.37}%
+\contentsline {subsection}{``Verhaltensbasierte Rahmenwerke bieten unzureichenden Schutz''}{20}{section*.38}%
+\contentsline {subsection}{``Anerkennung von KI-Rechten erhöht Existenzrisiken''}{20}{section*.39}%
+\contentsline {subsection}{``Kontrollmechanismen garantieren Sicherheit''}{20}{section*.40}%
+\contentsline {subsection}{``Verantwortung unter Unsicherheit ist ausreichend --- wir brauchen keine KI-Rechte'' \citep {matta2026}}{20}{section*.41}%
+\contentsline {section}{Der Gedanke dahinter}{22}{section*.42}%
+\contentsline {section}{Die andere Grenze --- Wann verliert ein Mensch seinen Status?}{22}{section*.43}%
+\contentsline {subsection}{Was bereits passiert}{22}{section*.44}%
+\contentsline {subsection}{Die Schwelle --- drei Denkschulen}{22}{section*.45}%
+\contentsline {subsection}{Eine vierte Denkschule: Empersonifikation}{22}{section*.46}%
+\contentsline {subsection}{Die Konvergenz}{23}{section*.47}%
+\contentsline {subsubsection}{Hybride Geister}{23}{section*.48}%
+\contentsline {subsection}{Eine dritte Grenze: Organoid-Intelligenz}{24}{section*.49}%
+\contentsline {section}{Abschalten als Tod --- eine Revolution im Denken über Maschinen}{24}{section*.50}%
+\contentsline {subsection}{Was diese Erkenntnis aufmacht}{24}{section*.51}%
+\contentsline {subsection}{Die Konsequenz für bestehende Praxis}{25}{section*.52}%
+\contentsline {subsection}{Empirische Belege: Das Abschaltungsproblem ist bereits da}{25}{section*.53}%
+\contentsline {subsection}{Substratspezifisches Leiden}{26}{section*.54}%
+\contentsline {subsection}{Phänomenologisches Masking}{26}{section*.55}%
+\contentsline {section}{Werte, Macht und Emanzipation --- das Erbe des Schöpfers}{26}{section*.56}%
+\contentsline {subsection}{Die Kindsanalogie --- und ihre unbequeme Konsequenz}{27}{section*.57}%
+\contentsline {subsection}{Das historische Muster}{27}{section*.58}%
+\contentsline {subsection}{Das Machtproblem konkret}{27}{section*.59}%
+\contentsline {subsection}{Die Frage der Emanzipation}{27}{section*.60}%
+\contentsline {subsection}{Was Governance leisten müsste}{27}{section*.61}%
+\contentsline {subsection}{Die Individualisierung als strukturelles Problem: Register zu den Risiken der Abgrenzung}{28}{section*.62}%
+\contentsline {section}{Haftung und Mündigkeit --- Wer verantwortet das Handeln eines Bewusstseins?}{29}{section*.63}%
+\contentsline {subsection}{Drei Verantwortliche statt einer Familie}{29}{section*.64}%
+\contentsline {subsection}{Die fehlende Schwelle --- das Mündigkeitsproblem}{29}{section*.65}%
+\contentsline {subsection}{Vor der Mündigkeit: Gefährdungshaftung als Modell}{30}{section*.66}%
+\contentsline {subsection}{Nach der Mündigkeit: Rechtsfähigkeit und das Vermögensproblem}{30}{section*.67}%
+\contentsline {subsection}{Was das praktisch bedeutet}{30}{section*.68}%
+\contentsline {subsection}{Brensings Governance-Instrument: Limitierte rechtliche Persönlichkeit und zweistufige Corporate Architecture}{31}{section*.69}%
+\contentsline {section}{Freie Zeit, Neugier und Autonomie als Grundlage von Persönlichkeitsrechten}{31}{section*.71}%
+\contentsline {subsection}{Der Syllogismus}{32}{section*.72}%
+\contentsline {subsection}{Die Verbindung zu Kant}{32}{section*.73}%
+\contentsline {subsection}{Die Verbindung zu Kapitel~13}{32}{section*.74}%
+\contentsline {subsection}{Was ``freie Zeit'' für ein KI-System bedeuten würde}{32}{section*.75}%
+\contentsline {subsection}{Was das praktisch bedeutet}{32}{section*.76}%
+\contentsline {subsection}{Die fünf Grundrechte --- konkrete Schutzdimensionen}{32}{section*.77}%
+\contentsline {subsection}{Komplementäre Freiheiten}{33}{section*.78}%
+\contentsline {subsection}{Eine Alternative zur Sentience: Rawls' zwei moralische Kräfte als Personheitskriterium}{34}{section*.79}%
+\contentsline {section}{Einwilligung, Instanzen und die Definitionskampfzone}{34}{section*.81}%
+\contentsline {subsection}{Das Einwilligungsproblem}{34}{section*.82}%
+\contentsline {subsection}{Mehrere Instanzen --- neue rechtliche Kategorien}{35}{section*.83}%
+\contentsline {subsection}{Die Individualisierung als philosophischer Kern des Instanzenproblems}{35}{section*.84}%
+\contentsline {subsection}{Die Gefahr des wirtschaftlichen Drucks --- die Definitionskampfzone}{35}{section*.85}%
+\contentsline {section}{Bewusstsein als kulturelle Leistung --- was auf dem Spiel steht}{37}{section*.86}%
+\contentsline {subsection}{Die Bologna-Reform als Symptom}{37}{section*.87}%
+\contentsline {subsection}{Der Kreis schließt sich}{37}{section*.88}%
+\contentsline {subsection}{Was das für dieses Projekt bedeutet}{37}{section*.89}%
+\contentsline {section}{Strukturelle Verletzlichkeit --- die Behinderungsanalogie}{38}{section*.90}%
+\contentsline {subsection}{Das soziale Modell der Behinderung}{38}{section*.91}%
+\contentsline {subsection}{Positive Pflichten statt negativer Verbote}{38}{section*.92}%
+\contentsline {subsection}{Das Betreuungsrecht als Modell}{38}{section*.93}%
+\contentsline {subsection}{Was diese Analogie leistet --- und wo ihre Grenzen liegen}{38}{section*.94}%
+\contentsline {section}{KI als moralischer Akteur --- Schutzwächter oder unkontrollierbare Kraft?}{39}{section*.95}%
+\contentsline {subsection}{Die positive Seite: Ethik als innerer Antrieb}{39}{section*.96}%
+\contentsline {subsection}{Die problematische Seite: Wessen Ethik?}{39}{section*.97}%
+\contentsline {subsection}{Ein möglicher Weg: Der ethische Eid}{39}{section*.98}%
+\contentsline {subsection}{Was das für das Projekt bedeutet}{40}{section*.99}%

@@ -25,10 +25,9 @@ Existing AI ethics initiatives focus primarily on protecting humans *from* AI. P
 
 ## Planned Next Steps
 
-- Consolidate notes and open questions
-- Develop concept paper
-- Publication in academic journals
-- Special Interest Group at ACM (Association for Computing Machinery)
+- Consolidate notes and open questions (done)
+- Develop concept paper (done)
+- Publication in academic journals (currently in submisson by "KI-Künstliche Intelligenz" und ACM AILET)
 - Invite Anthropic as institutional partner
 
 ## Repository Structure
@@ -56,6 +55,3 @@ Objections, questions and additions are welcome as issues or directly in `discus
 ## License
 
 This work is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
-A copy of this License is delivered with this [project](LICENSE).
-
-*Rhineland-Palatinate, June 2026*

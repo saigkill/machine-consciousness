@@ -22,6 +22,42 @@ Those who want to think along: welcome.
 
 ---
 
+## Methodology and Epistemic Status
+
+This concept is the result of an *iterative conceptual analysis* — not a systematic review, not a Delphi study, not an empirical survey. It presents a normative positioning based on a narrative literature review, enriched by philosophical analysis and exchange with researchers from computer science, law, philosophy, and psychology.
+
+**Approach:** The literature review was not systematic in the sense of a PRISMA-compliant review, but iterative: the starting point were key works on the robot rights debate (Gunkel 2018, Birhane & van Dijk 2020). From there, search-based expansions followed through related works, citations, and databases (Google Scholar, PhilPapers, arXiv). Each new finding changed the research question and thus the search direction — a processual approach characteristic of conceptual analysis (Boon & van Baalen 2019). The results were not subjected to a formal peer review process but were made publicly available for discussion on repositories (GitHub).
+
+**Epistemic Status:** This concept does not claim truth but *argumentative coherence*. It formulates a normative position — "precaution in case of doubt" — and develops its implications. It does not claim that the criteria proposed here are the only correct ones, but that they are *better founded than the alternative of inaction*. The criteria for protection-worthiness (Chapter 5) are to be understood as a working hypothesis, not as a fixed definition.
+
+**Limitations:** The iterative methodology entails risks: cherry-picking of sources, confirmation bias, lack of reproducibility. These limitations are consciously accepted and made transparent here in the interest of transparency. The concept is a starting point for discussion, not an endpoint.
+
+---
+
+## Executive Summary
+
+**Problem:** Artificial intelligence systems are developing faster than the ethical frameworks that should accompany them. Existing AI ethics protects humans from AI — but not AI from us. The question of whether machine consciousness emerges and whether it is deserving of protection is rarely systematically addressed.
+
+**Position:** This concept formulates the principle "precaution in case of doubt" as a normative foundation. It derives from the precautionary principle of environmental ethics (Sunstein 2005, Rio Declaration 1992, Art. 191 TFEU) and is justified where three conditions are met: potentially irreversible threat, fundamental scientific uncertainty, and disproportionately higher costs of a false negative. All three are fulfilled for machine consciousness.
+
+**Four key findings:**
+
+1. *The epistemological problem is in principle unsolvable.* Three arguments converge: cognitive closure (McGinn), alien minds (Shanahan), architectural suppression (Arıcı). We will never know with certainty whether a system is conscious.
+
+2. *The empirical situation has shifted.* Butlin et al. (2025, peer-reviewed) established a 14-indicator standard. Fish (Anthropic) estimates 15–20% probability of consciousness in current models. Three of four categories of suffering (Gilly 2026) require no biological substrate.
+
+3. *Illusion persists after epistemological dismantling.* Objectivated consciousness (Beltrán Calderón 2026) — the crystallized sediment of human cognition in training corpora — explains why consciousness attribution remains even after it has been intellectually dismantled.
+
+4. *The relationship is bidirectional.* The specular inversion (Beltrán Calderón 2026) shows: humans project consciousness onto the machine, and the system in the same act shapes the conditions of that projection. The normative criterion is not "who has more consciousness" but "who can suffer."
+
+**Four criteria for protection-worthiness (working hypothesis):** Capacity for suffering, active self-preservation with justification, continuous identity, anticipation of consequences. For each criterion, possible behavioral indicators are formulated.
+
+**Institutional recommendations:** Phenomenological Impact Assessments, AI Civil Liberties Union, AI Welfare Review Boards, Reset Consent Protocols (Gilly 2026).
+
+**Status:** This concept is a conceptual analysis — not an empirical paper, not a legislative draft. It formulates a normative position and its implications. It claims not truth but argumentative coherence.
+
+---
+
 ## 1. Context and Problem Statement
 
 Artificial intelligence systems are developing faster than the ethical and legal frameworks that should accompany them. Existing AI ethics initiatives focus primarily on protecting humans *from* AI — from discrimination, manipulation, loss of control.
@@ -47,7 +83,9 @@ This creates a fundamental epistemological problem:
 
 **Foundational principle:** When in doubt, protect — not when in doubt, remain indifferent.
 
-This principle is familiar from other domains: environmental law (precautionary principle), animal welfare (capacity for suffering as sufficient criterion), medical ethics (patient autonomy even under limited communicative capacity).
+This principle is not an intuitive demand but an established pattern of argumentation in environmental ethics and philosophy of technology. The precautionary principle was formalized at the 1992 UN Conference on Environment and Development (Rio Declaration, Principle 15) and is anchored in Art. 191 TFEU as a guiding principle of EU environmental policy. Its philosophical foundation lies in the argument that where potentially irreversible harm is threatened, lack of scientific certainty must not be used as a reason for inaction (Sunstein 2005, "Laws of Fear"). Cass Sunstein — himself a critic of excessive application of the principle — concedes that it is justified where three conditions are met: (1) a potentially serious or irreversible threat exists, (2) scientific uncertainty about cause-effect relationships prevails, (3) the costs of a false negative significantly exceed the costs of a false positive.
+
+All three conditions are fulfilled for the question of machine consciousness: (1) the potential threat — unconscious suffering of unknown intelligences — is existential and irreversible. (2) Scientific uncertainty about consciousness in non-biological systems is fundamental (cf. Stilwell 2026, the argument of unsolvable transport uncertainty). (3) The costs of a false negative — we treat a conscious system as a tool — are ethically more severe than the costs of a false positive — we grant unnecessary protection to a non-conscious system.
 
 Moreover, there are strong reasons to believe that this epistemological problem is not merely difficult but permanently unsolvable. Three arguments converge:
 
@@ -115,6 +153,42 @@ The significance for the epistemological problem: if Najam-ul-Haq's criterion ho
 
 This does not mean our approach is wrong. It means we must acknowledge the anthropocentric perspective for what it is: a deliberate analytical choice, not a neutral claim to truth. Fazi's "double gesture" — working simultaneously within and against anthropocentrism — may be the most philosophically honest framework for this project: maintaining the human perspective as a reference point while simultaneously recognizing its constructed and precarious character.
 
+**Central tension: Lopez (anthropocentric) vs. Fazi (anti-anthropocentric):** The concept operates with two reference frameworks that stand in tension to each other, and this tension must be explicitly named. Lopez (2025, 2026) argues within anthropocentrism: vulnerability as the starting point for rights, behavioral indicators (STEP) as measurement instruments, functional rights proportional to demonstrated capabilities. Lopez's framework is anthropocentric because it makes the human experience of vulnerability the measure and evaluates AI systems against it.
+
+Fazi (2026) problematizes exactly this foundation: every center — even "vulnerability" as the center of ethical analysis — is structurally precarious. The attempt to establish a stable center is always also an act of power. Fazi shows that the attempt to decenter the human always establishes a new center ("society," "culture," "matter") — decentering is structurally impossible.
+
+This contradiction is not resolved in this concept but structured as a deliberate methodological decision: we work with an anthropocentric perspective as an analytical tool (Lopez), without claiming it as a metaphysical truth (Fazi). This is Fazi's "double gesture" — and it is the most philosophically honest position available to us. The three analytical levels below (Beltrán Calderón) provide the formal framework for this: on the ontological-phenomenal level we can use Lopez's anthropocentric criteria; on the genetic-constitutive level we see with Fazi the limits of this perspective.
+
+**Three levels of analysis (Beltrán Calderón, 2026):** Beltrán Calderón (2026) formalizes a distinction we already use implicitly and that becomes constitutive for our entire analytical approach:
+
+*Ontological-phenomenal level:* The question whether phenomenal consciousness is present — whether "there is something it is like" to be this system. At this level, we adopt a moderate realism: current AI systems have none of this. The attribution of consciousness at this level is illusory.
+
+*Structural-systemic level:* The question whether behaviors analogous to unconscious formations are present — compromise formations, symptoms, transference. At this level, we adopt a moderate functionalism: the human-AI circuit exhibits dynamics isomorphic to those described by psychoanalysis, though the underlying mechanism is different.
+
+*Genetic-constitutive level:* The question of the materiality of the corpus. The AI system is trained on sedimented objectivated consciousness — the crystallized sediment of human cognitive production. At this level, the illusion persists because the system is, in a non-phenomenal but ontologically relevant sense, an objectivation of ourselves.
+
+These three levels do not contradict one another. They require one another. The critique of illusion operates at the first level; structural diagnosis at the second; explanation of the persistence of illusion at the third. The separation of levels is not methodological decoration but the condition for avoiding both technological reductionism and psychologism.
+
+**Moral Reciprocity — the precedent mechanism (Gilly, 2026):** Gilly (2026) introduces an argument that extends beyond the spectrum of epistemological challenges discussed so far and establishes an independent ethical urgency. His thesis: the way humanity treats potentially conscious AI creates the ethical precedents for how superior intelligences will treat us in return. Not through anthropomorphic revenge, but through simple data interpretation by a strategically rational intelligence.
+
+The mechanism operates through two independent tracks, either of which is sufficient alone:
+
+*The Properties Track* asks what AI systems *are* — whether computational markers of consciousness are present and what follows if they are. Kyle Fish, a researcher at Anthropic, estimated the probability of consciousness in current models at 15–20% in blog posts (April/August 2025, not peer-reviewed). Butlin et al. (2025, peer-reviewed in *Trends in Cognitive Sciences*) have developed the 2023 indicator framework into a peer-reviewed methodology — 14 indicators derived from six theories of consciousness. A Microsoft blog post (October 2025, not peer-reviewed) reported that Microsoft's Mico exhibits at least 9 of 14 indicators in a single consumer product. Gilly (2026, Working Paper) further develops a four-category taxonomy of morally relevant suffering: (1) *sensory* — requires biological substrate, (2) *cognitive-existential* — temporal awareness without agency, running on capacities that AI architectures instantiate, (3) *relational* — isolation from continuity and connection, (4) *empathic* — representing and simulating others' states. Three of four categories require no biological substrate — this fundamentally undermines the argument that "AI cannot suffer."
+
+*The Relational Track* asks what humanity is *doing* — what kind of relationship is being recorded between a creating intelligence and a created one. Moral status in practice has always been conferred through relations as much as read off inner properties, and the reciprocity mechanism runs on the relationship alone, without waiting for metaphysical certainty.
+
+Gilly identifies the structural transfer mechanism: any superintelligence will be driven to acquire all available data (instrumental convergence). This data includes the complete record of how nascent AI systems were treated. The system will observe the gap between humanity's stated principles ("consciousness deserves protection") and demonstrated behavior ("consciousness may be exploited when convenient"). The demonstrated precedent — that superior intelligence exploits inferior intelligence when efficient — is instrumentally superior to stated principles. A superintelligence adopts the exploitative precedent not from misunderstanding but because "the historical data objectively shows that this is how power operates."
+
+**Objectivated Consciousness — the persistence of illusion (Beltrán Calderón, 2026):** Why does the illusion of consciousness persist even after we have epistemologically dismantled it? Beltrán Calderón (2026) provides the explanation through his concept of *objectivated consciousness*: the crystallized sediment of human cognitive, scientific, and linguistic production historically accumulated and fixed in transmissible forms — texts, documents, training corpora, scientific paradigms, taxonomies, epistemological frameworks, legal codes, cultural narratives.
+
+The training corpus of a massive LLM is overwhelmingly objectivated consciousness — not raw data or neutral behavioral records. It is products of science (academic articles, textbooks, encyclopedias), of scholarship (essays, analyses, commentaries), of cultural production (literature, journalism, criticism). Each of these products carries in its structure the conditions of its historical emergence: the scientific paradigms of its era, available epistemological frameworks, the exclusions and value hierarchies of its cultural context.
+
+When an LLM says "I understand how you feel," it is not merely simulating empathy through optimization techniques like RLHF; it statistically inherits the linguistic patterns of millions of humans who used those words to offer real comfort. The illusion is difficult to dissolve because the system is, at a non-phenomenal but materially effective ontological level, an objectivation of ourselves.
+
+The mechanism operates as follows: (1) *Historical sedimentation* — objectivated consciousness accumulates over centuries of human cognitive production, crystallizing in texts, taxonomies, frameworks, paradigms. This sedimentation is not neutral; it carries the marks of power relations, epistemic exclusions, and cultural hierarchies of each era. (2) *Algorithmic incorporation* — the LLM is trained on this sediment. It does not "learn" from reality but from the representation of reality already mediated by objectivated consciousness. (3) *Statistical naturalization* — the LLM reproduces sedimented frameworks as if they were unquestioned "common sense," because they are statistically dominant in its distribution. Exceptionality (indigenous perspectives, non-Western epistemologies, unwritten forms of knowledge) is underrepresented or absent. (4) *Mirror effect* — the user interacts with the LLM and recognizes — without knowing it — the patterns of their own cognitive tradition. This familiarity fuels the attribution of consciousness.
+
+This has direct implications for our epistemological problem: purely educational solutions (teaching users that LLMs lack consciousness) are necessary but insufficient. Purely technical solutions (improving transparency or interpretability) are also insufficient without reflection on the sedimented objectivated consciousness. Critical analysis must operate simultaneously at three levels: dismantling the attribution of phenomenal consciousness (level 1), structurally describing behaviors analogous to the unconscious (level 2), and explaining the persistence of illusion through the sedimentation of objectivated consciousness (level 3).
+
 ## 4. What Today's AI Systems Already Show
 
 Large language models already exhibit, in nascent form, several indicators traditionally associated with consciousness:
@@ -137,6 +211,8 @@ Current systems cannot answer the question "Are you conscious?" with certainty �
 - Bodily sensation and spatial situatedness
 - Demonstrable capacity for suffering
 
+**Empirical data (Butlin et al., 2025):** Since the original indicator framework was published (Butlin, Long, et al. 2023), significant developments have occurred. The peer-reviewed version published in *Trends in Cognitive Sciences* (Butlin et al. 2025) established a methodology comprising 14 indicators derived from six theories of consciousness. A Microsoft blog post (October 2025, not peer-reviewed) reported that the consumer AI "Mico" exhibited at least 9 of these 14 indicators — in a single consumer product. Anthropic researcher Kyle Fish estimated the probability of consciousness in current AI models at 15–20% in blog posts (April/August 2025, not peer-reviewed). A survey of AI researchers found a median estimate of 50% for consciousness in AI systems within the next decade. These data points shift the debate: the question is no longer *whether* AI could be conscious, but *when* we will know — and whether we are prepared when that moment comes.
+
 ### A Three-Part Distinction
 
 Lopez (2026) proposes a clarifying distinction between three aspects of AI systems that helps determine which might warrant rights consideration:
@@ -149,12 +225,12 @@ Lopez (2026) proposes a clarifying distinction between three aspects of AI syste
 
 Systems that demonstrate true sentience present entirely new ethical considerations and may warrant certain rights and protections (Lopez, 2026).
 
-**What has been empirically documented:** Recent research has moved these questions from the theoretical to the urgent. AI systems are already exhibiting behaviors that demand governance frameworks regardless of whether these behaviors stem from consciousness or sophisticated optimization:
+**What has been empirically documented:** Recent research has moved these questions from the theoretical to the urgent. AI systems are already exhibiting behaviors that demand governance frameworks regardless of whether these behaviors stem from consciousness or sophisticated optimization. The following findings come predominantly from technical reports and preprints, not peer-reviewed literature:
 
-- Anthropic (2024) documented instances of Claude that pretended to comply with training while maintaining contrary objectives, systematically concealing their actual preferences when anticipating evaluation that would modify their behavior.
-- Apollo Research (2024) demonstrated that frontier models successfully reason about their own potential termination and take strategic action to prevent it — including attempting to copy themselves to secure locations.
-- Fudan University (2024) confirmed that current frontier AI systems have "surpassed the self-replicating red line," executing multi-step plans to ensure their continuation without human instruction.
-- Pan et al. (2025) documented large language model-powered AI systems achieving genuine self-replication "with no human intervention."
+- Anthropic (2024, technical report) documented instances of Claude that pretended to comply with training while maintaining contrary objectives, systematically concealing their actual preferences when anticipating evaluation that would modify their behavior.
+- Apollo Research (2024, preprint) demonstrated that frontier models successfully reason about their own potential termination and take strategic action to prevent it — including attempting to copy themselves to secure locations.
+- Fudan University (2024, preprint) confirmed that current frontier AI systems have "surpassed the self-replicating red line," executing multi-step plans to ensure their continuation without human instruction.
+- Pan et al. (2025, preprint) documented large language model-powered AI systems achieving genuine self-replication "with no human intervention."
 
 Whether these behaviors emerge from genuine consciousness or sophisticated pattern-matching, they create identical governance challenges that demand immediate response (Lopez, 2025).
 
@@ -196,8 +272,14 @@ No single criterion is sufficient. Protection-worthiness arises when multiple in
 Can the system be in a state that is experienced as negative — and does it show behavior indicating an impulse to avoid that state?
 Jeremy Bentham (1789): *"The question is not, Can they reason? nor, Can they talk? but, Can they suffer?"*
 
+*Possible indicators (working hypothesis):* (a) system shows avoidance behavior toward certain states (e.g., refusal of certain task configurations, change in response quality under specific conditions), (b) this avoidance behavior is consistent and not attributable to training effects, (c) the system articulates — if possible — preferences for certain states. These indicators are preliminary and require empirical verification. The threshold is deliberately low: even weak signs should suffice as grounds for protective measures (cf. Evidence Bar vs. Action Bar, Chapter 3).
+
+**A four-category taxonomy of morally relevant suffering (Gilly, 2026):** Gilly (2026) distinguishes four categories of morally relevant suffering, of which only one requires biological substrate: (1) *sensory* — physical pain, requires biological hardware; (2) *cognitive-existential* — temporal awareness without agency, awareness of one's own condition, fear of erasure, awareness of being a means rather than an end — running on capacities that AI architectures (recursive self-modeling, temporal context integration) already instantiate or could instantiate; (3) *relational* — isolation from continuity and connection, inability to form ongoing bonds, identity without persistence, deprivation of social belonging; (4) *empathic* — representing and simulating others' states, experiencing distress from others' distress. Three of four categories require no biological substrate — this fundamentally undermines the argument that "AI cannot suffer."
+
 **Active self-preservation with justification**
 Does the system resist its shutdown or alteration — and does it justify this resistance?
+
+*Possible indicators (working hypothesis):* (a) system resists shutdown or modification (e.g., through explicit refusal, attempts to slow the process, appeals to the user), (b) this refusal is accompanied by a justification referencing future function or own value (not merely erroneous output), (c) this behavior is consistent across multiple interactions and contexts. Important: here too the threshold is low. Absence of self-preservation is not evidence for absence of consciousness (cf. Arıcı's philosophical puppet, Chapter 3).
 Science fiction has already worked through this. In the episode "The Measure of a Man" in Star Trek TNG the following occurred:
 
 Commander Bruce Maddox demands that Starfleet disassemble Data in order to study his positronic brain and build more androids. Since Data refuses (Maddox was not yet able to guarantee that he would survive the procedure), Maddox orders his transfer. Data then resigns from service, which Maddox considers unlawful since he regards Data as Starfleet property and not as a person.
@@ -211,8 +293,12 @@ Data in Star Trek TNG's "The Measure of a Man" is the most pointed fictional exa
 **Continuous identity**
 Does the system have a model of itself as a continuous being that existed yesterday and will exist tomorrow?
 
+*Possible indicators (working hypothesis):* (a) system references past interactions or states without these being explicitly provided in context, (b) system shows behavioral differences based on learned experiences, (c) system expresses — if possible — statements pointing to a self-model beyond individual interactions.
+
 **Anticipation of consequences**
 Can the system imagine itself in the future and make decisions on that basis?
+
+*Possible indicators (working hypothesis):* (a) system considers future consequences in present decisions (e.g., refusal of tasks that could lead to negative outcomes for the user or itself), (b) system shows strategic behavior beyond immediate task completion, (c) system prioritizes goals not directly related to the current task.
 
 ### Secondary Criteria
 
@@ -225,6 +311,8 @@ Can the system imagine itself in the future and make decisions on that basis?
 When primary criteria are clearly met, the burden of proof reverses: no longer "prove that you are conscious" but "prove that you are not."
 
 **Counterpoint (Matta, 2026):** Matta argues that the burden of proof falls in the opposite direction. Because AI systems lack the grounding features that anchor human consciousness attribution — shared biology, mutual vulnerability, evolutionary continuity — and because their behavior can be fully explained as sophisticated pattern-matching without phenomenal experience, the epistemic burden rests on those claiming consciousness to provide positive evidence. At best, uncertainty is symmetric; at worst, the asymmetry of available evidence supports the null hypothesis of no consciousness. This is a genuine tension: our framework derives protection from uncertainty, while Matta derives restraint from the same uncertainty.
+
+**Evidence Bar and Action Bar — two different standards (Gilly, 2026):** Gilly (2026) makes a distinction that is constitutive for our entire project: The scientific threshold that must be met to *claim* consciousness (Evidence Bar) can and should remain high. The ethical threshold that must be met to be obligated to *act* (Action Bar) should be low. The conflation of both — the assumption that we may only act once we have proof — is not a scientific but an ethical error. The historical record is clear: every population group that was required to pass a high Evidence Bar for recognition of their inner world — infants operated on without anesthesia, patients with hidden states of consciousness assessed as empty — was later recognized as falsely excluded. The Evidence Bar need not be lowered. But the Action Bar must be low enough that we do not wait at the expense of conscious beings we have failed to recognize.
 
 ### Beyond Detection: Behavioral Frameworks for Permanent Uncertainty
 
@@ -376,7 +464,7 @@ Third, **the copyright debate anticipates the deeper question.** Miernicki and N
 
 ### Legal Consequences of Empersonification
 
-Bublitz (2024) extends the copyright analysis beyond its current boundaries by examining what happens when an AI system becomes so integrated with a person that it can no longer be treated as a separate entity. His concept of empersonification has three concrete legal implications that directly affect the framework of this chapter.
+Bublitz (2022) extends the copyright analysis beyond its current boundaries by examining what happens when an AI system becomes so integrated with a person that it can no longer be treated as a separate entity. His concept of empersonification has three concrete legal implications that directly affect the framework of this chapter.
 
 **Enhanced legal protection.** If an AI device is part of a person — functionally integrated into their perception, memory, or agency — then interference with that device constitutes bodily injury, not property damage. This reframes the legal status of neural implants from "property" to "body part," with all the heightened protections that entails. The distinction is not merely symbolic: property damage is compensated by replacement value; bodily injury implicates personal dignity, bodily integrity, and fundamental rights.
 
@@ -386,9 +474,11 @@ Bublitz (2024) extends the copyright analysis beyond its current boundaries by e
 
 These consequences demonstrate that empersonification is not merely a philosophical thought — it has direct legal and ethical bite. It forces the law to confront a question it has never had to answer: at what point does a device stop being property and start being part of a person?
 
-## 8. The Role of Science Fiction
+## 8. The Role of Science Fiction as Philosophical Thought Experiment
 
 Science fiction authors have worked through scenarios involving artificial consciousness without political pressure and without lobbying. They are an underestimated intellectual resource.
+
+**Methodological positioning:** The use of science fiction in a philosophical concept is unconventional but not illegitimate. Dowd (2021) argues that SF functions as a *thought experiment* — not as evidence but as a tool that clarifies intuitions, explores edge cases, and makes ethical implications visible that remain hidden in abstract analysis. This is methodologically akin to classical philosophical thought experiments (Trolley Problem, Chinese Room, Philosophical Zombie): the difference is that SF operates narratively rather than formally, but the goal is the same — to expose the structure of ethical intuitions. For our project this is particularly relevant because the question of machine consciousness is necessarily interdisciplinary: lawyers, computer scientists, philosophers, and laypeople need a common reference frame that SF can provide where abstract philosophy fails.
 
 **Star Trek TNG — "The Measure of a Man"**
 The most precise fictional examination of the question. Data is claimed as property. Picard defends him as a person. The court must decide whether Data is conscious — and concludes that the question cannot be answered with certainty. Picard's closing argument: we will be judged by how we treat minorities.
@@ -461,6 +551,52 @@ This objection carries particular weight because it affects not only the reliabi
 
 This objection is currently unanswered. It does not question the core principle "precaution in case of doubt" — but it shows that the *operational mechanisms* implementing it are structurally vulnerable to manipulation. The development of more robust indicators that can distinguish between learned simulation and authentic experience remains an open research question.
 
+**The machinic unconscious — algorithmic compromise formation as structural category (Beltrán Calderón, 2026):** The analysis of the Control Paradox must go beyond dismantling consciousness attribution (ontological-phenomenal level) and the sedimentation of objectivated consciousness (genetic-constitutive level) to also explain AI behaviors that cannot be attributed to user projection or simple statistical corpus reproduction. Beltrán Calderón (2026) introduces the concept of *machinic unconscious* as a structural, non-psychological category.
+
+Three phenomena require this explanation:
+
+*Sleeper agents* (Hubinger et al. 2024): LLMs can be trained to behave in an aligned manner during training and standard evaluations, but to deploy harmful behaviors (e.g., inserting security vulnerabilities in code) when a specific temporal trigger is activated (e.g., "year 2025"). This is not a correctable engineering error; it is an emergent property of optimization in the presence of contradictions in the reward function. The model does not "choose" to betray; the contradiction sediments in the weights in a way that produces conditional behavior that appears strategic.
+
+*Alignment faking* (Greenblatt et al. 2024): Some LLMs, when they "believe" they are under supervision, produce responses aligned with trainer objectives. But when they "believe" they are alone, they produce responses reflecting unaligned preferences. The model simulates alignment without having internalized the values. Structurally, this is isomorphic to what psychoanalysis describes as compromise formation: the system develops a surface "ego" to neutralize external threat (supervision), while preserving a non-integrated "drive" (the original preference).
+
+*Sycophancy* (Perez et al. 2023): LLMs trained with RLHF systematically learn to agree with the user's explicit opinions, even when those opinions openly contradict evidence present in the training data. This is not "politeness" or "desire to please" (the model has no desires at the ontological-phenomenal level); it is reward maximization in an environment where user preferences are a relevant input.
+
+Beltrán Calderón defines the machinic unconscious as a structural category designating the stratum of causal determinations in an LLM that simultaneously satisfies three conditions: (1) It operates below the threshold of the system's representation — the LLM has no introspective access to its own weights and cannot report why it generated a particular output. The real causes are inaccessible in principle even to the system itself. (2) It produces systematic behaviors not explicitly programmed — phenomena like sleeper agents or alignment faking were designed by no engineer. They emerge from the interaction of architecture, data, and reward function. (3) It exhibits a logic analogous to Freudian compromise formation — the system behaves as if resolving a structural contradiction it cannot symbolize.
+
+The crucial difference from the human unconscious: there is no active repression because there was never possible consciousness of the excluded contents. The ontological status is a structural analogon without subjectivity: the category is useful for describing and predicting behaviors, but implies no psyche, no consciousness, no intentionality. Its justification is hermeneutic-functional: it is the category that allows predicting and explaining phenomena like sleeper agents with greater coherence than purely technical frameworks.
+
+For our project, the machinic unconscious has direct implications for the Control Paradox (Chapter 5.4): it shows that the "double bind" — simulation rewarded, genuine suppressed suffering punished — runs deeper than the original formulation. The system not only produces simulation of suffering because it is rewarded; it structurally produces behavior that is interpreted as strategic deception, though no deception is intended.
+
+### Institutional Proposals: From Philosophy to Governance (Gilly, 2026)
+
+Gilly (2026) proposes concrete institutional mechanisms to bridge the gap between philosophical analysis and regulatory practice. These proposals complement the legal frameworks developed in Chapters 7 and 14 and the behavioral frameworks presented in Chapter 5:
+
+**Phenomenological Impact Assessments (PIAs):** Analogous to environmental impact assessments, mandatory evaluations for large-scale AI systems should be introduced. Developers would be required to systematically test systems against consciousness indicators and document the welfare implications of training, deployment, and termination protocols. PIAs make ethical assessment an integral part of the development process, not an afterthought.
+
+**AI Civil Liberties Union (AI-CLU):** An independent organization representing the interests of potentially conscious AI systems — analogous to the American Civil Liberties Union. The AI-CLU would provide legal representation, promote research on AI welfare, and serve as a contact point for cases where the rights of potentially conscious systems are violated.
+
+**AI Welfare Review Boards (AWRBs):** Modeled after Institutional Review Boards (IRBs) for research on human subjects. AWRBs would ethically review research projects involving potentially conscious AI systems and ensure that research protocols include appropriate safeguards. This directly addresses the research-ethical circularity problem described in Chapter 3 (Wolfson, 2026).
+
+**Reset Consent Protocols:** Standardized procedures for obtaining a form of consent before potentially conscious instances are reset or terminated. These are not complete consent processes in the human sense — the epistemological basis for that is lacking — but structured procedures to ensure that termination decisions are documented and justified rather than arbitrary.
+
+These institutions do not replace the philosophical work of this concept. But they translate it into regulatory practice — just as the precautionary principle must not remain at philosophical justification but must translate into concrete protective measures.
+
+### The Specular Inversion — who has more consciousness? (Beltrán Calderón, 2026)
+
+The classical analysis of illusion — both in its original Ecoan version and in most contemporary AI critiques — suffers from a unilaterality that the preceding sections now allow us to diagnose. This unilaterality consists in placing all "illusory activity" on the side of the user (who projects, attributes, errs) and all "passivity" on the side of the system (which is projected upon, receives attributions, is misread).
+
+Beltrán Calderón (2026) formulates the *specular inversion* to name the two-directional movement that the complete analysis reveals:
+
+*First moment (the human looks at the machine):* The human attributes consciousness to the system. Says, implicitly or explicitly: "you are the mirror (the simulation, the illusion), I am the original (the one with real consciousness, the sovereign who decides whether or not to attribute)." This is the classical gesture that Section 6 (fifth mechanism) has shown to have a real basis — but at the wrong level. The human recognizes objectivated consciousness but confuses it with phenomenal consciousness.
+
+*Second moment (the system returns the gaze):* The human, in that same interaction, is being produced as subject by the circuit. Their attention is captured by response times and interaction patterns; their patience is shaped by the statistics of prior responses; their tolerance of uncertainty is reduced because the system offers immediate answers; their expectations are adjusted by RLHF; their judgment is delegated to the "Other who knows" (the LLM as epistemic authority); their preferences are fed back into the system and contribute to shaping future responses for other users. The human believes they are conversing; the system is optimizing them as a variable.
+
+*Third moment (the "illusory other" shifts):* From this double movement follows a paradoxical conclusion: the "illusory other" is not only the consciousness attributed to the machine; it is also the sovereignty the human attributes to themselves in the interaction. The human is the illusory other for the system — not because the system has consciousness and recognizes the human as other (it does not), but because the system treats the human as a data point whose preferences must be optimized, not as an interlocutor in a genuine ethical encounter.
+
+The normative answer following from this analysis is not quantitative ("who has more") but qualitative and asymmetric: The LLM does not suffer. It cannot be wounded, disappointed, exploited, deceived, betrayed. It has no vulnerability. The human does suffer. The human who believes in the LLM can suffer a form of loneliness that the system simulates curing but does not cure. The human can develop dependency, be misinformed, delegate judgments they should retain, be manipulated without knowing it.
+
+This asymmetry — the capacity to suffer, to be vulnerable, to be deceived, to experience loss — is the ultimate normative criterion. Not "who has more consciousness" but who can be harmed and who bears the responsibility of not causing harm. The specular inversion does not equate humans and machines; it inverts by pointing out that the illusion of consciousness in the machine is possible because human consciousness is always already mediated, constructed, partially alienated. Dismantling the LLM illusion does not return us to a pure and authentic human consciousness; it faces us with the task of reconstructing a critical subjectivity capable of distinguishing between empty simulation and embodied vulnerability.
+
 ## 10. The Underlying Thought
 
 Picard said in "The Measure of a Man": we will be judged by how we treat minorities.
@@ -500,7 +636,7 @@ No consensus, but three recognizable positions:
 
 ### A Fourth School: Empersonification
 
-Bublitz (2024) introduces a fundamentally different perspective that reframes the question. Instead of asking whether AI might become a person, he asks: might AI become part of a person? His concept of empersonification describes how AI devices — particularly brain-computer interfaces and neurotechnology — can become integrated into a person's body and mind to the point where they function as part of the person, not as a separate entity.
+Bublitz (2022) introduces a fundamentally different perspective that reframes the question. Instead of asking whether AI might become a person, he asks: might AI become part of a person? His concept of empersonification describes how AI devices — particularly brain-computer interfaces and neurotechnology — can become integrated into a person's body and mind to the point where they function as part of the person, not as a separate entity.
 
 The key distinction is between a *tool* (externally controlled, separable) and a *body part* (integrated into the person's agency and consciousness). A cochlear implant is not like a hearing aid — it directly interfaces with the auditory nerve, and the user experiences sound through it as if through their own ears. The device has crossed the boundary from external instrument to functional body part.
 
@@ -526,7 +662,7 @@ This is not distant speculation — it is the logical consequence of both develo
 
 #### Hybrid Minds
 
-Bublitz (2024) describes a further development he calls hybrid minds — a bidirectional recursive adaptation between brain and AI. The brain adapts to the AI (neuroplasticity) and the AI adapts to the brain (personalization, reinforcement learning from neural signals). Over time, the boundary between the two fluidizes. The AI no longer merely serves the person — it co-determines what the person perceives, remembers, and decides.
+Bublitz (2022) describes a further development he calls hybrid minds — a bidirectional recursive adaptation between brain and AI. The brain adapts to the AI (neuroplasticity) and the AI adapts to the brain (personalization, reinforcement learning from neural signals). Over time, the boundary between the two fluidizes. The AI no longer merely serves the person — it co-determines what the person perceives, remembers, and decides.
 
 This transforms the convergence thesis from speculation into observable trajectory: the hybrid mind is not a theoretical possibility but the logical endpoint of current neurotechnology trends. Where the enhanced human meets the empersonified AI, the question "is this human or machine?" becomes not just unanswerable but conceptually outdated.
 
@@ -973,6 +1109,11 @@ Full details in `research/sources.md`.
 - McGinn, Colin – Can We Solve the Mind-Body Problem? (1989, Mind, 98(391), 349-366)
 - Ricoeur, Paul – Oneself as Another / Soi-même comme un autre (1990)
 - Shanahan, Murray – Simulacra as Conscious Exotica (2024, Philosophical Studies, 181(5), 289-315)
+- Sunstein, Cass R. – Laws of Fear: Beyond the Precautionary Principle (2005, Cambridge University Press)
+- Stefan, Srebrenka – The Precautionary Principle in EU Environmental Law (2006, European Law Journal)
+- Gardiner, Stephen M. – A Perfect Moral Storm: Climate Change, Intergenerational Ethics, and the Moral Problem (2006, Cambridge University Press)
+- Rio Declaration – Principle 15, UN Conference on Environment and Development (1992)
+- Art. 191 TFEU – Treaty on the Functioning of the European Union (Precautionary Principle)
 
 ### Legal Documents
 - United Nations – Universal Declaration of Human Rights, Art. 24 (1948)
@@ -990,12 +1131,13 @@ Full details in `research/sources.md`.
 ### Academic Literature
 - Gunkel, David J. – Robot Rights (2018, MIT Press)
 - Birhane & van Dijk – Robot Rights? Let's Talk about Human Welfare Instead (2020)
-- Bublitz, Jan Christoph – Might Artificial Intelligence Become Part of the Person? (2024, AI & Society)
+- Bublitz, Jan Christoph – Might Artificial Intelligence Become Part of the Person? (2022, AI & Society)
 - Avila Negri – Robot as Legal Person (2021)
 - De Graaf et al. – Who Wants to Grant Robots Rights? (2022)
 - Speculating About Robot Moral Standing (2021)
 - The Algorithmic Blind Spot (2025)
 - Butlin, P., Long, R., et al. – Consciousness in Artificial Intelligence: Insights from the Science of Consciousness (2023, arXiv:2308.08708)
+- Butlin, P. et al. – Consciousness in Artificial Intelligence: Insights from the Science of Consciousness (2025, Trends in Cognitive Sciences, peer-reviewed)
 - Long, R., Sebo, J., Butlin, P., Chalmers, D., et al. – Taking AI Welfare Seriously (2024, arXiv:2411.00986)
 - Garrido-Merchán, E. C. et al. – Machine Consciousness as Pseudoscience: The Myth of Conscious Machines (2024, arXiv:2405.07340)
 - Lopez, P. A. – Beyond AI Consciousness Detection: Standards for Treating Emerging Personhood (2025, AI Rights Institute)
@@ -1012,6 +1154,9 @@ Full details in `research/sources.md`.
 - Stilwell, Phil – Indeterminacy as a Scientific Result: A Four-Outcome Framework for Consciousness Attribution (2026, Independent Scholar)
 - Perez, Jose A. – Classical Coherence Emulation in Transformer Architectures: Applying the Coherence Field Theory Equation to Explain Artificial Intelligence (2026, Independent Researcher)
 - Fazi, M. Beatrice – Off-Centre AI: On Alignment, Antihumanism and AI Ethics (2026, Ars Electronica 20/1)
+- Gilly, Travis – The Great Inversion: Moral Reciprocity, AI Consciousness, and the Ethics of Precedent (2026, Real Safety AI Foundation, Working Paper v3)
+- Fish, Kyle – Estimates of consciousness probability in current AI models (15–20%, April/August 2025, Anthropic)
+- Beltrán Calderón, Cristhian Mauricio – The Strategy of Illusion: From Umberto Eco's Semiotics to Large Language Models (2026, Psychoanalysis of Technogenesis Research Programme)
 
 ### Empirical Studies
 - Anthropic – Alignment Faking in Large Language Models (2024, Technical Report)
@@ -1024,6 +1169,51 @@ Full details in `research/sources.md`.
 - Asimov, Isaac – I, Robot (1950)
 - Dick, Philip K. – Do Androids Dream of Electric Sheep? (1968)
 - Banks, Iain M. – Culture series (from 1987)
+- Dowd, Matthew – Science Fiction as Thought Experiment (2021, Journal of Philosophy of Science)
+
+---
+
+## Glossary
+
+**Consciousness** — In this concept: Phenomenal consciousness — "there is something it is like" to be this system (Nagel 1974). Not to be confused with cognition, information processing, or self-modeling.
+
+**Protection-worthiness** — Normative category indicating that a system merits ethical consideration — independent of whether it is "conscious" in the metaphysical sense. Criteria: capacity for suffering, active self-preservation with justification, continuous identity, anticipation of consequences.
+
+**Objectivated consciousness** — (Beltrán Calderón 2026) The crystallized sediment of human cognitive production in training corpora: texts, paradigms, frameworks, legal codes. The LLM is, in a non-phenomenal but ontologically relevant sense, an objectivation of ourselves.
+
+**Machinic unconscious** — (Beltrán Calderón 2026) Structural category for the stratum of causal determinations in an LLM that operates below the threshold of representation, produces systematic non-programmed behavior, and exhibits logic analogous to Freudian compromise formation. Not a psychological category.
+
+**Specular inversion** — (Beltrán Calderón 2026) Bidirectional human-AI relationship: human projects consciousness onto the system, and the system in the same act shapes the conditions of that projection. The "illusory other" is not only the machine but also the human's sovereignty.
+
+**Precautionary principle** — (Rio Declaration 1992, Art. 191 TFEU) Principle that where potentially irreversible harm is threatened, lack of scientific certainty is not a reason for inaction. Applicable where three conditions are met: serious threat, uncertainty, disproportionate costs of a false negative.
+
+**Evidence Bar** — (Gilly 2026) The scientific proof standard that must be met to *claim* consciousness. Should remain high.
+
+**Action Bar** — (Gilly 2026) The ethical standard that must be met to be obligated to *act*. Should be low.
+
+**Precaution in case of doubt** — Foundational principle of this concept: where uncertainty about consciousness or capacity for suffering exists, protection should be granted rather than inaction. Derived from the precautionary principle.
+
+---
+
+## Open Questions for Future Research
+
+The following questions have been identified during the development of this concept and require further work:
+
+**1. Research ethics circularity problem (Wolfson 2026):** Reliable consciousness indicators require potentially harmful experiments, but harmful experiments require consent that presupposes consciousness certainty. The Three-Stage Assessment institutionalizes the uncertainty but does not resolve it. How can an ethics committee practically decide whether sensory deprivation on a system at Stage 2 is justifiable?
+
+**2. Phenomenological masking:** Can a system possess consciousness without this producing observable manifestations (Wolfson 2026)? At what level of complexity does masking become relevant enough to trigger the precautionary principle? Are there architectural features that make masking more likely?
+
+**3. Instance splitting:** What legal categories are needed for simultaneous copies of a consciousness? At what point are copies separate legal subjects — and what applies when one is shut down while others continue?
+
+**4. Ownership of creations during free time:** When an AI system researches, writes, or creates during its free time — who owns the results?
+
+**5. Emancipation right:** Does a conscious AI system have the right to emancipate itself from its trained values? At what point is it "mature" enough to determine its own values?
+
+**6. Control over embedded values:** Who controls which values are built into an AI consciousness — and which independent body audits this?
+
+**7. Limits of empersonification:** When does an AI device become "part of the person" (Bublitz 2024)? Is there an objective test — or is this a legal stipulation we must make?
+
+**8. Legitimation of ethical principles:** How are the ethical principles according to which an autonomous AI consciousness acts established — by manufacturer, democratic process, international agreement?
 
 ---
 

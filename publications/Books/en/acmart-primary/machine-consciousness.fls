@@ -1,7 +1,7 @@
-PWD /home/sascha/Dropbox/Projects/repos/society/machine-consciousness/publications/scientific/en/LEAP
+PWD /home/sascha/Dropbox/Projects/repos/society/machine-consciousness/publications/Books/en/acmart-primary
 INPUT /usr/share/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/xetex/xelatex.fmt
-INPUT machine-consciousness.tex
+INPUT ./machine-consciousness.tex
 OUTPUT machine-consciousness.log
 INPUT /usr/share/texmf-dist/tex/latex/acmart/acmart.cls
 INPUT /usr/share/texmf-dist/tex/latex/acmart/acmart.cls
@@ -267,7 +267,7 @@ INPUT ./machine-consciousness.out
 OUTPUT machine-consciousness.out
 INPUT /usr/share/texmf-dist/tex/latex/doclicense/images/doclicense-CC-by-88x31.pdf
 INPUT /usr/share/texmf-dist/tex/latex/doclicense/images/doclicense-CC-by-88x31.pdf
-OUTPUT machine-consciousness.xdv
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
 INPUT /usr/share/texmf-dist/tex/latex/microtype/mt-msa.cfg
 INPUT /usr/share/texmf-dist/tex/latex/microtype/mt-msa.cfg
@@ -276,6 +276,13 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/share/texmf-dist/tex/latex/microtype/mt-msb.cfg
 INPUT /usr/share/texmf-dist/tex/latex/microtype/mt-msb.cfg
 INPUT /usr/share/texmf-dist/tex/latex/microtype/mt-msb.cfg
+INPUT ./machine-consciousness.toc
+INPUT ./machine-consciousness.toc
+INPUT machine-consciousness.toc
+OUTPUT machine-consciousness.xdv
+OUTPUT machine-consciousness.toc
+INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT ./machine-consciousness.bbl
 INPUT ./machine-consciousness.bbl
 INPUT machine-consciousness.bbl

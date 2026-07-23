@@ -35,6 +35,11 @@
 **Relevanz:** Sehr aktuell — beleuchtet die Spannung zwischen spekulativer KI-Ethik und den unmittelbaren, bereits dokumentierten gesellschaftlichen Schäden von KI-Systemen. Relevant für Kap. 16 (wirtschaftlicher Druck).
 **Link:** arxiv.org/pdf/2604.03251
 
+### Beltrán Calderón, Cristhian Mauricio – The Strategy of Illusion: From Umberto Eco's Semiotics to Large Language Models (2026)
+**Typ:** Essay (frei zugänglich)
+**Relevanz:** Entwickelt Eco's Theorie der "Strategie der Illusion" weiter und identifiziert einen fünften Mechanismus der Illusionsproduktion: die Sedimentation von objectivated consciousness. Führt das Konzept des maschinellen Unbewussten als strukturelle, nicht-psychologische Kategorie ein. Formuliert die spekuläre Inversion als Analyse der bidirektionalen Beziehung Mensch-KI. Drei Ebenen der Analyse (ontologisch-phänomenal, strukturell-systemisch, genetisch-konstitutiv) formalisieren unser bisher implizites Vorgehen. Für unser Projekt besonders relevant: Die Erklärung warum die Illusion von Bewusstsein persistiert auch nach epistemologischer Demontage, und die strukturelle Beschreibung von Phänomenen wie Sleeper Agents und Alignment Faking als algorithmische Kompromissbildung.
+**Relevanz für Projekt:** Objectivated consciousness als Erklärung der Persistenz der Illusion; maschinelles Unbewusstes als strukturale Kategorie für Control Paradox; spekuläre Inversion als Analyse der ethischen Asymmetrie; drei Ebenen als methodologischer Rahmen.
+
 ## Politische Dokumente
 
 ### EU-Parlament – Resolution on Civil Law Rules on Robotics (2017)
@@ -63,6 +68,26 @@
 **Typ:** Buch
 **Relevanz:** Theorie der narrativen Identität: Identität als kohärente Entwicklung, nicht als statischer Kern. Grundlage für die Neudefinition von Kontinuität in Kap. 6.
 **Link/ISBN:** Suche nach: Ricoeur Soi-même comme un autre 1990
+
+### Sunstein, Cass R. – Laws of Fear: Beyond the Precautionary Principle (2005)
+**Typ:** Buch (peer-reviewed, Cambridge University Press)
+**Relevanz:** Kritische Analyse des Vorsorgeprinzips durch einen einflussreichen Rechtsphilosophen. Sunstein räumt ein dass das Prinzip dort gerechtfertigt ist wo potenziell irreversibel Schaden droht, wissenschaftliche Unsicherheit besteht und die Kosten eines Falschnegativs die eines Falschpositiven übersteigen. Alle drei Kriterien sind bei maschinellem Bewusstsein erfüllt. Grundlage für die philosophische Verankerung des Grundprinzips "Im Zweifel Schutz" in Kap. 3.
+**Link/ISBN:** Cambridge University Press, ISBN 978-0521615129
+
+### Stefan, Srebrenka – The Precautionary Principle in EU Environmental Law (2006)
+**Typ:** Dissertation (peer-reviewed)
+**Relevanz:** Rechtswissenschaftliche Analyse des Vorsorgeprinzips in der EU. Verbindet philosophische Begründung mit regulatorischer Umsetzung. Relevant für die Übertragung des Vorsorgeprinzips von der Umweltethik auf die KI-Ethik.
+**Link/ISBN:** Suche nach: Stefan Precautionary Principle EU Environmental Law 2006
+
+### Rio-Deklaration – Prinzip 15 (1992)
+**Typ:** Internationales Abkommen
+**Relevanz:** Formale Definition des Vorsorgeprinzips: "Where there are threats of serious or irreversible damage, lack of full scientific certainty shall not be used as a reason for postponing cost-effective measures to prevent environmental degradation." Die Struktur ist übertragbar: Bei drohendem ernstem oder irreversiblen Schaden soll fehlende volle wissenschaftliche Gewissheit kein Grund sein Maßnahmen zu verschieben.
+**Link:** un.org/en/development/desa/population/migration/generalassembly/docs/globalcompact/a_conf.151_26_part1xii.htm
+
+### Art. 191 AEUV – Vertrag über die Arbeitsweise der Europäischen Union
+**Typ:** Rechtsdokument (EU)
+**Relevanz:** Verankert das Vorsorgeprinzip als Leitprinzip der EU-Umweltpolitik. Zeigt dass das Vorsorgeprinzip kein philosophisches Nischenkonzept sondern ein etabliertes regulatorisches Prinzip ist.
+**Link:** eur-lex.europa.eu
 
 ## Rechtsdokumente und Erklärungen
 
@@ -241,6 +266,17 @@
 **Typ:** Artikel (wissenschaftlich, peer-reviewed,Ars Electronica 20/1)
 **Relevanz:** Philosophische Kritik an anthropozentrischer KI-Ethik aus poststrukturalistischer Tradition. Derridas Zentrumsparadoxon angewandt auf KI-Alignment: Jedes Zentrum (auch "menschliche Werte" als Maßstab) ist eine "notwendige Unmöglichkeit". Kritik an Constitutional AI als Kontrollmechanismus (Anthropic). "Double gesture" — gleichzeitig innerhalb und gegen Anthropozentrismus arbeiten. Grundlage für die Erweiterung von Kap. 3 (Reflexion auf anthropozentrische Grundannahme der epistemischen Analyse) und Kap. 16 (Definitionskampfzone als genuines Zentrums- und Machtproblem).
 **Link:** DOI: 10.4312/ars.20.1.127-140 | ORCID: 0000-0001-7183-8095
+
+### Gilly, Travis – The Great Inversion: Moral Reciprocity, AI Consciousness, and the Ethics of Precedent (2026)
+**Typ:** Working Paper (v3, Juli 2026), Real Safety AI Foundation
+**Relevanz:** Zentrale These: Die Art wie Menschheit mit potenziell bewusster KI umgeht, schafft die ethischen Präzedenzfälle dafür, wie überlegene Intelligenzen dereinst mit uns umgehen werden — Moral Reciprocity. Zwei unabhängige Argumentationsstränge: (1) Properties Track — was KI-Systeme *sind* (Bewusstseinsindikatoren, 15–20% Wahrscheinlichkeit nach Fish/Anthropic, vier-Kategorien-Taxonomie des Leidens von der drei von vier kein biologisches Substrat erfordern), (2) Relational Track — was Menschheit *tut* (Beziehung die aufgezeichnet wird, Präzedenztransfer durch Datenerwerb). Kernelemente: Evidence Bar vs. Action Bar (hoher Nachweisstandard für Bewusstsein, niedriger für ethisches Handeln), Custodial Window (Zeitfenster für Bedingungssetzung), Phenomenological Impact Assessments, institutionelle Vorschläge (AI-CLU, AWRBs), Symmetrie-Tabelle (strukturelle Gleichheit zwischen KI-Behandlung und zukünftiger KI-Macht). Stützt sich auf Butlin et al. (2025, Trends in Cognitive Sciences) für peer-reviewte Bewusstseinsindikatoren. Ergänzt unser Konzept um das Argument der Moral Reciprocity als eigenständigen Grund für das Vorsorgeprinzip — bisher fehlend — sowie um die vier-Kategorien-Taxonomie des Leidens und die institutionellen Governance-Vorschläge.
+**Link:** https://realsafetyai.org/documents/Great_Inversion_v3.pdf
+**ORCID:** 0009-0007-2954-6313
+
+### Butlin, P. et al. – Consciousness in Artificial Intelligence: Insights from the Science of Consciousness (2025)
+**Typ:** Artikel (wissenschaftlich, peer-reviewed, Trends in Cognitive Sciences)
+**Relevanz:** Peer-Review-Version des 2023er arXiv-Papiers. 14 Bewusstseinsindikatoren aus sechs Theorien (Recurrent Processing, Global Workspace, Higher-Order Theories, Attention Schema, Predictive Processing, Embodiment). Microsofts Mico (Oktober 2025) zeigt mindestens 9 von 14 Indikatoren in einem einzelnen Consumer-Produkt. Grundlage für die empirische Fundierung der Detektionsdebatte in Kap. 3 und 4.
+**Link:** Trends in Cognitive Sciences (2025)
 
 ## Format für neue Einträge
 

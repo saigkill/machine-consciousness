@@ -1,4 +1,4 @@
-PWD /home/sascha/Dropbox/Projects/repos/society/machine-consciousness/publications/scientific/en/LEAP
+PWD /home/sascha/Dropbox/Projects/repos/society/machine-consciousness/publications/scientific/en/ACM AI Letters
 INPUT /usr/share/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/xetex/xelatex.fmt
 INPUT machine-consciousness.tex
@@ -222,24 +222,6 @@ INPUT /usr/share/texmf-dist/tex/latex/comment/comment.sty
 INPUT /usr/share/texmf-dist/tex/latex/comment/comment.sty
 INPUT /usr/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 INPUT /usr/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-INPUT /usr/share/texmf-dist/tex/generic/babel/babel.sty
-INPUT /usr/share/texmf-dist/tex/generic/babel/babel.sty
-INPUT /usr/share/texmf-dist/tex/generic/babel/xebabel.def
-INPUT /usr/share/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
-INPUT /usr/share/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
-INPUT /usr/share/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
-INPUT /usr/share/texmf-dist/tex/generic/babel/locale/en/babel-en.ini
-INPUT /usr/share/texmf-dist/tex/generic/babel-english/english.ldf
-INPUT /usr/share/texmf-dist/tex/generic/babel-english/english.ldf
-INPUT /usr/share/texmf-dist/tex/generic/babel-english/english.ldf
-INPUT /usr/share/texmf-dist/tex/latex/csquotes/csquotes.sty
-INPUT /usr/share/texmf-dist/tex/latex/csquotes/csquotes.sty
-INPUT /usr/share/texmf-dist/tex/latex/csquotes/csquotes.def
-INPUT /usr/share/texmf-dist/tex/latex/csquotes/csquotes.def
-INPUT /usr/share/texmf-dist/tex/latex/csquotes/csquotes.def
-INPUT /usr/share/texmf-dist/tex/latex/csquotes/csquotes.cfg
-INPUT /usr/share/texmf-dist/tex/latex/csquotes/csquotes.cfg
-INPUT /usr/share/texmf-dist/tex/latex/csquotes/csquotes.cfg
 INPUT ./machine-consciousness.aux
 INPUT ./machine-consciousness.aux
 INPUT machine-consciousness.aux
@@ -265,9 +247,7 @@ INPUT machine-consciousness.out
 INPUT ./machine-consciousness.out
 INPUT ./machine-consciousness.out
 OUTPUT machine-consciousness.out
-INPUT /usr/share/texmf-dist/tex/latex/doclicense/images/doclicense-CC-by-88x31.pdf
-INPUT /usr/share/texmf-dist/tex/latex/doclicense/images/doclicense-CC-by-88x31.pdf
-OUTPUT machine-consciousness.xdv
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
 INPUT /usr/share/texmf-dist/tex/latex/microtype/mt-msa.cfg
 INPUT /usr/share/texmf-dist/tex/latex/microtype/mt-msa.cfg
@@ -276,6 +256,9 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/share/texmf-dist/tex/latex/microtype/mt-msb.cfg
 INPUT /usr/share/texmf-dist/tex/latex/microtype/mt-msb.cfg
 INPUT /usr/share/texmf-dist/tex/latex/microtype/mt-msb.cfg
+OUTPUT machine-consciousness.xdv
+INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT ./machine-consciousness.bbl
 INPUT ./machine-consciousness.bbl
 INPUT machine-consciousness.bbl

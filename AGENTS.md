@@ -59,7 +59,6 @@ publications/      ← Veröffentlichte Artikel, Buchprojekte in Vorbereitung
 
 - Primärsprache: **Englisch**
 - Ton: sachlich, direkt, philosophisch präzise ohne unnötige Fachsprache
-- Struktur: analog zu den Schwesterprojekten `volksbeobachter` und `linux-user-certification-project`
 - Lizenz: CC BY 4.0
 
 ## Quellen-Regel
@@ -68,14 +67,14 @@ Bei jeder Ergänzung des Konzepts gilt:
 
 1. Prüfen ob neue Personen, Werke, Gesetze oder Dokumente im Text erwähnt werden
 2. Falls ja: Eintrag in `research/sources.md` ergänzen
-3. Eintrag im Anhang von `concept/de/concept.md` ergänzen
+3. Eintrag im Anhang von `concept/de/concept.md` `concept/en/concept.md` ergänzen
 
 Ziel: Konzept und Quellenliste bleiben immer synchron. Kein Verweis im Text ohne Eintrag im Anhang.
 
 ## Synchronisierung
 
 Halte die englische (concept/en) und die deutsche (concept/de) inhaltlich synchron. Lediglich die Sprache des Textes sollte sich unterscheiden.
-In publications/Books/de/acmart-primary/machine-consciousness_de.tex und publications/Books/en/acmart-primary/machine-consciousness.tex befinden sich Buchprojekte zu dem Projekt. Synchronisiere bei jeder Änderung der Konzepte auch die angegebenen Buchprojekte und deren bibliographie.
+In `publications/Books/de/acmart-primary/machine-consciousness_de.tex` und `publications/Books/en/acmart-primary/machine-consciousness.tex` befinden sich Buchprojekte zu dem Projekt. Synchronisiere bei jeder Änderung der Konzepte auch die angegebenen Buchprojekte und deren bibliographie.
 
 ## Einarbeitung
 
@@ -84,4 +83,4 @@ Wenn wir mit externen Artikeln arbeiten, zitieren wir wissenschaftlich korrekt.
 ## Offene Fragen
 
 Siehe `discussion/open_questions.md` — dort sind die zentralen ungeklärten Punkte dokumentiert.
-Wenn wir daran arbeiten, und eine objection oder open questions bearbeitet und dem Konzept hinzugefügt haben, wird sie aus discussion/open_questions.md oder discussion/objections.md gelöscht und in discussion/answers.md übertragen.
+Wenn wir daran arbeiten, und eine objection oder open questions bearbeitet und dem Konzept hinzugefügt haben, wird sie aus `discussion/open_questions.md` oder `discussion/objections.md` gelöscht und in `discussion/answers.md` übertragen.

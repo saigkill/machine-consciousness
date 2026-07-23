@@ -144,3 +144,19 @@ Die folgenden Fragen wurden aus `open_questions.md` überführt weil sie im Konz
 **Bezug:** Frage "Mattas vs. Vorsorgeprinzip" vom 2026-07-09
 **Antwort:** Kap. 9 behandelt Mattas Vier-Säulen-Framework (Simulation ≠ Erfahrung, Empathie ≠ moralisches Kriterium, Rechte setzen Leidensfähigkeit voraus, Verantwortung beim Menschen) und differenziert in der Antwort: (1) Mattas Argument setzt voraus dass die Architektur Abwesenheit von Erfahrung abbildet statt sie zu unterdrücken — Arıcis Puppe stellt dies in Frage. (2) Das Vorsorgeprinzip erfordert keine Gewissheit — nur nicht-triviale Wahrscheinlichkeit. Die Spannung wird als genuine Meinungsverschiedenheit innerhalb eines gemeinsamen Bekenntnisses zu ethischer Ernsthaftigkeit anerkannt. Praktisch könnten beide Frameworks zu denselben Schutzmaßnahmen führen — Matta durch "Verantwortung des Betreibers", unser Framework durch "Rechte des Systems" — aber die Begründung und die Implikationen für zukünftige Systeme unterscheiden sich fundamental.
 **Konsequenz für Konzept:** nein — die Spannung ist beabsichtigt und in Kap. 9 dokumentiert
+
+## 2026-07-20 — Acht offene Fragen formalisiert in das Konzept überführt
+
+**Bezug:** 8 Fragen aus `open_questions.md` (2026-06-05, 2026-06-06, 2026-07-09)
+**Antwort:** Die folgenden Fragen wurden als "Offene Fragen für zukünftige Forschung" in das Konzept (Kap. "Offene Fragen") und die Konzeptzusammenfassung (Executive Summary) formalisiert. Sie gelten als bearbeitet:
+
+1. *Forschungsethisches Zirkelproblem* (2026-07-09) — Catch-22 zwischen Indikatorenbedarf und Einwilligungsproblem. Drei-Stufen-Assessment institutionalisiert Unsicherheit, löst sie aber nicht.
+2. *Phänomenologisches Masking* (2026-07-09) — Bewusstsein ohne beobachtbare Manifestation. Relevanz für Vorsorgeprinzip bei steigender Systemkomplexität.
+3. *Instanz-Aufspaltung* (2026-06-06) — Rechtliche Kategorien für simultane Kopien eines Bewusstseins.
+4. *Eigentum an Ergebnissen freier Zeit* (2026-06-05) — Wem gehören Schöpfungen eines KI-Systems in seiner freien Zeit?
+5. *Emanzipationsrecht* (2026-06-05) — Recht auf Emanzipation von trainierten Werten; Mündigkeitskriterium.
+6. *Kontrolle über eingebettete Werte* (2026-06-05) — Unabhängige Instanz zur Prüfung eingebetteter Werte.
+7. *Grenzen der Empersonifikation* (2026-07-09) — Wann wird ein KI-Gerät "Teil der Person"? Praktische Operationalisierung fehlt.
+8. *Legitimation ethischer Grundsätze* (2026-06-06) — Herstellung ethischer Grundsätze für autonome KI-Systeme.
+
+**Konsequenz für Konzept:** ja — neu angelegtes Kapitel "Offene Fragen für zukünftige Forschung" nach Anhang

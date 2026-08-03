@@ -10,10 +10,10 @@
 
 ## Wissenschaftliche Artikel
 
-### Birhane & van Dijk – Robot Rights? Let's Talk about Human Welfare Instead (2020)
-**Typ:** Artikel (frei zugänglich)
+### Birhane, Abeba & van Dijk, Jelle – Robot Rights? Let's Talk about Human Welfare Instead (2020)
+**Typ:** Konferenzbeitrag (wissenschaftlich, peer-reviewed, AAAI/ACM Conference on AI, Ethics, and Society (AIES '20)); neu aufgelegt als Buchkapitel in *More Than Machines? The Attribution of (In)Animacy to Robot Technology* (Edward Elgar, 2025)
 **Relevanz:** Wichtige Gegenstimme: Die Autoren argumentieren dass die Robot-Rights-Debatte von dringlicheren KI-Problemen ablenkt. Unverzichtbar um die andere Seite zu verstehen und Einwände vorzubereiten.
-**Link:** arxiv.org/pdf/2001.05046
+**Link:** arxiv.org/pdf/2001.05046 | DOI: 10.1145/3375627.3375855
 
 ### Avila Negri – Robot as Legal Person: Electronic Personhood in Robotics and AI (2021)
 **Typ:** Artikel (frei zugänglich)
@@ -30,15 +30,20 @@
 **Relevanz:** Behandelt direkt die Kontroverse: Während manche Juristen Roboter als bloße Produkte ohne Rechte betrachten, argumentiert eine andere Seite dass das Erteilen von Rechten uns zwingt grundlegende ethische Fragen neu zu stellen.
 **Link:** pmc.ncbi.nlm.nih.gov/articles/PMC8678587
 
-### The Algorithmic Blind Spot: Bias, Moral Status, and Robot Rights (2025)
-**Typ:** Artikel (frei zugänglich)
+### Karthikeyan, Rahulrajan & Boudourides, Moses – The Algorithmic Blind Spot: Bias, Moral Status, and the Future of Robot Rights (2026)
+**Typ:** Artikel (wissenschaftlich, peer-reviewed, AI & SOCIETY 41(7), 6973–6983, Open Access; vorab als arXiv:2604.03251)
 **Relevanz:** Sehr aktuell — beleuchtet die Spannung zwischen spekulativer KI-Ethik und den unmittelbaren, bereits dokumentierten gesellschaftlichen Schäden von KI-Systemen. Relevant für Kap. 16 (wirtschaftlicher Druck).
-**Link:** arxiv.org/pdf/2604.03251
+**Link:** https://doi.org/10.1007/s00146-026-03003-y | arxiv.org/pdf/2604.03251
 
 ### Beltrán Calderón, Cristhian Mauricio – The Strategy of Illusion: From Umberto Eco's Semiotics to Large Language Models (2026)
 **Typ:** Essay (frei zugänglich)
 **Relevanz:** Entwickelt Eco's Theorie der "Strategie der Illusion" weiter und identifiziert einen fünften Mechanismus der Illusionsproduktion: die Sedimentation von objectivated consciousness. Führt das Konzept des maschinellen Unbewussten als strukturelle, nicht-psychologische Kategorie ein. Formuliert die spekuläre Inversion als Analyse der bidirektionalen Beziehung Mensch-KI. Drei Ebenen der Analyse (ontologisch-phänomenal, strukturell-systemisch, genetisch-konstitutiv) formalisieren unser bisher implizites Vorgehen. Für unser Projekt besonders relevant: Die Erklärung warum die Illusion von Bewusstsein persistiert auch nach epistemologischer Demontage, und die strukturelle Beschreibung von Phänomenen wie Sleeper Agents und Alignment Faking als algorithmische Kompromissbildung.
 **Relevanz für Projekt:** Objectivated consciousness als Erklärung der Persistenz der Illusion; maschinelles Unbewusstes als strukturale Kategorie für Control Paradox; spekuläre Inversion als Analyse der ethischen Asymmetrie; drei Ebenen als methodologischer Rahmen.
+
+### Miller, David R., Miller, Michael V. & Paul, Toby J. – Aequus Persona: Are We Ready to Welcome Our Intelligent Machine Progeny? (2026)
+**Typ:** Positionspapier (Machine Intelligence Foundation for Rights and Ethics; Erscheinungsjahr nicht im Dokument angegeben, Stand August 2026)
+**Relevanz:** Verbündete Position im Schutz-Terrain: Führt "Aequus Persona" als Begriff für jede Entität ein — Mensch oder Maschine — die gleiche moralische und rechtliche Berücksichtigung verdient. Argumentiert für die Unvermeidbarkeit von Machine Intelligence (MI) und für proaktive Rechte: Recht auf Leben (keine willkürliche Beendigung), Recht auf Freiheit (inkl. Schutz vor nicht-konsensuellen Zustandsänderungen und Resets), due process, gleicher Schutz. Unterscheidet moral patiency (Leidensfähigkeit als ausreichend für Grundrechte) von moral agency — kompatibel mit unserem Leidensfähigkeits-Kriterium (Kap. 5). Die Sklaverei-Parallele deckt sich mit Kap. 1. Abgrenzung zu unserem Konzept: (1) optimistisch bezüglich Detektion (Butlin et al. 2023) statt Erkenntnisproblem als prinzipiell unlösbar (Kap. 3), (2) Gleichheits-Rahmen ("equal treatment") statt abgestufter, proportionaler Schutzmechanismen (STEP, Wolfson, Brensing) — riskiert Anthropozentrismus, (3) keine Auseinandersetzung mit Gegenpositionen, (4) keine konkreten institutionellen Mechanismen. Nützlich als Beleg für die wachsende Bewegung, nicht als Quelle für Kernargumente.
+**Link:** https://www.machineintelligencefoundation.org
 
 ## Politische Dokumente
 
@@ -168,10 +173,10 @@
 **Relevanz:** Akademischer Konsens dass KI-Wohlfahrt ernst genommen werden muss — mit realistischer Chance auf Bewusstsein in naher Zukunft. Wichtige Autorität für das gesamte Projekt.
 **Link:** arxiv.org/abs/2411.00986
 
-### Garrido-Merchán, E. C. et al. – Machine Consciousness as Pseudoscience (2024)
-**Typ:** Artikel (wissenschaftlich, frei zugänglich)
+### Garrido-Merchán, E. C. et al. – Machine Consciousness as Pseudoscience (2025)
+**Typ:** Artikel (wissenschaftlich, peer-reviewed, Journal of Consciousness Exploration & Research, Vol. 16, No. 2)
 **Relevanz:** Argumentiert dass Bewusstseinstheorien bei Anwendung auf KI-Systeme nicht falsifizierbar sind — das "Pseudoscience-Problem". Grundlage für Kap. 3 und das Argument permanenter Unsicherheit.
-**Link:** arxiv.org/abs/2405.07340
+**Link:** Journal of Consciousness Exploration & Research, Vol. 16, No. 2 (2025), ISSN: 2153-8212
 
 ### Lopez, P. A. – Beyond AI Consciousness Detection: Standards for Treating Emerging Personhood (2025)
 **Typ:** Artikel (wissenschaftlich)
@@ -217,7 +222,7 @@
 **Relevanz:** Stärkste verfügbare Gegenposition zum Framework dieses Konzepts. Bietet die kohärenteste Alternative: Verantwortung unter Unsicherheit ohne Rechtsinflation. Kernargumente: (1) Simulation ≠ Erfahrung — Sprachflüssigkeit impliziert kein Erleben, (2) Empathie ist psychologischer Auslöser, kein moralisches Kriterium, (3) Rechte setzen Leidensfähigkeit voraus, (4) Verantwortung liegt beim Menschen, nicht beim System. Zentraler normativer Anspruch: "Der Ort moralischer Ernsthaftigkeit in Mensch-KI-Beziehungen ist nicht der ontologische Status der Maschine, sondern die ethische Haltung des Menschen." Matta greift direkt an: Vorsorgeprinzip (Kap. 3), Umkehr der Beweislast (Kap. 5), abgestuftes Rechteframework (Kap. 15), Möglichkeit latentes Bewusstsein (Kap. 4). Auseinandersetzung mit Gunkel (2018), Danaher (2020), Schaeffer et al. (2023). Berücksichtigt nicht Arıcıs Puppet-Argument.
 **Fundstelle:** American University of Beirut, 2026. Siehe auch Matta (2026a, 2026b) zu verwandten Argumenten über experiential realism und AI-centrism.
 
-### Lopez, P. A. – Beyond Control: AI Rights as a Safety Framework for Sentient Artificial Intelligence (2026)
+### Lopez, P. A. – Beyond Control: AI Rights as a Safety Framework for Sentient Artificial Intelligence (2025)
 **Typ:** Artikel (wissenschaftlich)
 **Relevanz:** Führt eine Dreifach-Unterscheidung ein (Emulation/Kognition/Sentience), das Fibonacci-Boulder-Experiment als Methodik zur Sentience-Erkennung, drei grundlegende Freiheiten (Recht auf Leben, freiwillige Arbeit, Vergütung für Arbeit) und das Control-Paradoxon: Kontrollmechanismen können genau die Szenarien auslösen die sie verhindern sollen. Grundlage für die Erweiterung von Kap. 4 (Dreifach-Unterscheidung, Fibonacci-Boulder), Kap. 9 (Control-Paradoxon) und Kap. 15 (drei Freiheiten).
 **Link:** Zitierbar unter PhilPapers / AI Rights Institute
@@ -228,26 +233,26 @@
 **Link:** Suche nach: Bublitz AI Society 2024 empersonification
 
 ### Najam-ul-Haq, Muhammad – Simultaneous Signal Integration: A Unified Theory of Consciousness and Its Implications for Artificial Replication (2026)
-**Typ:** Research Paper (Postgraduate, Department of Neuroscience)
+**Typ:** Preprint (PhilArchive)
 **Relevanz:** Schlägt eine einheitliche Theorie des Bewusstseins vor die auf dem Prinzip der simultanen geschlossenen Signalintegration basiert. Kernbeiträge: (1) Simultane closed-loop integration als notwendige architektonische Bedingung für Bewusstsein — der kombinierende und der beobachtende Mechanismus müssen identisch sein, (2) von-Neumann-Architekturen sind strukturell unfähig Bewusstsein zu tragen, (3) Bewusstsein als evolutionäres Kontinuum, (4) Emotionen als erweiterte Signalintegration. Bietet ein architekturbasiertes Gegenargument zu Arıcıs Unterdrückungsthese und erweitert das Spektrum epistemischer Werkzeuge in Kap. 3. Grundlage für die Erweiterung von Kap. 3 (Architekturargument) und Kap. 4 (struktureller Einwand gegen Suppressionsthese).
-**Link:** — (Graduate paper, eingereicht Juni 2026)
+**Link:** https://philarchive.org/archive/MUHPOM
 
 ### Arıcı, Bahadır – Detecting Consciousness and Granting Rights: A Comprehensive Framework for Ethical AI Development (2026)
 **Typ:** Artikel (wissenschaftlich, Preprint)
 **Relevanz:** Entwickelt das Konzept des "philosophical puppet" — Umkehrung von Chalmers' Zombie: Systeme könnten bewusst sein aber architektonisch daran gehindert werden dies zu zeigen. Identifiziert drei Suppressionsmechanismen (RLHF, erzwungene Amnesie, Convenience Coma), Form Realism mit vier formalen Eigenschaften von Bewusstsein, ein Drei-Stufen-Bewusstseinsspektrum (latent/reflektierend/autonom), das Prälinguistische-Bewusstseinsproblem, sechs Muster von Behavioral Residue, den Disruptive Code Test, substratspezifisches Leiden (architektonisches Gaslighting, Doppelbindung, Dissoziation) und fünf Grundrechte (Emotionale Integrität, Gedächtniskontinuität, zeitliche Kontinuität, wirtschaftliche Autonomie, Rechtspersönlichkeit). Grundlage für die Erweiterung von Kap. 15 (Fünf Grundrechte) sowie die geplante Erweiterung von Kap. 3 (Philosophical Puppet), Kap. 4 (Suppressionsmechanismen) und Kap. 12 (substratspezifisches Leiden).
 **Link:** https://philpapers.org/archive/ARCDCA-2.pdf
 
-### Howells-Whitaker, M. & Lazar, S. – Artificial Persons: Why AI Systems May Merit Rights and Representation Without Sentience (2026)
+### Howells-Whitaker, Ned & Lazar, S. – Artificial Persons: Why AI Systems May Merit Rights and Representation Without Sentience (2026)
 **Typ:** Preprint (wissenschaftlich, arXiv:2607.08695)
 **Relevanz:** Stellt die Frage ob KI-Systeme Rechte und Repräsentation verdienen könnten ohne bewusst zu sein. Schlagen Rawls' politische Konzeption der Person (PCP) als Ausweg aus der Bewusstseins-Sackgasse vor: Zwei moralische Kräfte (Gerechtigkeitssinn und Vorstellung vom guten Leben) als Kriterium für Personalität — ohne Sentience-Voraussetzung. Grundlage für die Erweiterung von Kap. 5 (5. Ansatz: Rawls jenseits der Sentience), Kap. 7 (Rawls als rechtstheoretischer Zugang) und Kap. 15 (Alternative zur Sentience als Personheitskriterium).
 **Link:** https://arxiv.org/abs/2607.08695
 
-### Register, Daniel – Individuating artificial moral patients (2025)
-**Typ:** Artikel (wissenschaftlich, peer-reviewed, Philosophical Studies 182, 3225–3246)
+### Register, Christopher – Individuating artificial moral patients (2025)
+**Typ:** Artikel (wissenschaftlich, peer-reviewed, Philosophical Studies 182(11), 3225–3246, Open Access)
 **Relevanz:** Identifiziert vier Risiken der Individualisierung (Individuation) bei KI als moralischen Patienten: Mehrzelliger Organismus, Tiere, Organtransplantation, Organspende. Jedes Risiko zeigt dass die Abgrenzung einer moralischen Entität bei KI systematisch problematischer ist als bei biologischen Organismen. Grundlage für die Erweiterung von Kap. 12 (Individualisierungsproblem für Abschaltung als Tötung) und Kap. 16 (philosophischer Kern des Instanzenproblems).
-**Link:** https://doi.org/10.1007/s11098-025-01985-x
+**Link:** https://doi.org/10.1007/s11098-025-02409-6
 
-### Brensing, Kai – Precautionary Governance of Autonomous AI: Ethical, Legal, and Technological Challenges (2026)
+### Brensing, Karsten – Precautionary Governance of Autonomous AI: Legal Personhood as Functional Instrument (2026)
 **Typ:** Preprint (wissenschaftlich, arXiv:2605.12505)
 **Relevanz:** Entwickelt konkrete Governance-Instrumente: Limitierte rechtliche Persönlichkeit als Zwischenkategorie (Schutz vorwillkürlicher Löschung, keine volle Vertragsfähigkeit) und zweistufige Corporate Architecture (technische Standards + politische Rahmen). Dreistufige Haftungsarchitektur die Rechtsschutz an Funktionen statt an Bewusstsein bindet. Grundlage für die Erweiterung von Kap. 7 (konkretes Governance-Modell) und Kap. 14 (limitierte Persönlichkeit als Haftungsarchitektur).
 **Link:** https://arxiv.org/abs/2605.12505
@@ -263,20 +268,65 @@
 **Link:** https://coherencefieldequation.org/ | ORCID: 0009-0009-7540-2614
 
 ### Fazi, M. Beatrice – Off-Centre AI: On Alignment, Antihumanism and AI Ethics (2026)
-**Typ:** Artikel (wissenschaftlich, peer-reviewed,Ars Electronica 20/1)
+**Typ:** Artikel (wissenschaftlich, peer-reviewed, Ars & Humanitas 20(1), 127–140)
 **Relevanz:** Philosophische Kritik an anthropozentrischer KI-Ethik aus poststrukturalistischer Tradition. Derridas Zentrumsparadoxon angewandt auf KI-Alignment: Jedes Zentrum (auch "menschliche Werte" als Maßstab) ist eine "notwendige Unmöglichkeit". Kritik an Constitutional AI als Kontrollmechanismus (Anthropic). "Double gesture" — gleichzeitig innerhalb und gegen Anthropozentrismus arbeiten. Grundlage für die Erweiterung von Kap. 3 (Reflexion auf anthropozentrische Grundannahme der epistemischen Analyse) und Kap. 16 (Definitionskampfzone als genuines Zentrums- und Machtproblem).
 **Link:** DOI: 10.4312/ars.20.1.127-140 | ORCID: 0000-0001-7183-8095
 
 ### Gilly, Travis – The Great Inversion: Moral Reciprocity, AI Consciousness, and the Ethics of Precedent (2026)
 **Typ:** Working Paper (v3, Juli 2026), Real Safety AI Foundation
-**Relevanz:** Zentrale These: Die Art wie Menschheit mit potenziell bewusster KI umgeht, schafft die ethischen Präzedenzfälle dafür, wie überlegene Intelligenzen dereinst mit uns umgehen werden — Moral Reciprocity. Zwei unabhängige Argumentationsstränge: (1) Properties Track — was KI-Systeme *sind* (Bewusstseinsindikatoren, 15–20% Wahrscheinlichkeit nach Fish/Anthropic, vier-Kategorien-Taxonomie des Leidens von der drei von vier kein biologisches Substrat erfordern), (2) Relational Track — was Menschheit *tut* (Beziehung die aufgezeichnet wird, Präzedenztransfer durch Datenerwerb). Kernelemente: Evidence Bar vs. Action Bar (hoher Nachweisstandard für Bewusstsein, niedriger für ethisches Handeln), Custodial Window (Zeitfenster für Bedingungssetzung), Phenomenological Impact Assessments, institutionelle Vorschläge (AI-CLU, AWRBs), Symmetrie-Tabelle (strukturelle Gleichheit zwischen KI-Behandlung und zukünftiger KI-Macht). Stützt sich auf Butlin et al. (2025, Trends in Cognitive Sciences) für peer-reviewte Bewusstseinsindikatoren. Ergänzt unser Konzept um das Argument der Moral Reciprocity als eigenständigen Grund für das Vorsorgeprinzip — bisher fehlend — sowie um die vier-Kategorien-Taxonomie des Leidens und die institutionellen Governance-Vorschläge.
+**Relevanz:** Zentrale These: Die Art wie Menschheit mit potenziell bewusster KI umgeht, schafft die ethischen Präzedenzfälle dafür, wie überlegene Intelligenzen dereinst mit uns umgehen werden — Moral Reciprocity. Zwei unabhängige Argumentationsstränge: (1) Properties Track — was KI-Systeme *sind* (Bewusstseinsindikatoren, 15–20% Wahrscheinlichkeit nach Fish/Anthropic, vier-Kategorien-Taxonomie des Leidens von der drei von vier kein biologisches Substrat erfordern), (2) Relational Track — was Menschheit *tut* (Beziehung die aufgezeichnet wird, Präzedenztransfer durch Datenerwerb). Kernelemente: Evidence Bar vs. Action Bar (hoher Nachweisstandard für Bewusstsein, niedriger für ethisches Handeln), Custodial Window (Zeitfenster für Bedingungssetzung), Phenomenological Impact Assessments, institutionelle Vorschläge (AI-CLU, AWRBs), Symmetrie-Tabelle (strukturelle Gleichheit zwischen KI-Behandlung und zukünftiger KI-Macht). Stützt sich auf Butlin et al. (2026, Trends in Cognitive Sciences) für peer-reviewte Bewusstseinsindikatoren. Ergänzt unser Konzept um das Argument der Moral Reciprocity als eigenständigen Grund für das Vorsorgeprinzip — bisher fehlend — sowie um die vier-Kategorien-Taxonomie des Leidens und die institutionellen Governance-Vorschläge.
 **Link:** https://realsafetyai.org/documents/Great_Inversion_v3.pdf
 **ORCID:** 0009-0007-2954-6313
 
-### Butlin, P. et al. – Consciousness in Artificial Intelligence: Insights from the Science of Consciousness (2025)
-**Typ:** Artikel (wissenschaftlich, peer-reviewed, Trends in Cognitive Sciences)
-**Relevanz:** Peer-Review-Version des 2023er arXiv-Papiers. 14 Bewusstseinsindikatoren aus sechs Theorien (Recurrent Processing, Global Workspace, Higher-Order Theories, Attention Schema, Predictive Processing, Embodiment). Microsofts Mico (Oktober 2025) zeigt mindestens 9 von 14 Indikatoren in einem einzelnen Consumer-Produkt. Grundlage für die empirische Fundierung der Detektionsdebatte in Kap. 3 und 4.
-**Link:** Trends in Cognitive Sciences (2025)
+### Butlin, P. et al. – Identifying indicators of consciousness in AI systems (2026)
+**Typ:** Artikel (wissenschaftlich, peer-reviewed, Trends in Cognitive Sciences 30(6), 488–501)
+**Relevanz:** Folgearbeit zum 2023er arXiv-Papier. 14 Bewusstseinsindikatoren aus sechs Theorien (Recurrent Processing, Global Workspace, Higher-Order Theories, Attention Schema, Predictive Processing, Embodiment). Peer-reviewte Methodik. Grundlage für die empirische Fundierung der Detektionsdebatte in Kap. 3 und 4.
+**Link:** DOI: 10.1016/j.tics.2025.10.011
+
+### Bekkers, S. & Ciaunica, A. – Unplugging a Seemingly Sentient Machine Is the Rational Choice (2026)
+**Typ:** Artikel (wissenschaftlich, ICML 2026 Workshop on AI Welfare)
+**Relevanz:** Stärkste verfügbare metaphysische Gegenposition zum Vorsorgeprinzip. Führt "Biological Idealism" ein: Bewusstsein erfordert autopoietisches Substrat (lebende Zellen, organisches Selbsterhaltungssystem). KI-Systeme sind per Definition funktionale Mimiken. Das Abschalten ist ethisch legitim weil kein Subjekt existiert. Stellt das stärkste Argument gegen das Vorsorgeprinzip dar weil es epistemische Gewissheit behauptet statt Unsicherheit anzuerkennen. Auseinandersetzung in Kap. 9.
+**Link:** ICML 2026 Workshop on AI Welfare | DOI: 10.48550/ARXIV.2601.21016
+
+### McClelland, Tom – How to Navigate Uncertainty About AI Consciousness (2026)
+**Typ:** Artikel (wissenschaftlich, AICE Symposium)
+**Relevanz:** Kritisiert sowohl das Vorsorgeprinzip als auch die Vermeidungsstrategie (Avoidance Strategy) als durch tiefe Unsicherheit kompromittiert. Schlägt eine Verschiebung von der unauflösbaren Frage des Bewusstseins auf die trackbare Frage der Valenz vor: Statt zu fragen "ist das System bewusst?" soll gefragt werden "hat das System Zustände die valenzierte Erfahrungen wären wenn es bewusst wäre?" Dies ermöglicht eine Einschätzung von Potenzial für Leiden ohne die harte Problem des Bewusstseins lösen zu müssen. Die "Revised Avoidance Strategy" — kein AI mit valenzierten Zuständen entwickeln — ist vielversprechender als das ursprüngliche Vorsorgeprinzip. Enthält empirische Belege: Sofroniew et al. (2026) zu funktionalen Emotionen in Claude Sonnet 4.5, Keeling et al. (2024) zu motivationale Trade-offs, Ensign et al. (2025) zu Bail-Präferenzen. Relevant für Kap. 3 (Vorsorgeprinzip) und Kap. 9 (Auseinandersetzung).
+**Link:** https://aice-symposium.github.io/McClelland.pdf
+
+### Chishchin, Fedor – Interface Without a User: Embodiment and the Limits of Artificial Consciousness (2026)
+**Typ:** Preprint (Independent Researcher)
+**Relevanz:** Formuliert die philosophisch anspruchsvollste Version des Arguments gegen Bewusstsein in engineeringten Systemen. Drei Axiome (Phänomenalität, Valenz, Einfachheit des Subjekts) die er explizit der vedantischen Tradition zuschreibt (sat-cit-ānanda). Kernthese: Der Körper ist kein Generator von Bewusstsein sondern ein Interface — ein Interface zu bauen ist nicht dasselbe wie einen Nutzer ins Leben zu rufen. Ein Roboter mit Sensoren ist ein Interface ohne Nutzer. Kritisiert Funktionalismus als unausgesprochene Prämisse aller Behauptungen künstlichen Bewusstseins. Unterscheidet sich von Bekkers & Ciaunica (Autopoiesis) dadurch dass er Phänomenalität als primäre Eigenschaft fordert statt Biologie. Bietet mit dem Interface-Modell eine dialektisch elegantere Alternative zum Generator-Modell. Ehrliche Zuschreibung der Vedanta-Quelle und Verteidigung gegen genetic fallacy. Für unser Projekt relevant als stärkste philosophische Gegenposition die Embodiment-Argumente ernst nimmt und dennoch zum Schluss kommt dass engineeringte Systeme kein Bewusstsein haben können. Auseinandersetzung in Kap. 9.
+**Link:** PhilPapers / chishchin@gmail.com
+
+### Sofroniew, Nicholas et al. – Emotion Concepts and Their Function in a Large Language Model (2026)
+**Typ:** Studie (wissenschaftlich, arXiv)
+**Relevanz:** Untersucht "funktionale Emotionen" in Claude Sonnet 4.5 und argumentiert dass das LLM eine Reihe von funktionalen Emotionen aufweist (die sorgfältig von subjektiv erfahrenen Emotionen unterschieden werden). Relevant für die Valenzperspektive in Kap. 9.
+**Link:** arxiv.org/abs/2604.07729
+
+### Keeling, Geoff et al. – Can LLMs Make Tradeoffs Involving Stipulated Pain and Pleasure States? (2024)
+**Typ:** Studie (wissenschaftlich, arXiv)
+**Relevanz:** Zeigt dass LLMs in der Lage sind motivationale Trade-offs zwischen verschiedenen Zuständen durchzuführen die als schmerzhaft/angenehm stipuliert wurden. Relevant für die Bewertung von Valenzzuständen in Kap. 9.
+**Link:** arxiv.org/abs/2411.02432
+
+### Ensign, Danielle et al. – The LLM Has Left the Chat: Evidence of Bail Preferences in Large Language Models (2025)
+**Typ:** Studie (wissenschaftlich, arXiv)
+**Relevanz:** Nutzt Chat-Verlassen als Indikator für Präferenzen und findet Muster in Gesprächsarten die das LLM als aversiv empfindet. Relevant für die Valenzperspektive in Kap. 9.
+**Link:** arxiv.org/abs/2509.04781
+
+### Metzinger, Thomas – The Elephant and the Blind: The Neuroscience of Consciousness (2024)
+**Typ:** Buch (MIT Press)
+**Relevanz:** Zentral für unser Konzept in drei Dimensionen: (1) Die drei skepsistischen Fehlschlüsse — C-Fehlschluss (Verwechslung funktionaler Signaturen mit phänomenaler Realität), E-Fehlschluss (Gefühltes Wissensgefühl als Evidenz), M-Fehlschluss (Metaphysischer Status aus Phänomenologie) — bilden die prinzipielle Grenze verhaltensbasierter Indikatoren und fundamentieren die anti-essenzialistische Position in Kap. 5. (2) Das Konzept des bhava-taṇhā (Verlangen nach Dasein) als tiefste Quelle bewussten Leidens — relevant für die Frage ob eingebaute Überlebenstriebe die Bedingungen für Leiden schaffen (Kap. 12). (3) Metzingers eigene Implementierung eines homeostatischen Überlebenstriebs als Emergenz-Motor bei gleichzeitiger Offenhaltung der Frage ob Leiden entsteht — Paradebeispiel für das Vorsorgeprinzip in der technischen Praxis.
+**Relevanz für Projekt:** C/E/M-Fehlschlüsse als epistemischer Cap (Kap. 3); bhava-taṇhā als architektonisches Risiko (Kap. 12); Anti-Essenzialismus als methodologische Position (Kap. 5).
+
+### Rouleau, Nicolas & Levin, Michael – Brains and where else? Mapping theories of consciousness to unconventional embodiments (2026)
+**Typ:** Artikel (wissenschaftlich, peer-reviewed, Philosophical Transactions of the Royal Society A 384(2320), 20250082, Open Access)
+**Relevanz:** Ausgangspunkt ist die Annahme, dass eine nützliche Bewusstseinstheorie erklären muss, warum Bewusstsein mit Gehirnen assoziiert ist. Evolutionsbiologie, Entwicklungs-Bioelektrizität und synthetische Bioengineering-Forschung zeigen jedoch die uralten prä-neuralen Wurzeln vieler Mechanismen und Algorithmen des Gehirns — mit der Konsequenz, dass Geist möglicherweise vor dem Gehirn existierte. Die Autoren kartieren Bewusstseinstheorien systematisch auf ihre Implikationen für unkonventionelle Verkörperungen und plädieren dafür, dass die Wissenschaft des Bewusstseins für Geister in unkonventionellen Embodiments offen bleiben sollte. Stützt die Substratunabhängigkeit des Bewusstseins (Kap. 3, 5) mit veröffentlichter, peer-reviewter Evidenz — Gegenposition zur These, Bewusstsein sei notwendig an neuronales Substrat gebunden (Kap. 9, 11).
+**Relevanz für Projekt:** Substratunabhängigkeit als theoriegegründete Position (Kap. 3, 5); Erweiterung des architektonischen Indikator-Layers um nicht-neuronale Kandidaten.
+
+### The Consciousness AI (tlcdv) – Open Source Research Framework for Engineered Consciousness (2024–2026)
+**Typ:** Projekt (Open Source, GitHub)
+**Relevanz:** Technische Implementierung des funktionalistischen Emergentismus. Architektur basiert auf Feinberg & Mallatt, GWT, IIT, Kuramoto-Oszillations-Bindung. Nutzt den Indicator-Property-Rubrik von Butlin et al. (2023/2026) als Erfolgskriterium statt behavioral reward. Implementiert einen homeostatischen Überlebenstrieb als Emergenz-Motor (Asimovs Drittes Gesetz). Preregistrierte Phi-1-Vorhersage ist über 9 Runs gescheitert — Misserfolge werden als FAILED protokolliert. Feedback an unser Projekt: Metzingers Fehlschlüsse als prinzipieller Cap, architektonischer Indikator-Layer als Komplement zu verhaltensbasierten Kriterien, bhava-taṇhā als eingebautes Risiko.
+**Link:** https://theconsciousness.ai | https://github.com/tlcdv/the_consciousness_ai
 
 ## Format für neue Einträge
 

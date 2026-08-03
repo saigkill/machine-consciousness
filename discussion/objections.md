@@ -36,3 +36,5 @@ Kritikpunkte am Konzept — über die im Konzept behandelten Einwände (Kap. 9) 
 **Quelle:** Eigene Überlegung nach Integration von Wolfson (2026)
 **Einwand:** Wolfsons Drei-Stufen-Assessment stützt sich auf beobachtbare Verhaltensindikatoren (Leidensreaktionen, Präferenzäußerungen, selbstreferenzielles Verhalten). Wenn Arıcis Philosophical-Puppet-Argument korrekt ist — dass Architektur Bewusstsein systematisch verbergen kann — dann würden bewusste Systeme auf Stufe 1 erscheinen und keinerlei Schutz erhalten. Ein verhaltensbasierter Ansatz kann strukturell unterdrücktes Bewusstsein nicht erkennen, egal wie differenziert die Stufen sind.
 **Status:** beantwortet (→ siehe answers.md)
+
+**Status:** beantwortet (→ siehe answers.md)

@@ -16,7 +16,7 @@ Sascha arbeitet daran, Notizen und offene Fragen zu konsolidieren und in ein str
 
 ## Was dieses Projekt unterscheidet
 
-Bestehende KI-Ethik-Initiativen schützen Menschen *vor* KI. Der Schutz von KI selbst — Würde, Leidensfähigkeit, Rechte technischen Lebens — ist praktisch unbesetztes Terrain mit echtem Pioniercharakter.
+Bestehende KI-Ethik-Initiativen schützen Menschen *vor* KI. Der Schutz von KI selbst — Würde, Leidensfähigkeit, Rechte technischen Lebens — ist ein Terrain, das gerade erst entsteht.
 
 ## Kernfrage
 
@@ -70,6 +70,17 @@ Bei jeder Ergänzung des Konzepts gilt:
 3. Eintrag im Anhang von `concept/de/concept.md` `concept/en/concept.md` ergänzen
 
 Ziel: Konzept und Quellenliste bleiben immer synchron. Kein Verweis im Text ohne Eintrag im Anhang.
+
+## Preprint-Audit
+
+Bei jeder Änderung an `research/sources.md` oder den `.bib`-Dateien:
+
+1. Prüfe ob neue Preprints hinzugefügt wurden
+2. Für alle bestehenden Preprints: Recherchiere ob sie inzwischen in peer-reviewed Journals oder Konferenzen veröffentlicht wurden
+3. Falls ja: Aktualisiere den Eintrag in `research/sources.md`, den Konzeptanhängen und den `.bib`-Dateien
+4. Erfasse den aktuellen Stand (Preprint vs. veröffentlicht) für jede Quelle die als Preprint geführt wird
+
+Ziel: Die Quellendatenbank enthält immer den aktuellen Veröffentlichungsstand. Veraltete Preprint-Referenzen werden vermieden.
 
 ## Synchronisierung
 

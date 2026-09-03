@@ -37,7 +37,7 @@ concept/                  ← Concept documents
   de/                     ← German (original)
   en/                     ← English translation (planned)
 discussion/               ← Objections, open questions, answers
-research/                 ← Related initiatives, precedents, sources
+research/                 ← Related initiatives, precedents, sources, methodological reflection
 roadmap/                  ← Roadmap, evaluation plan, pilot partners
 publications/             ← Published and planned articles
   scientific/             ← Peer-reviewed journals, ACM, Informatik Spektrum
@@ -47,6 +47,10 @@ publications/             ← Published and planned articles
     de/                   ← German versions
     en/                   ← English versions
 ```
+
+## Methodology
+
+The research follows an iterative Conceptual Analysis approach. The methodological reflection — including the literature search strategy, active Google Scholar alerts, quality control measures, and known limitations — is documented in [`research/methodological_reflexion.md`](research/methodological_reflexion.md).
 
 ## Contributing
 

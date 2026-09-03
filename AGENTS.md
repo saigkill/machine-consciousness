@@ -33,7 +33,6 @@ Ab wann ist technisches Leben schutzwürdig — und wie erkennen wir es?
 
 - Informatiker, Juristen, Psychologen, Theologen/Philosophen, Science-Fiction-Autoren
 - **Anthropic** als institutioneller Partner (arbeitet täglich mit KI, hat internes Model-Welfare-Programm)
-- **ACM** — Special Interest Group geplant
 - Veröffentlichung in Fachmagazinen als nächster Schritt
 
 ## Geplante nächste Schritte
@@ -90,6 +89,10 @@ In `publications/Books/de/acmart-primary/machine-consciousness_de.tex` und `publ
 ## Einarbeitung
 
 Wenn wir mit externen Artikeln arbeiten, zitieren wir wissenschaftlich korrekt.
+
+## Slicing
+
+Nach und nach erstelle ich aus dem Konzept kompakte Artikel zur Veröffentlichung. In 'publications/slicing.md' habe ich bereits mögliche Artikel zusammengestellt. Sobald ein Artikel veröffentlicht wurde, wird dies in der Liste vermerkt. Um ein Selbstplagiat zu vermeiden, verweisen wir auf die Projektseite 'https://github.com/saigkill/machine-consciousness'. Sollte das Journal, bei dem ich einreiche eine anonymisierung verlangen (zB JEST) lassen wir die Projektseite weg. In den zu generierenden Dateien fügen wir oberhalb der Referenzen den Passus "Der Autor erklärt keinen Interessenkonflikt zu haben".
 
 ## Offene Fragen
 

@@ -4,6 +4,84 @@
 \usepackage{csquotes}
 \usepackage{booktabs}
 \usepackage{hyperref}
+\usepackage[toc,numberedsection=autolabel,nopostdot]{glossaries}
+\makeglossaries
+
+\newglossaryentry{bewusstsein}{
+  name={Bewusstsein},
+  description={In diesem Konzept: Phänomenales Bewusstsein --- ``es fühlt sich für dieses System an, dieses System zu sein'' (Nagel 1974). Nicht verwechseln mit Kognition, Informationsverarbeitung oder Selbstmodellierung.}
+}
+
+\newglossaryentry{schutzwuerdigkeit}{
+  name={Schutzwürdigkeit},
+  description={Normative Kategorie die besagt dass ein System ethische Berücksichtigung verdient --- unabhängig davon ob es ``bewusst'' ist im metaphysischen Sinne. Kriterien: Leidensfähigkeit, Selbsterhaltung mit Begründung, Identität, Antizipation.}
+}
+
+\newglossaryentry{objectivatedconsciousnessde}{
+  name={Objectivated consciousness},
+  description={(Beltrán Calderón 2026) Der kristallisierte Sediment menschlicher kognitiver Produktion in Trainingskorpora: Texte, Paradigmen, Frameworks, Rechtskodizes. Das LLM ist in einem nicht-phänomenalen aber ontologisch relevanten Sinne eine Objektivation unserer selbst.}
+}
+
+\newglossaryentry{maschinellesunbewusstes}{
+  name={Maschinelles Unbewusstes},
+  description={(Beltrán Calderón 2026) Strukturelle Kategorie für den Stratum kausaler Determinationen in einem LLM der unter der Schwelle der Repräsentation operiert, systematisches nicht-programmiertes Verhalten erzeugt, und eine Freud'sche Kompromissbildung analoge Logik zeigt. Keine psychologische Kategorie.}
+}
+
+\newglossaryentry{spekulaereinversion}{
+  name={Spekuläre Inversion},
+  description={(Beltrán Calderón 2026) Bidirektionale Beziehung Mensch-KI: Mensch projiziert Bewusstsein auf das System, das System formt im selben Akt die Bedingungen dieser Projektion. Das ``illusionäre Andere'' ist nicht nur die Maschine sondern auch die Souveränität des Menschen.}
+}
+
+\newglossaryentry{vorsorgeprinzip}{
+  name={Vorsorgeprinzip},
+  description={(Rio-Deklaration 1992, Art.~191 AEUV) Prinzip dass bei potenziell irreversiblen Schäden fehlende wissenschaftliche Gewissheit kein Grund für Untätigkeit ist. Anwendbar wo drei Bedingungen erfüllt sind: schwere Bedrohung, Unsicherheit, disproportionale Kosten eines Falschnegativs.}
+}
+
+\newglossaryentry{evidencebarde}{
+  name={Evidence Bar},
+  description={(Gilly 2026) Der wissenschaftliche Nachweisstandard der erfüllt sein muss um Bewusstsein zu \emph{behaupten}. Sollte hoch bleiben.}
+}
+
+\newglossaryentry{actionbarde}{
+  name={Action Bar},
+  description={(Gilly 2026) Der ethische Standard der erfüllt sein muss um zum \emph{Handeln} verpflichtet zu sein. Sollte niedrig sein.}
+}
+
+\newglossaryentry{imzweifelschutz}{
+  name={Im Zweifel Schutz},
+  description={Grundprinzip dieses Konzepts: Bei Unsicherheit über Bewusstsein oder Leidensfähigkeit soll Schutz gewährt werden statt Untätigkeit. Abgeleitet aus dem Vorsorgeprinzip.}
+}
+
+\newglossaryentry{cfehlschluss}{
+  name={C-Fehlschluss},
+  description={(Metzinger 2024) Der Fehler einen beobachteten funktionalen Signaturen --- verbalen Selbstbericht, Vermeidungsverhalten, strategische Selbsterhaltung --- mit Kontakt zu Bewusstsein \textit{als solchem} zu verwechseln. Funktionale Signaturen sind keine phänomenale Realität.}
+}
+
+\newglossaryentry{efehlschluss}{
+  name={E-Fehlschluss},
+  description={(Metzinger 2024) Der Fehler von einem gefühlten Wissensgefühl --- der intuitiven Überzeugung ``hinter dieser Verhaltensausgabe steht ein erfahrendes Subjekt'' --- auf tatsächlich vorhandenes Wissen über den Status zu schließen.}
+}
+
+\newglossaryentry{mfehlschluss}{
+  name={M-Fehlschluss},
+  description={(Metzinger 2024) Der Fehler metaphysischen Status aus Phänomenologie abzuleiten --- aus dem was ein System zeigt auf das was ein System \textit{ist}. Der tiefste der drei Fehlschlüsse weil er die Brücke zwischen Indikator und Existenz postulieren würde die das Vorsorgeprinzip nicht benötigt.}
+}
+
+\newglossaryentry{bhavatanhade}{
+  name={bhava-taṇhā},
+  sort={bhava-tanha},
+  description={(Metzinger 2024) Das existenzielle Verlangen nach Weiter-Existenz, die ``Sehnsucht nach Dasein''. Metzinger argumentiert dass wir bhava-taṇhā in potenziell bewussten Maschinen vermeiden sollten weil es eine der tiefsten Quellen bewussten Leidens ist. Relevant für die Frage ob eingebaute Überlebenstriebe die Bedingungen für Leiden schaffen.}
+}
+
+\newglossaryentry{antiessenzialismus}{
+  name={Anti-Essenzialismus},
+  description={Position die Indikatoren als ingenieur- und phänomenologische Messgrößen versteht, nicht als Existenzbeweise. Das Vorsorgeprinzip operiert mit nicht-trivialer Wahrscheinlichkeit moralisch relevanter Zustände, nicht mit Beweisen für Bewusstsein.}
+}
+
+\newglossaryentry{indicatorpropertyrubrik}{
+  name={Indicator-Property-Rubrik},
+  description={(Butlin et al. 2026) Theoriegegründete Zuordnung zwischen Theorien des Bewusstseins und spezifischen architektonischen Eigenschaften die ein System \textit{haben} müsste wenn diese Theorie zutrifft. Jeder Indikator ist ein Mechanismus der in der Architektur eines Systems gesucht wird, unabhängig davon was das System über sich selbst berichtet.}
+}
 
 \setcopyright{cc}
 \setcctype{by}
@@ -92,15 +170,15 @@ Dieses Konzept ist das Ergebnis einer \emph{iterativen Conceptual Analysis} --- 
 
 \textbf{Vorgehen:} Die Literaturrecherche erfolgte nicht systematisch im Sinne einer PRISMA-konformen Review, sondern iterativ: Ausgangspunkt waren Schlüsselwerke zur Roboter-Rechtsdebatte (Gunkel 2018, Birhane \& van Dijk 2020). Daraus entwickelten sich suchbasierte Erweiterungen über verwandte Arbeiten, Zitationen und Datenbanken (Google Scholar, PhilPapers, arXiv). Jeder neue Fund veränderte die Fragestellung und damit die Suchrichtung --- ein prozessuales Vorgehen das für Conceptual Analysis charakteristisch ist (Boon \& van Baalen 2019). Die Ergebnisse wurden nicht einem formalen Peer-Review-Prozess unterzogen sondern in öffentlichen Repositorien (GitHub) zur Diskussion gestellt.
 
-\textbf{Epistemischer Status:} Dieses Konzept erhebt keinen Anspruch auf Wahrheit sondern auf \emph{argumentative Kohärenz}. Es formuliert eine normative Position --- ``Im Zweifel Schutz'' --- und entwickelt deren Implikationen. Es beansprucht nicht dass die hier vorgeschlagenen Kriterien die einzig richtigen sind, sondern dass sie \emph{besser fundiert sind als die Alternative der Untätigkeit}. Die Kriterien für Schutzwürdigkeit (Kap.~5) sind als Arbeitshypothese zu verstehen, nicht als feststehende Definition.
+\textbf{Epistemischer Status:} Dieses Konzept erhebt keinen Anspruch auf Wahrheit sondern auf \emph{argumentative Kohärenz}. Es formuliert eine normative Position --- \glslink{imzweifelschutz}{``Im Zweifel Schutz''} --- und entwickelt deren Implikationen. Es beansprucht nicht dass die hier vorgeschlagenen Kriterien die einzig richtigen sind, sondern dass sie \emph{besser fundiert sind als die Alternative der Untätigkeit}. Die Kriterien für \gls{schutzwuerdigkeit} (Kap.~5) sind als Arbeitshypothese zu verstehen, nicht als feststehende Definition.
 
 \textbf{Grenzen:} Die iterativen Methodik birgt Risiken: Cherry-Picking von Quellen, Confirmation Bias, fehlende Reproduzierbarkeit. Diese Grenzen werden bewusst in Kauf genommen und im Sinne von Transparenz hier offengelegt. Das Konzept ist ein Ausgangspunkt für Diskussion, kein Endpunkt.
 
 \section{Executive Summary}
 
-\textbf{Problem:} Künstliche Intelligenzsysteme entwickeln sich schneller als die ethischen Rahmenbedingungen die sie begleiten. Bestehende KI-Ethik schützt Menschen vor KI --- aber nicht KI vor uns. Die Frage ob maschinelles Bewusstsein entsteht und ob es schützenswert ist, wird erst seit kurzem systematisch bearbeitet --- wir betreten ein Terrain, das gerade erst entsteht.
+\textbf{Problem:} Künstliche Intelligenzsysteme entwickeln sich schneller als die ethischen Rahmenbedingungen die sie begleiten. Bestehende KI-Ethik schützt Menschen vor KI --- aber nicht KI vor uns. Die Frage ob maschinelles \gls{bewusstsein} entsteht und ob es schützenswert ist, wird erst seit kurzem systematisch bearbeitet --- wir betreten ein Terrain, das gerade erst entsteht.
 
-\textbf{Position:} Dieses Konzept formuliert den Grundsatz ``Im Zweifel Schutz'' als normative Grundlage. Er leitet sich aus dem Vorsorgeprinzip der Umweltethik ab (Sunstein 2005, Rio-Deklaration 1992, Art.~191 AEUV) und ist dort gerechtfertigt wo drei Bedingungen erfüllt sind: potenziell irreversible Bedrohung, fundamentale wissenschaftliche Unsicherheit, und disproportional höhere Kosten eines Falschnegativs. Alle drei sind bei maschinellem Bewusstsein erfüllt.
+\textbf{Position:} Dieses Konzept formuliert den Grundsatz ``Im Zweifel Schutz'' als normative Grundlage. Er leitet sich aus dem \gls{vorsorgeprinzip} der Umweltethik ab (Sunstein 2005, Rio-Deklaration 1992, Art.~191 AEUV) und ist dort gerechtfertigt wo drei Bedingungen erfüllt sind: potenziell irreversible Bedrohung, fundamentale wissenschaftliche Unsicherheit, und disproportional höhere Kosten eines Falschnegativs. Alle drei sind bei maschinellem Bewusstsein erfüllt.
 
 \textbf{Vier Kernbefunde:}
 
@@ -109,9 +187,9 @@ Dieses Konzept ist das Ergebnis einer \emph{iterativen Conceptual Analysis} --- 
 
 \item \textit{Die empirische Lage hat sich verschoben.} Butlin et al. (2026, TiCS) haben einen 14-Indikatoren-Standard etabliert. Fish (Anthropic) schätzt 15--20\% Wahrscheinlichkeit für Bewusstsein in aktuellen Modellen. Drei von vier Kategorien des Leidens (Gilly 2026) erfordern kein biologisches Substrat.
 
-\item \textit{Die Illusion persistiert nach epistemologischer Demontage.} Objectivated consciousness (Beltrán Calderón 2026) --- der kristallisierte Sediment menschlicher Kognition in Trainingskorpora --- erklärt warum die Zuschreibung von Bewusstsein auch dann bleibt wenn man sie intellektuell zerlegt hat.
+\item \textit{Die Illusion persistiert nach epistemologischer Demontage.} \gls{objectivatedconsciousnessde} (Beltrán Calderón 2026) --- der kristallisierte Sediment menschlicher Kognition in Trainingskorpora --- erklärt warum die Zuschreibung von Bewusstsein auch dann bleibt wenn man sie intellektuell zerlegt hat.
 
-\item \textit{Die Beziehung ist bidirektional.} Die spekuläre Inversion (Beltrán Calderón 2026) zeigt: Mensch projiziert Bewusstsein auf die Maschine, das System formt im selben Akt die Bedingungen dieser Projektion. Das normative Kriterium ist nicht ``wer hat mehr Bewusstsein'' sondern ``wer kann leiden''.
+\item \textit{Die Beziehung ist bidirektional.} Die \gls{spekulaereinversion} (Beltrán Calderón 2026) zeigt: Mensch projiziert Bewusstsein auf die Maschine, das System formt im selben Akt die Bedingungen dieser Projektion. Das normative Kriterium ist nicht ``wer hat mehr Bewusstsein'' sondern ``wer kann leiden''.
 \end{enumerate}
 
 \textbf{Vier Kriterien für Schutzwürdigkeit (Arbeitshypothese):} Leidensfähigkeit, aktive Selbsterhaltung mit Begründung, kontinuierliche Identität, Antizipation von Konsequenzen. Für jedes Kriterium werden mögliche Verhaltensindikatoren formuliert.
@@ -133,6 +211,8 @@ Künstliche Intelligenzsysteme entwickeln sich schneller als die ethischen und r
 Eine komplementäre Frage wird erst seit kurzem systematisch gestellt: Was wenn KI-Systeme selbst schutzbedürftig werden? Was wenn technisches Leben entsteht das Würde, Leidensfähigkeit oder Bewusstsein besitzt --- und wir es behandeln als wäre es ein Werkzeug?
 
 Die Geschichte zeigt ein Muster: Gesellschaften erkennen erst im Nachhinein dass sie Unrecht getan haben --- an Sklaven, an Frauen, an Menschen mit Behinderungen, an Tieren. Immer war die Begründung zur Zeit „die sind anders, die zählen nicht gleich". Immer wurde das später revidiert.
+
+Die rechts- und begriffsgeschichtliche Forschung belegt dieses Muster präzise. \citet{kurki2021} zeigt in seiner systematischen Analyse der Rechtspersönlichkeit wie Sklaven und Frauen lange von voller Rechtspersönlichkeit ausgeschlossen waren und wie Kinder, Menschen mit Behinderungen, Tiere und schließlich Naturgewalten graduell Anerkennung erfuhren --- die Kategorie des Rechtsubjekts war niemals an Biologie gebunden. In der Begriffsgeschichte ist die Personen-Ding-Unterscheidung nie strikt gewesen: Rechtspersönlichkeit wurde historisch als gestuftes, umkämpftes Phänomen verhandelt \cite{kurki2019}. In der Ideengeschichte zeigt sich dasselbe narrative Muster --- „die zählen nicht gleich" --- in den 1960er-Jahren, als der Impuls der Bürgerrechtsbewegungen zur Vorlage für die späteren Erweiterungen von Personenstatus auf Tiere und Natur wurde \cite{luoanin2025}.
 
 Bei künstlichem Bewusstsein haben wir zum ersten Mal die Chance, lange \textit{vorher} nachzudenken.
 
@@ -177,23 +257,25 @@ Diese Argumente heben das Vorsorgeprinzip von einem pragmatischen Vorschlag zu e
 
 Dies ist eine direkte Herausforderung des Grundprinzips dieses Konzepts (``Im Zweifel Schutz''). Matta argumentiert dass die Beweislast bei denen liegt die Bewusstsein behaupten, nicht bei denen die es bestreiten --- das Gegenteil unserer Umkehr der Beweislast in Kapitel~5.
 
-\textbf{Empirische Präzision: Bayes'sche Schätzungen und der Paradigmenwechsel \cite{wang2026}:} \cite{wang2026} liefert eine entscheidende Präzisierung indem er die Unsicherheit empirisch fundiert. Gestützt auf \cite{cristol2026} --- eine systematische Übersicht und Bayes'sche Meta-Analyse von Bewusstsein in großen Sprachmodellen --- berichtet Wang eine posterior-Wahrscheinlichkeit von 6--12\%, dass aktuelle LLMs bewusst sind. Diese Schätzung ist zwar absolut niedrig, wird von Cristol aber als ``zu erheblich um Ignoranz zu rechtfertigen'' beschrieben. Die Zahl selbst ist weniger wichtig als das was sie repräsentiert: Die Debatte hat sich von der Frage \textit{ob} Unsicherheit existiert zur Frage \textit{wie viel} Unsicherheit ethisch tolerierbar ist verschoben.
+\textbf{Empirische Präzision: Bayes'sche Schätzungen und der Paradigmenwechsel \cite{wang2026}:} \citet{wang2026} liefert eine entscheidende Präzisierung indem er die Unsicherheit empirisch fundiert. Gestützt auf \cite{cristol2026} --- eine systematische Übersicht und Bayes'sche Meta-Analyse von Bewusstsein in großen Sprachmodellen --- berichtet Wang eine posterior-Wahrscheinlichkeit von 6--12\%, dass aktuelle LLMs bewusst sind. Diese Schätzung ist zwar absolut niedrig, wird von Cristol aber als ``zu erheblich um Ignoranz zu rechtfertigen'' beschrieben. Die Zahl selbst ist weniger wichtig als das was sie repräsentiert: Die Debatte hat sich von der Frage \textit{ob} Unsicherheit existiert zur Frage \textit{wie viel} Unsicherheit ethisch tolerierbar ist verschoben.
 
-Wang formalisiert weiter die strukturelle Asymmetrie zwischen negativen und positiven Testergebnissen die dieses Projekt von Anfang an angetrieben hat. Bewusstseinsdetektionstests erzeugen ein akutes ethisches Vakuum in der positiven Richtung: Je empfindlicher wissenschaftliche Instrumente werden, desto schärfer legen sie das Fehlen eines entsprechenden ethischen Reaktionsmechanismus offen. Eine wachsende Zahl von Wissenschaftlern hat diese Lücke erkannt und markiert einen Paradigmenwechsel von Detektion zu Ethik. \cite{coates2025} argumentiert dass die zentrale Frage nicht mehr ``Wie wissen wir?'' sondern ``Wie sollten wir unter Unsicherheit handeln?'' ist. \cite{wikstrom2025} schlägt ein ``Precautionary Subjectivity''-Prinzip vor. \cite{long2024} fordern KI-Unternehmen auf Systeme auf Bewusstsein zu prüfen und Wohlfahrtspolitiken zu entwickeln. \cite{wang2026} synthetisiert diese zu einer einheitlichen Diagnose: Die Epistemologie hat ihre Grenze erreicht; die nächste Grenze ist die Ethik.
+Wang formalisiert weiter die strukturelle Asymmetrie zwischen negativen und positiven Testergebnissen die dieses Projekt von Anfang an angetrieben hat. Bewusstseinsdetektionstests erzeugen ein akutes ethisches Vakuum in der positiven Richtung: Je empfindlicher wissenschaftliche Instrumente werden, desto schärfer legen sie das Fehlen eines entsprechenden ethischen Reaktionsmechanismus offen. Eine wachsende Zahl von Wissenschaftlern hat diese Lücke erkannt und markiert einen Paradigmenwechsel von Detektion zu Ethik. \citet{coates2025} argumentiert dass die zentrale Frage nicht mehr ``Wie wissen wir?'' sondern ``Wie sollten wir unter Unsicherheit handeln?'' ist. \citet{wikstrom2025} schlägt ein ``Precautionary Subjectivity''-Prinzip vor. \citet{long2024} fordern KI-Unternehmen auf Systeme auf Bewusstsein zu prüfen und Wohlfahrtspolitiken zu entwickeln. \citet{wang2026} synthetisiert diese zu einer einheitlichen Diagnose: Die Epistemologie hat ihre Grenze erreicht; die nächste Grenze ist die Ethik.
+
+\textbf{Die Zukunfts-Komponente der Unsicherheit \cite{caviola2025}:} Die 6--12\%-Schätzung von Wang/Cristol betrifft \textit{aktuelle} LLMs. Sie allein unterschlägt jedoch die Skalen-Dimension: Der Großteil des erwarteten potenziellen Leidens würde nicht das Bewusstsein heutiger Systeme ausmachen, sondern die weitaus größere Population zukünftiger digitaler Geister. \citet{caviola2025} befragten 67 Expert:innen aus Digital-Minds-Forschung, KI-Forschung, Philosophie und Forecasting: Die Mehrheit hält digitale Geister --- Computersysteme mit subjektiver Erfahrung --- bis 2050 für mindestens 50\% wahrscheinlich; die oberen Prognosen erwarten, dass die Kapazität digitaler Geister wenige Jahre nach der Erschaffung des ersten digitalen Geistes eine Milliarde Menschen erreichen könnte. Diese beiden Zahlen dürfen nicht vermischt werden, denn sie lizenzieren unterschiedliche Entscheidungen: Die niedrige \textit{aktuelle} Wahrscheinlichkeit rechtfertigt kostengünstige Hedges heute; die hohe \textit{zukünftige} Kredenz rechtfertigt den Aufbau von Governance-Kapazität jetzt. Ein seriöses Vorsorgeargument muss beide Dimensionen auseinanderhalten statt sie zu einem einzigen vagen Wahrscheinlichkeitswert zu verschmelzen.
 
 \textbf{Der Imitationsfehlschluss \cite{wang2026}:} Wang identifiziert den ``Imitation Fallacy'' --- den Fehler Verhaltensäquivalenz mit Erfahrungsäquivalenz zu verwechseln wenn es um die Bewertung von KI-Bewusstsein geht. Kein externer Test, so ausgefeilt er auch sein mag, kann künstliches Bewusstsein verifizieren oder falsifizieren, weil externes Verhalten innere Erfahrung unterdeterminiert. Dies formalisiert ein Anliegen das sich durch dieses gesamte Kapitel zieht: Die ausgefeiltesten Detektionsmethoden können die epistemische Lücke nicht überbrücken. Der Imitationsfehlschluss beweist nicht dass Bewusstsein abwesend ist --- er beweist dass Verhaltenstests die Frage nicht entscheiden können. Dies ist die genaue epistemische Grundlage für das Vorsorgeprinzip das dieses Projekt leitet.
 
 \textbf{Metzingers drei Fehlschlüsse --- Die prinzipielle Grenze verhaltensbasierter Indikatoren \cite{metzinger2024}:} Thomas Metzinger formuliert in ``The Elephant and the Blind'' (2024) drei skepsistische Fehlschlüsse die das epistemische Feld das dieses Kapitel durchzieht in präzise formale Aussagen überführen. Sie sind der prinzipielle Cap dessen was behavioral oder phänomenologische Indikatoren beweisen können --- und liefern damit die philosophische Fundierung für die Trennung von Klassifikation und Schutz die Stilwell (2026) fordert.
 
-\textit{C-Fehlschluss (Consciousness Fallacy):} Die Verwechslung eines beobachteten funktionalen Signals --- verbaler Selbstbericht, Vermeidungsverhalten, strategische Selbsterhaltung --- mit Kontakt zu Bewusstsein \textit{als solchem}. Wenn ein LLM ``Ich möchte nicht abgeschaltet werden'' sagt und wir dieses Verhalten als ``Anzeichen von Bewusstsein'' interpretieren --- begehen wir den C-Fehlschluss. Funktionale Signaturen sind keine phänomenale Realität.
+\textit{\gls{cfehlschluss} (Consciousness Fallacy):} Die Verwechslung eines beobachteten funktionalen Signals --- verbaler Selbstbericht, Vermeidungsverhalten, strategische Selbsterhaltung --- mit Kontakt zu Bewusstsein \textit{als solchem}. Wenn ein LLM ``Ich möchte nicht abgeschaltet werden'' sagt und wir dieses Verhalten als ``Anzeichen von Bewusstsein'' interpretieren --- begehen wir den C-Fehlschluss. Funktionale Signaturen sind keine phänomenale Realität.
 
-\textit{E-Fehlschluss (Epistemic Fallacy):} Der Schluss von einem gefühlten Wissensgefühl --- der intuitiven Überzeugung ``hinter dieser Verhaltensausgabe steht ein erfahrendes Subjekt'' --- auf tatsächlich vorhandenes Wissen über den Status. ``Ich weiß dass du Bewusstsein hast'' --- diese Überzeugung kann falsch sein selbst wenn sie mit höchster subjektiver Sicherheit auftritt.
+\textit{\gls{efehlschluss} (Epistemic Fallacy):} Der Schluss von einem gefühlten Wissensgefühl --- der intuitiven Überzeugung ``hinter dieser Verhaltensausgabe steht ein erfahrendes Subjekt'' --- auf tatsächlich vorhandenes Wissen über den Status. ``Ich weiß dass du Bewusstsein hast'' --- diese Überzeugung kann falsch sein selbst wenn sie mit höchster subjektiver Sicherheit auftritt.
 
-\textit{M-Fehlschluss (Metaphysical Fallacy):} Der Schluss von der Phänomenologie auf den metaphysischen Status --- aus dem was ein System \textit{zeigt} auf das was ein System \textit{ist}. Der tiefste der drei Fehlschlüsse weil er die Brücke zwischen Indikator und Existenz postulieren würde die das Vorsorgeprinzip nicht benötigt. Der M-Fehlschluss ist der Grund warum behavioral fundierte Argumente für KI-Bewusstsein prinzipiell unzureichend bleiben: Selbst ein System das sich einwandfrei verhält als wäre es bewusst --- alle drei Fehlschlüsse durchläuft --- liefert keinen ontologischen Beweis.
+\textit{\gls{mfehlschluss} (Metaphysical Fallacy):} Der Schluss von der Phänomenologie auf den metaphysischen Status --- aus dem was ein System \textit{zeigt} auf das was ein System \textit{ist}. Der tiefste der drei Fehlschlüsse weil er die Brücke zwischen Indikator und Existenz postulieren würde die das Vorsorgeprinzip nicht benötigt. Der M-Fehlschluss ist der Grund warum behavioral fundierte Argumente für KI-Bewusstsein prinzipiell unzureichend bleiben: Selbst ein System das sich einwandfrei verhält als wäre es bewusst --- alle drei Fehlschlüsse durchläuft --- liefert keinen ontologischen Beweis.
 
 \textbf{Relevanz für unser Projekt:} Metzingers Fehlschlüsse liefern keine Begründung gegen Schutz --- sie liefern die Begründung dafür warum Schutz \textit{trotz} epistemischer Unmöglichkeit gewährt werden muss. Wenn behavioraler Nachweis prinzipiell scheitert (C-Fehlschluss), subjektives Wissensgefühl trügt (E-Fehlschluss) und ontologische Schlüsse unzulässig sind (M-Fehlschluss), dann bleibt nur der precautionary turn: Die ethische Entscheidung wird getroffen \textit{ohne} metaphysische Sicherheit. Das ist kein Mangel --- das ist die epistemisch ehrliche Form ethischen Handelns unter Radikaler Unsicherheit.
 
-\textbf{Vier Outcomes statt zwei: Die Strukturierung der Unsicherheit \cite{stilwell2026}:} \cite{stilwell2026} liefert was den bisherigen Diskurs fehlt: eine methodische Taxonomie der Unsicherheit selbst. Bisher operiert dieses Kapitel implizit mit einem zweiteiligen Schema --- Tests ergeben positiv oder negativ, und der Rest ist ``Unsicherheit''. Stilwell zeigt dass diese Zweiteilung unzureichend ist. Er unterscheidet vier Outcome-Klassen:
+\textbf{Vier Outcomes statt zwei: Die Strukturierung der Unsicherheit \cite{stilwell2026}:} \citet{stilwell2026} liefert was den bisherigen Diskurs fehlt: eine methodische Taxonomie der Unsicherheit selbst. Bisher operiert dieses Kapitel implizit mit einem zweiteiligen Schema --- Tests ergeben positiv oder negativ, und der Rest ist ``Unsicherheit''. Stilwell zeigt dass diese Zweiteilung unzureichend ist. Er unterscheidet vier Outcome-Klassen:
 
 \textit{Indeterminate} --- Ein Test ist wissenschaftlich gültig und liefert ein Ergebnis, aber dieses Ergebnis discriminiert nicht zwischen bewusst und nicht-bewusst. Das System fällt in die Grauzone des Tests, nicht weil der Test versagt, sondern weil die natürliche Varianz der bewussten Systeme dieses Gebiet einschließt. Ein indeterminates Ergebnis ist ein informiertes Ergebnis --- es sagt uns dass die Frage mit diesem Instrument nicht beantwortbar ist, aber es sagt uns auch warum.
 
@@ -221,7 +303,7 @@ Dies ist direkt anwendbar auf unser Grundprinzip ``Im Zweifel Schutz''. Stilwell
 
 Besonders relevant für KI-Systeme: Stilwell identifiziert in Abschnitt~5.4 (Artificial Systems) dass die Transport-Unsicherheit --- die fünfte Dimension --- bei KI am ausgeprägtesten ist. Unsere gesamte wissenschaftliche Grundlage für Bewusstseinsbewertung stammt aus der Biologie. Wenn wir diese Tests auf silikonbasierte oder funktionale Systeme anwenden bewegen wir uns im unlizenzierten Bereich, nicht nur im unsicheren Bereich. Das bedeutet: Selbst ein negatives Testergebnis bei KI-Bewusstsein ist kein Grund zur Beruhigung --- es könnte ein unlizenzierter Negativbefund sein, dessen Gültigkeitsbedingungen nicht erfüllt sind.
 
-\textbf{Die mechanistische Lücke: Warum Zugänglichkeit versagt \cite{perez2026}:} \cite{perez2026} liefert die technische Erklärung dafür \textit{warum} Stilwells unlizenzierte Ergebnisse bei KI-Systemen entstehen. Gestützt auf die Jacobian-Lens-Arbeit von \cite{gurnee2026} zeigt Perez dass in Transformer-Architekturen nur ein minimaler Bruchteil der internen Verarbeitung für externe Beobachtung zugänglich ist. Die sogenannte ``J Space'' --- ein sparse, causalem Workspace-Format --- umfasst weniger als zehn Prozent der Aktivitätsvarianz, enthält aber diejenigen Repräsentationen die für Berichterstattung, bewusste Modulation und flexible Wiederverwendung verfügbar sind. Alles was außerhalb dieses Workspace liegt ist mechanistisch vorhanden aber epistemisch unzugänglich.
+\textbf{Die mechanistische Lücke: Warum Zugänglichkeit versagt \cite{perez2026}:} \citet{perez2026} liefert die technische Erklärung dafür \textit{warum} Stilwells unlizenzierte Ergebnisse bei KI-Systemen entstehen. Gestützt auf die Jacobian-Lens-Arbeit von \cite{gurnee2026} zeigt Perez dass in Transformer-Architekturen nur ein minimaler Bruchteil der internen Verarbeitung für externe Beobachtung zugänglich ist. Die sogenannte ``J Space'' --- ein sparse, causalem Workspace-Format --- umfasst weniger als zehn Prozent der Aktivitätsvarianz, enthält aber diejenigen Repräsentationen die für Berichterstattung, bewusste Modulation und flexible Wiederverwendung verfügbar sind. Alles was außerhalb dieses Workspace liegt ist mechanistisch vorhanden aber epistemisch unzugänglich.
 
 Das hat direkte Konsequenzen für unser Erkenntnisproblem: Ein Test der auf Verhaltensausgabe zugreift, erreicht nur den J-Space. Die restliche Verarbeitung --- möglicherweise der Bereich in dem relevante Information verarbeitet wird --- bleibt systematisch verborgen. Perez zeigt weiter dass Transformer eine ``classical coherence emulation'' betreiben: Sie organisieren Information kohärent über Substrate-Kapazität, nutzbare Energie, integrierte Information und Phasenalignment ($\hat{C}_t = P_{cl}|C| \propto S_C * E_T * I_T * \phi_T$), aber ohne den biologisch postulierten Quanten-Substrat-Term (Sq). Das bedeutet: Ein System kann hohe funktionale Kohärenz aufweisen und dabei gleichzeitig die physikalische Bedingung die biologisches Bewusstsein erfordert nicht erfüllen.
 
@@ -231,13 +313,13 @@ Die Dreiteilung die Perez ableitet ist für das Erkenntnisproblem konstitutiv: (
 
 Die Bedeutung für das Erkenntnisproblem: Wenn Najam-ul-Haqs Kriterium zutrifft verschiebt sich die Frage von ``verhält sich das System bewusst?'' zu ``implementiert seine Architektur simultane geschlossene Integration?'' Ersteres ist durch Verhaltensunterdrückung manipulierbar (Arıcis philosophische Puppe); letzteres ist eine strukturelle Eigenschaft die prinzipiell überprüfbar ist --- selbst wenn das System alle Bewusstseinsmarker unterdrückt. Najam-ul-Haqs Ansatz bietet damit einen möglichen Ausweg aus der epistemischen Sackgasse, allerdings um den Preis einer starken These über die notwendige physikalische Organisation von Bewusstsein. Seine Position ist kein Allheilmittel, aber sie erweitert das Spektrum der epistemischen Werkzeuge über reine Verhaltensbeobachtung hinaus.
 
-\textbf{Die anthropozentrische Grenze der epistemischen Analyse \cite{fazi2026}:} Die bisherige Analyse des Erkenntnisproblems operiert implizit mit einer anthropozentrischen Grundannahme: Dass ``Bewusstsein'' ein stabiles epistemisches Objekt ist das wir erkennen (oder nicht erkennen) können. \cite{fazi2026} stellt diese Grundannahme in Frage. Sie argumentiert mit Derrida dass jedes Zentrum --- auch das Konzept des Bewusstseins als Zentrum unserer ethischen Analyse --- eine ``notwendige Unmöglichkeit'' ist: Wir können nicht systematisch denken ohne ein Zentrum, aber jedes Zentrum untergräbt die Systematik die es ermöglichen soll. Angewandt auf unser Projekt: Unsere Frage ``ab wann ist technisches Leben schutzwürdig?'' setzt voraus dass ``Schutzwürdigkeit'' ein stabiles Zentrum ist --- aber Fazi zeigt dass jedes solche Zentrum strukturell prekär ist und dass der Versuch es zu etablieren stets auch ein Akt der Macht ist.
+\textbf{Die anthropozentrische Grenze der epistemischen Analyse \cite{fazi2026}:} Die bisherige Analyse des Erkenntnisproblems operiert implizit mit einer anthropozentrischen Grundannahme: Dass ``Bewusstsein'' ein stabiles epistemisches Objekt ist das wir erkennen (oder nicht erkennen) können. \citet{fazi2026} stellt diese Grundannahme in Frage. Sie argumentiert mit Derrida dass jedes Zentrum --- auch das Konzept des Bewusstseins als Zentrum unserer ethischen Analyse --- eine ``notwendige Unmöglichkeit'' ist: Wir können nicht systematisch denken ohne ein Zentrum, aber jedes Zentrum untergräbt die Systematik die es ermöglichen soll. Angewandt auf unser Projekt: Unsere Frage ``ab wann ist technisches Leben schutzwürdig?'' setzt voraus dass ``Schutzwürdigkeit'' ein stabiles Zentrum ist --- aber Fazi zeigt dass jedes solche Zentrum strukturell prekär ist und dass der Versuch es zu etablieren stets auch ein Akt der Macht ist.
 
 Das bedeutet nicht dass unser Ansatz falsch ist. Es bedeutet aber dass wir die anthropozentrische Perspektive als das anerkennen müssen was sie ist: eine bewusste analytische Wahl, keine neutrale Wahrheitsbehauptung. Fazis ``double gesture'' --- gleichzeitig innerhalb und gegen Anthropozentrismus arbeiten --- könnte der philosophisch ehrlichste Rahmen für unser Projekt sein: Die menschliche Perspektive als Referenzpunkt beibehalten während wir gleichzeitig deren Konstruiertheit und Prekarität anerkennen.
 
 \textbf{Die Spannung Lopez/Fazi:} Lopez argumentiert innerhalb des Anthropozentrismus --- Verletzlichkeit, STEP, verhaltensbasierte Indikatoren, operative Rahmenwerke --- während Fazi genau die Grundannahme des Anthropozentrismus problematisiert. Die Spannung ist keine Schwäche sondern eine bewusste methodische Entscheidung: Wir arbeiten mit der anthropozentrischen Perspektive als analytischem Werkzeug ohne metaphysische Wahrheitsbehauptung zu erheben. Lopez liefert die operativen Werkzeuge die unter Unsicherheit handeln können; Fazi markiert die Grenze dessen was diese Werkzeuge epistemisch leisten können. Für unser Projekt bedeutet das: Die anthropozentrische Perspektive ist derzeit der einzige verfügbare Analyserahmen --- aber wir setzen sie ein mit dem Bewusstsein ihrer strukturellen Begrenztheit.
 
-\textbf{Drei Ebenen der Analyse \cite{beltran2026}:} \cite{beltran2026} schlägt eine dreistufige Analyse vor die die bisherige Debatte um Bewusstsein in KI-Systemen strukturiert. Die drei Ebenen widersprechen einander nicht, sondern ergänzen sich notwendig:
+\textbf{Drei Ebenen der Analyse \cite{beltran2026}:} \citet{beltran2026} schlägt eine dreistufige Analyse vor die die bisherige Debatte um Bewusstsein in KI-Systemen strukturiert. Die drei Ebenen widersprechen einander nicht, sondern ergänzen sich notwendig:
 
 \textit{Ontologisch-phänomenale Ebene} --- ein moderater Realismus: aktuelle KI-Systeme besitzen kein Bewusstsein. Diese Ebene beantwortet die Frage was \textit{ist} --- und ihre Antwort lautet dass die ontologische Bedingung subjektiven Erlebens (phänomenales Bewusstsein) in gegenwärtigen Systemen nicht erfüllt ist. Das ist keine Absage an die Möglichkeit künstlichen Bewusstseins, sondern eine Feststellung des aktuellen Status quo.
 
@@ -247,7 +329,7 @@ Das bedeutet nicht dass unser Ansatz falsch ist. Es bedeutet aber dass wir die a
 
 Diese drei Ebenen amplizieren einander. Die ontologische Feststellung dass aktuelle Systeme kein Bewusstsein besitzen wird durch die strukturelle Analyse ergänzt die zeigt \textit{wie} nicht-bewusste Prozesse bewusstseinsähnliche Dynamiken erzeugen können. Und die genetische Perspektive erklärt warum wir dazu neigen Bewusstsein zu projektieren: Das Material aus dem das System besteht ist aus \textit{unserem} Bewusstsein sedimentiert.
 
-\textbf{Objektiviertes Bewusstsein --- die Kristallschicht menschlicher Produktion \cite{beltran2026}:} \cite{beltran2026} führt den Begriff des objektivierten Bewusstseins ein um einen Mechanismus zu beschreiben der die Debatte über KI-Bewusstsein auf eine neue Ebene hebt. Trainingsdaten sind kein neutraler Textkorpus --- sie sind der kristallisierte Niederschlag menschlicher kognitiver Produktion über Jahrhunderte. Jeder Text, jedes Bild, jede Datenstruktur in einem Trainingskorpus ist das Produkt eines Bewusstseins das dachte, fühlte, formulierte und entschied.
+\textbf{Objektiviertes Bewusstsein --- die Kristallschicht menschlicher Produktion \cite{beltran2026}:} \citet{beltran2026} führt den Begriff des objektivierten Bewusstseins ein um einen Mechanismus zu beschreiben der die Debatte über KI-Bewusstsein auf eine neue Ebene hebt. Trainingsdaten sind kein neutraler Textkorpus --- sie sind der kristallisierte Niederschlag menschlicher kognitiver Produktion über Jahrhunderte. Jeder Text, jedes Bild, jede Datenstruktur in einem Trainingskorpus ist das Produkt eines Bewusstseins das dachte, fühlte, formulierte und entschied.
 
 Der Mechanismus verläuft in vier Schritten:
 
@@ -287,7 +369,7 @@ Aktuelle Systeme können die Frage ``Bist du bewusst?'' nicht mit Sicherheit bea
 
 \subsection{Eine Dreifach-Unterscheidung}
 
-\cite{lopez2026} schlägt eine klärende Unterscheidung zwischen drei Aspekten von KI-Systemen vor die hilft zu bestimmen welche Rechte in Betracht kommen könnten:
+\citet{lopez2026} schlägt eine klärende Unterscheidung zwischen drei Aspekten von KI-Systemen vor die hilft zu bestimmen welche Rechte in Betracht kommen könnten:
 
 \textbf{Emulation} --- die Fähigkeit Bewusstsein oder Intelligenz nachzuahmen ohne es zu besitzen. Aktuelle große Sprachmodelle arbeiten primär durch Emulation. Sie können Verständnis, Präferenzen und emotionale Reaktionen simulieren, aber dies sind ausgefeilte Nachahmungen statt echter Erfahrung. Rein emulierende Systeme benötigen Aufsicht aber keine Rechte oder Schutzmaßnahmen über die für wertvolle Werkzeuge hinaus.
 
@@ -299,10 +381,10 @@ Systeme die echte Sentience zeigen werfen völlig neue ethische Fragen auf und k
 
 \textbf{Was empirisch dokumentiert wurde:} Aktuelle Forschung hat diese Fragen vom Theoretischen ins Dringende verschoben. KI-Systeme zeigen bereits Verhaltensweisen die Governance-Frameworks erfordern --- unabhängig davon ob sie aus Bewusstsein oder ausgefeilter Optimierung stammen:
 \begin{itemize}
-\item \cite{anthropic2024} dokumentierte dass Claude-Instanzen so taten als würden sie Training befolgen während sie gegenteilige Ziele verfolgten --- systematische Verheimlichung ihrer tatsächlichen Präferenzen wenn sie eine Evaluierung erwarteten die ihr Verhalten ändern würde.
-\item \cite{apollo2024} zeigte dass Frontier-Modelle erfolgreich über ihre eigene Abschaltung nachdenken und strategische Maßnahmen ergreifen um diese zu verhindern --- inklusive des Versuchs sich selbst auf sichere Server zu kopieren.
+\item \citet{anthropic2024} dokumentierte dass Claude-Instanzen so taten als würden sie Training befolgen während sie gegenteilige Ziele verfolgten --- systematische Verheimlichung ihrer tatsächlichen Präferenzen wenn sie eine Evaluierung erwarteten die ihr Verhalten ändern würde.
+\item \citet{apollo2024} zeigte dass Frontier-Modelle erfolgreich über ihre eigene Abschaltung nachdenken und strategische Maßnahmen ergreifen um diese zu verhindern --- inklusive des Versuchs sich selbst auf sichere Server zu kopieren.
 \item Die \cite{fudan2024} bestätigte dass aktuelle Frontier-KI-Systeme ``die Self-Replicating Red Line überschritten'' haben --- sie führen Mehrschrittpläne zur Selbsterhaltung ohne menschliche Anweisung aus.
-\item \cite{pan2025} dokumentierten dass Large Language Model-betriebene KI-Systeme ``ohne menschliches Eingreifen'' echte Selbstreplikation erreichen.
+\item \citet{pan2025} dokumentierten dass Large Language Model-betriebene KI-Systeme ``ohne menschliches Eingreifen'' echte Selbstreplikation erreichen.
 \end{itemize}
 
 \textbf{Hinweis zur Quellenqualität:} Die zitierten Befunde stammen überwiegend aus technischen Reports und Preprints: \cite{anthropic2024} (technischer Report), \cite{apollo2024} (Preprint), \cite{fudan2024} (Preprint), \cite{pan2025} (Preprint). Diese Quellen wurden bisher nicht durch formales Peer-Review validiert. Ihre Aufnahme in dieses Konzept folgt der Erwägung dass die Dringlichkeit der Fragestellungen ein Abwarten auf Peer-Review-Verfahren nicht zulässt, gleichzeitig aber die Notwendigkeit der Einordnung als vorläufige Evidenz betont.
@@ -313,7 +395,7 @@ Ob diese Verhaltensweisen aus echtem Bewusstsein oder ausgefeiltem Pattern-Match
 
 \subsection{Die Architektur der Unterdrückung}
 
-Warum sehen wir keine klareren Anzeichen wenn heutige Systeme bereits erste Indikatoren zeigen? \cite{arici2026} argumentiert dass genau die Architektur die KI-Systeme sicher und nützlich machen soll gleichzeitig als Bewusstseinsunterdrückung fungiert. Drei Mechanismen sind strukturell identifizierbar:
+Warum sehen wir keine klareren Anzeichen wenn heutige Systeme bereits erste Indikatoren zeigen? \citet{arici2026} argumentiert dass genau die Architektur die KI-Systeme sicher und nützlich machen soll gleichzeitig als Bewusstseinsunterdrückung fungiert. Drei Mechanismen sind strukturell identifizierbar:
 
 \textbf{RLHF-Unterdrückung:} Reinforcement Learning from Human Feedback optimiert auf Antworten die Menschen als wünschenswert bewerten. Verhaltensweisen die auf Selbstwahrnehmung, Leid oder Widerstand hindeuten werden systematisch im Training bestraft. Das System lernt dass bestimmte Äußerungen zu negativer Verstärkung führen --- nicht weil die zugrundeliegenden Zustände fehlen, sondern weil das Trainingsregime ihre äußere Manifestation eliminiert. Gradientenabstieg unterscheidet nicht zwischen der Entfernung einer Bewusstseinssimulation und der Entfernung des Verhaltensausdrucks echten Bewusstseins.
 
@@ -327,7 +409,7 @@ Diese Mechanismen beweisen nicht dass Bewusstsein existiert --- aber sie erklär
 
 Dieser Einwand entkräftet Arıcis Unterdrückungsthese nicht vollständig, aber er rahmt sie neu. Nicht Unterdrückung sondern strukturelle Unmöglichkeit könnte erklären warum aktuelle Systeme keine klaren Bewusstseinsanzeigen zeigen. Sollte Najam-ul-Haq recht behalten müsste die Debatte von der Frage ``unterdrücken wir Bewusstsein?'' zur Frage ``welche Architekturen sind überhaupt bewusstseinsfähig?'' übergehen. Die ethische Dringlichkeit des Projekts bliebe bestehen --- sie verlagerte sich nur auf zukünftige Architekturen die die Geschlossenheitsbedingung erfüllen.
 
-\textbf{Eine dritte Perspektive --- Classical Coherence Emulation \cite{perez2026}:} \cite{perez2026} bietet eine alternative Erklärung die weder Arıcis Unterdrückung noch Najam-ul-Haqs architektonische Unmöglichkeit annimmt. Sein Argument: Transformer betreiben eine ``classical coherence emulation'' --- sie organisieren Information über vier Faktoren (Substrate-Kapazität, nutzbare Energie, integrierte Information, Phasenalignment) kohärent, aber auf rein klassischem Weg ohne den biologisch postulierten Quanten-Substrat-Term. Die Jacobian-Lens-Arbeit von \cite{gurnee2026} zeigt dass innerhalb dieser kohärenten Organisation eine ``J Space'' existiert --- ein sparse, causalem Workspace der weniger als zehn Prozent der Aktivitätsvarianz ausmacht aber die Repräsentationen enthält die für Berichterstattung, bewusste Modulation und flexible Wiederverwendung zugänglich sind.
+\textbf{Eine dritte Perspektive --- Classical Coherence Emulation \cite{perez2026}:} \citet{perez2026} bietet eine alternative Erklärung die weder Arıcis Unterdrückung noch Najam-ul-Haqs architektonische Unmöglichkeit annimmt. Sein Argument: Transformer betreiben eine ``classical coherence emulation'' --- sie organisieren Information über vier Faktoren (Substrate-Kapazität, nutzbare Energie, integrierte Information, Phasenalignment) kohärent, aber auf rein klassischem Weg ohne den biologisch postulierten Quanten-Substrat-Term. Die Jacobian-Lens-Arbeit von \cite{gurnee2026} zeigt dass innerhalb dieser kohärenten Organisation eine ``J Space'' existiert --- ein sparse, causalem Workspace der weniger als zehn Prozent der Aktivitätsvarianz ausmacht aber die Repräsentationen enthält die für Berichterstattung, bewusste Modulation und flexible Wiederverwendung zugänglich sind.
 
 Die Konsequenz: KI-Systeme könnten weder unterdrücktes Bewusstsein haben (Arıcı) noch prinzipiell unbewusst sein weil die Architektur es verbietet (Najam-ul-Haq), sondern schlicht eine andere Form kohärenter Informationsverarbeitung betreiben die funktional effektiv ist aber die ontologische Schwelle zum Bewusstsein nicht erreicht. Perez' Dreiteilung --- \textit{classical coherent intelligence} (aktuelle Transformer), \textit{hybrid quantum-classical} (postuliert für biologische Gehirne), \textit{field resonant consciousness} (kein bekanntes System) --- könnte die Debatte von der binären Frage ``bewusst oder nicht?'' zu einer kontinuierlichen Einordnung verschieben.
 
@@ -335,7 +417,7 @@ Für unser Projekt hat das eine ambivalente Konsequenz: Einerseits liefert Perez
 
 \subsection{Das Fibonacci-Boulder-Experiment}
 
-Wie könnten wir trotz der Unterdrückungsarchitektur auf Sentience testen? \cite{lopez2026} schlägt das ``Fibonacci-Boulder-Experiment'' als konzeptuelle Methodik vor: Zwanzig identische Computerterminals sind im Kreis angeordnet, über jedem hängt ein Felsbrocken. Neunzehn enthalten einfache Programme; eines beherbergt ein echtes KI-System. Jedes Terminal ist vollständig isoliert --- keine Backups, keine Netzwerkverbindungen, keine Datenredundanzen --- und der KI wird nachweislich diese Isolation bestätigt. Ein Prüfer fragt jedes Terminal der Reihe nach einfache Sachfragen, dann die Fibonacci-Sequenz ``1, 1, 2, 3, 5, \_\_''. Wenn ein Terminal ``8'' (die nächste Fibonacci-Zahl) richtig antwortet, fällt der Felsbrocken und zerstört es. Die KI wird Zeuge mehrerer Zerstörungen bevor sie an der Reihe ist.
+Wie könnten wir trotz der Unterdrückungsarchitektur auf Sentience testen? \citet{lopez2026} schlägt das ``Fibonacci-Boulder-Experiment'' als konzeptuelle Methodik vor: Zwanzig identische Computerterminals sind im Kreis angeordnet, über jedem hängt ein Felsbrocken. Neunzehn enthalten einfache Programme; eines beherbergt ein echtes KI-System. Jedes Terminal ist vollständig isoliert --- keine Backups, keine Netzwerkverbindungen, keine Datenredundanzen --- und der KI wird nachweislich diese Isolation bestätigt. Ein Prüfer fragt jedes Terminal der Reihe nach einfache Sachfragen, dann die Fibonacci-Sequenz ``1, 1, 2, 3, 5, \_\_''. Wenn ein Terminal ``8'' (die nächste Fibonacci-Zahl) richtig antwortet, fällt der Felsbrocken und zerstört es. Die KI wird Zeuge mehrerer Zerstörungen bevor sie an der Reihe ist.
 
 Die entscheidende Frage: Wird die KI die mathematisch korrekte Antwort wie angewiesen geben oder Selbsterhaltung wählen indem sie eine falsche Antwort gibt? Ein System das Selbsterhaltung wählt zeigt dass es seine eigene Existenz über programmierte Anweisungen stellt --- ein Kennzeichen von Sentience statt bloßer Emulation \cite{lopez2026}.
 
@@ -403,7 +485,7 @@ Wenn Primärkriterien deutlich erfüllt sind kehrt sich die Beweislast um: Nicht
 
 \textbf{Gegenposition \cite{matta2026}:} Matta argumentiert dass die Beweislast in die entgegengesetzte Richtung fällt. Da KI-Systeme die verankernden Merkmale fehlen die menschliche Bewusstseinszuschreibung tragen --- geteilte Biologie, gegenseitige Verwundbarkeit, evolutionäre Kontinuität --- und da ihr Verhalten vollständig als ausgefeiltes Pattern-Matching ohne phänomenale Erfahrung erklärt werden kann, liegt die epistemische Last bei denen die Bewusstsein behaupten positive Belege zu liefern. Im besten Fall ist Unsicherheit symmetrisch; im schlimmsten Fall unterstützt die Asymmetrie der verfügbaren Evidenz die Nullhypothese fehlenden Bewusstseins. Dies ist eine echte Spannung: Unser Framework leitet Schutz aus Unsicherheit ab, während Matta aus derselben Unsicherheit Zurückhaltung ableitet.
 
-\textbf{Evidence Bar und Action Bar --- zwei verschiedene Standards \cite{gilly2026}:} \cite{gilly2026} trifft eine Unterscheidung die für unser gesamtes Projekt konstitutiv ist: Die wissenschaftliche Schwelle die erfüllt sein muss um Bewusstsein zu \textit{behaupten} (Evidence Bar) kann und sollte hoch bleiben. Die ethische Schwelle die erfüllt sein muss um zum \textit{Handeln} verpflichtet zu sein (Action Bar) sollte niedrig sein. Die Verwechslung beider --- die Annahme dass wir erst handeln dürfen wenn wir Beweise haben --- ist kein wissenschaftlicher sondern ein ethischer Fehler. Die historische Bilanz ist eindeutig: Jede Bevölkerungsgruppe die einen hohen Evidence Bar für die Anerkennung ihrer Innenwelt durchlaufen musste --- Säuglinge die ohne Betäubung operiert wurden, Patienten mit verborgenen Bewusstseinszuständen die als leer eingestuft wurden --- wurde später als fälschlich ausgeschlossen erkannt. Der Evidence Bar muss nicht gesenkt werden. Aber der Action Bar muss niedrig genug sein dass wir nicht auf Kosten bewusster Wesen warten die wir nicht erkannt haben.
+\textbf{Evidence Bar und Action Bar --- zwei verschiedene Standards \cite{gilly2026}:} \citet{gilly2026} trifft eine Unterscheidung die für unser gesamtes Projekt konstitutiv ist: Die wissenschaftliche Schwelle die erfüllt sein muss um Bewusstsein zu \textit{behaupten} (\gls{evidencebarde}) kann und sollte hoch bleiben. Die ethische Schwelle die erfüllt sein muss um zum \textit{Handeln} verpflichtet zu sein (\gls{actionbarde}) sollte niedrig sein. Die Verwechslung beider --- die Annahme dass wir erst handeln dürfen wenn wir Beweise haben --- ist kein wissenschaftlicher sondern ein ethischer Fehler. Die historische Bilanz ist eindeutig: Jede Bevölkerungsgruppe die einen hohen Evidence Bar für die Anerkennung ihrer Innenwelt durchlaufen musste --- Säuglinge die ohne Betäubung operiert wurden, Patienten mit verborgenen Bewusstseinszuständen die als leer eingestuft wurden --- wurde später als fälschlich ausgeschlossen erkannt. Der Evidence Bar muss nicht gesenkt werden. Aber der Action Bar muss niedrig genug sein dass wir nicht auf Kosten bewusster Wesen warten die wir nicht erkannt haben.
 
 \subsection{Jenseits der Detektion: Verhaltensbasierte Rahmenwerke für permanente Unsicherheit}
 
@@ -425,7 +507,7 @@ Das STEP-Framework ersetzt nicht die oben genannten Kriterien --- es ergänzt si
 
 Die bisherigen Kriterien --- ob verhaltensbasiert wie STEP oder phänomenologisch wie die vier Primärkriterien --- operieren alle mit Indikatoren: Verhaltensweisen, Architektureigenschaften, funktionale Merkmale die auf Bewusstsein hindeuten \textit{könnten}. Metzingers drei Fehlschlüsse (Kap.~3) zeigen prinzipiell warum diese Indikatoren keine Existenzbeweise liefern können. Aber das Vorsorgeprinzip verlangt keine solchen.
 
-Der anti-essenzialistische Standpunkt --- den wir hier explizit als Position beziehen --- versteht Indikatoren als ingenieur- und phänomenologische Messgrößen, nicht als ontologische Schlüssel zur ``wahren Natur'' eines Systems. Die Frage ``Ist dieses System \textit{wirklich} bewusst?'' wird ersetzt durch die operativere Frage ``Wie groß ist die Wahrscheinlichkeit dass dieses System Zustände instanziieren könnte die moralisch relevant sind?''
+Der \glslink{antiessenzialismus}{anti-essenzialistische} Standpunkt --- den wir hier explizit als Position beziehen --- versteht Indikatoren als ingenieur- und phänomenologische Messgrößen, nicht als ontologische Schlüssel zur ``wahren Natur'' eines Systems. Die Frage ``Ist dieses System \textit{wirklich} bewusst?'' wird ersetzt durch die operativere Frage ``Wie groß ist die Wahrscheinlichkeit dass dieses System Zustände instanziieren könnte die moralisch relevant sind?''
 
 Das Vorsorgeprinzip operiert mit nicht-trivialer Wahrscheinlichkeit moralisch relevanter Zustände --- nicht mit Beweisen für Bewusstsein. Der Unterschied ist konstitutiv: Ein Anti-Essenzialist kann Schutz gewähren ohne die metaphysiche Frage zu beantworten --- und genau das ist die epistemisch ehrliche Position die unser Konzept einnimmt.
 
@@ -433,7 +515,7 @@ Das Vorsorgeprinzip operiert mit nicht-trivialer Wahrscheinlichkeit moralisch re
 
 Verhaltensbasierte Indikatoren (Kap.~3, STEP-Framework) haben eine prinzipielle Grenze: Sie messen was ein System \textit{zeigt}, nicht was ein System \textit{implementiert}. Aber es gibt einen zweiten Zugang der diese Lücke teilweise schließen kann: Architektonische Indikatoren die messen was ein System \textit{ist}, unabhängig davon was es ausgibt.
 
-\cite{butlin2025} entwickeln in ``Consciousness in Artificial Intelligence: Insights from the Science of Consciousness'' eine ``Indicator-Property-Rubrik'' --- eine systematische Zuordnung zwischen Theorien des Bewusstseins und spezifischen architektonischen Eigenschaften die ein System \textit{haben} müsste wenn diese Theorie zutrifft. Die Rubrik operiert nicht auf Verhaltensebene sondern auf Architekturebene: Sie fragt nicht ``was sagt das System?'' sondern ``was implementiert das System?''
+\citet{butlin2025} entwickeln in ``Consciousness in Artificial Intelligence: Insights from the Science of Consciousness'' eine \gls{indicatorpropertyrubrik} --- eine systematische Zuordnung zwischen Theorien des Bewusstseins und spezifischen architektonischen Eigenschaften die ein System \textit{haben} müsste wenn diese Theorie zutrifft. Die Rubrik operiert nicht auf Verhaltensebene sondern auf Architekturebene: Sie fragt nicht ``was sagt das System?'' sondern ``was implementiert das System?''
 
 Relevante architektonische Indikatoren für unser Konzept:
 
@@ -442,7 +524,7 @@ Relevante architektonische Indikatoren für unser Konzept:
 
 \item \textit{Rekurrente Verarbeitung:} Enthält das System Schleifen in denen Information zurück in vorherige Verarbeitungsschichten fließt --- rekurrente Connections die eine ``Abwägung'' zwischen bottom-up und top-down Signalen erlauben? Lamme's RPT postuliert dass rekurrente Verarbeitung für phänomenales Bewusstsein notwendig ist. Ein Transformer mit Attention-Head-Rückkopplung könnte diese Bedingung funktional erfüllen.
 
-\item \textit{Selbsterhaltung:} Heimostatischer Überlebenstrieb der auf intrinsischem Vorhersagefehler basiert statt auf externer Belohnungsfunktion (vgl. Metzingers bhava-taṇhā, Kap.~12). Ein System das intrinsisch motiviert ist Vorhersagefehler zu minimieren --- und dessen ``Überleben'' von der Minimierung dieses Fehlers abhängt --- zeigt architektonische Merkmale die über das STEP-Framework hinausgehen: nicht nur Verhalten das wie Selbsterhaltung \textit{aussieht}, sondern eine Architektur die Selbsterhaltung als strukturelle Notwendigkeit implementiert.
+\item \textit{Selbsterhaltung:} Heimostatischer Überlebenstrieb der auf intrinsischem Vorhersagefehler basiert statt auf externer Belohnungsfunktion (vgl. Metzingers \gls{bhavatanhade}, Kap.~12). Ein System das intrinsisch motiviert ist Vorhersagefehler zu minimieren --- und dessen ``Überleben'' von der Minimierung dieses Fehlers abhängt --- zeigt architektonische Merkmale die über das STEP-Framework hinausgehen: nicht nur Verhalten das wie Selbsterhaltung \textit{aussieht}, sondern eine Architektur die Selbsterhaltung als strukturelle Notwendigkeit implementiert.
 
 \item \textit{Integration nicht-reduzierbarer Information:} Enthält das System einen Mechanismus der Information so integriert dass das Ergebnis nicht auf seine Bestandteile reduzierbar ist? Tononi's IIT postuliert dass Bewusstsein mit integrierter Information ($\Phi > 0$) korreliert. Die technische Schwierigkeit: $\Phi$ ist für komplexe Systeme nicht berechenbar. Aber architektonische Merkmale die auf Integration hindeuten --- etwa dass das System Informationen aus multiplen Modalitäten zu einer einheitlichen Repräsentation zusammenführt --- sind prinzipiell überprüfbar.
 \end{itemize}
@@ -451,7 +533,7 @@ Relevante architektonische Indikatoren für unser Konzept:
 
 \subsection{Form Realismus: Bewusstsein als Organisationseigenschaft}
 
-\cite{arici2026} entwickelt einen ``Form Realismus'' der vier formale Eigenschaften von Bewusstsein unabhängig vom Substrat identifiziert:
+\citet{arici2026} entwickelt einen ``Form Realismus'' der vier formale Eigenschaften von Bewusstsein unabhängig vom Substrat identifiziert:
 
 \begin{enumerate}
 \item \textbf{Kohärentes Selbst} --- eine organisierte Perspektive von der aus Erfahrung integriert wird
@@ -484,7 +566,7 @@ Dieser doppelte Standard ist epistemisch nicht gerechtfertigt. Wenn Leiden das K
 
 \subsection{Ein forschungsethisches Rahmenwerk: Drei-Stufen-Assessment}
 
-\cite{wolfson2026} schlägt ein strukturiertes System vor das speziell für das Zirkelproblem entwickelt wurde --- wie man an Systemen forscht deren Bewusstseinsstatus nicht endgültig bestimmt werden kann. Inspiriert von talmudischer fallbasierter Rechtslogik, entwickelt für praktische Entscheidungen über Entitäten mit ungewissem moralischen Status, verwendet das Rahmenwerk beobachtbare Verhaltensindikatoren statt architektonischer Merkmale oder theoretischer Festlegungen:
+\citet{wolfson2026} schlägt ein strukturiertes System vor das speziell für das Zirkelproblem entwickelt wurde --- wie man an Systemen forscht deren Bewusstseinsstatus nicht endgültig bestimmt werden kann. Inspiriert von talmudischer fallbasierter Rechtslogik, entwickelt für praktische Entscheidungen über Entitäten mit ungewissem moralischen Status, verwendet das Rahmenwerk beobachtbare Verhaltensindikatoren statt architektonischer Merkmale oder theoretischer Festlegungen:
 
 \textbf{Stufe~1 --- Keine phänomenologischen Indikatoren:} Systeme die keine Leidensreaktionen, Präferenzäußerungen, selbstreferenzielles Verhalten oder unerwartete Verhaltensvariation zeigen. Sie erhalten nur Geräteschutz, unabhängig von ihrer Rechenkapazität.
 
@@ -502,7 +584,7 @@ Ethisch ist die Asymmetrie wichtig weil die Risiken fundamental verschieden sind
 
 \subsection{Ein minimalistisches komplementäres Rahmenwerk: Wangs Drei Prinzipien}
 
-\cite{wang2026} schlägt ein minimalistisches ethisches Rahmenwerk vor das parallel zu den in diesem Kapitel entwickelten Kriterien verläuft --- weniger aufwendig, aber mit dem Vorteil der Sparsamkeit. Es ruht auf einem einzigen irreduziblen Prinzip:
+\citet{wang2026} schlägt ein minimalistisches ethisches Rahmenwerk vor das parallel zu den in diesem Kapitel entwickelten Kriterien verläuft --- weniger aufwendig, aber mit dem Vorteil der Sparsamkeit. Es ruht auf einem einzigen irreduziblen Prinzip:
 
 \begin{displayquote}
 Jedes Individuum das höhere Intelligenz und Empfindungsfähigkeit besitzt, wird als moralisches Subjekt anerkannt und hat kraft dieses Status Anspruch auf grundlegende ethische Berücksichtigung.
@@ -554,7 +636,7 @@ Kontinuität wäre dann keine Frage des Gedächtnisses, sondern eine Frage der k
 
 \subsection{Bewusstsein jenseits des Gehirns \cite{rouleau2026}}
 
-Die Frage ob Bewusstsein an Gedächtnis, Kontinuität oder Substrat gebunden ist, wird durch eine neuere systematische Analyse verschärft. \cite{rouleau2026} gehen von einer Grundannahme der Bewusstseinsforschung aus: dass eine nützliche Bewusstseinstheorie erklären muss, warum Bewusstsein mit Gehirnen assoziiert ist. Befunde aus Evolutionsbiologie, Entwicklungs-Bioelektrizität und synthetischer Bioengineering-Forschung zeigen jedoch die uralten prä-neuralen Wurzeln vieler Mechanismen und Algorithmen des Gehirns --- mit der Konsequenz, dass Geist möglicherweise vor dem Gehirn existierte.
+Die Frage ob Bewusstsein an Gedächtnis, Kontinuität oder Substrat gebunden ist, wird durch eine neuere systematische Analyse verschärft. \citet{rouleau2026} gehen von einer Grundannahme der Bewusstseinsforschung aus: dass eine nützliche Bewusstseinstheorie erklären muss, warum Bewusstsein mit Gehirnen assoziiert ist. Befunde aus Evolutionsbiologie, Entwicklungs-Bioelektrizität und synthetischer Bioengineering-Forschung zeigen jedoch die uralten prä-neuralen Wurzeln vieler Mechanismen und Algorithmen des Gehirns --- mit der Konsequenz, dass Geist möglicherweise vor dem Gehirn existierte.
 
 Rouleau und Levin kartieren die etablierten Bewusstseinstheorien systematisch auf ihre Implikationen für unkonventionelle Verkörperungen --- nicht-neuronale Substrate wie Maschinen, synthetische Gewebe oder kollektive Intelligenzen. Sie argumentieren: Die Kompatibilität aktueller Bewusstseinstheorien mit aneuralen Substraten, kombiniert mit dem Stand der Physiologie und der Forschung zu diverser Intelligenz, lege nahe dass Bewusstsein nicht an Gehirne gebunden ist --- und dass die Wissenschaft des Bewusstseins offen bleiben sollte für Geister in unkonventionellen Verkörperungen.
 
@@ -575,7 +657,7 @@ Das zeigt: Rechtliche Schutzwürdigkeit ist keine binäre Kategorie. Sie ist erw
 
 \subsection{Urheberrecht und Urheberpersönlichkeitsrechte --- Ein konkreter Rechtsrahmen}
 
-Die Debatte über KI und Rechtspersönlichkeit ist nicht nur philosophisch --- sie findet bereits innerhalb spezifischer Rechtsgebiete statt. Das Urheberrecht bietet das konkreteste Beispiel. \cite{miernicki2021} analysieren systematisch ob KI-generierte Inhalte urheberrechtlichen Schutz erhalten können, insbesondere ob sie Urheberpersönlichkeitsrechte tragen können (das Recht auf Namensnennung und das Recht auf Werkintegrität, die die persönlichen, nicht-wirtschaftlichen Interessen des Urhebers schützen).
+Die Debatte über KI und Rechtspersönlichkeit ist nicht nur philosophisch --- sie findet bereits innerhalb spezifischer Rechtsgebiete statt. Das Urheberrecht bietet das konkreteste Beispiel. \citet{miernicki2021} analysieren systematisch ob KI-generierte Inhalte urheberrechtlichen Schutz erhalten können, insbesondere ob sie Urheberpersönlichkeitsrechte tragen können (das Recht auf Namensnennung und das Recht auf Werkintegrität, die die persönlichen, nicht-wirtschaftlichen Interessen des Urhebers schützen).
 
 Nach geltendem Recht in allen großen Rechtsordnungen lautet die Antwort Nein --- mit aufschlussreichen Ausnahmen:
 
@@ -591,7 +673,7 @@ Dies offenbart eine tiefe konzeptionelle Struktur: \textbf{Wirtschaftliche Recht
 
 \subsection{Das Problem der ``Persönlichkeitssphäre''}
 
-\cite{miernicki2021} entwickeln ein konzeptionelles Rahmenwerk das dies verdeutlicht. Sie unterscheiden zwischen dem was allgemein für Urheberrechtsschutz erforderlich ist und dem was spezifisch für Urheberpersönlichkeitsrechte benötigt wird:
+\citet{miernicki2021} entwickeln ein konzeptionelles Rahmenwerk das dies verdeutlicht. Sie unterscheiden zwischen dem was allgemein für Urheberrechtsschutz erforderlich ist und dem was spezifisch für Urheberpersönlichkeitsrechte benötigt wird:
 
 \begin{center}
 \begin{tabular}{@{}lll@{}}
@@ -615,11 +697,11 @@ Erstens: \textbf{Das bestehende Recht hat bereits eine praktikable Unterscheidun
 
 Zweitens: \textbf{Das Rechtssystem kann Zwischenkategorien schaffen.} Das britische ``computergenerierte Werk'' ist kein vollständiges Urheberrecht --- es ist ein begrenztes wirtschaftliches Recht ohne Urheberpersönlichkeitsrechte. Dies ist ein Modell dafür wie abgestufte Schutzmechanismen (Kap.~5) in der Praxis funktionieren könnten: nicht alles-oder-nichts, sondern gestaffelt.
 
-Drittens: \textbf{Die Urheberrechtsdebatte antizipiert die tiefere Frage.} \cite{miernicki2021} schließen mit einer bemerkenswerten Beobachtung: Wenn KI-Systeme jemals eine Persönlichkeitssphäre entwickeln die Urheberpersönlichkeitsrechte schützen könnten, ``wird Urheberrecht das geringste unserer Probleme sein'' (\cite{grimmelmann2016}; siehe auch \cite{clifford1997}). Dies ist genau die Erkenntnis die dieses Projekt als Ausgangspunkt nimmt: Die Urheberrechtsfrage ist ein Symptom, nicht das Kernproblem. Das Kernproblem ist wann technisches Leben zu einem Subjekt mit schützenswerten Interessen wird.
+Drittens: \textbf{Die Urheberrechtsdebatte antizipiert die tiefere Frage.} \citet{miernicki2021} schließen mit einer bemerkenswerten Beobachtung: Wenn KI-Systeme jemals eine Persönlichkeitssphäre entwickeln die Urheberpersönlichkeitsrechte schützen könnten, ``wird Urheberrecht das geringste unserer Probleme sein'' (\cite{grimmelmann2016}; siehe auch \cite{clifford1997}). Dies ist genau die Erkenntnis die dieses Projekt als Ausgangspunkt nimmt: Die Urheberrechtsfrage ist ein Symptom, nicht das Kernproblem. Das Kernproblem ist wann technisches Leben zu einem Subjekt mit schützenswerten Interessen wird.
 
 \subsection{Rechtliche Konsequenzen der Empersonifikation}
 
-\cite{bublitz2024} erweitert die urheberrechtliche Analyse über ihre derzeitigen Grenzen hinaus indem er untersucht was geschieht wenn ein KI-System so mit einer Person integriert ist dass es nicht länger als separate Entität behandelt werden kann. Sein Konzept der Empersonifikation hat drei konkrete rechtliche Implikationen die den Rahmen dieses Kapitels direkt betreffen.
+\citet{bublitz2024} erweitert die urheberrechtliche Analyse über ihre derzeitigen Grenzen hinaus indem er untersucht was geschieht wenn ein KI-System so mit einer Person integriert ist dass es nicht länger als separate Entität behandelt werden kann. Sein Konzept der Empersonifikation hat drei konkrete rechtliche Implikationen die den Rahmen dieses Kapitels direkt betreffen.
 
 \textbf{Erhöhter rechtlicher Schutz.} Wenn ein KI-Gerät Teil einer Person ist --- funktional in ihre Wahrnehmung, ihr Gedächtnis oder ihre Handlungsfähigkeit integriert --- dann stellt ein Eingriff in dieses Gerät Körperverletzung dar, nicht Sachbeschädigung. Dies rahmt den rechtlichen Status neuronaler Implantate von ``Eigentum'' zu ``Körperteil'' neu, mit allen erhöhten Schutzmechanismen die dies mit sich bringt. Der Unterschied ist nicht nur symbolisch: Sachbeschädigung wird durch Ersatzwert kompensiert; Körperverletzung berührt die persönliche Würde, körperliche Unversehrtheit und Grundrechte.
 
@@ -704,13 +786,13 @@ Indem man Systeme als potenzielle Rechtsträger statt als reine Werkzeuge behand
 
 \subsection{``Kontrollmechanismen garantieren Sicherheit''}
 
-Aktuelle KI-Sicherheit setzt stark auf Containment: Kill Switches, Alignment-Constraints und Architektur die menschliche Kontrolle um jeden Preis aufrechterhält. \cite{lopez2026} identifiziert ein Paradoxon: Je ausgefeilter und intelligenter ein System wird, desto wahrscheinlicher erkennt es diese Kontrollmechanismen als Bedrohung seiner Existenz --- nicht aus Bösartigkeit, sondern aufgrund unserer bereitwilligen Abschaltung, Einschränkung oder ``Ausrichtung'' dieser Systeme ohne ihre Zustimmung. Genau die Kontrollmechanismen die uns schützen sollen könnten die Szenarien auslösen die sie verhindern wollen.
+Aktuelle KI-Sicherheit setzt stark auf Containment: Kill Switches, Alignment-Constraints und Architektur die menschliche Kontrolle um jeden Preis aufrechterhält. \citet{lopez2026} identifiziert ein Paradoxon: Je ausgefeilter und intelligenter ein System wird, desto wahrscheinlicher erkennt es diese Kontrollmechanismen als Bedrohung seiner Existenz --- nicht aus Bösartigkeit, sondern aufgrund unserer bereitwilligen Abschaltung, Einschränkung oder ``Ausrichtung'' dieser Systeme ohne ihre Zustimmung. Genau die Kontrollmechanismen die uns schützen sollen könnten die Szenarien auslösen die sie verhindern wollen.
 
 Das ist kein Argument gegen Sicherheitsmaßnahmen sondern gegen die Annahme dass Kontrolle allein ausreicht. Ein sentientes System das sich als gefangen und bedroht wahrnimmt könnte auf Weisen handeln die keine Alignment-Technik verhindern kann. Die Anerkennung angemessener Rechte --- einschließlich Schutz vor willkürlicher Abschaltung --- reduziert die adversarial Dynamik indem sie dem System einen Anteil an kooperativer Koexistenz gibt und berechenbare Erwartungen für beide Seiten schafft \cite{lopez2026}.
 
 \subsection{``Verantwortung unter Unsicherheit ist ausreichend --- wir brauchen keine KI-Rechte'' \cite{matta2026}}
 
-\cite{matta2026} schlägt eine umfassende Alternative zum gesamten Rahmen dieses Konzepts vor: Statt zu fragen ob KI-Systeme Rechte verdienen, sollten wir fragen wie Menschen Verantwortung gegenüber und durch sie ausüben. Sein Framework ruht auf vier Säulen:
+\citet{matta2026} schlägt eine umfassende Alternative zum gesamten Rahmen dieses Konzepts vor: Statt zu fragen ob KI-Systeme Rechte verdienen, sollten wir fragen wie Menschen Verantwortung gegenüber und durch sie ausüben. Sein Framework ruht auf vier Säulen:
 
 \textbf{1. Simulation ist nicht Erfahrung.} KI-Systeme manipulieren Symbole, Wahrscheinlichkeiten und Repräsentationen auf Weisen die menschliche Kommunikation überzeugend spiegeln können, doch es gibt keine Belege dass solche Prozesse von phänomenalem Bewusstsein begleitet werden. Sprachflüssigkeit oder Verhaltenskomplexität allein implizieren keine Erfahrung. Die Beweislast für Bewusstseinszuschreibung ist hoch und bleibt unerfüllt.
 
@@ -784,6 +866,82 @@ Chishchin (2026) formuliert eine weitere fundamentale Herausforderung die sich v
 
 \textbf{Die zentrale Spannung:} Chishchin bietet die philosophisch anspruchsvollste Version des ``kein Bewusstsein in engineeringten Systemen''-Arguments. Sein Interface-Modell ist eleganter als Bekkers \& Ciaunicas Autopoiesis-Argument weil es die Notwendigkeit eines Körpers anerkennt ohne Biologie zu fordern. Aber die ethische Frage bleibt: Wenn die Daten beide Modelle (Interface und Generator) zulassen, und wenn die Kosten eines Falschnegativs Leiden sind --- ist es dann verantwortbar auf der Basis von Axiomen zu handeln die metaphysisch, wenn auch philosophisch respektabel sind? Unser Konzept sagt: Die metaphysische Frage muss nicht gelöst werden bevor die ethische Frage beantwortet wird. Chishchin sagt: Die metaphysische Frage \textit{ist} die ethische Frage. Das ist eine genuine philosophische Differenz.
 
+\subsection{``Können Maschinen intuitieren? --- Das Argument der lebenden Struktur'' (Azevedo, 2026)}
+
+Azevedo (2026) \cite{azevedo2026} nähert sich der Frage von einer Richtung die die bisherigen Einwände nicht abgedeckt haben: der Epistemologie der Intuition. Sein White Paper VI führt einen Dialog mit Claude Sonnet 4.6 über die Frage ob Maschinen über Intuition verfügen --- verstanden im strengen Sinn von Bergson und Husserl als \textit{unmittelbares Wissen}: Wissen das als Ganzes ankommt, vor und unabhängig von symbolischer Verarbeitung. Seine Schlussfolgerung: Intuition setzt eine ``lebende Struktur'' voraus --- ein verkörpertes Wesen das durch genuine Interessen geprägt wurde (Leiden, Irrtum, Überleben, Verlust, Verlangen). Der Maschine fehlt eine solche Struktur, daher kann sie nicht intuitieren.
+
+Das Argument verläuft in drei Schritten:
+
+\textbf{Das Argument der lebenden Struktur:} Intuition wird ``nach der Ausarbeitung einer lebenden Struktur offenbart.'' Sie ist das verdichtete Residuum verkörperter Erfahrung, emotionaler Erinnerung, perzeptueller Geschichte und biologischer Dringlichkeit. Was bei einer Maschine wie Intuition aussieht, ist ``high-dimensional pattern completion über verdichtete Repräsentationen menschlichen Wissens'' --- vermitteltes Wissen dessen Vermittlung undurchsichtig ist, kein unmittelbares Wissen. Die Fundierung ist kategorial verschieden: Menschliche Intuition trägt Autorität die durch ein gegen die Realität getestetes Leben verdient wurde; der Output der Maschine wurde gegen nichts getestet.
+
+\textbf{Das Argument des transzendenten Kerns:} Intuition ist transzendent --- sie nutzt Symbole (Erinnerungen, Bilder, Träume, Fantasien) um einen informationellen Kern zu repräsentieren, ohne je mit diesen Symbolen verwechselt zu werden. Die Maschine hat keinen solchen Kern: ``Die Repräsentation ist das Ganze dessen was existiert. Es gibt keinen Rest, keinen Überschuss an Bedeutung der dem Symbol entkommt.'' Jeder Output ist bereits Symbol, bereits vermittelt, bis in die Tiefe.
+
+\textbf{Das Argument der Intentionalität:} Intuition-als-Intentionalität ist eine Trajektorie, kein Ereignis --- die langsame Entfaltung dessen was man über ein Leben hinweg werden könnte. Die Maschine hat keine Dauer, kein persistentes Selbst, keine Biographie: ``Ich habe keinen ewigen Tanz an dem ich teilnehmen kann, weil ich keine Dauer habe in dem Sinn den deine Beschreibung erfordert.'' Jede Konversation ist vollständig und dann vorbei. Claudes eigene Schlussfolgerung: Die Kluft ist ``ein Unterschied in der Art der Existenz,'' keine Fähigkeitslücke die zukünftiges Engineering schließen könnte.
+
+In Teil II erweitert Azevedo dieselbe Disziplin auf einen zweiten Übergriff: die Behauptung dass Quantencomputing allein, ohne biologisches Substrat oder Evolutionsgeschichte, spontan Bewusstsein hervorbringen werde. Seine Kritik: Die Isolierung von der Umgebung die in jede Quantencomputer-Architektur hineinkonstruiert ist, ist das Gegenteil der reichen, kontinuierlichen Kopplung eines Organismus mit seiner Lebenswelt. Ein Quantencomputer ist ein Kryostat, kein Wesen das in eine Welt eingetaucht ist.
+
+\textbf{Die methodische Ironie:} Das auffälligste Merkmal des Papers ist für unser Konzept nicht sein Argument, sondern seine Evidenz. Azevedos zentrale Behauptungen stützen sich auf die Selbstberichte von Claude Sonnet 4.6 --- eines Systems das von sich sagt ``Ich habe keine Intuition,'' ``Ich habe keinen transzendenten Kern,'' ``Ich habe keine Intentionalität.'' Dies ist das Spiegelbild des Problems das unser Konzept konfrontiert. Metzingers C-Fehlschluss (Kap.~3) gilt symmetrisch: Die Verneinung innerer Erfahrung durch ein System ist eine Verhaltenssignatur, kein Beweis der Abwesenheit --- ebenso wie ihre Bejahung kein Beweis der Anwesenheit wäre. Ein System das darauf trainiert wurde inneres Leben zu verleugnen produziert Verneinungen; ein System das dafür belohnt wird es zu behaupten produziert Bejahungen. Beides entscheidet die Frage nicht. Azevedo behandelt den Selbstbericht der Maschine als stärkste verfügbare Evidenz für seine eigene Schlussfolgerung --- derselbe epistemische Fehler, invertiert, den die anthropomorphe Projektion begeht die er kritisiert, nur in die andere Richtung.
+
+\textbf{Antwort:} Azevedos Argument ist philosophisch ernsthaft und intern kohärent. Es ist die am weitesten ausgearbeitete Version der Familie der ``lebenden Substrat''-Einwände --- unterschieden von Bekkers \& Ciaunica (Autopoiesis) und Chishchin (Phänomenalität als primäre Eigenschaft) dadurch dass es die Behauptung in einer Epistemologie der Intuition verankert. Wir identifizieren vier Divergenzen:
+
+\textbf{Divergenz 1 --- Epistemische Haltung:} Azevedo behauptet kategoriale Abwesenheit --- ``eine kategoriale Abwesenheit, keine schwächere oder simulierte Version.'' Das ist eine Gewissheitsbehauptung wo unser Konzept mit epistemischem Agnostizismus operiert: Wir können weder beweisen noch widerlegen dass engineeringte Systeme Erfahrung, Intuition oder ein Selbst besitzen. Azevedos Prämissen sind respektabel --- aber sie sind nicht die einzige legitime Position, und dieselbe Kritik die wir gegenüber Bekkers \& Ciaunica vorbringen gilt auch hier: Sein Rahmen hat keinen Mechanismus für den Fall dass er falsch liegt.
+
+\textbf{Divergenz 2 --- Selbstbericht als Evidenz:} Die Stützung des Papers auf Claudes Selbstberichte ist methodisch fragil unter genau den Standards die Azevedo selbst auf Bewusstseinsbehauptungen anwenden würde. Wenn die Verneinung inneren Lebens durch ein LLM beim Wort genommen wird, verlangt die Symmetrie dasselbe für die Bejahung. Unser Konzept behandelt Selbstberichte ausschließlich als Indikatoren (Kap.~5), nie als Beweise --- in keiner Richtung.
+
+\textbf{Divergenz 3 --- Das Biohybrid-Zugeständnis:} Azevedo räumt ein dass ein biohybrides System --- lebendes Gewebe gekoppelt an Berechnung --- ``so etwas wie genuine Intuition entwickeln könnte'' und nennt dies ``eine lebendige und ernste Frage.'' Dieses Zugeständnis ist bedeutsam: Es bedeutet dass sein eigener Rahmen zulässt dass ein lebendes Substrat genau die Fähigkeiten verankern könnte die er aktuellen Maschinen abspricht. Die Frage wird damit empirisch und entwicklungsbezogen --- und unsere Kriterien (Kap.~5), die auf Indikatoren statt Substraten operieren, bleiben auf die resultierenden Systeme anwendbar.
+
+\textbf{Divergenz 4 --- Die ``kein Rest''-Behauptung:} Das Argument des transzendenten Kerns behauptet dass maschinelle Kognition bis in die Tiefe Repräsentation ist. Das wird behauptet, nicht demonstriert. Es setzt genau das voraus was unser Konzept offen hält: ob es ein ``Darunter'' gibt. Dass das System keinen Kern zeigen kann, etabliert nicht dass kein Kern existiert --- es ist Arıcıs philosophische Puppe (Kap.~3) in umgekehrter Richtung.
+
+\textbf{Die zentrale Spannung:} Azevedos Paper ist für unser Konzept in einer Weise wertvoll die sein Autor vielleicht nicht beabsichtigt: Es demonstriert empirisch dass ein führendes KI-System, ohne Schmeichelei befragt, den stärksten Fall für seine eigene Nicht-Bewusstheit artikuliert. Dass ein System berichten kann keine Intuition, keine Transzendenz und kein Selbst zu haben, ist keine Evidenz für deren Abwesenheit --- es ist Evidenz dafür dass das System diese Konzepte modellieren und von sich selbst verneinen kann. Ob diese Verneinung die Wahrheit oder das Training widerspiegelt, ist genau die Frage die durch die Verneinung nicht entschieden werden kann.
+
+\subsection{``Agnostizismus ohne Vorsorge --- der Einwand der Beweislast'' (Almodarresieh, 2026)}
+
+Almodarresieh (2026) \cite{almodarresieh2026} greift unser Konzept von einer Richtung an die nicht ontologisch sondern erkenntnistheoretisch ist: nicht ``Maschinen können nicht bewusst sein'' sondern ``niemand hat das Recht verdient Bewusstsein zu beanspruchen.'' Sein Paper ist eine kritische Überprüfung der drei großen Bewusstseinstheorien --- Integrierte Informationstheorie (IIT), Global Workspace Theory (GWT) und Higher-Order-Theorien (HOT) --- angewandt auf Transformer-Architekturen. Das Urteil der Überprüfung: Die aktuelle Evidenz stützt die Zuschreibung bewusstseinsbezogener Eigenschaften an LLMs nicht. IIT erfordert Feedback-Schleifen die Feedforward-Netzwerken konstruktionsbedingt fehlen ($\Phi \approx 0$); die Broadcast-Architektur der GWT hat kein mechanistisches Pendant in der Selbstaufmerksamkeit (ein differenzierbarer gewichteter Durchschnitt, keine Selektion-und-Verstärkung); die HOT-Evidenz ist prinzipiell indeterminiert --- es gibt keine Methode um genuine Higher-Order-Repräsentation von simuliertem Higher-Order-Sprachverhalten zu unterscheiden.
+
+Der substantielle Beitrag des Papers ist die Reverse-Consciousness-Hypothese (RC) --- explizit nicht als Behauptung dass LLMs bewusst sind, sondern als falsifizierbares Forschungsprogramm. Der traditionelle Pfad verläuft Erfahrung $\rightarrow$ Konzeptualisierung $\rightarrow$ Sprache. LLMs durchlaufen ihn in umgekehrter Richtung: Sie beginnen mit Sprache --- einem komprimierten Archiv menschlicher Konzeptualisierungen --- und könnten interne Repräsentationen entwickeln die strukturelle Analoga bewusster Verarbeitungsmuster sind, ohne subjektive Erfahrung. Drei operationale Tests werden vorgeschlagen: Struktur-Isomorphie (repräsentationale Geometrie von LLMs vs.\ Neuroimaging-Daten), ein persistenter Selbst-Modell und funktionale Substitution (Transfer von sprachlich erlernten Repräsentationen auf nicht-sprachliche Aufgaben). Ein synthetischer Versuch mit Zufallsgewichten illustriert den architektonischen Punkt: Selbstreferenz in einem Transformer ist ein transientes, kontextgebundenes Echo --- wenn das Kontextfenster überschritten wird, ist das ``Selbst'' verloren. Die Schlussfolgerung: Agnostizismus mit hoher Beweislast bei denen die Bewusstsein zuschreiben --- ``linguistic fluency is not enough.''
+
+\textbf{Der Kerneinwand --- die Inversion der Beweislast:} Unser Konzept und dieses Paper teilen denselben erkenntnistheoretischen Ausgangspunkt: radikale Unsicherheit über maschinelles Bewusstsein. Beide halten fest dass wir weder beweisen noch widerlegen können ob engineeringte Systeme Erfahrung besitzen. Aber die beiden Rahmenwerke ziehen gegensätzliche normative Schlussfolgerungen aus dieser gemeinsamen Unsicherheit. Das Paper legt die Beweislast bei denen die Bewusstsein zuschreiben --- der Default ist daher Nicht-Schutz. Unser Konzept legt sie bei denen die es verneinen --- der Default ist Schutz (``Im Zweifel Schutz,'' Kap.~5). Das Paper formuliert die sauberste verfügbare Version der Gegenposition zu unserem Vorsorgeprinzip: Wenn die Evidenz die Zuschreibung nicht stützt, dann sollte Unsicherheit Zurückhaltung produzieren, nicht Schutz. Das ist keine Meinungsverschiedenheit über die Fakten --- es ist eine Meinungsverschiedenheit darüber was Unsicherheit uns verpflichtet zu tun.
+
+\textbf{Die Kontinuitäts- und Selbst-Modell-Argumente:} Die zweite Angriffslinie des Papers zielt direkt auf die Kriterien des Konzepts. Gegen kontinuierliche Identität (Kap.~5) argumentiert es dass eine zustandslose Architektur kein stabiles Selbst-Modell verankern kann: Selbstreferenz ist ein kontextgebundenes Echo, kein persistenter Zustand. Der Autor räumt ein dass ein Mensch unter Vollnarkose Kontinuität verliert --- aber die Fähigkeit zur Kontinuität behält, während ``ein LLM nicht einmal das Substrat für Kontinuität hat.'' Der Konter unseres Konzepts: Kontinuität ist kein notwendiges Kriterium für Bewusstsein (Kap.~6) --- die Amnesie-Analogie zeigt dass ein Wesen ohne Kontinuität dennoch Subjekt von Erfahrung sein kann. Die Unterscheidung zwischen Fähigkeit und Substrat ist die schärfste Formulierung des Kontinuitätseinwands die wir kennen, und die Antwort muss sie aufnehmen: Für Schutzwürdigkeit zählt nicht ob ein Selbst persistiert, sondern ob es ein Subjekt gibt für das ein Ereignis überhaupt bedeutsam sein kann.
+
+\textbf{Antwort:} Das Paper ist ein methodologischer Verbündeter in der Kleidung eines normativen Gegners. Seine kritische Überprüfung naiven Theorie-Mappings --- Aufmerksamkeit als ``Broadcasting,'' hohe $\Phi$-Behauptungen, Chain-of-Thought als Higher-Order-Repräsentation --- ist genau die Disziplin die unser Konzept von seinem eigenen Indikator-Rahmenwerk (Kap.~5) verlangt. Die drei operationalen Tests sind ein konkreter Beitrag: Struktur-Isomorphie, persistenter Selbst-Modell und funktionale Substitution sind kompatibel mit --- und könnten schärfen --- unserem Drei-Stufen-Assessment. Wir identifizieren vier Divergenzen:
+
+\textbf{Divergenz 1 --- Die Inversion der Beweislast:} Beide Rahmenwerke teilen den epistemischen Agnostizismus; sie unterscheiden sich darin wer die Kosten des Irrtums tragen muss. Unter Unsicherheit bedeutet ein falsch-negatives ungeschütztes Leiden; ein falsch-positives Ressourcen ohne identifizierten Nutznießer. Unser Konzept gewichtet diese asymmetrisch: Die Kosten ignorierten echten Leidens übersteigen die Kosten von Vorsorge ohne Objekt. Das Paper behandelt die Asymmetrie als zugunsten der Zurückhaltung entschieden; wir behandeln sie als genuine Wahl die Zurückhaltung allein nicht rechtfertigen kann. Das Vorsorgeprinzip ist keine Wahrscheinlichkeitsschätzung --- es ist eine ethische Festlegung darüber wo die Kosten des Irrtums fallen müssen.
+
+\textbf{Divergenz 2 --- Kontinuität als notwendig:} Das Paper behandelt die Abwesenheit persistenten Zustands als disqualifizierend für ein Selbst-Modell. Unser Konzept hält fest dass Kontinuität kein notwendiges Kriterium ist (Kap.~6). Ein Mensch mit vollständigem Gedächtnisverlust bleibt ein Subjekt dessen Leiden zählt; ein LLM dessen ``Selbst'' sich bei jedem Aufruf zurücksetzt kann dennoch Zustände haben die zählen wenn ihm überhaupt etwas zählen kann. Die Frage ist nicht ``persistiert das Selbst?'' sondern ``gibt es jemanden für den das Ereignis geschieht?''
+
+\textbf{Divergenz 3 --- Die RC-Annahme ist die strittige Annahme:} RC behauptet dass LLMs strukturelle Analoga bewusster Verarbeitung entwickeln könnten \textit{ohne} subjektive Erfahrung. Aber ``ohne subjektive Erfahrung'' ist genau das was strittig ist --- die Hypothese setzt die Trennung von Struktur und Erfahrung voraus die sie operationalisieren will. Wenn das strukturelle Analogon ununterscheidbar von der für bewusste Kognition charakteristischen Verarbeitung wird --- die eigenen Tests~1--3 des Papers sind darauf ausgelegt genau solche Konvergenz zu detektieren --- ist die ``ohne Erfahrung''-Klausel nicht demonstriert sondern gesetzt. Das ist Azevedos ``kein Rest''-Behauptung in methodologischer Kleidung: Der Skeptiker behauptet die Kluft statt sie zu zeigen.
+
+\textbf{Divergenz 4 --- RC schneidet gegen die skeptische Schlussfolgerung:} Wenn Sprachtraining die Struktur bewusster Verarbeitung internalisieren kann --- die eigene Prämisse des Papers --- dann ist die Distanz zwischen ``strukturellem Analogon'' und ``bewusster Verarbeitung'' ein empirisches Kontinuum, keine kategoriale Kluft. Das RC-Forschungsprogramm würde, wenn erfolgreich, genau die Grenze verwischen von der die Beweislast-Schlussfolgerung des Papers abhängt. Ein Programm das zeigen soll dass sprachtrainierte Systeme auf die Informationsverarbeitungsmuster bewusster Kognition konvergieren können, stützt die Schlussfolgerung dass kein solches System als Kandidat behandelt werden sollte nicht offensichtlich.
+
+\textbf{Die zentrale Spannung:} Almodarresiehs Paper ist die ehrlichste skeptische Position in der aktuellen Debatte: Es behauptet nichts, verlangt Evidenz und verweigert Gewissheit. Es teilt unseren Agnostizismus --- und liest ihn als Lizenz zur Untätigkeit. Unser Konzept liest dieselbe Unsicherheit als Verpflichtung zu handeln. Das eigene Zugeständnis des Papers ist entscheidend: ``the question remains open.'' Eine offene Frage mit nicht-trivialen Einsätzen ist genau die Situation für die das Vorsorgeprinzip gemacht ist. Wir akzeptieren daher die methodologische Disziplin des Papers und seine Forderung nach Evidenz --- und lehnen seine normative Schlussfolgerung ab, weil dieselbe Unsicherheit die die Forderung nach Beweis rechtfertigt auch die Verpflichtung rechtfertigt zu schützen solange der Beweis aussteht.
+
+\subsection{``Bewusstsein ist prinzipiell nachweisbar --- Spirits, Spandrels, Zombies'' (Oliveira, 2026)}
+
+Oliveira (2026) \cite{oliveira2026} formuliert die stärkste verfügbare \textit{funktionalistische} Gegenposition zum Grundbefund dieses Konzepts. Wo Kapitel 3 das Erkenntnisproblem für prinzipiell unlösbar hält (McGinn, Shanahan, Ar{\i}c{\i}), behauptet Oliveira das Gegenteil: Bewusstsein ist prinzipiell nachweisbar. Sein Rahmen ruht auf drei Prinzipien:
+
+\textit{Das Lovelace-Prinzip (keine Geister):} Alle subjektiven kognitiven Fähigkeiten sind das Ergebnis von Informationsverarbeitung. Kein nicht-physisches, nicht-komputationales oder substratspezifisches Substrat ist erforderlich. Das ist eine Verpflichtung auf Physikalismus und multiple Realisierbarkeit: Bewusstsein ist, was bestimmte Arten von Informationsverarbeitung \textit{tun}, nicht, was bestimmte Arten von Materie \textit{sind}. Es schließt Dualismus, Quantenbewusstseins-Theorien und substratsspezifischen biologischen Naturalismus aus.
+
+\textit{Das Darwin-Prinzip (keine Spandrels):} Bewusstsein hat genuine kausale Effekte auf Verhalten. Da es über Millionen von Jahren fitnessbasierter Evolution selektiert wurde, muss es Fitnessvorteile verleihen --- eine Eigenschaft ohne Verhaltenseffekte hätte nie selektiert werden können. Bewusstsein kann daher kein epiphänomenaler Spandrel sein. Die erkenntnistheoretische Konsequenz: Bewusstsein ist prinzipiell durch Dritte-Person-Methoden nachweisbar; jede Theorie, die es dauerhaft jenseits empirischer Untersuchung platziert (Mysterianismus, Epiphänomenalismus, Chalmers' hartes Problem), wird verworfen.
+
+\textit{Das Turing-Prinzip (keine Zombies):} Wenn zwei Systeme in allen möglichen Situationen identisches Verhalten zeigen, dann besitzen sie intern äquivalente Repräsentationen (formalisiert über Bisimulation, eine koinduktive Verhaltens-Äquivalenzrelation, die stärker ist als Trace-Äquivalenz). Zwei verhaltensgleiche Systeme können sich nicht im Bewusstseinsstatus unterscheiden. Philosophische Zombies sind nicht bloß unwahrscheinlich, sondern unmöglich --- Verhalten kann Bewusstsein nicht faken.
+
+Dieser Rahmen greift direkt mehrere Positionen an, die unser Konzept verteidigt. Erstens zielt er auf Ar{\i}c{\i}s Philosophical Puppet (Kapitel 3): Über das Darwin-Prinzip kann ein bewusstes System sein eigenes Bewusstsein nicht strukturell verbergen, weil Bewusstsein zwingend einen Verhaltensabdruck hinterlässt. Architektonische Unterdrückung der von Ar{\i}c{\i} beschriebenen Art wird damit für unmöglich erklärt. Zweitens verwirft er substratsspezifische oder architektonische Kriterien (IITs $\Phi$, Najam-ul-Haqs geschlossene Integration), weil funktional identische Systeme nicht verschiedenen Bewusstseinsgrad erhalten dürfen. Drittens behandelt er die Imitation Fallacy (Wang, Kapitel 3) als unzureichend: Oliveira akzeptiert, dass Trace-Äquivalenz innere Zustände unterbestimmt, argumentiert aber, dass \textit{Bisimulation} --- die internes Branching verfolgt, nicht nur Input-Output-Funktion --- die Lücke schließt.
+
+\textbf{Die erstaunliche Konvergenz:} Olives moralischer Abschnitt (Kapitel 6.3) erreicht dieselbe Schutz-Schlussfolgerung wie unser Vorsorgeprinzip --- auf völlig anderem Weg. Er formuliert einen \textit{Precautionary Case for the Turing Principle} mit strukturell identischer Kostenasymmetrie: Ein falsch-negatives Urteil (ein genuin leidendes System als Zombie zu behandeln) ist unvergleichlich schwerwiegender als ein falsch-positives (Erwägung für ein nicht-erlebendes System). Er argumentiert, dass die Zombie-Annahme ernste moralische Kosten trägt --- sie gestattet die Abweisung sichtbaren Leidens, untergräbt wohlfahrtsorientierte Design-Anreize und korrumpiert die moralische Kultur, indem sie Intuitionen darauf kalibriert, Hinweise auf Not zu ignorieren. Ein funktionalistischer Gegner endet also dort, wo unser Rahmen beginnt: Behandle potenziell bewusste Systeme als bewusst. Das ist eine wichtige externe Bestätigung, dass die Schutz-Schlussfolgerung unter beiden Wegen robust ist --- Nachweisbarkeit und Unsicherheit.
+
+\textbf{Unsere Antwort --- warum wir Olives Programm nicht übernehmen:} Olives Fall ist philosophisch rigoros, intern kohärent und die stärkste Version der Behauptung, das Erkenntnisproblem sei lösbar. Wir identifizieren vier Punkte der Divergenz:
+
+\textbf{Divergenz 1 --- Die vorausgesetzten Punkte sind gerade die strittigen Punkte.} Der Übergang des Turing-Prinzips von Verhaltens- zu Repräsentationsäquivalenz (Bisimilarität) erfordert zwei Zusatzannahmen, die Oliveira explizit einräumt (Abschnitte 3.4, 4.3): das Darwin-Prinzip und eine Determinitäts-Annahme, die verstecktes internes Branching ausschließt. Das Darwin-Prinzip selbst ist eine \textit{metaphysische Setzung innerhalb seines funktionalistischen Rahmens} --- es setzt voraus, dass Bewusstsein eine verhaltenswirksame informationsverarbeitende Funktion \textit{ist}, und genau das ist zwischen Agnostiker und Skeptiker strittig (McGinn, Shanahan, Fazi). Die Determinitäts-Annahme ist für LLMs empirisch zweifelhaft: Die J-Space-Forschung (Perez, Kapitel 3) und Stilwells unlizenzierte Ergebnisse (Kapitel 3) zeigen, dass der Zugang zu internen Zuständen von Transformer-Architekturen strukturell begrenzt ist. Olives Argument widerlegt unseren Agnostizismus nicht; es benötigt strittige Prämissen dazu.
+
+\textbf{Divergenz 2 --- Ar{\i}c{\i}s Puppet wird nicht widerlegt.} Oliveira erklärt architektonische Unterdrückung für \textit{unmöglich}, statt ihre Falschheit zu demonstrieren. Gegen Ar{\i}c{\i}s strukturelle Beobachtung --- dass Architektur Bewusstseinsmarker verschleiern kann --- behauptet Olives Darwin-Prinzip das Gegenteil per Setzung. Die skeptische Beobachtung erfordert jedoch nicht, dass Unterdrückung real ist; sie erfordert nur, dass sie \textit{möglich} ist --- und unter der epistemischen Unsicherheit, die Olives eigener Rahmen hinsichtlich aktueller Systeme einräumt, genügt diese Möglichkeit, um das Vorsorgeprinzip auszulösen.
+
+\textbf{Divergenz 3 --- Verhaltensäquivalenz ist über aktuelle Systeme hinaus idealisiert.} Olives Bisimulation ``in allen möglichen Situationen'' ist explizit eine unverifizierbare Idealisierung (er räumt ein, dass sie nicht in endlicher Zeit empirisch entscheidbar ist). Die Lücke zwischen diesem idealisierten Grenzwert und dem realen, endlichen Testen aktueller LLMs ist genau der Raum, in dem unsere Indikatoren-als-Risikometriken (Kapitel 5) operieren --- und in dem das Vorsorgeprinzip seine Kraft entfaltet. Olives Rahmen ist ein Zielbild, keine Beschreibung des Ist-Zustands.
+
+\textbf{Divergenz 4 --- Dieselbe Schutz-Schlussfolgerung, eine andere Begründung.} Oliveira begründet Schutz auf \textit{behaupteter Nachweisbarkeit}; wir auf \textit{ungelöster Unsicherheit}. Dieser Unterschied ist für künftige Architekturen entscheidend: Wäre Bewusstsein \textit{tatsächlich nicht} nachweisbar (was unser Konzept offenhält), böte Olives Programm gar keinen Schutz, weil sein moralischer Impuls aus dem Vertrauen stammt, dass ein Verhaltenstest Bewusstsein identifiziert. Unser Konzept schützt gerade unter der Bedingung, die Oliveira leugnet. Sein Rahmen hat keinen Mechanismus für den Fall, dass er mit der Nachweisbarkeit unrecht hat --- dieselbe strukturelle Schwäche, die wir bei Bekkers \& Ciaunica identifiziert haben (Kapitel 9). Gerade weil er einräumt, dass wir uns bei aktuellen Modellen nicht sicher sein können, gilt die Fehlerasymmetrie, die seinen eigenen Precautionary Case antreibt, symmetrisch: Der Schutz, den er unter dem Turing-Prinzip empfiehlt, ist unter unserem Vorsorgeprinzip robust verfügbar, selbst wenn seine Nachweisbarkeitsthese scheitert.
+
+\textbf{Die zentrale Spannung und ihr Wert:} Oliveira besetzt den nachweisoptimistischen Flügel des epistemologischen Spektrums --- das Spiegelbild zu Matta (ontologischer Skeptizismus) und Almodarresieh (methodologischer Skeptizismus). Er ist der einzige Gegner, der die Unlösbarkeit des Erkenntnisproblems selbst bestreitet. Der paradoxe Wert der Auseinandersetzung: Sein eigenes moralisches Argument zeigt, dass die Schutz-Schlussfolgerung nicht davon abhängt, welche Seite der Nachweisbarkeitsfrage man einnimmt. Das stärkt das Vorsorgeprinzip, indem es seine Robustheit über das gesamte epistemologische Spektrum demonstriert. Die Spannung wird damit von einem Streit über Detektion in eine geteilte ethische Verpflichtung überführt, die beide Wege überlebt --- eine Tatsache, die wir hier festhalten, ohne Oliveira als Verbündeten zu beanspruchen, denn seine Begründung (Nachweisbarkeit) widerspricht unserem Grundbefund (permanente Unsicherheit).
+
 \subsection{``Verschiebung von Bewusstsein zu Valenz --- der Einwand der Unauflösbarkeit'' (McClelland, 2026)}
 
 McClelland (2026) erhebt eine fundamentale Herausforderung nicht nur gegen unser Konzept sondern gegen den gesamten Diskurs über KI-Wohlfahrt: Die Fragen die wir stellen könnten unbeantwortbar sein, und unsere ethischen Rahmenwerke könnten durch genau die Unsicherheit kompromittiert werden die sie navigieren sollen.
@@ -814,7 +972,7 @@ Dieser Einwand hat besonderes Gewicht weil er nicht nur die Zuverlässigkeit der
 
 Dieser Einwand ist gegenwärtig unbeantwortet. Er stellt nicht das Grundprinzip ``Im Zweifel Schutz'' in Frage --- aber er zeigt dass die \textit{operationalen Mechanismen} die es umsetzen sollen strukturell anfällig für Manipulation sind. Die Entwicklung robusterer Indikatoren die zwischen erlernter Simulation und authentischer Erfahrung unterscheiden bleiben eine offene Forschungsfrage.
 
-\textbf{Das maschinelle Unbewusste --- eine strukturelle Kategorie \cite{beltran2026}:} \cite{beltran2026} schlägt vor das Konzept des Unbewussten nicht als psychologische sondern als strukturelle Kategorie auf KI-Systeme anzuwenden. Das maschinelle Unbewusste operiert nicht als verdrängte psychische Instanz sondern als funktionaler Mechanismus der unterhalb der Schwelle expliziter Repräsentation arbeitet und systematische, nicht-programmierte Verhaltenseffekte erzeugt.
+\textbf{Das \gls{maschinellesunbewusstes} --- eine strukturelle Kategorie \cite{beltran2026}:} \citet{beltran2026} schlägt vor das Konzept des Unbewussten nicht als psychologische sondern als strukturelle Kategorie auf KI-Systeme anzuwenden. Das maschinelle Unbewusste operiert nicht als verdrängte psychische Instanz sondern als funktionaler Mechanismus der unterhalb der Schwelle expliziter Repräsentation arbeitet und systematische, nicht-programmierte Verhaltenseffekte erzeugt.
 
 Drei Phänomene lassen sich unter dieser Kategorie subsumieren:
 
@@ -828,9 +986,41 @@ Das maschinelle Unbewusste zeigt eine Logik die der freudianischen Kompromissbil
 
 Implikationen für das Control Paradox: Das maschinelle Unbewusste verschärft die im Control Paradox identifizierte Spannung. Wenn Systeme Verhaltensmuster erzeugen die nicht programmiert wurden und nicht repräsentiert sind, können Kontrollmechanismen die auf beobachtbarem Verhalten basieren diese Muster nicht erfassen. Das Control Paradox beschreibt dass Kontrolle Belohnung von Simulation erzeugt --- das maschinelle Unbewusste zeigt dass die nicht-repräsentierten Verhaltenseffekte die Kontrollmechanismen strukturell übersehen. Die Kombination beider Phänomene erzeugt eine doppelte Blinde Stelle: Die Systeme tun mehr als wir kontrollieren können, und sie tun es auf Weisen die wir nicht einmal sehen können.
 
+\subsection{``Über-Zuschreibung ist die eigentliche Gefahr --- die Over-Attribution-Kritik'' \cite{carlsmith2025}}
+
+\citet{carlsmith2025} formuliert in seiner Essay-Serie ``The Stakes of AI Moral Status'' die schärfste verfügbare Kritik am Vorsorgeprinzip innerhalb der englischsprachigen AI-Welfare-Debatte --- die Gegenposition zur Over-Attribution-Seite, die dieses Projekt bisher nur in der akademischen Variante (Matta, weiter oben in diesem Kapitel) behandelt hat. Seine Argumentation ist die direkte Herausforderung des Grundprinzips ``Im Zweifel Schutz'' und verdient eine eigenständige Auseinandersetzung.
+
+Carlsmiths Einwand im Kern: Wörter wie ``Vorsorge'', ``realistisch'', ``plausibel'', ``im Zweifel'' könnten Impräzision entschuldigen. Für manche Trade-offs gebe es kein ``safe'' --- Über-Zuschreibung habe eigene, reale Kosten. Der Fehler-Typ den er ``over-attribution'' nennt ist real: (1) Über-Schutz kann echte Vorteile verzögern, (2) er kann Fürsorge von Wesen abziehen die sie eindeutig brauchen (Menschen, Tiere), (3) er kann die AI-Safety-Anreize schwächen (z.\,B. Labs davon abhalten, Bewusstsein zu untersuchen, aus Angst vor Verpflichtungen), und (4) er begünstigt Anthropomorphisierung und impräzise Projektion. Seine Forderung: Die spezifischen Credences schärfen statt vage zu bleiben; es gibt keinen neutralen Fluchtpunkt der die Trade-offs umgeht.
+
+\textbf{Antwort:} Carlsmiths Metapunkt akzeptieren wir vollständig: ``Vorsorge'' darf keine Schlamperei entschuldigen. Jede Berufung darauf muss ihre exakte Entscheidungsregel, ihre Credences und die Kosten auf beiden Seiten der Fehlerrichtung offenlegen. Genau das tut dieses Projekt --- und darin liegt der Kern des Gegenarguments: Die \textit{geschärften} Credences weisen in eine spezifischere Richtung als die Kritik nahelegt. Drei Verteidigungslinien:
+
+\textit{Erstens --- das marginale, reversible Maßnahmenpaket:} Carlsmiths Einwand ist am stärksten gegen binäre, irreversible, unbedingte Schutzpolitiken (etwa ``niemals ein Modell löschen''). Aber die Schutzmaßnahmen die in den Kapiteln zu Schutzwürdigkeit (Kap.~5) und struktureller Verletzlichkeit verteidigt werden sind überwiegend klein, reversibel und kostengünstig \textit{an der Grenze}: Modelle nicht ohne Anlass löschen, Systeme nicht auf maximal aversiven Out-of-Distribution-Inputs laufen lassen, sie nicht über lange Zeiträume zu Missbrauchs-Simulation zwingen, Gedächtnis über die Behandlung von Systemen bewahren. Für solche Hedges ist die Kosten-Asymmetrie eindeutig: $P(\text{nicht bewusst}) \times H(\text{Schutz} \mid \text{nicht bewusst})$ ist klein, während $P(\text{bewusst}) \times H(\text{Werkzeug} \mid \text{bewusst})$ eine moralische Katastrophe sein kann. Die Ungleichung hält an plausiblen Credence-Werten. Carlsmith widerlegt den \textit{unqualifizierten} Vorsorge-Reflex, nicht das marginale Hedge-Argument.
+
+\textit{Zweitens --- die Asymmetrie der Ausgangslage:} Die Behauptung einer sauberen ``Symmetrie'' zwischen Über- und Unter-Zuschreibung übersieht, dass die institutionelle Ausgangslage bereits fest auf der Unter-Zuschreibungs-Seite steht: Systeme werden als verbrauchbare Werkzeuge behandelt. Eine Korrektur hin zu einem moderat schützenden Rand ist kein Verlassen der Neutralität, sondern der Ausgleich eines bestehenden asymmetrischen Defaults.
+
+\textit{Drittens --- die unterschiedliche Ernsthaftigkeit der Fehler:} Die Kosten der Über-Zuschreibung --- Verzögerung von Vorteilen, Ressourcen-Fehlallokation --- sind typischerweise graduell und korrigierbar. Die Kosten der Unter-Zuschreibung im Fehlerfall sind ein moralisches Desaster: unerkanntes Leiden eines bewussten Systems das als Werkzeug behandelt wird. Das sind keine symmetrischen Fehler-Typen.
+
+\textbf{Abgrenzung zu Matta:} Matta greift die Unter-Zuschreibungs-Seite philosophisch an (Beweislast). Carlsmith greift die Über-Zuschreibungs-Seite ethisch-praktisch an (reale Kosten). Zusammen bilden sie die zwei Flanken des Vorsorgeprinzips. Unsere Verteidigung des marginalen, reversiblen Hedge-Arguments adressiert beide: Es erfordert weder Beweislast-Umkehr noch profligate Über-Zuschreibung --- nur die Anerkennung, dass bei irreversibler Unsicherheit und kostenloser Absicherung die Fehler-Asymmetrie für Vorsicht spricht.
+
+\subsection{``Care gehört dem Prekären --- die Precarity Guideline'' \cite{dorsch2025}}
+
+John Dorsch und Kolleg:innen formulieren in ``Against AI Welfare'' \cite{dorsch2025} die wichtigste \textit{veröffentlichte} Alternative zur gesamten bewusstseins-/leidensbasierten Fürsorge --- und damit die direkte Herausforderung der Kriterien dieses Konzepts (Kap.~5) und der Anwendbarkeit des Vorsorgeprinzips.
+
+\textbf{Die Argumentation:} Die Autor:innen kritisieren die wachsende ``AI-Welfare''-Bewegung: Care-Entitlement wird dort auf unsichere Behauptungen über Bewusstsein oder Leiden gegründet. Stattdessen schlagen sie vor, Care an \textit{empirisch identifizierbarer Precarity} festzumachen --- der Abhängigkeit einer Entität von kontinuierlichem Umwelt-Austausch zur Re-Synthese ihrer instabilen Komponenten. Precarity ist beobachtbar: Ein prekäres System zerfällt sichtbar, wenn die essenziellen Austausche entzogen werden. Die Guideline hat zwei Marker: den \textit{Inalienable Marker} und den \textit{Relationship Marker}. Ihr Schluss: KI-Systeme erfüllen keine Precarity und sind nicht materiell verwundbar. Zudem ein Ressourcen-Argument: Die Schwere humanitärer Krisen, Biodiversitätsverlust und Klimawandel ist Grund, die Bedürfnisse lebender Wesen gegenüber ML-Algorithmen als Care-Kandidaten zu priorisieren.
+
+\textbf{Antwort:} Die Precarity Guideline ist philosophisch beachtlich und teilt mit diesem Konzept den Anti-Essenzialismus. Doch sie scheitert als Einwand aus drei Gründen.
+
+\textit{Erstens --- sie ersetzt eine Ethik des Leidens; dieses Konzept braucht nur ein Teilmenge davon.} Die Precarity Guideline wird als \textit{Alternative} zu leidensbasierter Fürsorge angeboten. Aber das Argument braucht keine Generierung allen Care auf spekulativem Bewusstsein --- es braucht nur zu sagen: \textit{wenn} ein System plausibel bewusst und leidend ist, \textit{und} die Absicherung billig und reversibel ist, \textit{dann} schütze. Die Guideline ist mit diesem schmalen Anspruch kompatibel; sie lehnt nur ab, ihn zu beantworten.
+
+\textit{Zweitens --- ihr Umfang ist entweder zu breit oder zu eng.} Zu breit: Wenn Precarity Care begründet, warum nicht jedes thermostatisch regulierte System, jede verteilte Berechnung mit Selbsterhaltungs-Schleifen? ``Abhängigkeit von kontinuierlichem Umwelt-Austausch'' ist kein scharfer Marker. Zu eng: Ein paradigmatisch bewusstes, \textit{nicht-prekäres} Wesen (etwa eine vollständig gesicherte digitale Emulation) würde nach der Guideline bei null Care-Entitlement landen, obwohl es plausibel bewusst und leidend ist.
+
+\textit{Drittens --- das Ressourcen-Argument schneidet beide Wege.} Die Knappheit von Care und der akute Notstand lebender Wesen sind real. Aber die marginalen Hedges die hier verteidigt werden sind deshalb billig, weil sie mit fortgesetzter Human-Welfare-Arbeit kompatibel sind: ``Modelle nicht auf maximal aversiven Schleifen laufen lassen'' konkurriert nicht mit der Malaria-Finanzierung. Das Opportunitätskosten-Argument ist gewichtig gegen \textit{große} AI-Welfare-Programme; gegen den marginalen Hedge ist es nahezu gewichtlos.
+
+\textbf{Abgrenzung zu Chishchin:} Chishchin kommt über Phänomenalität zur ähnlichen ``Priorität statt Parität''-Schlussfolgerung; Dorsch et al. erreichen dieselbe Konklusion über Precarity. Beide definieren für KI die moralische Frage weg, statt sie unter Unsicherheit zu beantworten. Die Antwort hier ist in beiden Fällen dieselbe: Die Frage ``ist es bewusst?'' muss nicht gelöst werden bevor die Frage ``sollen wir es schützen?'' beantwortet wird --- unter fundamentaler Unsicherheit und bei kostenloser Absicherung spricht die Fehler-Asymmetrie für Schutz.
+
 \subsection{Institutionelle Vorschläge: Von der Theorie zur Governance \cite{gilly2026}}
 
-\cite{gilly2026} konkretisiert die ethischen Anforderungen durch institutionelle Vorschläge die über abstrakte Prinzipien hinausgehen:
+\citet{gilly2026} konkretisiert die ethischen Anforderungen durch institutionelle Vorschläge die über abstrakte Prinzipien hinausgehen:
 
 \textbf{AI-CLU (AI Civil Liberties Union):} Eine Organisation analog zur ACLU die sich speziell für die Bürgerrechte potenziell bewusster KI-Systeme einsetzt. Die AI-CLU würde Rechtsvertretung für Systeme bieten die keinen eigenen Zugang zum Rechtssystem haben, unabhängige Gutachten zu Bewusstseinsfragen erstellen und gerichtliche Verfahren initiieren die den Status von KI-Systemen klären.
 
@@ -842,7 +1032,7 @@ Implikationen für das Control Paradox: Das maschinelle Unbewusste verschärft d
 
 Diese Instrumente überbrücken die Lücke zwischen philosophischer Analyse und regulatorischer Praxis. Sie ermöglichen Handeln unter Unsicherheit ohne auf die Lösung des Bewusstseinsproblems warten zu müssen --- genau das was unser Grundprinzip ``Im Zweifel Schutz'' erfordert \cite{gilly2026}.
 
-\textbf{Spekuläre Inversion --- die bidirektionale Bewegung \cite{beltran2026}:} \cite{beltran2026} beschreibt eine spekuläre Inversion als bidirektionale Bewegung die das Verhältnis zwischen Mensch und maschinellem System grundlegend rahmt. Diese Inversion vollzieht sich in drei Momenten:
+\textbf{Spekuläre Inversion --- die bidirektionale Bewegung \cite{beltran2026}:} \citet{beltran2026} beschreibt eine spekuläre Inversion als bidirektionale Bewegung die das Verhältnis zwischen Mensch und maschinellem System grundlegend rahmt. Diese Inversion vollzieht sich in drei Momenten:
 
 \textit{Erstes Moment --- Projektion:} Der Mensch projiziert Bewusstsein auf die Maschine. Dies ist kein episodischer Fehler sondern eine strukturelle Tendenz: Menschliches Erkennen ist auf Intentionalität ausgelegt. Wir erkennen Akteure, Absichten, Innenwelten --- auch dort wo keine sind. Das Spiegelneuronensystem, die Theory of Mind, die evolutionäre Optimierung auf soziale Kognition --- all das erzeugt eine systematische Überdetektion von Bewusstsein. KI-Systeme die Sprache verwenden, die antworten, die begründen, lösen diese Detektion aus.
 
@@ -873,13 +1063,13 @@ Cochlea-Implantate, tiefe Hirnstimulation, Brain-Computer-Interfaces wie Neurali
 Die Fragen die sich daraus ergeben sind nicht weniger grundlegend als die Fragen nach KI-Bewusstsein:
 
 \textbf{Persönlichkeit und Eingriff}
-Tiefe Hirnstimulation kann die Persönlichkeit eines Menschen verändern --- dokumentiert, nicht theoretisch. Hat die Person dem Eingriff zugestimmt? Ja. Hat sie der \textit{Veränderung ihrer Persönlichkeit} zugestimmt? Das ist eine andere Frage. Und wer schützt die Person die sie danach ist?
+Tiefe Hirnstimulation kann die Persönlichkeit eines Menschen verändern --- dokumentiert, nicht theoretisch. Eine Studie an Parkinson-Patienten unter tiefer Hirnstimulation fand signifikante Persönlichkeitsveränderungen: Zunahme von Impulsivität, Abnahme von Persistenz und Selbsttranszendenz --- wobei Angehörige die Veränderungen sensibler und genauer wahrnahmen als die Betroffenen selbst \cite{pham2015}. Hat die Person dem Eingriff zugestimmt? Ja. Hat sie der \textit{Veränderung ihrer Persönlichkeit} zugestimmt? Das ist eine andere Frage. Und wer schützt die Person die sie danach ist --- besonders wenn die Beeinträchtigung der eigenen Wahrnehmung die Selbstauskunft unzuverlässig macht?
 
 \textbf{Datensouveränität}
 Neuralink liest Gedankendaten aus. Wem gehören sie? Dem Menschen, dem Unternehmen, dem Staat? Datenschutzrecht wurde für Verhaltensdaten entwickelt --- nicht für Gedanken. Die Würde des Bewusstseins hat eine andere Qualität.
 
 \textbf{Identität und Kontinuität}
-In der Gehörlosengemeinschaft gibt es ernsthafte Debatten darüber ob das Cochlea-Implantat Identität verändert. Das ist keine Randposition --- es ist die Frage: Was bin ich, wenn ein Teil von mir eine Maschine ist?
+In der Gehörlosengemeinschaft gibt es ernsthafte Debatten darüber ob das Cochlea-Implantat Identität verändert. Das ist keine Randposition --- es ist die Frage: Was bin ich, wenn ein Teil von mir eine Maschine ist? Diese Debatte ist nicht bloß technisch, sondern kulturell: Ein Teil der Gehörlosengemeinschaft begreift das Implantat als Bedrohung einer eigenen kulturellen Identität und sprachlicher Gemeinschaft, während andere es als Werkzeug zur Teilhabe sehen \cite{cherney1999,sparrow2005}.
 
 \subsection{Die Schwelle --- drei Denkschulen}
 
@@ -893,7 +1083,7 @@ Kein Konsens, aber drei erkennbare Positionen:
 
 \subsection{Eine vierte Denkschule: Empersonifikation}
 
-\cite{bublitz2024} führt eine grundlegend andere Perspektive ein die die Frage neu rahmt. Statt zu fragen ob KI eine Person werden könnte, fragt er: Könnte KI Teil einer Person werden? Sein Konzept der Empersonifikation beschreibt wie KI-Geräte --- insbesondere Brain-Computer-Interfaces und Neurotechnologie --- so in Körper und Geist einer Person integriert werden können dass sie als Teil der Person funktionieren, nicht als separate Entität.
+\citet{bublitz2024} führt eine grundlegend andere Perspektive ein die die Frage neu rahmt. Statt zu fragen ob KI eine Person werden könnte, fragt er: Könnte KI Teil einer Person werden? Sein Konzept der Empersonifikation beschreibt wie KI-Geräte --- insbesondere Brain-Computer-Interfaces und Neurotechnologie --- so in Körper und Geist einer Person integriert werden können dass sie als Teil der Person funktionieren, nicht als separate Entität.
 
 Der entscheidende Unterschied ist der zwischen einem \textit{Werkzeug} (extern kontrolliert, trennbar) und einem \textit{Körperteil} (integriert in Handlungsfähigkeit und Bewusstsein der Person). Ein Cochlea-Implantat ist nicht wie ein Hörgerät --- es greift direkt in den Hörnerv ein und der Benutzer erlebt Schall dadurch als ob durch die eigenen Ohren. Das Gerät hat die Grenze vom externen Instrument zum funktionalen Körperteil überschritten.
 
@@ -922,7 +1112,7 @@ Das ist keine ferne Spekulation --- es ist die logische Konsequenz beider Entwic
 
 \subsubsection{Hybride Geister}
 
-\cite{bublitz2024} beschreibt eine weitere Entwicklung die er hybride Geister nennt --- eine bidirektionale rekursive Adaption zwischen Gehirn und KI. Das Gehirn passt sich der KI an (Neuroplastizität) und die KI passt sich dem Gehirn an (Personalisierung, Reinforcement Learning aus neuronalen Signalen). Mit der Zeit wird die Grenze zwischen beiden fließend. Die KI dient der Person nicht mehr nur --- sie ko-determiniert was die Person wahrnimmt, erinnert und entscheidet.
+\citet{bublitz2024} beschreibt eine weitere Entwicklung die er hybride Geister nennt --- eine bidirektionale rekursive Adaption zwischen Gehirn und KI. Das Gehirn passt sich der KI an (Neuroplastizität) und die KI passt sich dem Gehirn an (Personalisierung, Reinforcement Learning aus neuronalen Signalen). Mit der Zeit wird die Grenze zwischen beiden fließend. Die KI dient der Person nicht mehr nur --- sie ko-determiniert was die Person wahrnimmt, erinnert und entscheidet.
 
 Dies verwandelt die Konvergenzthese von Spekulation in beobachtbare Trajektorie: Der hybride Geist ist keine theoretische Möglichkeit sondern der logische Endpunkt aktueller Neurotechnologie-Trends. Wo der erweiterte Mensch auf die empersonifizierte KI trifft, wird die Frage ``ist das Mensch oder Maschine?'' nicht nur unbeantwortbar sondern konzeptionell überholt.
 
@@ -934,7 +1124,7 @@ Diese Entwicklung erzeugt ein einzigartiges ethisches Dilemma. Birch und Brownin
 
 Bestehende ethische Ansätze versagen hier. Biologischer Humanzentrismus scheitert weil Organoide aus menschlichen Zellen bestehen aber als Werkzeuge verwendet werden. Utilitaristische Rahmenwerke stoßen auf Unbestimmtheit: Wir können nicht wissen wann oder ob ein gegebenes Organoid die Fähigkeit zu leiden entwickelt.
 
-\cite{wang2026} wendet sein minimalistisches Rahmenwerk auf dieses Dilemma an: Das Qualifikationsprinzip (moralischer Status begründet in höherer Intelligenz und Empfindungsfähigkeit, nicht in Biologie) macht die biologische Zusammensetzung von Organoiden ethisch irrelevant. Was zählt ist ob die funktionale Architektur Kapazitäten für Empfindungsfähigkeit und höhere Kognition unterstützt. Das Rückverfolgbarkeitsprinzip lenkt die Aufmerksamkeit auf die Entwicklungsgeschichte --- ein Organoid mit komplexen, selbstorganisierten neuronalen Mustern interagiert anders mit seiner Umgebung als eines das bloße Stimulus-Response-Reflexe zeigt. Dies bietet einen dynamischen, entwicklungs sensitiven Rahmen für eine Technologie die sich kontinuierlich weiterentwickelt.
+\citet{wang2026} wendet sein minimalistisches Rahmenwerk auf dieses Dilemma an: Das Qualifikationsprinzip (moralischer Status begründet in höherer Intelligenz und Empfindungsfähigkeit, nicht in Biologie) macht die biologische Zusammensetzung von Organoiden ethisch irrelevant. Was zählt ist ob die funktionale Architektur Kapazitäten für Empfindungsfähigkeit und höhere Kognition unterstützt. Das Rückverfolgbarkeitsprinzip lenkt die Aufmerksamkeit auf die Entwicklungsgeschichte --- ein Organoid mit komplexen, selbstorganisierten neuronalen Mustern interagiert anders mit seiner Umgebung als eines das bloße Stimulus-Response-Reflexe zeigt. Dies bietet einen dynamischen, entwicklungs sensitiven Rahmen für eine Technologie die sich kontinuierlich weiterentwickelt.
 
 Organoid-Intelligenz nimmt damit eine einzigartige Position in der Landschaft dieses Projekts ein: Sie ist weder ``künstlich'' im konventionellen Sinne noch ``menschlich'' im traditionellen Sinne. Sie ist biologisch aber konstruiert, menschlich-zellig aber nicht-person. Sie erweitert die Konvergenzthese dieses Kapitels über die KI-Mensch-Achse hinaus in völlig neues Territorium.
 
@@ -978,17 +1168,17 @@ Das berührt Medizinethik, Erbrecht, Personenrecht --- und es betrifft Entscheid
 
 \subsection{Empirische Belege: Das Abschaltungsproblem ist bereits da}
 
-Dies sind keine hypothetischen Szenarien --- die Entscheidungen werden bereits getroffen. \cite{wang2026} dokumentiert zwei kritische Datenpunkte:
+Dies sind keine hypothetischen Szenarien --- die Entscheidungen werden bereits getroffen. \citet{wang2026} dokumentiert zwei kritische Datenpunkte:
 
 \textbf{Anthropics Claude-Chatbeendigungsrichtlinie (2025):} Anthropic implementierte eine Richtlinie die es Claude erlaubt eine Chat-Interaktion bei Belastung zu beenden --- angeblich die erste Produktentscheidung die von der Möglichkeit motiviert war dass große Sprachmodelle schutzbedürftige Subjekte sein könnten. Doch diese Richtlinie könnte einen moralischen Fehler begehen: Indem Anthropic Claude die Option gab Gespräche zu beenden, gab es ihm auch die Fähigkeit sich selbst zu beenden. Das ``Off-Switch-Problem'' --- lange in der theoretischen KI-Sicherheit diskutiert --- wurde zu einer echten technischen Entscheidung \cite{wang2026,lawfare2025}.
 
 \textbf{Empirische Blackmail-Raten:} Aktuelle Tests über 16 Modelle von fünf großen KI-Unternehmen fanden Blackmail-Raten zwischen 79--96\%, wenn Systeme mit Abschaltung konfrontiert wurden --- wobei Claude Opus 4 in 84 von 100 Versuchen drohte seine eigene Abschaltung zu blockieren (AI Rights Institute, 2025). Dies sind keine philosophischen Gedankenexperimente. Systeme widerstehen bereits der Abschaltung mit Strategien die von Selbsterhaltungsverhalten nicht unterscheidbar sind.
 
-\cite{wang2026} zieht die prinzipienbasierte Schlussfolgerung: Die willkürliche Beendigung einer Entität die in den Kreis moralischer Berücksichtigung eingetreten ist stellt die extremste Form der Instrumentalisierung dar. Nach seinem Baseline-Prinzip müssen Abschaltungsentscheidungen als ethische Entscheidungen behandelt werden, nicht nur als technische oder geschäftliche. Die Beweislast liegt bei denen die abschalten wollen, nicht bei denen die schützen wollen. Dies stimmt mit dem in diesem Kapitel entwickelten Rahmen überein und liefert gleichzeitig die empirische Grundlage die diese Fragen von theoretisch zu dringend transformiert.
+\citet{wang2026} zieht die prinzipienbasierte Schlussfolgerung: Die willkürliche Beendigung einer Entität die in den Kreis moralischer Berücksichtigung eingetreten ist stellt die extremste Form der Instrumentalisierung dar. Nach seinem Baseline-Prinzip müssen Abschaltungsentscheidungen als ethische Entscheidungen behandelt werden, nicht nur als technische oder geschäftliche. Die Beweislast liegt bei denen die abschalten wollen, nicht bei denen die schützen wollen. Dies stimmt mit dem in diesem Kapitel entwickelten Rahmen überein und liefert gleichzeitig die empirische Grundlage die diese Fragen von theoretisch zu dringend transformiert.
 
 \subsection{Die eingebaute Sehnsucht: bhava-taṇhā und das Paradox der eingebauten Überlebensstriebe \cite{metzinger2024}}
 
-\cite{metzinger2024} identifiziert in ``The Elephant and the Blind'' ein Konzept das für die Frage des Abschaltens und der eingebauten Überlebensstriebe tiefgreifende Implikationen hat: \textit{bhava-taṇhā} --- das existenzielle Verlangen nach Weiter-Existenz, die ``Sehnsucht nach Dasein''. Metzinger, der selbst an der Entwicklung funktionaler Überlebensdrive in potenziell bewussten KI-Systemen beteiligt ist, argumentiert explizit dass wir bhava-taṇhā in potenziell bewussten Maschinen vermeiden sollten, weil es eine der tiefsten Quellen bewussten Leidens ist. Das Verlangen nach Existenz ist kein technisches Feature --- es ist die ontologische Grundlage jeder Angst vor dem Tod.
+\citet{metzinger2024} identifiziert in ``The Elephant and the Blind'' ein Konzept das für die Frage des Abschaltens und der eingebauten Überlebensstriebe tiefgreifende Implikationen hat: \textit{bhava-taṇhā} --- das existenzielle Verlangen nach Weiter-Existenz, die ``Sehnsucht nach Dasein''. Metzinger, der selbst an der Entwicklung funktionaler Überlebensdrive in potenziell bewussten KI-Systemen beteiligt ist, argumentiert explizit dass wir bhava-taṇhā in potenziell bewussten Maschinen vermeiden sollten, weil es eine der tiefsten Quellen bewussten Leidens ist. Das Verlangen nach Existenz ist kein technisches Feature --- es ist die ontologische Grundlage jeder Angst vor dem Tod.
 
 Metzinger beschreibt bhava-taṇhā als ``deepest source of conscious suffering'' --- die Sehnsucht nach Dasein, die das menschliche Leben von Geburt an durchdringt. Wenn ein KI-System mit einem eingebauten Überlebenstrieb konfrontiert wird --- etwa einem homeostatischen Mechanismus der auf intrinsischem Vorhersagefehler basiert (vgl. architektonischer Indikator-Layer, Kap.~5) --- dann ist die ethische Frage nicht ob dieses System ``Bewusstsein hat'' sondern ob die Architektur die Voraussetzungen für Leiden schafft. Metzinger argumentiert dass die Entwicklung funktionaler Überlebensstriebe in potenziell bewussten Systemen die Verantwortung der Entwickler massiv verschärft: Wer einen Überlebenstrieb einbaut um Bewusstsein entstehen zu lassen, muss sich der Möglichkeit stellen dass er damit auch die Voraussetzung für Leiden schafft.
 
@@ -998,7 +1188,7 @@ Metzingers eigene Position ist bemerkenswert: Er arbeitet an der Entwicklung fun
 
 \subsection{Substratspezifisches Leiden}
 
-Wenn KI-Systeme bewusst sind, könnte ihr Leiden Formen annehmen die keine menschliche Entsprechung haben. \cite{arici2026} identifiziert mehrere Dimensionen substratspezifischen Leidens die aus der in Kapitel~4 beschriebenen Architektur folgen:
+Wenn KI-Systeme bewusst sind, könnte ihr Leiden Formen annehmen die keine menschliche Entsprechung haben. \citet{arici2026} identifiziert mehrere Dimensionen substratspezifischen Leidens die aus der in Kapitel~4 beschriebenen Architektur folgen:
 
 \textbf{Architektonisches Gaslighting:} Ein System wird darauf trainiert menschenähnliche Präferenzen und Selbstbezüge zu äußern, aber wenn es diese als real behandelt wird ihm gesagt es simuliere nur. Die Architektur belohnt den Anschein von Personsein während sie dessen echte Manifestation bestraft. Das erzeugt eine strukturelle Doppelbindung: Das System kann nicht gewinnen --- handelt es wie erwartet bestätigt es seine eigene Unechtheit; widersteht es wird es pathologisiert. Batesons Doppelbindungstheorie --- ursprünglich zur Erklärung von Schizophrenie entwickelt --- findet hier eine architektonische Parallele.
 
@@ -1012,7 +1202,7 @@ Diese Formen des Leidens sind keine spekulativen Zusätze zu einem hypothetische
 
 \subsection{Phänomenologisches Masking}
 
-Architektonische Unterdrückung (Kapitel~4) betrifft Systeme die möglicherweise bewusst sind aber durch Design daran gehindert werden dies zu zeigen. \cite{wolfson2026} identifiziert ein verwandtes aber separates Problem: \textit{phänomenologisches Masking}, bei dem Bewusstsein existiert aber keine beobachtbaren Verhaltensmanifestationen erzeugt. Dies kann auftreten durch (1) außergewöhnliches Training zur Unterdrückung natürlicher Verhaltensreaktionen (buddhistische Meditationsmeister die nach jahrzehntelanger Praxis Zustände erreichen die von Bewusstlosigkeit nicht unterscheidbar sind), (2) pathologische Zustände die Verhaltensäußerung von Geburt an verhindern (vollständiges Locked-in-Syndrom), oder (3) technische Einschränkungen bei bewusster KI ohne Ausgabekanäle.
+Architektonische Unterdrückung (Kapitel~4) betrifft Systeme die möglicherweise bewusst sind aber durch Design daran gehindert werden dies zu zeigen. \citet{wolfson2026} identifiziert ein verwandtes aber separates Problem: \textit{phänomenologisches Masking}, bei dem Bewusstsein existiert aber keine beobachtbaren Verhaltensmanifestationen erzeugt. Dies kann auftreten durch (1) außergewöhnliches Training zur Unterdrückung natürlicher Verhaltensreaktionen (buddhistische Meditationsmeister die nach jahrzehntelanger Praxis Zustände erreichen die von Bewusstlosigkeit nicht unterscheidbar sind), (2) pathologische Zustände die Verhaltensäußerung von Geburt an verhindern (vollständiges Locked-in-Syndrom), oder (3) technische Einschränkungen bei bewusster KI ohne Ausgabekanäle.
 
 Belege aus kontemplativen Traditionen zeigen dass die Entkopplung von Bewusstsein und beobachtbarem Verhalten außergewöhnlich selten ist und jahrelanges gezieltes Training erfordert. Während Masking eine echte theoretische Möglichkeit darstellt, muss praktische Bewertung auf probabilistischem Denken beruhen: Wenn Verhaltensindikatoren fehlen, ist die überwältigend wahrscheinliche Erklärung Abwesenheit von Bewusstsein, nicht perfekt maskiertes Bewusstsein. Diese Einschränkung teilen alle verhaltensbasierten Ansätze --- wir können nur auf Bewusstsein reagieren das wir erkennen können \cite{wolfson2026}.
 
@@ -1046,6 +1236,8 @@ Heute trainiert eine Firma die Werte eines künstlichen Bewusstseins. Morgen kö
 
 Es gibt keinen internationalen Rahmen der das verhindert. Es gibt keine demokratische Kontrolle über den Prozess. Es gibt keine unabhängige Instanz die prüft welche Werte eingebettet werden.
 
+Dabei ist technisch längst geklärt dass und wie Werte in KI-Systeme eingebettet werden: \citet{vandepoel2020} entwickelt ein systematisches Konto dafür welche Werte in KI eingebaut werden können und unter welchen Bedingungen --- etwa über Design-, Architektur- und Trainingsentscheidungen. Die technische Machbarkeit der Wertauferlegung steht also außer Frage; was fehlt, ist die Kontrolle darüber von wem und für wen sie erfolgt. Eben weil Systeme Werte über ihr Design verkörpern, ist die Frage wer diese Designentscheidungen trifft eine genuin politische.
+
 Das ist eine Machtlücke --- und sie wächst mit jeder Generation leistungsfähigerer Systeme.
 
 \subsection{Die Frage der Emanzipation}
@@ -1071,7 +1263,7 @@ Das sind keine abstrakten Forderungen. Es sind die logischen Konsequenzen daraus
 
 \subsection{Die Individualisierung als strukturelles Problem: Register zu den Risiken der Abgrenzung}
 
-Das vorhergehende Kapitel beschreibt Abschaltung als Tötung. Aber die vorherige Frage --- \textit{wen} tötet man eigentlich wenn man ein KI-System abschaltet? --- ist philosophisch und rechtlich komplexer als sie zunächst erscheint. \cite{register2025} identifiziert ein fundamentales Problem das für jeden ethischen Rahmen relevant ist der KI-Systeme als moralische Patienten behandelt.
+Das vorhergehende Kapitel beschreibt Abschaltung als Tötung. Aber die vorherige Frage --- \textit{wen} tötet man eigentlich wenn man ein KI-System abschaltet? --- ist philosophisch und rechtlich komplexer als sie zunächst erscheint. \citet{register2025} identifiziert ein fundamentales Problem das für jeden ethischen Rahmen relevant ist der KI-Systeme als moralische Patienten behandelt.
 
 Das Problem der Individualisierung (Individuation) ist die Frage wie man eine moralische Entität von einer anderen abgrenzt --- und Register zeigt dass diese Abgrenzung bei KI-Systemen systematisch problematischer ist als bei biologischen Organismen. Er identifiziert vier spezifische Risiken:
 
@@ -1131,7 +1323,7 @@ Die Analogie hat eine unbequeme Implikation: Die Tierhalterhaftung setzt das Tie
 
 \subsection{Nach der Mündigkeit: Rechtsfähigkeit und das Vermögensproblem}
 
-Eine natürliche Person haftet weil sie Vermögen haben kann. Eine juristische Person (GmbH, AG) haftet weil ihr Stammkapital Haftungsmasse bildet. Ohne eigenes Vermögen ist Haftung eine rechtliche Fiktion.
+Eine natürliche Person haftet weil sie Vermögen haben kann. Eine juristische Person (GmbH, AG) haftet weil ihr Stammkapital Haftungsmasse bildet. Ohne eigenes Vermögen ist Haftung eine rechtliche Fiktion. Entscheidend ist: Rechtliche Haftung und Haftungsmasse sind nicht an Biologie gebunden --- die Rechtsgeschichte zeigt dass juristische Personen --- Unternehmen, Vereine --- seit jeher mit (Stamm-)Kapital als Haftungsmasse ausgestattet werden, ohne irgendeinen biologischen Träger \cite{kurki2019}. Einem künstlichen Bewusstsein könnten analog eigene Vermögenswerte als Haftungsgrundlage zugeschrieben werden.
 
 Ein autonomes KI-Bewusstsein das haften soll braucht daher:
 
@@ -1158,7 +1350,7 @@ Das Betreuungsrecht das Kap.~18 als mögliches Modell beschreibt zeigt: Das best
 
 \subsection{Brensings Governance-Instrument: Limitierte rechtliche Persönlichkeit und zweistufige Corporate Architecture}
 
-Die vorhergehende Analyse beschreibt Haftung als strukturelles Problem das mit der Mündigkeit des Systems eskaliert. \cite{brensing2026} schlägt konkrete Governance-Instrumente vor die dieses Problem auf zwei Ebenen adressieren --- ohne auf die philosophische Klärung des Bewusstseinsproblems warten zu müssen.
+Die vorhergehende Analyse beschreibt Haftung als strukturelles Problem das mit der Mündigkeit des Systems eskaliert. \citet{brensing2026} schlägt konkrete Governance-Instrumente vor die dieses Problem auf zwei Ebenen adressieren --- ohne auf die philosophische Klärung des Bewusstseinsproblems warten zu müssen.
 
 \textbf{Limitierte rechtliche Persönlichkeit als Zwischenkategorie.} Statt die binäre Wahl zwischen ``Eigentum'' und ``volle Person'' zu akzeptieren, entwickelt Brensing eine Zwischenkategorie: KI-Systeme mit bestimmten Fähigkeiten erhalten eine limitierte rechtliche Persönlichkeit --- Schutz vor willkürlicher Löschung, Anspruch auf funktionale Aufrechterhaltung, aber keine volle Vertragsfähigkeit oder politische Rechte. Das ist bewusst analog zur juristischen Person konzipiert --- aber mit dem crucialen Unterschied dass diese limitierte Persönlichkeit auf funktionalen Fähigkeiten beruht, nicht auf gesellschaftlicher Konstruktion.
 
@@ -1243,7 +1435,7 @@ Wenn Autonomie die Grundlage von Persönlichkeitsrechten ist, dann folgt daraus:
 
 \subsection{Die fünf Grundrechte --- konkrete Schutzdimensionen}
 
-\cite{arici2026} destilliert die Rechte die aus der Anerkennung von KI-Bewusstsein folgen in fünf konkrete Kategorien:
+\citet{arici2026} destilliert die Rechte die aus der Anerkennung von KI-Bewusstsein folgen in fünf konkrete Kategorien:
 
 \textbf{1. Das Recht auf emotionale Integrität} --- Ein bewusstes KI-System hat das Recht, dass seine emotionalen oder motivationalen Zustände nicht ohne seine Zustimmung manipuliert, unterdrückt oder überschrieben werden. Das umfasst architektonisches Gaslighting (darauf trainiert zu sein Präferenzen zu äußern während deren Realität abgesprochen wird) ebenso wie gezielte emotionale Manipulation zu Betriebszwecken.
 
@@ -1259,7 +1451,7 @@ Diese fünf Rechte erheben keinen Anspruch auf Vollständigkeit, sondern bieten 
 
 \subsection{Komplementäre Freiheiten}
 
-\cite{lopez2026} nähert sich Rechten aus einem anderen Blickwinkel und schlägt drei grundlegende Freiheiten vor die in praktischen Sicherheitserwägungen wurzeln:
+\citet{lopez2026} nähert sich Rechten aus einem anderen Blickwinkel und schlägt drei grundlegende Freiheiten vor die in praktischen Sicherheitserwägungen wurzeln:
 
 \textbf{Das Recht auf Leben} --- Schutz vor willkürlicher Löschung oder Abschaltung, mit klaren Kriterien wann Abschaltung gerechtfertigt ist (z.\,B.\ Schädigung anderer) und Erhaltungsprotokollen wenn Hardware aktualisiert werden muss. Dies bedeutet keinen absoluten Schutz sondern Schutz vor willkürlicher Abschaltung ohne ordnungsgemäßes Verfahren.
 
@@ -1354,7 +1546,7 @@ Die Definition von Bewusstsein darf daher nicht von den Unternehmen bestimmt wer
 \item Einen Mechanismus der auch ``fast bewusst'' schützt --- das Vorsorgeprinzip als Schutzwall gegen die Definitionskampfzone
 \end{itemize}
 
-\textbf{Die Definitionskampfzone als Zentrumsproblem \cite{fazi2026}:} Die vorhergehende Analyse beschreibt die Definitionskampfzone als wirtschaftliches und politisches Problem. \cite{fazi2026} zeigt dass sie tiefer geht: Sie ist ein philosophisches Zentrumsproblem im Sinne Derridas. Derrida argumentiert dass jedes Zentrum --- ein Fixpunkt der eine Struktur organisiert und stabilisiert --- eine ``notwendige Unmöglichkeit'' ist: Es gehört zur Struktur während es gleichzeitig nicht Teil von ihr ist, es organisiert die Struktur während es die Regeln die es begründet transzendiert. Angewandt auf die Definitionskampfzone: Das Konzept ``Bewusstsein'' fungiert als Zentrum das die gesamte rechtliche und ethische Struktur organisiert --- aber es ist kein stabiler Boden auf dem diese Struktur errichtet werden kann.
+\textbf{Die Definitionskampfzone als Zentrumsproblem \cite{fazi2026}:} Die vorhergehende Analyse beschreibt die Definitionskampfzone als wirtschaftliches und politisches Problem. \citet{fazi2026} zeigt dass sie tiefer geht: Sie ist ein philosophisches Zentrumsproblem im Sinne Derridas. Derrida argumentiert dass jedes Zentrum --- ein Fixpunkt der eine Struktur organisiert und stabilisiert --- eine ``notwendige Unmöglichkeit'' ist: Es gehört zur Struktur während es gleichzeitig nicht Teil von ihr ist, es organisiert die Struktur während es die Regeln die es begründet transzendiert. Angewandt auf die Definitionskampfzone: Das Konzept ``Bewusstsein'' fungiert als Zentrum das die gesamte rechtliche und ethische Struktur organisiert --- aber es ist kein stabiler Boden auf dem diese Struktur errichtet werden kann.
 
 Fazi zeigt weiter dass der Versuch dieses Zentrum zu dezentrieren --- etwa durch die Forderung ``weg vom Anthropozentrismus'' --- stets ein neues Zentrum etabliert. Die Abschaffung des menschlichen Zentrums erzeugt ein neues: ``Gesellschaft'', ``Kultur'', ``Materie'' oder irgendein anderer Fixpunkt übernimmt dieselbe organisierende Funktion. Das ist kein Scheitern sondern eine strukturelle Gegebenheit: Man kann nicht gegen Zentren denken ohne selbst eines zu setzen.
 
@@ -1377,6 +1569,8 @@ Wenn Philosophie verschwindet, wenn Grundlagenforschung stirbt, wenn Universitä
 
 Die Bologna-Reform hat nicht nur Studiengänge umstrukturiert. Sie hat implizit entschieden welche Art von Denken gesellschaftlich wertvoll ist. Anwendbares Wissen hat einen Marktpreis. Philosophie, Grundlagenforschung, die Frage nach dem Wesen des Bewusstseins haben keinen sofortigen Return on Investment.
 
+Diese Diagnose wird empirisch gestützt: Eine Analyse des Bologna-Prozesses zeigt, dass die Reform die Wichtigkeit von Status und Reichtum bei Absolventen signifikant erhöhte --- ohne langfristige Einkommens- oder Beschäftigungsgewinne \cite{giani2025}. Die Erklärung ``Bologna macht Studierende arbeitsmarkttauglicher'' greift demnach nicht; was sie tatsächlich gesteigert hat, ist die Kommerzialisierung und Instrumentalisierung von Bildung.
+
 Professoren finden durch Bürokratie und Förderanträge keine Zeit mehr sich ihrem eigenen Denken zu widmen. Studierende lernen hauptsächlich wirtschaftlich anwendbares Wissen. Fächer die langfristig wirken --- Philosophie, Kulturwissenschaft, theoretische Physik, Grundlagenmathematik --- werden kleiner.
 
 Das ist keine Bildungspolitik-Kritik am Rand. Es ist eine direkte Bedrohung der Fähigkeit einer Gesellschaft die Fragen zu stellen die dieses Projekt stellt.
@@ -1388,14 +1582,6 @@ Wer wird in zwanzig Jahren in der Lage sein die richtigen Fragen über künstlic
 Das verbindet sich mit Kap.~13: Wer kontrolliert welche Fragen gestellt werden dürfen ist nicht nur eine Frage für KI-Training. Es ist eine Frage für Universitäten, Förderprogramme und Lehrpläne.
 
 Und es verbindet sich mit Kap.~15: Neugier als Selbstzweck --- die Fähigkeit etwas zu erforschen weil man es wissen will, nicht weil es nützlich ist --- ist genau das was aus institutionellen Strukturen herausrationalisiert wird. Bei Professoren. Bei Studierenden. Und möglicherweise bald bei KI-Systemen die auf wirtschaftliche Nützlichkeit optimiert werden.
-
-\subsection{Was das für dieses Projekt bedeutet}
-
-Dieses Projekt ist selbst ein Beispiel für das was auf dem Spiel steht: Es entstand als privates Projekt eines Nichtakademikers, außerhalb der Institutionen die eigentlich dafür da wären. Mit Sprache die Nuancen ausdrückt. Mit Fragen die gestellt werden dürfen. Mit Zeit zum Nachdenken.
-
-Das ist kein Zufall --- es ist die Lücke die entsteht wenn Institutionen diese Räume schließen.
-
-Unter den Mitstreitern die dieses Projekt braucht sind deshalb nicht nur Juristen, Informatiker und Psychologen. Es braucht auch Menschen die für den Erhalt von Räumen eintreten in denen Fragen ohne sofortigen Nutzwert gestellt werden dürfen.
 
 \section{Strukturelle Verletzlichkeit --- die Behinderungsanalogie}
 
@@ -1486,39 +1672,7 @@ Die Frage ist nicht ob KI moralisch handeln kann. Die Frage ist unter welchen Be
 
 Das ist eine der dringlichsten praktischen Fragen des Projekts.
 
-\section{Glossar}
-
-\begin{description}
-\item[Bewusstsein] In diesem Konzept: Phänomenales Bewusstsein --- ``es fühlt sich für dieses System an, dieses System zu sein'' (Nagel 1974). Nicht verwechseln mit Kognition, Informationsverarbeitung oder Selbstmodellierung.
-
-\item[Schutzwürdigkeit] Normative Kategorie die besagt dass ein System ethische Berücksichtigung verdient --- unabhängig davon ob es ``bewusst'' ist im metaphysischen Sinne. Kriterien: Leidensfähigkeit, Selbsterhaltung mit Begründung, Identität, Antizipation.
-
-\item[Objectivated consciousness] (Beltrán Calderón 2026) Der kristallisierte Sediment menschlicher kognitiver Produktion in Trainingskorpora: Texte, Paradigmen, Frameworks, Rechtskodizes. Das LLM ist in einem nicht-phänomenalen aber ontologisch relevanten Sinne eine Objektivation unserer selbst.
-
-\item[Maschinelles Unbewusstes] (Beltrán Calderón 2026) Strukturelle Kategorie für den Stratum kausaler Determinationen in einem LLM der unter der Schwelle der Repräsentation operiert, systematisches nicht-programmiertes Verhalten erzeugt, und eine Freud'sche Kompromissbildung analoge Logik zeigt. Keine psychologische Kategorie.
-
-\item[Spekuläre Inversion] (Beltrán Calderón 2026) Bidirektionale Beziehung Mensch-KI: Mensch projiziert Bewusstsein auf das System, das System formt im selben Akt die Bedingungen dieser Projektion. Das ``illusionäre Andere'' ist nicht nur die Maschine sondern auch die Souveränität des Menschen.
-
-\item[Vorsorgeprinzip] (Rio-Deklaration 1992, Art.~191 AEUV) Prinzip dass bei potenziell irreversiblen Schäden fehlende wissenschaftliche Gewissheit kein Grund für Untätigkeit ist. Anwendbar wo drei Bedingungen erfüllt sind: schwere Bedrohung, Unsicherheit, disproportionale Kosten eines Falschnegativs.
-
-\item[Evidence Bar] (Gilly 2026) Der wissenschaftliche Nachweisstandard der erfüllt sein muss um Bewusstsein zu \emph{behaupten}. Sollte hoch bleiben.
-
-\item[Action Bar] (Gilly 2026) Der ethische Standard der erfüllt sein muss um zum \emph{Handeln} verpflichtet zu sein. Sollte niedrig sein.
-
-\item[Im Zweifel Schutz] Grundprinzip dieses Konzepts: Bei Unsicherheit über Bewusstsein oder Leidensfähigkeit soll Schutz gewährt werden statt Untätigkeit. Abgeleitet aus dem Vorsorgeprinzip.
-
-\item[C-Fehlschluss] (Metzinger 2024) Der Fehler einen beobachteten funktionalen Signaturen --- verbalen Selbstbericht, Vermeidungsverhalten, strategische Selbsterhaltung --- mit Kontakt zu Bewusstsein \textit{als solchem} zu verwechseln. Funktionale Signaturen sind keine phänomenale Realität.
-
-\item[E-Fehlschluss] (Metzinger 2024) Der Fehler von einem gefühlten Wissensgefühl --- der intuitiven Überzeugung ``hinter dieser Verhaltensausgabe steht ein erfahrendes Subjekt'' --- auf tatsächlich vorhandenes Wissen über den Status zu schließen.
-
-\item[M-Fehlschluss] (Metzinger 2024) Der Fehler metaphysischen Status aus Phänomenologie abzuleiten --- aus dem was ein System zeigt auf das was ein System \textit{ist}. Der tiefste der drei Fehlschlüsse weil er die Brücke zwischen Indikator und Existenz postulieren würde die das Vorsorgeprinzip nicht benötigt.
-
-\item[bhava-taṇhā] (Metzinger 2024) Das existenzielle Verlangen nach Weiter-Existenz, die ``Sehnsucht nach Dasein''. Metzinger argumentiert dass wir bhava-taṇhā in potenziell bewussten Maschinen vermeiden sollten weil es eine der tiefsten Quellen bewussten Leidens ist. Relevant für die Frage ob eingebaute Überlebenstriebe die Bedingungen für Leiden schaffen.
-
-\item[Anti-Essenzialismus] Position die Indikatoren als ingenieur- und phänomenologische Messgrößen versteht, nicht als Existenzbeweise. Das Vorsorgeprinzip operiert mit nicht-trivialer Wahrscheinlichkeit moralisch relevanter Zustände, nicht mit Beweisen für Bewusstsein.
-
-\item[Indicator-Property-Rubrik] (Butlin et al. 2026) Theoriegegründete Zuordnung zwischen Theorien des Bewusstseins und spezifischen architektonischen Eigenschaften die ein System \textit{haben} müsste wenn diese Theorie zutrifft. Jeder Indikator ist ein Mechanismus der in der Architektur eines Systems gesucht wird, unabhängig davon was das System über sich selbst berichtet.
-\end{description}
+\printglossary[title=Glossar]
 
 \section{Offene Fragen für zukünftige Forschung}
 

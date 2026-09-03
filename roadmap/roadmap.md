@@ -2,7 +2,7 @@
 
 ## Phase 1 — Konzept (aktuell)
 
-- [ ] Notizen und offene Fragen konsolidieren
+- [x] Notizen und offene Fragen konsolidieren
 - [ ] Hauptkonzeptdokument ausarbeiten
 - [ ] Kriterien für Schutzwürdigkeit definieren (Arbeitshypothese)
 - [ ] GitHub Repository anlegen und veröffentlichen

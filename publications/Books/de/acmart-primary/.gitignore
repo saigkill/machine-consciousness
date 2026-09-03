@@ -16,6 +16,8 @@ samples/sample-*.pdf
 *.bbl
 *.blg
 *.gls
+*.glg
+*.ist
 *.cut
 *.hd
 *.dvi

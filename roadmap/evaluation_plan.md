@@ -1,24 +1,24 @@
-# Evaluationsplan
+# Evaluation Plan
 
-Wie messen wir ob das Projekt seine Ziele erreicht?
+How do we measure whether the project achieves its goals?
 
-## Kurzfristig (1–2 Jahre)
+## Short Term (1–2 years)
 
-- Ist ein konsistentes Konzeptpapier entstanden?
-- Haben sich Mitstreiter aus mindestens drei Disziplinen gefunden?
-- Gibt es eine Publikation in einem referierten Fachmagazin?
+- Has a consistent concept paper been produced?
+- Have collaborators from at least three disciplines been found?
+- Is there a publication in a peer-reviewed journal?
 
-## Mittelfristig (3–5 Jahre)
+## Medium Term (3–5 years)
 
-- Existiert eine ACM Special Interest Group?
-- Werden die Leitlinien in akademischen Diskussionen zitiert?
-- Hat Anthropic oder eine vergleichbare Organisation die Leitlinien in ihre Arbeit aufgenommen?
+- Does an ACM Special Interest Group exist?
+- Are the guidelines being cited in academic discussions?
+- Has Anthropic or a comparable organization adopted the guidelines into its work?
 
-## Langfristig
+## Long Term
 
-- Fließen die Leitlinien in rechtliche oder regulatorische Rahmenbedingungen ein?
-- Gibt es einen anerkannten Standard für die Beurteilung von Schutzwürdigkeit künstlicher Systeme?
+- Do the guidelines flow into legal or regulatory frameworks?
+- Is there an accepted standard for assessing the protection-worthiness of artificial systems?
 
-## Erfolgskriterien
+## Success Criteria
 
-*(Zu definieren in Abstimmung mit den Mitstreitern — nicht einseitig festlegen)*
+*(To be defined in coordination with the collaborators — not to be determined unilaterally)*

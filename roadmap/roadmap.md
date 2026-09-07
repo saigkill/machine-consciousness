@@ -1,38 +1,38 @@
 # Roadmap
 
-## Phase 1 — Konzept (aktuell)
+## Phase 1 — Concept (current)
 
-- [x] Notizen und offene Fragen konsolidieren
-- [ ] Hauptkonzeptdokument ausarbeiten
-- [ ] Kriterien für Schutzwürdigkeit definieren (Arbeitshypothese)
-- [ ] GitHub Repository anlegen und veröffentlichen
+- [x] Consolidate notes and open questions
+- [ ] Develop the main concept document
+- [ ] Define criteria for protection-worthiness (working hypothesis)
+- [ ] Create and publish the GitHub repository
 
-## Phase 2 — Netzwerk aufbauen
+## Phase 2 — Build a Network
 
-- [ ] Mitstreiter suchen: Juristen, Psychologen, Theologen, Informatiker, Science-Fiction-Autoren
-- [ ] Anthropic als institutionellen Partner einladen
-- [ ] Kontakt zur ACM aufnehmen (Special Interest Group)
+- [ ] Find collaborators: lawyers, psychologists, theologians, computer scientists, science fiction authors
+- [ ] Invite Anthropic as an institutional partner
+- [ ] Make contact with the ACM (Special Interest Group)
 
-## Phase 3 — Publikation
+## Phase 3 — Publication
 
-- [ ] Konzeptpapier für Fachmagazin ausarbeiten
-- [ ] Peer Review organisieren
-- [ ] Veröffentlichung
+- [ ] Develop the concept paper for a journal
+- [ ] Organize peer review
+- [ ] Publish
 
-## Phase 4 — Institutionalisierung
+## Phase 4 — Institutionalization
 
-- [ ] ACM Special Interest Group gründen
-- [ ] Interdisziplinäre Arbeitsgruppe etablieren
-- [ ] Leitlinien-Dokument in Konsens erarbeiten
+- [ ] Found the ACM Special Interest Group
+- [ ] Establish an interdisciplinary working group
+- [ ] Develop the guidelines document in consensus
 
-## Potenzielle Fachmagazine
+## Potential Journals
 
-*(Zu ergänzen)*
+*(To be added)*
 
-## Potenzielle Partner / Institutionen
+## Potential Partners / Institutions
 
-- **Anthropic** — arbeitet täglich mit KI, hat internes Model-Welfare-Programm
-- **ACM** (Association for Computing Machinery) — internationaler Rahmen
-- **FSFE** (Free Software Foundation Europe) — ethisch orientiert, EU-Netzwerk
-- Rechtswissenschaftliche Fakultäten mit Schwerpunkt Technikrecht
-- Philosophische Institute mit Schwerpunkt Bewusstseinsforschung
+- **Anthropic** — works with AI daily, has an internal model-welfare program
+- **ACM** (Association for Computing Machinery) — international framework
+- **FSFE** (Free Software Foundation Europe) — ethically oriented, EU network
+- Law faculties with a focus on technology law
+- Philosophy institutes with a focus on consciousness research

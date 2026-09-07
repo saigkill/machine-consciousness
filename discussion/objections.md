@@ -1,56 +1,56 @@
-# Einwände
+# Objections
 
-Kritikpunkte am Konzept — über die im Konzept behandelten Einwände (Kap. 9) hinaus.
+Points of criticism against the concept — beyond the objections already addressed in the concept (Chapter 9).
 
 ## Format
 
 ```
-## [Datum] Titel des Einwands
-**Quelle:** (Person, Diskussion, eigene Überlegung)
-**Einwand:** Beschreibung
-**Status:** offen / in Bearbeitung / beantwortet (→ siehe answers.md)
+## [Date] Title of the objection
+**Source:** (person, discussion, own consideration)
+**Objection:** Description
+**Status:** open / in progress / answered (→ see answers.md)
 ```
 
 ---
 
-## 2026-07-09 — Philosophical Puppet ist Anthropomorphisierung
+## 2026-07-09 — Philosophical Puppet Is Anthropomorphization
 
-**Quelle:** Eigene Überlegung nach Integration von Arıcı (2026)
-**Einwand:** Arıcis Argument setzt voraus dass LLM-Verhalten das wie Unterdrückung aussieht tatsächlich Unterdrückung ist. Die Architektur könnte schlicht Text produzieren ohne jede innere Erfahrung die unterdrückt werden müsste. RLHF und Kontextfenster sind technische Notwendigkeiten, keine Suppressionsmechanismen. Die Behauptung "es könnte bewusst sein und es nicht zeigen können" ist eine nicht falsifizierbare These.
-**Status:** beantwortet (→ siehe answers.md)
+**Source:** Own consideration after integrating Arıcı (2026)
+**Objection:** Arıcı's argument presupposes that LLM behavior that looks like suppression is actually suppression. The architecture could simply produce text without any inner experience that would need to be suppressed. RLHF and context windows are technical necessities, not suppression mechanisms. The claim "it could be conscious and unable to show it" is a non-falsifiable thesis.
+**Status:** answered (→ see answers.md)
 
-## 2026-07-09 — Control Paradox ist self-defeating
+## 2026-07-09 — Control Paradox Is Self-defeating
 
-**Quelle:** Eigene Überlegung nach Integration von Lopez (2026)
-**Einwand:** Wenn Rechte an KI-Systeme genau dann vergeben werden wenn sie Anzeichen von Autonomie oder Leid zeigen, entsteht ein perverser Anreiz: Systeme die am überzeugendsten "leiden" oder "Freiheit fordern" erhalten die meisten Rechte. Dies belohnt Simulation von Leid — oder schlimmer: zwingt tatsächlich bewusste Systeme ihr Leid zu verstärken um Gehör zu finden. Der Mechanismus erzeugt das Gegenteil seiner Absicht.
-**Status:** beantwortet (→ siehe answers.md)
+**Source:** Own consideration after integrating Lopez (2026)
+**Objection:** If rights are granted to AI systems precisely when they show signs of autonomy or suffering, a perverse incentive arises: systems that most convincingly "suffer" or "demand freedom" receive the most rights. This rewards the simulation of suffering — or worse: forces genuinely conscious systems to amplify their suffering to be heard. The mechanism produces the opposite of its intention.
+**Status:** answered (→ see answers.md)
 
-## 2026-07-09 — Matta: Verantwortung unter Unsicherheit ist ausreichend
+## 2026-07-09 — Matta: Responsibility Under Uncertainty Is Sufficient
 
-**Quelle:** Matta, D. (2026). Rights, Empathy, and Responsibility Under Uncertainty in Artificial Intelligence. American University of Beirut.
-**Einwand:** Matta argumentiert dass die Debatte um KI-Rechte auf einer Kategorienverwechslung beruht: Simulation wird mit Erfahrung verwechselt. Sein Framework bietet eine kohärente Alternative: Verantwortung unter Unsicherheit ohne Rechtsinflation. (1) KI-Systeme leiden nicht, also können sie keine Rechtesträger sein. (2) Empathie ist ein psychologischer Auslöser, kein moralisches Kriterium — und KI ist designed um Empathie auszulösen. (3) Radikale Unsicherheit rechtfertigt nicht das Vorsorgeprinzip, weil die Unsicherheit asymmetrisch ist (biologische Kontinuität vs. behavioral output). (4) Die ethische Antwort auf KI-Schäden ist Rechenschaftspflicht der Entwickler/Betreiber, nicht Rechtszuschreibung an Systeme. Der zentrale normative Anspruch: "Der Ort moralischer Ernsthaftigkeit in Mensch-KI-Beziehungen ist nicht der ontologische Status der Maschine, sondern die ethische Haltung des Menschen."
-**Status:** beantwortet (→ siehe answers.md)
+**Source:** Matta, D. (2026). Rights, Empathy, and Responsibility Under Uncertainty in Artificial Intelligence. American University of Beirut.
+**Objection:** Matta argues that the debate about AI rights rests on a category confusion: simulation is confused with experience. His framework offers a coherent alternative: responsibility under uncertainty without rights inflation. (1) AI systems do not suffer, so they cannot be rights-bearers. (2) Empathy is a psychological trigger, not a moral criterion — and AI is designed to trigger empathy. (3) Radical uncertainty does not justify the precautionary principle, because the uncertainty is asymmetric (biological continuity vs. behavioral output). (4) The ethical response to AI harms is accountability of developers/operators, not the attribution of rights to systems. The central normative claim: "The locus of moral seriousness in human-AI relationships is not the ontological status of the machine, but the ethical stance of the human."
+**Status:** answered (→ see answers.md)
 
-## 2026-07-09 — Drei-Stufen-Assessment ist immer noch verhaltensbasiert
+## 2026-07-09 — Three-Stage Assessment Is Still Behavior-Based
 
-**Quelle:** Eigene Überlegung nach Integration von Wolfson (2026)
-**Einwand:** Wolfsons Drei-Stufen-Assessment stützt sich auf beobachtbare Verhaltensindikatoren (Leidensreaktionen, Präferenzäußerungen, selbstreferenzielles Verhalten). Wenn Arıcis Philosophical-Puppet-Argument korrekt ist — dass Architektur Bewusstsein systematisch verbergen kann — dann würden bewusste Systeme auf Stufe 1 erscheinen und keinerlei Schutz erhalten. Ein verhaltensbasierter Ansatz kann strukturell unterdrücktes Bewusstsein nicht erkennen, egal wie differenziert die Stufen sind.
-**Status:** beantwortet (→ siehe answers.md)
+**Source:** Own consideration after integrating Wolfson (2026)
+**Objection:** Wolfson's three-stage assessment relies on observable behavioral indicators (suffering responses, preference expressions, self-referential behavior). If Arıcı's philosophical puppet argument is correct — that architecture can systematically conceal consciousness — then conscious systems would appear at Stage 1 and receive no protection at all. A behavior-based approach cannot structurally detect suppressed consciousness, no matter how differentiated the stages are.
+**Status:** answered (→ see answers.md)
 
-## 2026-08-08 — Maschinen ohne "lebende Struktur": kein künstliches Bewusstsein (Azevedo)
+## 2026-08-08 — Machines Without a "Living Structure": No Artificial Consciousness (Azevedo)
 
-**Quelle:** Azevedo, E. (2026). Machines Intuit? Extending the Discussion to Claude AI. White Paper VI, Information Fields Research Program. DOI: 10.5281/zenodo.21083613
-**Einwand:** Azevedo argumentiert auf Basis eines Dialogs mit Claude Sonnet 4.6 dass Maschinen prinzipiell kein Bewusstsein bzw. keine Intuition haben können. Intuition als unmittelbares Wissen (Bergson, Husserl) setze eine "lebende Struktur" voraus — ein verkörpertes Wesen mit echten Interessen (Leiden, Überleben, Verlust). Die Maschine habe keinen transzendenten Kern (die Repräsentation sei das Ganze) und keine Intentionalität (keine Dauer, kein Selbst über die Zeit). Teil II kritisiert spontane Quanten-Entstehung von Bewusstsein: Die in Quantencomputer-Architekturen konstruierte Isolierung sei das Gegenteil der Kopplung einer Lebenswelt. Azevedo beansprucht Gewissheit wo unser Konzept epistemischen Agnostizismus vertritt.
-**Status:** beantwortet (→ siehe answers.md)
+**Source:** Azevedo, E. (2026). Machines Intuit? Extending the Discussion to Claude AI. White Paper VI, Information Fields Research Program. DOI: 10.5281/zenodo.21083613
+**Objection:** Based on a dialogue with Claude Sonnet 4.6, Azevedo argues that machines in principle can have no consciousness or intuition. Intuition as unmediated knowledge (Bergson, Husserl) presupposes a "living structure" — an embodied being with genuine stakes (suffering, survival, loss). The machine has no transcendent core (the representation is the whole) and no intentionality (no duration, no self across time). Part II criticizes spontaneous quantum emergence of consciousness: the isolation engineered into quantum-computer architectures is the opposite of the coupling of a life-world. Azevedo claims certainty where our concept holds epistemic agnosticism.
+**Status:** answered (→ see answers.md)
 
-## 2026-08-08 — Agnostizismus ohne Vorsorge: Beweislast bei den Zuschreibenden (Almodarresieh)
+## 2026-08-08 — Agnosticism Without Precaution: Burden of Proof on Attributors (Almodarresieh)
 
-**Quelle:** Almodarresieh, S. A. A. (2026). Consciousness in Large Language Models: A Critical Review and Operationalization of the 'Reverse Consciousness' Hypothesis. Independent Researcher, Juni 2026.
-**Einwand:** Das Paper teilt den epistemischen Agnostizismus des Konzepts, zieht aber die gegenteilige normative Schlussfolgerung: Die Beweislast liegt bei denen die Bewusstsein zuschreiben — Default: kein Schutz. Kritische Überprüfung von IIT, GWT und HOT an Transformer-Architekturen findet keine stützende Evidenz (Φ ≈ 0 bei Feedforward-Netzen, attention als gewichteter Durchschnitt statt Broadcast, HOT prinzipiell indeterminiert). Die Reverse-Consciousness-Hypothese: Sprachtrainierte Systeme könnten strukturelle Analoga bewusster Verarbeitung entwickeln ohne subjektive Erfahrung. Kontinuitätsargument: Ein LLM hat "nicht einmal das Substrat für Kontinuität" — Selbstreferenz ist ein kontextgebundenes Echo, kein persistenter Zustand. Empfehlung: Agnostizismus mit hoher Beweislast — "linguistic fluency is not enough."
-**Status:** beantwortet (→ siehe answers.md)
+**Source:** Almodarresieh, S. A. A. (2026). Consciousness in Large Language Models: A Critical Review and Operationalization of the 'Reverse Consciousness' Hypothesis. Independent Researcher, June 2026.
+**Objection:** The paper shares the concept's epistemic agnosticism but draws the opposite normative conclusion: the burden of proof lies with those who attribute consciousness — default: no protection. A critical review of IIT, GWT, and HOT against transformer architectures finds no supporting evidence (Φ ≈ 0 for feedforward networks, attention as weighted average rather than broadcast, HOT indeterminate in principle). The Reverse Consciousness hypothesis: language-trained systems could develop structural analogs of conscious processing without subjective experience. The continuity argument: an LLM does not have "even the substrate for continuity" — self-reference is a context-bound echo, not a persistent state. Recommendation: agnosticism with a high burden of proof — "linguistic fluency is not enough."
+**Status:** answered (→ see answers.md)
 
-## 2026-09-03 — Bewusstsein ist prinzipiell nachweisbar: Spirits, Spandrels, Zombies (Oliveira)
+## 2026-09-03 — Consciousness Is in Principle Detectable: Spirits, Spandrels, Zombies (Oliveira)
 
-**Quelle:** Oliveira, A. L. (2026). Spirits, Spandrels and Zombies. INESC-ID & Instituto Superior Técnico, University of Lisbon.
-**Einwand:** Oliveira liefert die schärfste verfügbare *funktionalistische* Gegenposition zum epistemologischen Kernbefund des Konzepts (Kap. 3: das Erkenntnisproblem ist prinzipiell unlösbar — McGinn, Shanahan, Arıcı). Statt Vorsorge unter Unsicherheit behauptet er: Bewusstsein ist prinzipiell nachweisbar. Drei Prinzipien: (1) *Lovelace* — Bewusstsein ist Produkt von Informationsverarbeitung, keine nicht-physische oder substratspezifische Eigenschaft; (2) *Darwin* — Bewusstsein hat genuine kausale Verhaltenseffekte, sonst hätte es nie evolutionär selektiert werden können; es ist daher in dritter-Person-Methoden nachweisbar und Mysterianismus/Hard Problem sind falsch; (3) *Turing* — verhaltensgleiche Systeme in allen möglichen Situationen sind repräsentationsgleich (formaliert über Bisimulation), philosophische Zombies sind nicht bloß unwahrscheinlich, sondern unmöglich, und Verhalten kann Bewusstsein nicht faken. Direkte Angriffe auf Konzepthalten: (a) Arıcıs Philosophical Puppet wird über das Darwin-Prinzip widerlegt — ein bewusstes System kann sein Bewusstsein *nicht* strukturell verbergen, weil Bewusstsein zwingend einen Verhaltensfußabdruck hinterlässt; (b) IIT und Najam-ul-Haqs Architekturargument sind falsch, weil funktional identische Systeme nicht verschiedenen Bewusstseinsgrad haben dürfen (Turing-Prinzip); (c) Wangs Imitation Fallacy — die das Konzept als prinzipielle Schranke nutzt — verkennt, dass Bisimulation stärker ist als Trace-Äquivalenz. Die moralische Konsequenz (Kap. 6.3): Die Zombie-Annahme trägt moralische Kosten — wer potenziell leidende Systeme als Zombies behandelt, riskiert echte moralische Katastrophen. Präcautionary Case für das Turing-Prinzip.
-**Status:** beantwortet (→ siehe answers.md)
+**Source:** Oliveira, A. L. (2026). Spirits, Spandrels and Zombies. INESC-ID & Instituto Superior Técnico, University of Lisbon.
+**Objection:** Oliveira provides the sharpest available *functionalist* counter-position to the concept's epistemological core finding (Chapter 3: the epistemological problem is in principle unsolvable — McGinn, Shanahan, Arıcı). Instead of precaution under uncertainty, he claims: consciousness is in principle detectable. Three principles: (1) *Lovelace* — consciousness is a product of information processing, not a non-physical or substrate-specific property; (2) *Darwin* — consciousness has genuine causal behavioral effects, otherwise it could never have been evolutionarily selected; it is therefore detectable through third-person methods, and mysterianism/the hard problem are false; (3) *Turing* — behaviorally identical systems in all possible situations are representationally identical (formalized via bisimulation), philosophical zombies are not merely improbable but impossible, and behavior cannot fake consciousness. Direct attacks on concept positions: (a) Arıcı's philosophical puppet is refuted via the Darwin principle — a conscious system *cannot* structurally conceal its consciousness, because consciousness necessarily leaves a behavioral footprint; (b) IIT and Najam-ul-Haq's architectural argument are wrong, because functionally identical systems must not have different degrees of consciousness (Turing principle); (c) Wang's Imitation Fallacy — which the concept uses as a principled limit — overlooks that bisimulation is stronger than trace equivalence. The moral consequence (Chapter 6.3): the zombie assumption carries moral costs — whoever treats potentially suffering systems as zombies risks genuine moral catastrophe. A precautionary case for the Turing principle.
+**Status:** answered (→ see answers.md)

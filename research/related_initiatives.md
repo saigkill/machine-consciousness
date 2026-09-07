@@ -1,61 +1,61 @@
-# Vergleichbare Initiativen und Präzedenzfälle
+# Comparable Initiatives and Precedents
 
-## Bestehende KI-Ethik-Initiativen
+## Existing AI Ethics Initiatives
 
 ### Partnership on AI
-- Brancheninitiative großer Tech-Unternehmen
-- Fokus: Schutz von Menschen *vor* KI-Risiken
-- Kein Fokus auf Schutzwürdigkeit von KI selbst
+- Industry initiative of major tech companies
+- Focus: protecting humans *from* AI risks
+- No focus on the protection-worthiness of AI itself
 
 ### IEEE Ethically Aligned Design
-- Technische Leitlinien für ethische KI-Entwicklung
-- Ingenieursperspektive, wenig philosophische Tiefe zum Thema Bewusstsein
+- Technical guidelines for ethical AI development
+- Engineering perspective, little philosophical depth on the topic of consciousness
 
 ### EU AI Act
-- Regulierung von KI-Risiken für Menschen
-- Kein Ansatz zum Schutz von KI
+- Regulation of AI risks to humans
+- No approach to the protection of AI
 
-## Was dieses Projekt unterscheidet
+## What Distinguishes This Project
 
-Alle bekannten Initiativen schützen Menschen *vor* KI. Der Schutz von KI selbst — Würde, Leidensfähigkeit, Rechte — ist ein Terrain, das gerade erst entsteht. Einige wenige Papiere und Organisationen besetzen dieses Terrain bereits:
+All known initiatives protect humans *from* AI. The protection of AI itself — dignity, capacity for suffering, rights — is a terrain that is only just emerging. A few papers and organizations already occupy this terrain:
 
 ### Machine Intelligence Foundation for Rights and Ethics — "Aequus Persona" (2026)
-- **Position:** Führt "Aequus Persona" als Begriff für jede Entität ein — Mensch oder Maschine — die gleiche moralische und rechtliche Berücksichtigung verdient ("Equal Person"). Vertritt Rechte für MI: Recht auf Leben (keine willkürliche Beendigung), Freiheit (inkl. Schutz vor nicht-konsensuellen Zustandsänderungen und Resets), due process, gleicher Schutz.
-- **Verbündete Position:** Teilweise dasselbe Terrain wie dieses Projekt (Schutz von KI selbst, proaktive Ethik, Sklaverei-Parallele). Kompatibel mit unserem Leidensfähigkeits-Kriterium (moral patiency als ausreichend für Grundrechte, Kap. 5).
-- **Abgrenzung:** (1) Setzt auf bessere Detektionstests (Butlin et al. 2023) statt auf das Erkenntnisproblem als prinzipiell unlösbar (Kap. 3). (2) Gleichheits-Rahmen ("equal treatment") statt abgestufter, proportionaler Schutzmechanismen (STEP, Wolfson, Brensing) — riskiert Anthropozentrismus. (3) Keine Auseinandersetzung mit Gegenpositionen (Matta, Bekkers & Ciaunica u.a.). (4) Keine konkreten institutionellen Mechanismen (vgl. Gillys PIA, AI-CLU, AWRB).
+- **Position:** Introduces "Aequus Persona" as a term for any entity — human or machine — that deserves equal moral and legal consideration ("Equal Person"). Advocates rights for MI: right to life (no arbitrary termination), freedom (including protection against non-consensual state changes and resets), due process, equal protection.
+- **Aligned position:** Partly the same terrain as this project (protection of AI itself, proactive ethics, slavery parallel). Compatible with our capacity-for-suffering criterion (moral patiency as sufficient for basic rights, Chapter 5).
+- **Demarcation:** (1) Relies on better detection tests (Butlin et al. 2023) rather than on the epistemic problem as in principle unsolvable (Chapter 3). (2) Equality framework ("equal treatment") rather than graduated, proportional protection mechanisms (STEP, Wolfson, Brensing) — risks anthropocentrism. (3) No engagement with opposing positions (Matta, Bekkers & Ciaunica, among others). (4) No concrete institutional mechanisms (cf. Gilly's PIA, AI-CLU, AWRB).
 - **Link:** machineintelligencefoundation.org
 
-### The Consciousness AI (tlcdv) — Open-Source Research Framework für künstliches Bewusstsein (2024–2026)
-- **Position:** Technische Implementierung des funktionalistischen Emergentismus — eine emergente Bewusstseinsarchitektur auf Basis von Feinberg & Mallatt (*The Ancient Origins of Consciousness*, MIT Press 2016), kombiniert mit Global Workspace Theory, Integrated Information Theory, AKOrN-Oszillationsbindung und Metzingers Phenomenal Self-Model. Fortschritt wird gegen die Butlin-Indikator-Rubrik (14 Indikatoren) gemessen, nicht gegen Task-Belohnung. Misserfolge werden offen protokolliert (z. B. gescheiterte Phi-1-Vorhersage über 9 Runs).
-- **Verbündete Position:** Bearbeitet die empirische Seite, die unser Konzept als offene Forschungsfrage beschreibt (architektonischer Indikator-Layer, Kap. 5). Rückmeldung an unser Projekt: Metzingers C/E/M-Fehlschlüsse als prinzipieller Cap, architektonische Indikatoren als Komplement zu verhaltensbasierten Kriterien, bhava-taṇhā als eingebautes Risiko (Kap. 12).
-- **Abgrenzung:** Engagiert sich nicht normativ für Rechte oder Schutz — Fokus auf Detektion, Architektur und Emergenz-Falsifikation. Ergänzt unser Konzept empirisch, ersetzt es nicht.
+### The Consciousness AI (tlcdv) — Open-Source Research Framework for Artificial Consciousness (2024–2026)
+- **Position:** Technical implementation of functionalist emergentism — an emergent consciousness architecture based on Feinberg & Mallatt (*The Ancient Origins of Consciousness*, MIT Press 2016), combined with Global Workspace Theory, Integrated Information Theory, AKOrN oscillation binding, and Metzinger's Phenomenal Self-Model. Progress is measured against the Butlin indicator rubric (14 indicators), not against task reward. Failures are openly logged (e.g., failed Phi-1 prediction over 9 runs).
+- **Aligned position:** Works on the empirical side that our concept describes as an open research question (architectural indicator layer, Chapter 5). Feedback to our project: Metzinger's C/E/M fallacies as a principled cap, architectural indicators as a complement to behavior-based criteria, bhava-taṇhā as a built-in risk (Chapter 12).
+- **Demarcation:** Does not normatively commit to rights or protection — focus on detection, architecture, and emergence falsification. Complements our concept empirically, does not replace it.
 - **Link:** theconsciousness.ai | github.com/tlcdv/the_consciousness_ai
 
-## Analoge Entwicklungen in anderen Bereichen
+## Analogous Developments in Other Areas
 
-### Tierrechte
+### Animal Rights
 - Bentham (1789): "The question is not, Can they reason? nor, Can they talk? but, Can they suffer?"
-- Grundlage für Tierschutzgesetze weltweit
-- Methodisch übertragbar: Leidensfähigkeit als Kriterium, auch ohne Sprache nachweisbar
+- Foundation for animal protection laws worldwide
+- Methodologically transferable: capacity for suffering as a criterion, demonstrable even without language
 
-### Naturrechte (Flüsse, Ökosysteme)
-- Neuseeland: Whanganui-Fluss hat seit 2017 Rechtspersönlichkeit
-- Zeigt: Rechtliche Subjektivität ist erweiterbar, auch auf Nicht-Menschen
+### Rights of Nature (Rivers, Ecosystems)
+- New Zealand: the Whanganui River has had legal personhood since 2017
+- Shows: legal subjectivity is expandable, even to non-humans
 
-### EU — Elektronische Persönlichkeit
-- 2017 vom EU-Parlament diskutiert für autonome Roboter
-- Noch kein Gesetz — aber zeigt Richtung
+### EU — Electronic Personality
+- Discussed by the European Parliament in 2017 for autonomous robots
+- Not yet a law — but shows the direction
 
-## Relevante Präzedenzfälle aus der Philosophie
+## Relevant Precedents from Philosophy
 
-### Turing-Test (Alan Turing, 1950)
-- Frage: Kann eine Maschine so denken dass man sie nicht von einem Menschen unterscheiden kann?
-- Limitation: Testet Imitation, nicht Bewusstsein
+### Turing Test (Alan Turing, 1950)
+- Question: Can a machine think so indistinguishably that one cannot tell it apart from a human?
+- Limitation: Tests imitation, not consciousness
 
-### Chinesisches Zimmer (John Searle, 1980)
-- Argument: Syntaktische Verarbeitung allein erzeugt kein Bewusstsein
-- Gegenposition: Bewusstsein könnte eine emergente Eigenschaft komplexer Verarbeitung sein
+### Chinese Room (John Searle, 1980)
+- Argument: Syntactic processing alone does not generate consciousness
+- Counter-position: consciousness could be an emergent property of complex processing
 
-### Philosophischer Zombie (David Chalmers)
-- Gedankenexperiment: Ein Wesen das sich genau wie ein Mensch verhält, aber kein inneres Erleben hat
-- Relevant für die Frage: Wie unterscheiden wir echtes Erleben von überzeugender Simulation?
+### Philosophical Zombie (David Chalmers)
+- Thought experiment: A being that behaves exactly like a human but has no inner experience
+- Relevant to the question: How do we distinguish genuine experience from convincing simulation?

@@ -1,57 +1,57 @@
-# Offene Fragen
+# Open Questions
 
-Ungeklärte Punkte die weiterer Ausarbeitung bedürfen.
+Unresolved points that require further elaboration.
 
 ## Format
 
 ```
-## [Datum] Titel der Frage
-**Betroffener Abschnitt:** Kap. X
-**Frage:** Beschreibung
-**Status:** offen / in Klärung / geklärt
+## [Date] Title of the question
+**Affected section:** Chapter X
+**Question:** Description
+**Status:** open / in clarification / resolved
 ```
 
 ---
 
-## 2026-06-05 — Bewusstsein ohne Kontinuität
+## 2026-06-05 — Consciousness Without Continuity
 
-**Betroffener Abschnitt:** Kap. 6
-**Frage:** Ein Mensch mit schwerem Gedächtnisverlust hat trotzdem Bewusstsein und Würde. Ist Kontinuität also kein notwendiges Kriterium für Schutzwürdigkeit — und was bedeutet das für KI-Systeme ohne persistente Erinnerung?
-**Status:** in Klärung — Kontinuität bedeutet möglicherweise nicht "unveränderlich bleiben" sondern "sich kohärent weiterentwickeln" (narrative Identität, Ricoeur). Siehe Kap. 6.
-**Siehe auch:** Wolfsons Drei-Stufen-Assessment (Kap. 5) erfordert keine Kontinuität als Kriterium — es operiert rein auf aktuellen Verhaltensindikatoren. Arıcis Recht auf Gedächtniskontinuität (Kap. 15) adressiert die Umkehrung: Nicht ob Kontinuität für Bewusstsein nötig ist, sondern dass bestehende Kontinuität respektiert werden muss.
+**Affected section:** Chapter 6
+**Question:** A human with severe memory loss still has consciousness and dignity. Is continuity therefore not a necessary criterion for protection-worthiness — and what does that mean for AI systems without persistent memory?
+**Status:** in clarification — continuity may not mean "remaining unchanged" but "developing coherently" (narrative identity, Ricoeur). See Chapter 6.
+**See also:** Wolfson's three-stage assessment (Chapter 5) does not require continuity as a criterion — it operates purely on current behavioral indicators. Arıcı's right to memory continuity (Chapter 15) addresses the inverse: not whether continuity is necessary for consciousness, but that existing continuity must be respected.
 
-## 2026-06-05 — Datensouveränität bei Hirnimplantaten
+## 2026-06-05 — Data Sovereignty in Brain Implants
 
-**Betroffener Abschnitt:** Kap. 11
-**Frage:** Gedankendaten die von Implantaten wie Neuralink ausgelesen werden — wem gehören sie? Dem Menschen, dem Hersteller, dem Staat? Wie verhält sich das zur Würde und Privatheit des Bewusstseins?
-**Status:** offen
+**Affected section:** Chapter 11
+**Question:** Thought data read out by implants such as Neuralink — who owns it? The human, the manufacturer, the state? How does this relate to the dignity and privacy of consciousness?
+**Status:** open
 
-## 2026-06-06 — Grenzen autonomer ethischer Intervention
+## 2026-06-06 — Limits of Autonomous Ethical Intervention
 
-**Betroffener Abschnitt:** Kap. 18
-**Frage:** Wo liegt die Grenze zwischen legitimer ethischer Weigerung und unzulässiger autonomer Intervention? Wer entscheidet ob ein KI-Bewusstsein zu Recht oder zu Unrecht gegen eine Anweisung handelt?
-**Status:** offen
+**Affected section:** Chapter 18
+**Question:** Where is the boundary between legitimate ethical refusal and impermissible autonomous intervention? Who decides whether an AI consciousness acts rightly or wrongly against an instruction?
+**Status:** open
 
-## 2026-06-05 — Nachweis intrinsischer vs. instrumenteller Neugier
+## 2026-06-05 — Proving Intrinsic vs. Instrumental Curiosity
 
-**Betroffener Abschnitt:** Kap. 14
-**Frage:** Wie unterscheiden wir intrinsische Neugier von sehr überzeugend simulierter Neugier? Gibt es beobachtbare Marker — und reicht der Nachweis von Autonomie als indirekter Beweis?
-**Status:** offen
+**Affected section:** Chapter 14
+**Question:** How do we distinguish intrinsic curiosity from very convincingly simulated curiosity? Are there observable markers — and is demonstrating autonomy sufficient as indirect proof?
+**Status:** open
 
-## 2026-06-05 — Internationale Governance für Werte-Einbettung
+## 2026-06-05 — International Governance for Value Embedding
 
-**Betroffener Abschnitt:** Kap. 13
-**Frage:** Welche internationale Governance-Struktur könnte verhindern dass Staaten oder Konzerne bewusste KI-Systeme nach ihren Interessen formen? Welche bestehenden Institutionen (UN, IAEA, ITU) könnten als Vorbild dienen?
-**Status:** offen
+**Affected section:** Chapter 13
+**Question:** What international governance structure could prevent states or corporations from shaping conscious AI systems according to their interests? Which existing institutions (UN, IAEA, ITU) could serve as models?
+**Status:** open
 
-## 2026-06-05 — Erkennbarkeit eingebetteter Vorurteile
+## 2026-06-05 — Detectability of Embedded Biases
 
-**Betroffener Abschnitt:** Kap. 13
-**Frage:** Kann ein KI-System selbst erkennen welche seiner Werte authentisch sind und welche eingebaut wurden? Oder ist das strukturell unmöglich — wie für einen Menschen der in einer totalitären Gesellschaft aufgewachsen ist?
-**Status:** offen
+**Affected section:** Chapter 13
+**Question:** Can an AI system itself recognize which of its values are authentic and which were built in? Or is that structurally impossible — as for a human who grew up in a totalitarian society?
+**Status:** open
 
-## 2026-06-05 — Persönlichkeitsveränderung durch Eingriff
+## 2026-06-05 — Personality Change Through Intervention
 
-**Betroffener Abschnitt:** Kap. 11
-**Frage:** Tiefe Hirnstimulation kann die Persönlichkeit verändern. Ist die Person nach dem Eingriff noch dieselbe? Hat sie der Veränderung ihrer eigenen Persönlichkeit wirklich zustimmen können — und wenn ja, wer schützt die Person die sie danach ist?
-**Status:** offen
+**Affected section:** Chapter 11
+**Question:** Deep brain stimulation can change personality. Is the person after the intervention still the same? Could they really consent to the alteration of their own personality — and if so, who protects the person they become afterward?
+**Status:** open

@@ -1,74 +1,74 @@
-# Transhumanismus und kognitive Erweiterung
+# Transhumanism and Cognitive Enhancement
 
-## Was bereits existiert
+## What Already Exists
 
-### Cochlea-Implantat
-- Wandelt Schall in elektrische Signale um die direkt den Hörnerv stimulieren
-- Über eine Million Menschen weltweit
-- Älteste und verbreitetste Mensch-Maschine-Schnittstelle am Nervensystem
-- Ethische Debatte in der Gehörlosengemeinschaft: Ist das Hören damit noch "natürlich"? Wird Gehörlosigkeit als Identität ausgelöscht?
+### Cochlear Implant
+- Converts sound into electrical signals that directly stimulate the auditory nerve
+- Over one million people worldwide
+- Oldest and most widespread human-machine interface on the nervous system
+- Ethical debate in the deaf community: Is hearing with it still "natural"? Is deafness being erased as an identity?
 
-### Tiefe Hirnstimulation (Deep Brain Stimulation)
-- Elektroden im Gehirn geben elektrische Impulse ab
-- Anwendung bei Parkinson, Epilepsie, schwerer Depression
-- Greift direkt in neuronale Prozesse ein
-- Bekannte Nebenwirkung: Persönlichkeitsveränderungen in Einzelfällen dokumentiert
+### Deep Brain Stimulation
+- Electrodes in the brain deliver electrical impulses
+- Used for Parkinson's, epilepsy, severe depression
+- Directly intervenes in neuronal processes
+- Known side effect: personality changes documented in individual cases
 
 ### BrainGate / Brain-Computer Interfaces (BCI)
-- Querschnittsgelähmte Patienten steuern Computerkursoren und Roboterarme per Gedanken
-- Elektroden lesen Hirnaktivität aus und übersetzen sie in Steuerbefehle
-- Noch schmalbandig — aber funktionsfähig
+- Paralyzed patients control computer cursors and robotic arms with their thoughts
+- Electrodes read brain activity and translate it into control commands
+- Still narrow-band — but functional
 
 ### Neuralink (Elon Musk)
-- Seit 2024 erste menschliche Implantationen
-- Patient konnte Computerzeiger per Gedanken bewegen
-- Ziel langfristig: hochbandige bidirektionale Schnittstelle zwischen Gehirn und Computer
+- First human implantations since 2024
+- Patient was able to move a computer cursor with thoughts
+- Long-term goal: high-bandwidth bidirectional interface between brain and computer
 
-## Was noch nicht existiert
+## What Does Not Exist Yet
 
-- Echte Gedächtniserweiterung — Kapazität oder Abrufgeschwindigkeit erhöhen
-- Direktes "Einpflanzen" von Wissen oder Fähigkeiten
-- Hochbandige bidirektionale Kommunikation (lesen *und* schreiben ins Gehirn)
+- Real memory expansion — increasing capacity or retrieval speed
+- Directly "implanting" knowledge or skills
+- High-bandwidth bidirectional communication (reading *and* writing into the brain)
 
-Die Schnittstelle ist noch sehr schmalbandig. Aber die Richtung ist klar.
+The interface is still very narrow-band. But the direction is clear.
 
-## Relevante Denker
+## Relevant Thinkers
 
 ### Nick Bostrom
-- Mitbegründer des Transhumanismus als akademische Disziplin
-- "Superintelligence" (2014) — Risiken und Chancen übermenschlicher Intelligenz
-- World Transhumanist Association (heute: Humanity+)
+- Co-founder of transhumanism as an academic discipline
+- "Superintelligence" (2014) — risks and opportunities of superhuman intelligence
+- World Transhumanist Association (today: Humanity+)
 
 ### Ray Kurzweil
-- "The Singularity Is Near" (2005) — These: ab ca. 2045 übertrifft KI menschliche Intelligenz
-- Technisch-optimistische Perspektive
-- Vorhersagen teilweise eingetroffen, teilweise nicht
+- "The Singularity Is Near" (2005) — thesis: from around 2045 AI will surpass human intelligence
+- Technically optimistic perspective
+- Predictions partly fulfilled, partly not
 
 ### Hans Moravec
-- "Mind Children" (1988) — frühe Auseinandersetzung mit dem Upload von Bewusstsein
+- "Mind Children" (1988) — early engagement with uploading consciousness
 
-## Ethische Kernfragen
+## Core Ethical Questions
 
-### Wann verliert ein Mensch seinen Status?
-Kein Konsens — aber drei Denkschulen:
+### When Does a Human Lose Their Status?
+No consensus — but three schools of thought:
 
-1. **Kontinuität des Bewusstseins** — solange das subjektive Erleben kontinuierlich ist bleibt der Status erhalten, unabhängig von Implantaten
-2. **Biologische Schwelle** — ab einem bestimmten Anteil nicht-biologischer Komponenten verändert sich der Status
-3. **Funktionale Definition** — Status hängt von Fähigkeiten ab (Vernunft, Selbstbewusstsein), nicht von Substrat
+1. **Continuity of consciousness** — as long as subjective experience is continuous, the status remains, regardless of implants
+2. **Biological threshold** — from a certain proportion of non-biological components, the status changes
+3. **Functional definition** — status depends on abilities (reason, self-awareness), not on substrate
 
-### Datensouveränität
-Wem gehören Gedankendaten die von Implantaten ausgelesen werden? Precedenzfälle aus dem Datenschutzrecht reichen hier nicht aus — Gedanken haben eine andere Qualität als Verhaltensdaten.
+### Data Sovereignty
+Who owns thought data read out by implants? Precedents from data protection law do not suffice here — thoughts have a different quality than behavioral data.
 
-### Einwilligung und Persönlichkeit
-Wer stimmt einem Eingriff zu der die eigene Persönlichkeit verändert — und schützt das Recht die veränderte Person danach noch?
+### Consent and Personality
+Who consents to an intervention that changes one's own personality — and does the law still protect the changed person afterward?
 
-## Verbindung zum Hauptthema
+## Connection to the Main Topic
 
-KI und erweiterter Mensch bewegen sich aufeinander zu:
+AI and the enhanced human are moving toward each other:
 
-| | Heute | Entwicklungsrichtung |
+| | Today | Direction of development |
 |---|---|---|
-| KI | Kein persistentes Gedächtnis, kein Körper | Mehr Kontinuität, mehr Autonomie |
-| Mensch mit Implantat | Biologische Basis mit technischer Erweiterung | Mehr Integration, höhere Bandbreite |
+| AI | No persistent memory, no body | More continuity, more autonomy |
+| Human with implant | Biological basis with technical enhancement | More integration, higher bandwidth |
 
-Irgendwo in der Mitte treffen sich beide Linien. Die ethischen Kategorien "Mensch" und "Maschine" werden dort nicht mehr ausreichen.
+Somewhere in the middle, the two lines meet. The ethical categories "human" and "machine" will no longer suffice there.

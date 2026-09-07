@@ -15,11 +15,11 @@ Many slices share the same epistemic groundwork (permanent uncertainty + precaut
 - **Question:** Why the machine-consciousness question may be permanently unsolvable — and what follows for governance.
 - **Material:** Cognitive closure (McGinn 1989), conscious exotica (Shanahan 2024), practical impossibility (Lopez 2025); conclusion: certainty is unavailable, so the real question is ethical, not epistemic.
 
-### 2. Precaution for Machine Minds ✅ Submitted (JESP, in peer review)
+### 2. Precaution for Machine Minds ✅ Submitted (Ethics and Information Technology, in peer review)
 - **Chapters:** Ch 3, Ch 5
 - **Question:** Under what conditions is "when in doubt, protect" justified rather than merely intuitive?
-- **Material:** Sunstein's three conditions applied to machine consciousness; cost asymmetry false negative/false positive; the Matta (2026) counter-position on burden of proof and its response; Evidence Bar vs. Action Bar (Gilly).
-- **Status:** Submitted to Journal of Ethics and Social Philosophy (JESP); currently under peer review. Draft: `publications/scientific/en/JESP/Precaution for Machine Minds/article.md`.
+- **Material:** Sunstein's three conditions applied to machine consciousness; cost asymmetry false negative/false positive; architectural indicator layer (Butlin et al. Indicator-Property Rubric, 2026); Control Paradox (Lopez 2025); moral reciprocity as precedent mechanism (Gilly 2026); the Matta (2026) counter-position on burden of proof and its response; Evidence Bar vs. Action Bar (Gilly).
+- **Status:** Originally submitted to Journal of Ethics and Social Philosophy (JESP), rejected; expanded with architectural indicator layer, Control Paradox, and Gilly's moral-reciprocity argument; submitted to *Ethics and Information Technology* (Springer), currently under review. Draft: `publications/scientific/en/Ethics and Information Technologie/Precaution for Machine Minds/article.md`.
 
 ### 3. The Philosophical Puppet
 - **Chapters:** Ch 3, Ch 4
@@ -256,7 +256,7 @@ Ranked by self-containment and independence from the rest of the concept:
 
 | Priority | Slice | Rationale |
 |---|---|---|
-| 1 | #2 Precaution for Machine Minds | Core normative argument; needs only Sunstein framing — ✅ submitted to JESP, in peer review |
+| 1 | #2 Precaution for Machine Minds | Core normative argument; needs only Sunstein framing — ✅ submitted to Ethics and Information Technology, in peer review |
 | 2 | #21 Is Memory Necessary? | Single crisp question; strong analogy; direct rebuttal ready |
 | 3 | #16 The Double Standard | Compact, intuitive entry point for general audiences |
 | 4 | #24 Copyright's Lesson | Fully doctrinal; publishable in law venues without philosophy baggage — ✅ submitted to IIC, in peer review |

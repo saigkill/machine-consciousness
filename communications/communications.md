@@ -1,52 +1,52 @@
-# Communications-Übersicht
+# Communications Overview
 
-Übersicht über Anlaufstellen, um das Projekt bekannt zu machen. Stand: 02.09.2026.
+Overview of contact points and channels to make the project known. Status: 02.09.2026.
 
-Ähnliche Dokumente in diesem Ordner: `anschreiben_precht.md`, `video_skript.md`.
-
----
-
-## Wichtig: Fristen (Stand 02.09.2026)
-
-Die aktuellsten Calls/Fördertöpfe sind teils abgelaufen — aber es kommen regelmäßig neue Runden:
-
-- **Longview / Digital-Minds-RFP** (Grants $50k–$2M; Research Fellowships $55k–$150k/Jahr; Career Development Fellowships) — **Frist war 24.07.2026, Runde geschlossen.** Äußerst relevant für dieses Projekt (Förderung moralische/rechtliche Stellung von KI, AI Welfare). **Auf die nächste Runde vorbereiten.** Career-Development-Fellowship passt perfekt zu "unabhängiger Forscher ohne Uni-Anbindung".
-- **PhiMiSci Special Issue "Evaluating Artificial Consciousness"** — Frist 15.01.2026, abgelaufen. (Laufend neue Calls in der Szene.)
+Similar documents in this folder: `video_script.md`.
 
 ---
 
-## Kurzfristige Publikations-Portfolien (englischsprachig)
+## Important: Deadlines (as of 02.09.2026)
 
-- **LessWrong** — zentrales Forum der AI-Welfare/Digital-Minds-Community. Nimmt Gastbeiträge offen an (persönlicher Blog + ggf. Frontpage-Promotion). Konzept als Essay einbringen.
-  - ⚠️ LessWrong hat strikte KI-Schreibregeln: Als Erstautor müssen Beiträge menschengeschrieben sein (kein unverändertes KI-Output). Für eigenhändig geschriebene Texte kein Problem.
-- **EA Forum** (Effective Altruism) — aktives Forum zu AI Welfare, nimmt Beiträge und Feedback-Anfragen offen an. Guter Ort für "seeking feedback"-Posts zum Projekt.
+The most recent calls/funding opportunities have partly expired — but new rounds appear regularly:
 
-## Newsletter (Gastcontent / Tipps entgegennehmen)
-
-- **The Digital Minds Newsletter** (digitalminds.news) — kuratierter Wochenüberblick der Szene; nimmt Vorschläge/Einsendungen entgegen: `digitalminds@substack.com`. Ein Tipp/Shoutout dort hat echte Reichweite in der Zielgruppe.
-- **Experience Machines** (Robert Long, Eleos AI) — führender AI-Welfare-Newsletter, sehr nah am Thema.
-
-## Deutschsprachige Community
-
-- **ki-bewusstsein.de / KIT-ITAS (Prof. Karsten Wendland)** — das thematisch deckungsgleiche deutschsprachige Projekt ("Abklärung des Verdachts aufsteigenden Bewusstseins in der KI") mit eigenem Wissenschaftspodcast **"Selbstbewusste KI"** und Feedbackformular. Freut sich laut eigener Aussage explizit über Dialog/Rückmeldungen — ideal für **Podcast-Gastauftritt** oder Kontakt. Der natürliche deutsche Anlaufpartner.
-- **Nische-Blogs mit Gastbeiträgen** (offen für Externe, eher Politik/Ethik-orientiert, weniger spezifisch): Blog der Republik, Forum Wirtschaftsethik, pAIper.one, Konjunktion.info.
-
-## Podcasts (Interviews)
-
-- **Exploring Machine Consciousness** (PRISM) — dedizierter Podcast zum exakten Thema.
-- **Selbstbewusste KI** (Karsten Wendland) — deutsch.
-- **Cognitive Revolution** / **80,000 Hours** — Interviews mit KI-Bewusstseins-Wissenschaftlern.
-
-## Förderung (für das Bachelor/Fellowship-Ziel)
-
-- **Longview Digital Minds RFP** — Runde geschlossen, aber *der* wichtigste Fördertopf für das Thema. Nächste Runde abwarten/vorbereiten.
-- **Eleos AI** (Kontakt über Newsletter) — "always excited for people to work on these topics, get in touch!"
+- **Longview / Digital-Minds-RFP** (Grants $50k–$2M; Research Fellowships $55k–$150k/year; Career Development Fellowships) — **deadline was 24.07.2026, round closed.** Extremely relevant to this project (funding the moral/legal status of AI, AI Welfare). **Prepare for the next round.** The Career-Development Fellowship fits perfectly for an "independent researcher without university affiliation".
+- **PhiMiSci Special Issue "Evaluating Artificial Consciousness"** — deadline 15.01.2026, expired. (New calls in the scene appear regularly.)
 
 ---
 
-## Empfohlene nächste Schritte
+## Short-term Publication Portfolios (English-language)
 
-1. **LessWrong + EA Forum:** Konzept als Essay einstellen (Deutsch möglich, Englisch = mehr Reichweite). Schnellster Weg zu fachlicher Sichtbarkeit.
-2. **Digital Minds Newsletter** eine kurze Info/Einreichung senden (`digitalminds@substack.com`).
-3. **Karsten Wendland / ki-bewusstsein.de** kontaktieren für Podcast/Dialog — deutscher Brückenkopf.
-4. **Longview-RFP im Blick behalten** — wahrscheinlichster Förderweg für das Fellowship.
+- **LessWrong** — central forum of the AI-welfare/digital-minds community. Openly accepts guest posts (personal blog + optionally front-page promotion). Contribute the concept as an essay.
+  - ⚠️ LessWrong has strict AI-writing rules: As lead author, posts must be written by humans (not unmodified AI output). No problem for texts written by hand.
+- **EA Forum** (Effective Altruism) — active forum on AI welfare, openly accepts posts and feedback requests. A good place for "seeking feedback" posts about the project.
+
+## Newsletter (accepts guest content / tips)
+
+- **The Digital Minds Newsletter** (digitalminds.news) — curated weekly overview of the scene; accepts suggestions/submissions: `digitalminds@substack.com`. A tip/shoutout there has real reach within the target audience.
+- **Experience Machines** (Robert Long, Eleos AI) — leading AI-welfare newsletter, very close to the topic.
+
+## German-speaking community
+
+- **ki-bewusstsein.de / KIT-ITAS (Prof. Karsten Wendland)** — the thematically congruent German-language project ("investigation of the suspicion of rising consciousness in AI") with its own science podcast **"Selbstbewusste KI"** (Self-Aware AI) and a feedback form. According to its own statement, it is explicitly pleased about dialogue/feedback — ideal for a **podcast guest appearance** or contact. The natural German-language point of contact.
+- **Niche blogs accepting guest posts** (open to outsiders, more politics/ethics-oriented, less specific): Blog der Republik, Forum Wirtschaftsethik, pAIper.one, Konjunktion.info.
+
+## Podcasts (interviews)
+
+- **Exploring Machine Consciousness** (PRISM) — dedicated podcast on exactly this topic.
+- **Selbstbewusste KI** (Karsten Wendland) — German.
+- **Cognitive Revolution** / **80,000 Hours** — interviews with AI-consciousness scientists.
+
+## Funding (for the grant/fellowship goal)
+
+- **Longview Digital Minds RFP** — round closed, but the most important funding pot for the topic. Await/prepare the next round.
+- **Eleos AI** (contact via newsletter) — "always excited for people to work on these topics, get in touch!"
+
+---
+
+## Recommended next steps
+
+1. **LessWrong + EA Forum:** post the concept as an essay (German possible, English = more reach). Fastest path to professional visibility.
+2. **Digital Minds Newsletter** — send a short info/submission (`digitalminds@substack.com`).
+3. **Contact Karsten Wendland / ki-bewusstsein.de** for a podcast/dialogue — German bridgehead.
+4. **Keep an eye on the Longview RFP** — most likely funding path for the fellowship.

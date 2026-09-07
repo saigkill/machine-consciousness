@@ -72,7 +72,7 @@ Das Projekt folgt einer **iterativen Conceptual Analysis** — einem anerkannten
 - **Interdisziplinäre Sondierung:** Geplante Gespräche mit Forschenden aus Informatik, Rechtswissenschaft, Psychologie und Theologie.
 - **Öffentliche Diskussion:** Nutzung des GitHub-Repositoriums als Plattform für transparente Begleitung und Beiträge von Außenstehenden.
 
-Eine ausführliche methodische Reflexion — einschließlich Suchstrategie, aktiver Literatur-Alerts, Qualitätskontrolle und dokumentierter Limitationen — liegt unter [`research/methodological_reflexion.md`](methodological_reflexion.md) vor.
+Eine ausführliche methodische Reflexion — einschließlich Suchstrategie, aktiver Literatur-Alerts, Qualitätskontrolle und dokumentierter Limitationen — liegt unter [`research/methodological_reflection.md`](methodological_reflection.md) vor.
 
 ### Arbeitsplan (12 Monate)
 

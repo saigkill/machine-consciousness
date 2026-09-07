@@ -50,7 +50,12 @@ publications/             ← Published and planned articles
 
 ## Methodology
 
-The research follows an iterative Conceptual Analysis approach. The methodological reflection — including the literature search strategy, active Google Scholar alerts, quality control measures, and known limitations — is documented in [`research/methodological_reflexion.md`](research/methodological_reflexion.md).
+The research follows an iterative Conceptual Analysis approach. The methodological reflection — including the literature search strategy, active Google Scholar alerts, quality control measures, and known limitations — is documented in [`research/methodological_reflection.md`](research/methodological_reflection.md).
+
+## Data
+
+This repository has the DOI https://doi.org/10.5281/zenodo.21453666
+Project owners ORCID is: 0009-0000-8766-3947.
 
 ## Contributing
 

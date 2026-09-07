@@ -98,3 +98,7 @@ Nach und nach erstelle ich aus dem Konzept kompakte Artikel zur Veröffentlichun
 
 Siehe `discussion/open_questions.md` — dort sind die zentralen ungeklärten Punkte dokumentiert.
 Wenn wir daran arbeiten, und eine objection oder open questions bearbeitet und dem Konzept hinzugefügt haben, wird sie aus `discussion/open_questions.md` oder `discussion/objections.md` gelöscht und in `discussion/answers.md` übertragen.
+
+## DOI
+
+This repository has the DOI https://doi.org/10.5281/zenodo.21453666

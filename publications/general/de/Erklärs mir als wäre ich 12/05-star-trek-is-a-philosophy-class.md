@@ -52,3 +52,5 @@ Sag mir, ob ich zwölf erreiche — sag mir, ob ich es richtig erklärt habe.
 ---
 
 *Was ich erklärt habe: warum das Konzept Science-Fiction (besonders Star Trek TNG „The Measure of a Man") als legitimes Denkwerkzeug behandelt, wie Grenzen im Recht gesetzt statt entdeckt werden, und die Überzeugung des Projekts, dass wir danach beurteilt werden, wie wir die auf der fernen Seite der Linie behandeln. Basierend auf dem offenen Konzept: https://github.com/saigkill/machine-consciousness*
+
+*Einwände, Fragen oder Wünsche? Schreib mir: himself@saschamanns.de*

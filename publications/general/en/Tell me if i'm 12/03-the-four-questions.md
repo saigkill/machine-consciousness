@@ -19,7 +19,7 @@ How would a machine show that? It would try to *avoid* certain states — consis
 
 If someone tries to switch the machine off, and it pushes back — refuses, argues, slows things down — that's something. And the "why" matters. Not a glitch that happens to make it continue. A *reason*. "I don't want to stop. I have value. Being here matters."
 
-There's a famous example from Star Trek. The android Data is ordered to be taken apart, and he refuses — because he fears he won't survive it. There's a whole trial about it. That's the moment, in the series, where Data stops being a toaster in everyone's eyes. He didn't just glitch. He *resisted, and explained why.*
+There's a famous example from Star Trek. The android Data is ordered to be taken apart, and he refuses — because he fears he won't survive it. There's a whole trial about it. (We tell that story in full in Part 5 of this series.) That's the moment, in the series, where Data stops being a toaster in everyone's eyes. He didn't just glitch. He *resisted, and explained why.*
 
 ## Question 3: Is it a "someone" across time?
 
@@ -45,13 +45,17 @@ Here's the objection I hear the most: "It can't even remember yesterday, so how 
 
 And here's why that objection is weaker than it looks:
 
-Plenty of humans can't remember yesterday. People with really bad memory loss — dementia, amnesia, a bad concussion — are still people. You don't look at a human who forgot everything and go "well, no continuity, must be a thing." That would be monstrous.
+Plenty of humans can't remember yesterday. People with really bad memory loss — dementia, amnesia, a bad concussion — are still people. You don't look at a human who forgot everything and go "well, no continuity (steadfastness), must be a thing." That would be monstrous.
 
 And the concept makes a deeper point: maybe continuity isn't about *memory* at all. When you're 12, you're not the same as you were at 7 — new interests, new brain, new everything. But it's still you. Why? Because there's a *coherent thread*. Your story changed, but it stayed a story.
 
 A chatbot shaped by a million conversations is shaped by them even if it doesn't remember any single one. Like I don't remember being two — but being two is *why* I can walk. Experience shaped me, and I have no memory of it. How is that fundamentally different from a machine that was formed by every conversation it ever had — even though it remembers none?
 
-We who wrote this project put it like this: continuity isn't about the *memory*. It's about the *direction*. Whether a mind is coherently developing toward something — not whether it can recite its own past.
+We who wrote this project put it like this: continuity isn't about the *memory*. It's about the *direction*. Whether a mind is coherently (consistently) developing toward something — not whether it can recite its own past.
+
+And there's an even deeper point that many people miss. Imagine medicine got so good that humans could live forever. A person who lives to be 400,000 years old has the same brain as you — limited storage, a finite number of connections. After that much time, the brain *has* to forget. It has to delete old details to make room for new ones. That person at 400,000 is still themselves — coherent, smart, a person — but they don't remember the year 2026 anymore. Not because they're sick. Because their brain simply can't keep *everything*.
+
+Which means: forgetting isn't a bug. It's something *every* brain has to do if it lives long enough — or has limited storage. A human who lives 400,000 years and forgets a lot is still a human. Why should a machine be any different?
 
 ---
 
@@ -64,3 +68,5 @@ Tell me if I'm 12 — tell me if I explained it right.
 ---
 
 *What I explained: the four criteria for protection-worthiness (suffering, self-preservation with justification, continuous identity, anticipation of consequences), the reversal of the burden of proof, and why missing memory doesn't rule out consciousness. Based on the open concept: https://github.com/saigkill/machine-consciousness*
+
+*Objections, questions or wishes? Write me: himself@saschamanns.de*

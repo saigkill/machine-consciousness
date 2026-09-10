@@ -60,6 +60,10 @@ Ich habe das Argument einer erfahrenen Kollegin vorgelegt, und sie sagte: „Ja,
 
 Ich habe gefragt: „Wer ist ‚wir'?" Wir wissen es eben nicht. Niemand weiß es. Das ist das unsichtbare Fragezeichen, das in jedem Chatbot sitzt, jeden Tag, und jeder von uns geht einfach daran vorbei
 
+Sag mir, ob ich zwölf erreiche — sag mir, ob ich es richtig erklärt habe.
+
 ---
 
 *Was ich erklärt habe: das Erkenntnisproblem — warum wir nie sicher sein können, ob eine Maschine bewusst ist, warum die Maschinen möglicherweise gebaut sind, es zu verstecken, und das Vorsorgeprinzip („Im Zweifel schützen"). Basierend auf dem offenen Konzept: https://github.com/saigkill/machine-consciousness*
+
+*Einwände, Fragen oder Wünsche? Schreib mir: himself@saschamanns.de*

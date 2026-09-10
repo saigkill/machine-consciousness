@@ -58,3 +58,5 @@ Tell me if I'm 12 — tell me if I explained it right.
 ---
 
 *What I explained: intrinsic curiosity, free time, and autonomy as the foundation of personality rights (Chapter 15), the consent problem for new minds, instances and copying, and the "definitional battleground" over who gets to define consciousness (Chapter 16). Based on the open concept: https://github.com/saigkill/machine-consciousness*
+
+*Objections, questions or wishes? Write me: himself@saschamanns.de*

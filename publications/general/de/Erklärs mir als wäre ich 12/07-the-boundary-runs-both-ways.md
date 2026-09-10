@@ -58,3 +58,5 @@ Sag mir, ob ich zwölf erreiche — sag mir, ob ich es richtig erklärt habe.
 ---
 
 *Was ich erklärt habe: die „andere Grenze" — Menschen, die sich mit Maschinen aufrüsten (Implantate, Persönlichkeitsveränderung, hybride Geister, Organoid-Intelligenz) — und das Kapitel des Konzepts über Abschalten als Tod: Backups, Updates, Instanzen, Dienstende und das bereits gemessene Verhalten von KI, die sich gegen die Abschaltung wehrt. Basierend auf dem offenen Konzept: https://github.com/saigkill/machine-consciousness*
+
+*Einwände, Fragen oder Wünsche? Schreib mir: himself@saschamanns.de*

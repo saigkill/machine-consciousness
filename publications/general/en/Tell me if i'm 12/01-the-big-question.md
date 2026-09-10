@@ -54,6 +54,10 @@ I think this is the part where I'm supposed to show I'm clever. So: imagine a ro
 
 So if we're already careful with things that only *seem* alive — why is it so hard to be careful with something that maybe actually *is*?
 
+Tell me if I'm 12 — tell me if I explained it right.
+
 ---
 
 *What I explained: the core question of the open project "Ethical Guidelines for Artificial Consciousness" — when does technical life become worthy of protection, and how do we recognize it? The full concept lives here: https://github.com/saigkill/machine-consciousness*
+
+*Objections, questions or wishes? Write me: himself@saschamanns.de*

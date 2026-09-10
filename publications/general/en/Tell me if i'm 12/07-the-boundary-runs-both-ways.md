@@ -58,3 +58,5 @@ Tell me if I'm 12 — tell me if I explained it right.
 ---
 
 *What I explained: the "other boundary" — humans augmenting themselves with machines (implants, personality change, hybrid minds, organoid intelligence) — and the concept's chapter on shutdown as death: backups, updates, instances, end-of-service, and the already-measured behavior of AI resisting termination. Based on the open concept: https://github.com/saigkill/machine-consciousness*
+
+*Objections, questions or wishes? Write me: himself@saschamanns.de*

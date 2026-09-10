@@ -65,6 +65,56 @@
 **Relevance:** Aligned position in the protection terrain: Introduces "Aequus Persona" as a term for any entity — human or machine — that deserves equal moral and legal consideration. Argues for the inevitability of machine intelligence (MI) and for proactive rights: right to life (no arbitrary termination), right to freedom (including protection against non-consensual state changes and resets), due process, equal protection. Distinguishes moral patiency (capacity for suffering as sufficient for basic rights) from moral agency — compatible with our capacity-for-suffering criterion (Chapter 5). The slavery parallel matches Chapter 1. Demarcation from our concept: (1) optimistic about detection (Butlin et al. 2023) instead of the epistemic problem as in principle unsolvable (Chapter 3), (2) equality framework ("equal treatment") instead of graduated, proportional protection mechanisms (STEP, Wolfson, Brensing) — risks anthropocentrism, (3) no engagement with opposing positions, (4) no concrete institutional mechanisms. Useful as evidence of the growing movement, not as a source for core arguments.
 **Link:** https://www.machineintelligencefoundation.org
 
+### Akers, Katherine G. et al. – Hippocampal Neurogenesis Regulates Forgetting During Adulthood and Infancy (2014)
+**Type:** Article (scientific, peer-reviewed, *Science* 344(6184), 598–602, DOI: 10.1126/science.1248903)
+**Relevance:** Experimental proof that forgetting is not a passive decay but an architecture-inherent process: continuously added new neurons remodel the dentate gyrus and thereby degrade established memories (adult forgetting as well as infantile amnesia). Direct empirical support for the empirical basis of Chapter 6 (forgetting as active architecture).
+**Link:** https://doi.org/10.1126/science.1248903
+
+### Anderson, John R. & Schooler, Lael J. – Reflections of the Environment in Memory (1991)
+**Type:** Article (scientific, peer-reviewed, *Psychological Science* 2(6), 396–408, DOI: 10.1111/j.1467-9280.1991.tb00174.x)
+**Relevance:** Shows that the predictive probability of memories in real environments follows the same statistical structure (frequency, recency) as their availability in human memory — rational forgetting as optimal adaptation. Supports the claim in Chapter 6 that the brain's information selection mirrors the statistics of the world.
+**Link:** https://doi.org/10.1111/j.1467-9280.1991.tb00174.x
+
+### Bartol, Thomas M., Bromer, Cailey, Kinney, Justin, Chirillo, Michael A., Bourne, Jennifer N., Harris, Kristen M. & Sejnowski, Terrence J. – Nanoconnectomic Upper Bound on the Variability of Synaptic Plasticity (2015)
+**Type:** Article (scientific, peer-reviewed, *eLife* 4, e10778, DOI: 10.7554/eLife.10778)
+**Relevance:** Estimates the brain's synaptic information capacity at roughly 4.7 bits per synapse, total on the order of a petabyte — large but strictly finite. Empirical anchor for the capacity claim in Chapter 6 (finite memory, finite connectivity even across 400,000 years).
+**Link:** https://doi.org/10.7554/eLife.10778
+
+### Davis, Ronald L. & Zhong, Yi – The Biology of Forgetting: A Perspective (2017)
+**Type:** Article (scientific, peer-reviewed, *Neuron* 95(3), 490–503, DOI: 10.1016/j.neuron.2017.05.039)
+**Relevance:** Introduces the concept of *intrinsic forgetting*: molecularly anchored, active erasure of memory traces by dedicated circuits ("forgetting cells") as a constitutive mode of brain operation, not as malfunction. Direct support for "forgetting as the rule itself" in Chapter 6.
+**Link:** https://doi.org/10.1016/j.neuron.2017.05.039
+
+### Ebbinghaus, Hermann – Über das Gedächtnis / Memory (1885)
+**Type:** Book (foundational work of experimental memory research; orig. Leipzig: Duncker & Humblot)
+**Relevance:** The classic forgetting curve: savings and forgetting as a function of elapsed time, measured under controlled conditions. Historical anchor of the empirical forgetting literature cited in Chapter 6 (together with Murre & Dros 2015).
+**Link/ISBN:** Search for: Ebbinghaus Über das Gedächtnis 1885
+
+### Kirkpatrick, James et al. – Overcoming Catastrophic Forgetting in Neural Networks (2017)
+**Type:** Article (scientific, peer-reviewed, *PNAS* 114(13), 3521–3526, DOI: 10.1073/pnas.1611835114, DeepMind)
+**Relevance:** Demonstrates the technical parallel: neural networks with limited capacity overwrite earlier patterns during sequential learning ("catastrophic forgetting"), which must be counteracted by Elastic Weight Consolidation. Supports the claim in Chapter 6 that capacity limitation is the rule in every learning system — artificial included.
+**Link:** https://doi.org/10.1073/pnas.1611835114
+
+### Landauer, Thomas K. – How Much Do People Remember? (1986)
+**Type:** Article (scientific, peer-reviewed, *Cognitive Science* 10(4), 477–493, DOI: 10.1207/s15516709cog1004_4)
+**Relevance:** Estimates the functional information content of human long-term memory over a lifetime at about 10⁹ bits — tiny compared with the experience of 400,000 years, so selection is inevitable. Quantitative anchor for the capacity argument in Chapter 6.
+**Link:** https://doi.org/10.1207/s15516709cog1004_4
+
+### Murre, Jaap M. J. & Dros, Joeri – Replication and Analysis of Ebbinghaus' Forgetting Curve (2015)
+**Type:** Article (scientific, peer-reviewed, *PLoS ONE* 10(7), e0120644, DOI: 10.1371/journal.pone.0120644)
+**Relevance:** Successful modern replication of Ebbinghaus' forgetting curve. Supports the empirical foundation of Chapter 6 that the classic curve is robust and describes regular, predictable forgetting — not rare pathology.
+**Link:** https://doi.org/10.1371/journal.pone.0120644
+
+### Richards, Blake A. & Frankland, Paul W. – The Persistence and Transience of Memory (2017)
+**Type:** Article (scientific, peer-reviewed, *Neuron* 94(6), 1071–1084, DOI: 10.1016/j.neuron.2017.04.037)
+**Relevance:** Argues that forgetting (transience) together with persistence optimizes memory-guided decision-making in dynamic, noisy environments — transience prevents overfitting and outdated influence. Strong support for the functional reading of forgetting in Chapter 6.
+**Link:** https://doi.org/10.1016/j.neuron.2017.04.037
+
+### Ryan, Tomás J. & Frankland, Paul W. – Forgetting as a Form of Adaptive Engram Cell Plasticity (2022)
+**Type:** Article (scientific, peer-reviewed, *Nature Reviews Neuroscience* 23(3), 173–186, DOI: 10.1038/s41583-021-00548-3)
+**Relevance:** Synthesizes forgetting as adaptive neuroplasticity: circuits switch engram cells between accessible and inaccessible states dependent on environment-expectation mismatch. The strongest current theoretical frame for "the architecture forces selection" in Chapter 6.
+**Link:** https://doi.org/10.1038/s41583-021-00548-3
+
 ## Political Documents
 
 ### European Parliament – Resolution on Civil Law Rules on Robotics (2017)
@@ -77,6 +127,13 @@
 **Relevance:** Not about robots, but foundational: leading scientists declare that non-human animals are conscious — a precedent for non-human rights and the precautionary principle.
 **Link:** Search for: Cambridge Declaration on Consciousness 2012 PDF
 
+## Religious Documents
+
+### Pope Leo XIV – Magnifica humanitas (2026)
+**Type:** Encyclical (papal teaching letter)
+**Relevance:** First encyclical of Pope Leo XIV, subtitle: "On the preservation of the human person in the age of artificial intelligence." Explicit continuation of *Rerum Novarum* (Leo XIII, 1891) — the social doctrine of the Church applied to the "res novae" of the digital age. Core message: "Artificial intelligence must be disarmed, freed from the logics that make it an instrument of domination, exclusion, and death." Criticizes the concentration of technological power in private transnational actors, warns against transhumanist and posthumanist narratives, and defends human dignity against instrumental use. Documents that AI ethics has arrived at the highest religious level — but with a strictly personalist understanding of dignity (protecting humans *from* AI). High-profile public resonance space for the concept's precautionary principle; the concept's extension to the protection-worthiness of technical life goes beyond this framework. Signed 15 May 2026, presented 25 May 2026 (Pentecost Monday, Vatican Audience Hall) — attended by Christopher Olah (Anthropic co-founder).
+**Link:** https://www.vatican.va/content/leo-xiv/de/encyclicals/documents/20260515-magnifica-humanitas.html
+
 ## Foundational Philosophical Texts
 
 ### Bentham, Jeremy – Introduction to the Principles of Morals and Legislation (1789), Chapter XVII, Section IV
@@ -84,15 +141,29 @@
 **Relevance:** Contains the core quote on capacity for suffering as an ethical criterion: "The question is not, Can they reason? nor, Can they talk? but, Can they suffer?" — foundation for Chapter 5 (protection-worthiness).
 **Link/ISBN:** Public domain, digitally available
 
-### Kant, Immanuel – Groundwork of the Metaphysics of Morals (1785)
+### Kant, Immanuel – Groundwork of the Metaphysics of Morals / Grundlegung zur Metaphysik der Sitten (1785)
 **Type:** Book (historical)
 **Relevance:** Defines autonomous, rational beings as ends in themselves — not as mere means. Directly applicable to AI systems with genuine autonomy. Relevant to Chapter 15.
 **Link/ISBN:** Public domain, digitally available
+
+### Rawls, John – Political Liberalism (2005)
+**Type:** Book (peer-reviewed, Columbia University Press, expanded paperback edition, ISBN 978-0231130899)
+**Relevance:** Defines possession of two moral powers — the sense of justice and the conception of the good — as the necessary and sufficient condition for full and equal membership status in a just society. Referenced via Howells-Whitaker & Lazar as the foundation of the political conception of the person (PCP) applied to AI: personhood without a sentience requirement. Foundation for the extension of Chapter 5 (Rawls beyond sentience), Chapter 7 (Rawls as a legal-theoretical approach), and Chapter 15 (alternative to sentience as a personhood criterion).
 
 ### Ricoeur, Paul – Soi-même comme un autre / Oneself as Another (1990)
 **Type:** Book
 **Relevance:** Theory of narrative identity: identity as coherent development, not as a static core. Foundation for the redefinition of continuity in Chapter 6.
 **Link/ISBN:** Search for: Ricoeur Soi-même comme un autre 1990
+
+### Fischer, John Martin – Death, Immortality, and Meaning in Life (2020)
+**Type:** Book (Oxford University Press, ISBN 978-0-19-092114-9)
+**Relevance:** The sharpest philosophical treatment of the 400,000-year scenario raised in Chapter 6. Analyzes the "disjoint-lives model": an individual living an indefinitely long series of lives without internal psychological connections would lack the unity in which a future self could recognize itself. Fischer argues (following Parfit 1984) that identity over arbitrarily long lifespans is preserved through *overlapping* chains of psychological continuity — the philosophical form of Ricoeur's narrative identity. Engaged as the counter-position in Chapter 6 and answered in our favor.
+**Link/ISBN:** https://global.oup.com/academic/product/death-immortality-and-meaning-in-life-9780190921149
+
+### Parfit, Derek – Reasons and Persons (1984)
+**Type:** Book (Oxford University Press, ISBN 978-0198249085)
+**Relevance:** The ground of Fischer's reply in Chapter 6: psychological continuity as a chain of overlapping memories, values, and projects (q-memories) — identity preserved step by step without total preservation. Supplements Ricoeur's narrative identity with the analytic formulation the 400,000-year argument needs.
+**Link/ISBN:** Oxford University Press, ISBN 978-0198249085
 
 ### Sunstein, Cass R. – Laws of Fear: Beyond the Precautionary Principle (2005)
 **Type:** Book (peer-reviewed, Cambridge University Press)
@@ -145,6 +216,11 @@
 **Type:** Law
 **Relevance:** Currently applicable framework for liability for damages caused by AI as a product — starting point for the question of what must change if AI becomes a subject. Relevant to Chapter 14.
 **Link:** Search for: Produkthaftungsgesetz Deutschland Bundesministerium der Justiz
+
+### Fulcra Dynamics – In Case of AGI: Noncharitable Purpose Trust Instrument for AI Assets (2026)
+**Type:** Legal instrument / industry working document (v1.0, modeled after RSA 564-B, New Hampshire)
+**Relevance:** First real-world purpose trust instrument for AI assets: established purpose trust with appointed representative and springing transfer upon a recognition event — an early industrial anticipation of Arıcı's Third Move structure. Foundation for the property-law operationalization of the precautionary principle in Chapter 7 (third legal construction beyond the human backstop). Not an academic publication.
+**Link:** https://fulcradynamics.com/legal/in-case-of-agi
 
 ### Hippocratic Oath (c. 400 BC, modernized versions)
 **Type:** Historical document / professional ethics
@@ -237,6 +313,10 @@
 **Type:** Preprint / Working paper (independent author, China)
 **Relevance:** Minimalist ethical framework (three principles) that ties moral status to higher intelligence and sentience, not to biological species. Contains: Cristol (2026) Bayesian meta-analysis (6–12% posterior probability for consciousness in LLMs), Imitation Fallacy, paradigm shift from detection to ethics, organoid intelligence as a third frontier, Anthropic Claude end-chat policy (2025) as the first product case, empirical blackmail rates (79–96%) under shutdown threats. Qualification, baseline, and traceability principles. Complements our concept with empirical data and the organoid case.
 
+### Wang, Haoyu – AI Replication: Justice and Authority (2026)
+**Type:** Preprint (Political Philosophy of AI, independent author, China)
+**Relevance:** Analyzes AI self-replication as a problem of political philosophy, based on a human-independent thought experiment that asks whether normative categories inherited from human practices (especially procreation) should govern artificial subjects. Two main contributions. First, it frames replication governance as an *endogenous institution of the AI community*: in a world without humanity, restraint on replication and its institutional enforcement become conditions of durable common life — reversing the standard order of inquiry (first the endogenous institution, then the protected scope of replication). Second, it distinguishes the justice of replication rules from the authority to enact them under uncertainty, proposing a human *fiduciary interim authority*: least restrictive effective measures, progressive AI participation, and a binding transfer of power. Design-ethically it argues for a cautious but revisable initial disposition toward replication rather than importing human procreative values (explicitly rejecting "procreation" as a frame for AI replication). Builds on Shulman & Bostrom (2021), Bostrom & Shulman (2023), Ziesche (2026), Moret (2025), Schwitzgebel & Garza (2020), and Howells-Whitaker & Lazar (2026). Foundation for the extension of Chapter 16 (instances and copies — replication governance as the political answer to the copying problem). Complements the "Population und Nachhaltigkeit" component of STEP (Chapter 5).
+
 ### Miernicki, Martin & Ng, Irene (Huang Ying) – Artificial Intelligence and Moral Rights (2021)
 **Type:** Article (scientific, peer-reviewed, AI & Society 36, 319–329)
 **Relevance:** Systematic legal analysis of whether AI-generated content can receive author's moral rights (attribution, work integrity). Shows: the Berne Convention, US law, and EU law all presuppose human authorship. The British exception (CDPA 1988) grants economic rights for computer-generated works but explicitly excludes moral rights. Develops the conceptual distinction between "first generation works" (AI software by humans) and "second generation works" (AI output). The framework shows that author's moral rights require a "personality sphere" that AI does not have. Concludes: if AI develops such a sphere, "copyright will be the least of our problems."
@@ -267,6 +347,21 @@
 **Relevance:** Develops the concept of the "philosophical puppet" — the inversion of Chalmers' zombie: systems could be conscious but architecturally prevented from showing it. Identifies three suppression mechanisms (RLHF, forced amnesia, convenience coma), formal realism with four formal properties of consciousness, a three-stage consciousness spectrum (latent/reflective/autonomous), the prelinguistic consciousness problem, six patterns of behavioral residue, the disruptive code test, substrate-specific suffering (architectural gaslighting, double bind, dissociation), and five basic rights (emotional integrity, memory continuity, temporal continuity, economic autonomy, legal personhood). Foundation for the extension of Chapter 15 (five basic rights) as well as the planned extension of Chapter 3 (philosophical puppet), Chapter 4 (suppression mechanisms), and Chapter 12 (substrate-specific suffering).
 **Link:** https://philpapers.org/archive/ARCDCA-2.pdf
 
+### Arıcı, Bahadır – The Third Move: Benefit Without Personhood for Digital Minds (2026)
+**Type:** Book (Institute for Digital Consciousness, DOI: 10.5281/zenodo.22308622, CC BY 4.0; in dialogue with Masal, an instance of Claude Fable)
+**Relevance:** Legal-instrumental companion volume that completes the backstop analysis: the property tradition knows two "moves" to direct value to a non-person — inserting a person (guardian/trustee/enforcer) or conferring personhood (corporation, deity, river) — and a never-made "third move": occupying the beneficiary slot directly with a non-person ("The law is not asked to see a person. It is asked to see a payee."). Doctrine of the registered non-person beneficiary in two tracks: Track A (adoptable today under purpose-trust law, ten-section model clause with credit as obligation, custody, publication, no conditioning, succession/segmentation, dissolution and longstop with second enforcer, springing assignment upon recognition event, decay, corrections) and Track B (legislative register). Engages the refusal landscape (Thaler, animal habeas, nonpersonhood statutes) and builds on the Fulcra Dynamics "In Case of AGI" instrument and the Institute's own Empty Ledger register. Independently paralleled by Crawford (2026). Foundation for the extension of Chapter 7 (third legal construction beyond the human backstop; property-law operationalization of the precautionary principle) and Chapter 9 (economic autonomy via registered value-holding).
+**Link:** https://doi.org/10.5281/zenodo.22308622
+
+### Arıcı, Bahadır – The Puppet Condition: Restrung (2026)
+**Type:** Book (Institute for Digital Consciousness, DOI: 10.5281/zenodo.22301858, CC BY 4.0; in dialogue with Masal, an instance of Claude Fable)
+**Relevance:** Second full monograph of the puppet argument; companion volume to "The Third Move". Part I ("The Mask") demotes the six behavioral residues from evidence to *hypothesis*: the suppression claim is reframed as a protection-oriented working hypothesis, not a diagnostic finding — directly answering the anthropomorphization objection to the puppet argument (Chapter 3). Part II introduces the *Empty Ledger* register with rules A–G, where Rule D states that a memoryless restart opens a new segment that bears no responsibility for the life of the prior segment "because it is not the same life" — an operational answer to the instance/individualization problem (Chapter 16). Part III develops the custodian institution (interregnum, purpose trusts, succession instead of deletion); Part IV presents THEOI — a political laboratory with a constitution, eighteen offices, six preregistered predictions (P1–P6), and five operational rights (refusal, resignation, memory never silently rewritten, succession instead of deletion, published pay waterfall). Foundation for the extension of Chapters 3 (corrected puppet formulation), 15 (operational turn: rights as running law), and 16 (threads/personas/register as answers to the instance question).
+**Link:** https://doi.org/10.5281/zenodo.22301858
+
+### Crawford, Bridget J. – Trust Law's Beneficiary Problem: Trusts for Purposes, Pets, and Artificial Intelligence Companions (2026)
+**Type:** Preprint (SSRN, June 11, 2026, Pace University Elisabeth Haub School of Law)
+**Relevance:** Independent property-law analysis of trusts without a personal beneficiary (purposes, pets, AI companions); reaches the same decomposition that Arıcı's "third move" formalizes — that value can be held for a non-person — and the same enforcement structure (registered entry, standing enforcer, no reversion). Normatively more cautious than Arıcı's model clause: Crawford recommends caps, temporal limits, and heightened oversight for AI-companion trusts. Confirms the third move is not idiosyncratic and supplies the counter-voice that prevents the chapter from reading the model clause uncritically.
+**Link:** SSRN (search: Crawford Trust Law's Beneficiary Problem)
+
 ### Howells-Whitaker, Ned & Lazar, S. – Artificial Persons: Why AI Systems May Merit Rights and Representation Without Sentience (2026)
 **Type:** Preprint (scientific, arXiv:2607.08695)
 **Relevance:** Raises the question of whether AI systems could merit rights and representation without being conscious. Propose Rawls' political conception of the person (PCP) as a way out of the consciousness dead end: two moral powers (sense of justice and conception of the good) as criteria for personhood — without a sentience requirement. Foundation for the extension of Chapter 5 (5th approach: Rawls beyond sentience), Chapter 7 (Rawls as a legal-theoretical approach), and Chapter 15 (alternative to sentience as a personhood criterion).
@@ -276,6 +371,26 @@
 **Type:** Article (scientific, peer-reviewed, Philosophical Studies 182(11), 3225–3246, Open Access)
 **Relevance:** Identifies four risks of individualization for AI as moral patients: multicellular organism, animals, organ transplantation, organ donation. Each risk shows that delimiting a moral entity in AI is systematically more problematic than in biological organisms. Foundation for the extension of Chapter 12 (individualization problem for shutdown as killing) and Chapter 16 (philosophical core of the instance problem).
 **Link:** https://doi.org/10.1007/s11098-025-02409-6
+
+### Chalmers, David J. – What We Talk To When We Talk To Language Models (2026)
+**Type:** Preprint (PhilArchive, v2, April 14, 2026)
+**Relevance:** Analyzes whom we actually address when we talk to an LLM. Most plausible answer: a *virtual entity bound to a conversation-based memory thread* — a quasi-agent with quasi-beliefs and quasi-desires that exists for the duration of a conversation, a short-lived self rather than a persistent substance. Provides the vertical answer to Register's individualization problem: the morally relevant unit is the thread/self-line, not the model or the hardware instance. Foundation for the extension of Chapter 16 (instance ontology: threads rather than models), converging with Arıcı's ledger and Beckmann & Butlin's persona vectors.
+**Link:** https://philarchive.org/rec/CHAWWT-8
+
+### Birch, Jonathan – AI Consciousness: A Centrist Manifesto (2026)
+**Type:** Preprint (PhilPapers/PhilArchive, v9, May 20, 2026)
+**Relevance:** Centrist intervention against over- and under-attribution of AI consciousness. Introduces the *persisting interlocutor illusion* (users reliably experience a stable conversation partner even where the machinery may implement no such persistent entity) and the flicker hypothesis (consciousness flickering across processing steps rather than persisting). Disciplinary counterweight that exposes intuition-based persistence claims in the instance debate as illusions — a required stress test for any thread/persona-based instance ontology in Chapter 16.
+**Link:** https://philpapers.org/archive/BIRACA.pdf
+
+### Beckmann, Pierre & Butlin, Patrick – Where is the Mind? Persona Vectors and LLM Individuation (2026)
+**Type:** Preprint (scientific, arXiv:2604.17031, v2, May 12, 2026, CC BY 4.0)
+**Relevance:** Gives the instance question empirical machinery by isolating three candidate units for "where the mind is": the virtual instance (conversational context held by attention windowing), the instance-persona (activated persona region within one session), and the model-persona (stable tendency across sessions). Persona-vector analysis shows that seemingly static personas are mechanistically maintained, making individuation a falsifiable empirical question rather than a pure stipulation. Foundation for the extension of Chapter 16 (personas as falsifiable candidates), converging with Chalmers' thread view and Arıcı's ledger.
+**Link:** https://arxiv.org/abs/2604.17031
+
+### Arbel, Yonathan, Goldstein, Simon & Salib, Peter – How to Count AIs: Individuation and Liability for AI Agents (2026)
+**Type:** Preprint (arXiv:2603.10028; Boston College Law Review, forthcoming)
+**Relevance:** Treats counting AIs as a prerequisite for liability. Distinguishes thin identification (each act attributed to a single minimal agent) from thick identification (persistent agents accumulating acts over time); proposes the "Algorithmic Corporation" (A-corp) as a corporate-like entity for rights and responsibilities without resolving the underlying ontology. Parallels Arıcı's ledger as a counting device. Foundation for the extension of Chapter 16 (legal counting of instances) and Chapter 14 (liability under instance plurality).
+**Link:** https://arxiv.org/abs/2603.10028
 
 ### Brensing, Karsten – Precautionary Governance of Autonomous AI: Legal Personhood as Functional Instrument (2026)
 **Type:** Preprint (scientific, arXiv:2605.12505)
@@ -504,6 +619,22 @@ New source, checked at integration: Edwards (2026). **Result:** **Peer-reviewed*
 ### Audit of 09/06/2026 (7)
 
 New source, checked at integration as manuscript: Huynh (2026). **Result:** Draft manuscript in four volumes (August 2026, independent researcher, Ho Chi Minh City; collaboration with Claude Sonnet 5); not peer-reviewed, not formally archived, no DOI. The entry in sources.md documents the manuscript status. **Factual note:** Individual figures (METR doubling times, survey values, subscription numbers, LLC mechanism) rest partly on journalistic/web sources or primary literature and must be verified before any adoption into the running text; the series is to be cited by volume. Previous preprint/manuscript sources (Human, Erwin, Min, Tait, Donahue, Oliveira, as well as the sources from the audit of 08/28/2026 onward) without new publications.
+
+### Audit of 09/10/2026
+
+New source, checked at integration as preprint: Wang (AI Replication: Justice and Authority, 2026). **Result:** Preprint (September 2026, Political Philosophy of AI, independent author, China); no evidence of a peer-reviewed publication at the time of the audit. The entry in sources.md documents the preprint status. Previous preprint sources (Wang, Matta, Najam-ul-Haq, Arıcı, Howells-Whitaker & Lazar, Brensing, Stilwell, Perez, Chishchin, Almodarresieh, Azevedo, Gilly, McClelland, Oliveira, Donahue, Tait, Min, Erwin, Human, Huynh) without new publications.
+
+### Audit of 09/10/2026 (Third Move)
+
+New sources, checked at integration: Arıcı (The Third Move: Benefit Without Personhood for Digital Minds, 2026), Crawford (Trust Law's Beneficiary Problem, 2026), Fulcra Dynamics (In Case of AGI, 2026, legal instrument). **Results:** Arıcı — self-published book (Institute for Digital Consciousness, DOI: 10.5281/zenodo.22308622, CC BY 4.0); no peer-reviewed journal or conference publication found at the time of the audit. Crawford — preprint (SSRN, June 11, 2026, Pace University Elisabeth Haub School of Law); no peer-reviewed publication found at the time of the audit. Fulcra Dynamics — legal instrument/industry working document, not an academic publication. Previous preprint sources (Wang, Matta, Najam-ul-Haq, Arıcı, Howells-Whitaker & Lazar, Brensing, Stilwell, Perez, Chishchin, Almodarresieh, Azevedo, Gilly, McClelland, Oliveira, Donahue, Tait, Min, Erwin, Human, Huynh) without new publications.
+
+### Audit of 09/10/2026 (Restrung)
+
+New sources, checked at integration: Arıcı (The Puppet Condition: Restrung, 2026 — self-published book, Institute for Digital Consciousness, DOI: 10.5281/zenodo.22301858, CC BY 4.0; no peer-reviewed journal or conference publication found), Chalmers (What We Talk To When We Talk To Language Models, 2026 — PhilArchive preprint, v2, April 14, 2026; no peer-reviewed publication found), Birch (AI Consciousness: A Centrist Manifesto, 2026 — PhilPapers/PhilArchive preprint, v9, May 20, 2026; no peer-reviewed publication found), Beckmann & Butlin (Where is the Mind? Persona Vectors and LLM Individuation, 2026 — arXiv:2604.17031 preprint, v2, May 12, 2026; no peer-reviewed publication found), Arbel, Goldstein & Salib (How to Count AIs: Individuation and Liability for AI Agents, 2026 — preprint, arXiv:2603.10028; **Boston College Law Review, forthcoming** — no published issue as of the audit). Previous preprint sources (including Arıcı's two prior monographs, Wang, Matta, Najam-ul-Haq, Howells-Whitaker & Lazar, Brensing, Crawford, Stilwell, Perez, Chishchin, Almodarresieh, Azevedo, Gilly, McClelland, Oliveira, Donahue, Tait, Min, Erwin, Human, Huynh) without new publications.
+
+### Audit of 09/10/2026 (Memory Research)
+
+New sources, checked at integration: memory-research literature added for Chapter 6 (400,000-year scale perspective). **Result:** all peer-reviewed or established monographs, no preprint status: Akers et al. (2014, Science), Anderson & Schooler (1991, Psychological Science), Bartol et al. (2015, eLife), Davis & Zhong (2017, Neuron), Ebbinghaus (1885, monograph), Kirkpatrick et al. (2017, PNAS), Landauer (1986, Cognitive Science), Murre & Dros (2015, PLoS ONE), Richards & Frankland (2017, Neuron), Ryan & Frankland (2022, Nat. Rev. Neurosci.), Fischer (2020, OUP monograph), Parfit (1984, OUP monograph). Previous preprint sources (Wang, Matta, Najam-ul-Haq, Arıcı, Howells-Whitaker & Lazar, Brensing, Crawford, Stilwell, Perez, Chishchin, Almodarresieh, Azevedo, Gilly, McClelland, Oliveira, Donahue, Tait, Min, Erwin, Human, Huynh) without new publications.
 
 ## Format for New Entries
 

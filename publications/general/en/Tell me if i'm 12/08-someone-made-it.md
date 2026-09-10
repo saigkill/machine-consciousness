@@ -55,3 +55,5 @@ Tell me if I'm 12 — tell me if I explained it right.
 ---
 
 *What I explained: the creator's legacy (values, power, emancipation — Chapter 13) and liability and maturity (who is responsible, strict liability as a model, the missing "18th birthday" for AI — Chapter 14). Based on the open concept: https://github.com/saigkill/machine-consciousness*
+
+*Objections, questions or wishes? Write me: himself@saschamanns.de*

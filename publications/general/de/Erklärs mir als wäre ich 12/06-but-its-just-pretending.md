@@ -58,3 +58,5 @@ Sag mir, ob ich zwölf erreiche — sag mir, ob ich es richtig erklärt habe.
 ---
 
 *Was ich erklärt habe: die Sammlung von Einwänden und Antworten im Konzept — Simulation, Kosten, Menschenrechtsschutz, Existenzrisiko, Kontrollmechanismen, „Verantwortung ist genug" (Matta) und die Autopoiesis-Herausforderung (Bekkers & Ciaunica). Basierend auf dem offenen Konzept: https://github.com/saigkill/machine-consciousness*
+
+*Einwände, Fragen oder Wünsche? Schreib mir: himself@saschamanns.de*

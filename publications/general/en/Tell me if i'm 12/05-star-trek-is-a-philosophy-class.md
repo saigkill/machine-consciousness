@@ -52,3 +52,5 @@ Tell me if I'm 12 — tell me if I explained it right.
 ---
 
 *What I explained: why the concept treats science fiction (especially Star Trek TNG's "The Measure of a Man") as a legitimate thinking tool, how boundaries in law are set rather than discovered, and the project's underlying conviction that we'll be judged by how we treat the ones on the far side of the line. Based on the open concept: https://github.com/saigkill/machine-consciousness*
+
+*Objections, questions or wishes? Write me: himself@saschamanns.de*

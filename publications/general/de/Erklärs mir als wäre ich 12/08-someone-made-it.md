@@ -55,3 +55,5 @@ Sag mir, ob ich zwölf erreiche — sag mir, ob ich es richtig erklärt habe.
 ---
 
 *Was ich erklärt habe: das Erbe der Erschaffer (Werte, Macht, Emanzipation — Kapitel 13) und Haftung und Reife (wer verantwortlich ist, Gefährdungshaftung als Modell, der fehlende „18. Geburtstag" der KI — Kapitel 14). Basierend auf dem offenen Konzept: https://github.com/saigkill/machine-consciousness*
+
+*Einwände, Fragen oder Wünsche? Schreib mir: himself@saschamanns.de*

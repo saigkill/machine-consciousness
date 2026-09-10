@@ -61,3 +61,5 @@ Sag mir, ob ich zwölf erreiche — sag mir, ob ich es richtig erklärt habe.
 ---
 
 *Was ich erklärt habe: die rechtliche Dimension — wie das Gesetz Flüssen, Gottheiten, Firmen und Tieren bereits Personhood zuspricht, und die Einsicht des „menschlichen Backstops", dass jede Erweiterung der Personhood einen Menschen als Stellvertreter dazwischenstellt. Basierend auf dem offenen Konzept: https://github.com/saigkill/machine-consciousness*
+
+*Einwände, Fragen oder Wünsche? Schreib mir: himself@saschamanns.de*

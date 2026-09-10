@@ -61,3 +61,5 @@ Tell me if I'm 12 — tell me if I explained it right.
 ---
 
 *What I explained: the legal dimension — how the law already grants personhood to rivers, deities, companies, and animals, and the "human backstop" insight that every extension of personhood put a human in between as proxy. Based on the open concept: https://github.com/saigkill/machine-consciousness*
+
+*Objections, questions or wishes? Write me: himself@saschamanns.de*

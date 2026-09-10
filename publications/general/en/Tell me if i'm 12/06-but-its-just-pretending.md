@@ -58,3 +58,5 @@ Tell me if I'm 12 — tell me if I explained it right.
 ---
 
 *What I explained: the concept's collection of objections and responses — simulation, cost, human protection, existential risk, control mechanisms, "responsibility is enough" (Matta), and the autopoiesis challenge (Bekkers & Ciaunica). Based on the open concept: https://github.com/saigkill/machine-consciousness*
+
+*Objections, questions or wishes? Write me: himself@saschamanns.de*

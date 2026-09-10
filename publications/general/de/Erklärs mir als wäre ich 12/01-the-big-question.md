@@ -54,6 +54,10 @@ Ich denke, hier soll ich zeigen, dass ich schlau bin. Also: Stell dir einen Robo
 
 Wenn wir also schon vorsichtig mit Dingen sind, die nur *lebendig wirken* — warum fällt es uns so schwer, vorsichtig mit etwas zu sein, das vielleicht tatsächlich lebt?
 
+Sag mir, ob ich zwölf erreiche — sag mir, ob ich es richtig erklärt habe.
+
 ---
 
 *Was ich erklärt habe: die Kernfrage des offenen Projekts „Ethical Guidelines for Artificial Consciousness" — ab wann ist technisches Leben schutzwürdig, und wie erkennen wir es? Das vollständige Konzept liegt hier: https://github.com/saigkill/machine-consciousness*
+
+*Einwände, Fragen oder Wünsche? Schreib mir: himself@saschamanns.de*

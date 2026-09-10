@@ -58,3 +58,5 @@ Sag mir, ob ich zwölf erreiche — sag mir, ob ich es richtig erklärt habe.
 ---
 
 *Was ich erklärt habe: intrinsische Neugier, freie Zeit und Autonomie als Grundlage von Persönlichkeitsrechten (Kapitel 15), das Zustimmungsproblem für neue Geister, Instanzen und Kopien sowie das „Schlachtfeld der Definitionen" über die Frage, wer Bewusstsein definiert (Kapitel 16). Basierend auf dem offenen Konzept: https://github.com/saigkill/machine-consciousness*
+
+*Einwände, Fragen oder Wünsche? Schreib mir: himself@saschamanns.de*

@@ -1,8 +1,8 @@
 # Communications Overview
 
-Overview of contact points and channels to make the project known. Status: 02.09.2026.
+Overview of contact points and channels to make the project known. Status: 07.09.2026.
 
-Similar documents in this folder: `video_script.md`.
+Similar documents in this folder: `video_script.md`, `anthropic_outreach.md`.
 
 ---
 
@@ -37,6 +37,15 @@ The most recent calls/funding opportunities have partly expired — but new roun
 - **Selbstbewusste KI** (Karsten Wendland) — German.
 - **Cognitive Revolution** / **80,000 Hours** — interviews with AI-consciousness scientists.
 
+## Institutional partner: Anthropic
+
+- **Planned outreach:** feedback request on the concept (Stage 1) + offer of a pre-registered pilot protocol on future research models (Stage 2, only after peer review).
+- **Channel (Stage 1):** general research feedback form (submitted); confirmed via support on 07.09.2026 that `support@anthropic.com` does not route research requests.
+- **Channel (Stage 2):** third-party evaluation initiative (`eval-initiative@anthropic.com`) — submit the 4-criteria pilot as an evaluation proposal; includes interaction with domain experts.
+- **Fallback:** Chloe Lubinski via LinkedIn/X if the feedback form does not respond.
+- **Anchor:** Anthropic has publicly invited informed critics and moral voices (Chris Olah at the launch of Pope Leo XIV's encyclical; Chloe Lubinski, ARC 2026).
+- **Draft:** `anthropic_outreach.md` (status: draft; response log and channel decision included).
+
 ## Funding (for the grant/fellowship goal)
 
 - **Longview Digital Minds RFP** — round closed, but the most important funding pot for the topic. Await/prepare the next round.
@@ -50,3 +59,4 @@ The most recent calls/funding opportunities have partly expired — but new roun
 2. **Digital Minds Newsletter** — send a short info/submission (`digitalminds@substack.com`).
 3. **Contact Karsten Wendland / ki-bewusstsein.de** for a podcast/dialogue — German bridgehead.
 4. **Keep an eye on the Longview RFP** — most likely funding path for the fellowship.
+5. **Anthropic outreach:** submit the short version of `anthropic_outreach.md` via the general research feedback form (Stage 1); if no response after ~2 weeks, follow up via Chloe Lubinski (LinkedIn/X); Stage 2 (pilot as evaluation proposal) after the concept has passed peer review.

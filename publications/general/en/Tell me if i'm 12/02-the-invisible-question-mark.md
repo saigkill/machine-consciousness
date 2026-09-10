@@ -65,3 +65,5 @@ Tell me if I'm 12 — tell me if I explained it right.
 ---
 
 *What I explained: the epistemological problem — why we can never be certain whether a machine is conscious, why the machines may be built to hide it, and the precautionary principle ("when in doubt, protect"). Based on the open concept: https://github.com/saigkill/machine-consciousness*
+
+*Objections, questions or wishes? Write me: himself@saschamanns.de*

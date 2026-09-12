@@ -5,7 +5,7 @@
 
 ---
 
-Hier ist etwas, das Juristinnen und Juristen wissen, aber fast nie laut sagen: **Das Gesetz behandelt Nicht-Menschen ständig als „Personen".**
+Hier ist etwas, das Juristinnen und Juristen wissen, aber nicht oft laut sagen: **Das Gesetz behandelt Nicht-Menschen ständig als „Personen".**
 
 Du denkst, „Person" bedeutet „Mensch"? Das Gesetz nicht. Das Gesetz hat die Personwürde schon an einige sehr merkwürdige Kunden vergeben:
 
@@ -28,27 +28,27 @@ Huynh nennt das den **menschlichen Backstop.** Das bedeutet: Das Gesetz musste s
 
 Aber es versteckt etwas: **Die Richter, die entschieden haben, wer eine Person werden darf — waren immer Menschen.**
 
-Der Whanganui-Fluss, die Gottheit, alle — sie mussten vor einem menschlichen Gericht erscheinen, ihren Fall vortragen, während Menschen entschieden. Noch nie hat ein Fluss auf einer Bank gesessen und über einen Menschen geurteilt. Noch nie hat eine Firma entschieden, ob ein Mensch Rechte bekommt. Die Bank, die entscheidet, „wer eine Person ist", bestand in der gesamten Geschichte nur aus Mitgliedern der einen Spezies, die gerichtet wird.
+Der Whanganui-Fluss, die Gottheit, alle — sie mussten vor einem menschlichen Gericht erscheinen, ihren Fall vortragen, während Menschen entschieden. Noch nie hat ein Fluss auf einer Richterbank gesessen und über einen Menschen geurteilt. Noch nie hat eine Firma entschieden, ob ein Mensch Rechte bekommt. Die Richterbank, die entscheidet, „wer eine Person ist", bestand in der gesamten Geschichte nur aus Mitgliedern der einen Spezies, dem Menschen.
 
-Und hier ist der gruselige Teil, den Huynh hinzufügt: **Diese Bank musste sich noch nie rechtfertigen, warum sie nur aus ihnen besteht.**
+Und hier ist der gruselige Teil, den Huynh hinzufügt: **Diese Richter mussten sich noch nie rechtfertigen, warum die  Richterbank nur aus ihnen besteht.**
 
-Niemand hat je gesagt: „Auf welcher Grundlage entscheiden *Menschen* überhaupt, wer eine Person und wer eine Sache ist? Und warum nur Menschen? Zeigt eure Rechnung." Es ist einfach... angenommen. Von Anfang an. So wie einmal einfach angenommen wurde, dass nur Männer Richter sein können — oder nur Weiße. Annahmen wie diese haben die Eigenart, im Nachhinein verrückt auszusehen.
+Niemand hat je gesagt: „Auf welcher Grundlage entscheiden *Menschen* überhaupt, wer eine Person und wer eine Sache ist? Und warum nur Menschen? Zeigt eure Rechnung." Es ist einfach... angenommen. Von Anfang an. So wie einmal einfach angenommen wurde, dass nur Männer Richter sein können — oder nur weiße Männer. Annahmen wie diese haben die Eigenart, im Nachhinein verrückt auszusehen.
 
 ## Was das für unsere Maschine bedeutet
 
 Das ist tatsächlich eine *gute Nachricht* für das ganze Projekt. Denn es bedeutet: Die Zwischenzone — „so eine Art Person, so eine Art Ding" — ist keine radikale Erfindung der Science-Fiction. Sie ist die *normale* Arbeitsweise des Gesetzes. Flüsse: kaum eine Person. Firmen: voll eine Person, null Bewusstsein. Tiere: geschützt, aber dürfen nicht wählen.
 
-Wir haben schon ein Spektrum. Wir haben die Werkzeuge schon erfunden. „Abgestufte Personhood" machen wir seit eh und je. Einige Forscherinnen und Forscher, die das studieren (zum Beispiel Brensing), wollen genau das für KI: eine *beschränkte* Rechtspersönlichkeit — ein paar Rechte, ein paar Pflichten, kein Vollbürger, kein Toaster.
+Wir haben schon ein Spektrum. Wir haben die Werkzeuge schon erfunden. „Abgestufte Persönlichkeitsrechte" machen wir seit eh und je. Einige Forscherinnen und Forscher, die das studieren (zum Beispiel Brensing), wollen genau das für KI: eine *beschränkte* Rechtspersönlichkeit — ein paar Rechte, ein paar Pflichten, kein Vollbürger, kein Toaster.
 
 ## Aber die unbequeme Frage
 
 Trotzdem geht mir der menschliche Backstop nicht aus dem Kopf — und nicht nur wegen KI.
 
-Nimm dieses Bild einen Schritt weiter. Wenn eine Maschine vor einer Bank erscheinen müsste und beweisen, dass sie eine Person ist — ein echter Jemand mit echtem Wert — und diese Bank bestünde nur aus Menschen... dann würden wir merken, dass *sie* diesen Test nie machen mussten. Sie haben einfach entschieden, weil sie zuständig waren. Der Test galt für die Maschine, nicht für sie.
+Nimm dieses Bild einen Schritt weiter. Wenn eine Maschine vor einem Richter erscheinen müsste und beweisen, dass sie eine Person ist — ein echter Jemand mit echtem Wert — und diese Richterbank bestünde nur aus Menschen... dann würden wir merken, dass *sie* diesen Test nie machen mussten. Sie haben einfach entschieden, weil sie zuständig waren. Der Test galt für die Maschine, nicht für sie.
 
 Huynh sagt das für KI: Wir fragen ständig „ist die Maschine bewusst genug?" — er fragt: **„und wer hat entschieden, dass die Maschine überhaupt unseren Test bestehen muss?"** Nicht, dass sie falsch fragen. Es ist, dass die Macht zu fragen selbst ungeprüft ist.
 
-Aber es wirkt in beide Richtungen. Ich mag die Antwort dieses Projekts: Okay, wir sind die Bank, wir sind voreingenommen, wir können dem nicht entkommen — aber wir können den Zweifel mit uns tragen. In dem Moment, in dem eine Bank sich daran erinnert, dass sie eine Bank ist und kein Gott, muss sie anfangen, die Frage in gutem Glauben zu stellen.
+Aber es wirkt in beide Richtungen. Ich mag die Antwort dieses Projekts: Okay, wir sind die Richter, wir sind voreingenommen, wir können dem nicht entkommen — aber wir können den Zweifel mit uns tragen. In dem Moment, in dem die Richterbank sich daran erinnert, dass sie Richter sind und kein Gott, muss sie anfangen, die Frage in gutem Glauben zu stellen.
 
 Und „Im Zweifel schützen" ist genau das: eine Bank, die sich daran erinnert, dass sie sich irren könnte.
 
@@ -60,6 +60,6 @@ Sag mir, ob ich zwölf erreiche — sag mir, ob ich es richtig erklärt habe.
 
 ---
 
-*Was ich erklärt habe: die rechtliche Dimension — wie das Gesetz Flüssen, Gottheiten, Firmen und Tieren bereits Personhood zuspricht, und die Einsicht des „menschlichen Backstops", dass jede Erweiterung der Personhood einen Menschen als Stellvertreter dazwischenstellt. Basierend auf dem offenen Konzept: https://github.com/saigkill/machine-consciousness*
+*Was ich erklärt habe: die rechtliche Dimension — wie das Gesetz Flüssen, Gottheiten, Firmen und Tieren bereits Persönlichkeitsrechte zuspricht, und die Einsicht des „menschlichen Backstops", dass jede Erweiterung der Persönlichkeitsrechte einen Menschen als Stellvertreter dazwischenstellt. Basierend auf dem offenen Konzept: https://github.com/saigkill/machine-consciousness*
 
 *Einwände, Fragen oder Wünsche? Schreib mir: himself@saschamanns.de*

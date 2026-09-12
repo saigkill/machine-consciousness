@@ -72,9 +72,10 @@ All research material is openly available under CC BY 4.0. The discussion sectio
 
 ### 3.3 Peer Review (External)
 
-Two manuscripts are currently under review:
+Three manuscripts are currently under review:
 - The journal *KI — Künstliche Intelligenz* (Springer)
-- The ACM Conference on AI Ethics, Law and Technology (AILET)
+- Ethics and Information Technology
+- *International Review of Intellectual Property and Competition Law (IIC)*.
 
 Feedback from these review processes will feed into future versions of the concept.
 

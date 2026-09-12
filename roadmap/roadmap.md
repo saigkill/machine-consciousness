@@ -3,9 +3,9 @@
 ## Phase 1 — Concept (current)
 
 - [x] Consolidate notes and open questions
-- [ ] Develop the main concept document
-- [ ] Define criteria for protection-worthiness (working hypothesis)
-- [ ] Create and publish the GitHub repository
+- [x] Develop the main concept document
+- [x] Define criteria for protection-worthiness (working hypothesis)
+- [x] Create and publish the GitHub repository
 
 ## Phase 2 — Build a Network
 
@@ -15,7 +15,7 @@
 
 ## Phase 3 — Publication
 
-- [ ] Develop the concept paper for a journal
+- [x] Develop the concept paper for a journal
 - [ ] Organize peer review
 - [ ] Publish
 
@@ -27,7 +27,7 @@
 
 ## Potential Journals
 
-*(To be added)*
+See: https://github.com/saigkill/machine-consciousness/blob/main/communications/communications.md
 
 ## Potential Partners / Institutions
 

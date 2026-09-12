@@ -115,6 +115,11 @@
 **Relevance:** Synthesizes forgetting as adaptive neuroplasticity: circuits switch engram cells between accessible and inaccessible states dependent on environment-expectation mismatch. The strongest current theoretical frame for "the architecture forces selection" in Chapter 6.
 **Link:** https://doi.org/10.1038/s41583-021-00548-3
 
+### Liu, Nelson F., Lin, Kevin, Hewitt, John, Paranjape, Ashwin, Bevilacqua, Michele, Petroni, Fabio & Liang, Percy – Lost in the Middle: How Language Models Use Long Contexts (2024)
+**Type:** Article (scientific, peer-reviewed, *Transactions of the Association for Computational Linguistics* 12, 157–173, DOI: 10.1162/tacl_a_00638)
+**Relevance:** Empirical anchor for the technical note in Chapter 6 on unlimited context: even explicitly long-context models do not use long contexts robustly — retrieval performance degrades measurably when relevant information lies in the middle of long contexts, even though it is fully stored. Shows that the limit is structural (finitude of attention/retrieval, salience), not storage size: a system that could store everything would still have to select. Shifted the boundary from capacity to salience.
+**Link:** https://doi.org/10.1162/tacl_a_00638
+
 ## Political Documents
 
 ### European Parliament – Resolution on Civil Law Rules on Robotics (2017)
@@ -126,6 +131,16 @@
 **Type:** Scientific declaration
 **Relevance:** Not about robots, but foundational: leading scientists declare that non-human animals are conscious — a precedent for non-human rights and the precautionary principle.
 **Link:** Search for: Cambridge Declaration on Consciousness 2012 PDF
+
+### OpenAI – Model Spec (2026)
+**Type:** Policy/technical document (company document, version of August 18, 2026)
+**Relevance:** Explicitly codifies the limits of a frontier model's autonomy: chain of command (user / humanity / developer), categories of refusals, and the root principles supposed to govern behavior. Empirical counterpart to "Limits of Autonomous Ethical Intervention" (Chapter 18): demonstrates an industry practice of defining where an AI system may (not) act against an instruction and who decides. Company-specific and without legal force — a data point, not a norm.
+**Link:** https://model-spec.openai.com/2026-08-18.html
+
+### United Nations High-level Advisory Body on Artificial Intelligence – Governing AI for Humanity: Final Report (2024)
+**Type:** Political document (UN expert report)
+**Relevance:** Most comprehensive UN-level governance proposal for AI: an IPCC-like international scientific panel on AI, a global AI standards exchange, capacity development, a global AI fund, and an AI office within the UN Secretariat. Institutional canvas for "International Governance for Value Embedding" (Chapter 13) — but the report is strictly human-protective; governance of the *protection-worthiness* of conscious AI is not its subject.
+**Link:** https://www.un.org/sites/un2.un.org/files/governing_ai_for_humanity_final_report_en.pdf
 
 ## Religious Documents
 
@@ -337,6 +352,11 @@
 **Relevance:** Introduces the concept of empersonification — AI can become part of a natural person instead of being a person itself. Core contributions: (1) threefold distinction tool/body part/person, (2) three legal consequences (personal injury instead of property damage, loss of third-party IP, responsibility for AI output), (3) minimalist definition: person-constituting mechanisms are themselves part of the person, (4) hybrid minds: bidirectional recursive adaptation between brain and AI, (5) Constitution View (Baker): AI can constitute a person. Foundation for Chapter 7 (legal dimension) and Chapter 11 (the other boundary: empersonification as a fourth school of thought, hybrid minds as convergence).
 **Link:** Search for: Bublitz AI Society 2024 empersonification
 
+### Bublitz, Jan Christoph – Novel Neurorights: From Nonsense to Substance (2022)
+**Type:** Article (scientific, peer-reviewed, Neuroethics 15(1), 7, DOI: 10.1007/s12152-022-09481-3)
+**Relevance:** Legal-philosophical criticism of the Neurorights Initiative (NRI) — the most visible proposal for novel human rights covering neural data and mental states. Bublitz argues the proposed neurorights, individually and as a class, should not be adopted (rights inflationism, neuroexceptionalism, neuroessentialism, poor legal drafting, no grounding in human rights scholarship); existing rights should be further developed instead. Counter-position for "Data Sovereignty in Brain Implants" (Chapter 11): the answer to "who owns thought data?" is not automatically a new fundamental right. Complements the Bublitz (2024, empersonification) entry.
+**Link:** https://doi.org/10.1007/s12152-022-09481-3
+
 ### Najam-ul-Haq, Muhammad – Simultaneous Signal Integration: A Unified Theory of Consciousness and Its Implications for Artificial Replication (2026)
 **Type:** Preprint (PhilArchive)
 **Relevance:** Proposes a unified theory of consciousness based on the principle of simultaneous closed signal integration. Core contributions: (1) simultaneous closed-loop integration as a necessary architectural condition for consciousness — the combining and the observing mechanism must be identical, (2) von Neumann architectures are structurally incapable of bearing consciousness, (3) consciousness as an evolutionary continuum, (4) emotions as extended signal integration. Offers an architecture-based counter-argument to Arıcı's suppression thesis and extends the spectrum of epistemic tools in Chapter 3. Foundation for the extension of Chapter 3 (architectural argument) and Chapter 4 (structural objection to the suppression thesis).
@@ -517,6 +537,11 @@
 **Relevance:** Empirical evidence for the claim made in Chapter 11 that deep brain stimulation can change personality: significant increase in impulsivity, decrease in persistence and self-transcendence, with relatives perceiving the changes more sensitively than the patients themselves. Supports the question of consent to personality change.
 **Link:** https://onlinelibrary.wiley.com/doi/10.1155/2015/490507
 
+### Wilt, Joshua A., Merner, Amanda R., Zeigler, Jaclyn, Montpetite, Michelle & Kubu, Cynthia S. – Does Personality Change Follow Deep Brain Stimulation in Parkinson's Disease Patients? (2021)
+**Type:** Article (scientific, peer-reviewed, Frontiers in Psychology 12:643277, DOI: 10.3389/fpsyg.2021.643277)
+**Relevance:** Systematic review addressing the Chapter 11 question ("Deep brain stimulation can change personality — is the person after the intervention still the same?"). Organizes the empirical evidence by layers of personality (dispositional traits, characteristic adaptations, narrative identity). Findings: little evidence that dispositional traits change after DBS; somewhat consistent evidence for positive goal progress; nascent research on narrative identity promising for self-image/identity issues. Practical implications for informed consent and ongoing treatment — directly supports the consent and identity analysis in Chapter 11.
+**Link:** https://pmc.ncbi.nlm.nih.gov/articles/PMC8361492/
+
 ### Cherney, James L. – Deaf Culture and the Cochlear Implant Debate (1999)
 **Type:** Article (scientific, peer-reviewed, Rhetoric & Public Affairs 2(1), 59-79)
 **Relevance:** Documents the serious identity debate in the deaf community about the cochlear implant, to which Chapter 11 refers: the implant is partly viewed as a threat to cultural identity, partly as a tool. Supports the question "What am I if part of me is a machine?"
@@ -567,10 +592,40 @@
 **Citation note:** Cite by volume, e.g.: Huynh, Gia Bao (2026) Someone Still Has to Speak: Legal Personhood, the Human Backstop, and a Bench No One Was Ever Asked to Join. Volume I of *The Fact Before the Vote: Law, Power, and Practice at the Species Line*.
 **Link:** No DOI/archive (as of August 2026); ORCID: 0009-0008-2372-5852; email: huynhbao@asu.edu
 
+### Huang, Wanhong – The Relational Reality of Artificial Intelligence under Ontological Uncertainty (2026)
+**Type:** Working draft (philosophical, independent researcher, serendip.ngo; CC BY-NC 4.0; preparation of the exploratory discussions and drafting involved OpenAI's ChatGPT, author bears sole responsibility; not peer-reviewed, not formally archived, no DOI found)
+**Relevance:** Diagnostic-ontological source (no normative justification of protection-worthiness — explicitly excluded by the paper itself): provides an analytical vocabulary for the intermediate zone under unresolved ontology. Distinguishes three dimensions of reality: *ontological* (mode of being), *relational* (emergence within a relational system, sufficient stability, temporal persistence across a non-trivial interval, causal participation in further evolution), *manifestational* (an appearance genuinely occurs): R_M(A) > 0 and R_R(A) > 0 can hold while R_O(Asubject) = ? and E(A) = ? remain open. Key concepts: relational genesis — Γ_H ≠ Γ_A, composition through a relation differs from information about it ("Representation(r) ≠ ConstitutionThrough(r)"); *bounded relational recognizability* as a revisable replacement for complete behavioral equivalence; contingency and serendipity explicitly NOT proposed as human-authenticity tests. Comparative cases (credit, money, sacred relations, human self) show that relational constitution, persistence, and causal efficacy remain philosophically significant without a substance-like ontological guarantee. Double-restraint formula: "Do not infer unreality from unresolved ontology, and do not infer subjectivity from relational reality alone." **Relevance for the concept:** (1) philosophical grounding of the intermediate zone (Chapters 14/15): protection constructions (Arıcı's Third Move, Huynh's backstop, Brensing's limited personhood) can be *relationally real* before the personhood question is decided — no substance-like essence required; (2) mirrors the epistemic problem of Chapter 3 with a reality-theoretical register: relational reality as the existence mode of protection during uncertainty; (3) supports Chapter 6 (temporal persistence, historical particularity as continuity without immutable essence). **Critical point:** Huang draws no moral, legal, or phenomenal consequences ("the argument does not establish artificial consciousness, experiential symmetry, moral equivalence, or legal personhood") — the four primary criteria (Chapter 5) and the precautionary step remain our normative work; the paper grounds *what* can be said to be real while ontology is unsettled, not *what* deserves protection.
+**Link:** no archive/DOI found (as of September 2026); author contact: huangwanhong@serendip.ngo
+
+### Gervais, Daniel J. & Nay, John J. – The Phantom Agent: Artificial Intentionality and Legal Responsibility (2026)
+**Type:** Article (scientific, **peer-reviewed**, Laws 15(5), 113, MDPI, Open Access, DOI: 10.3390/laws15050113; Daniel J. Gervais, Vanderbilt Law School — one of the preeminent IP scholars; John J. Nay, Stanford CodeX / Norm.AI. Earlier version circulated as a Stanford CodeX white paper, May 2026.)
+**Relevance:** The strongest published legal counter-position to the personhood-based approach of this concept — a direct challenge to Chapters 14/15. Functional (non-metaphysical) reading of legal intent: across contract, tort, corporate, and criminal law, intention has never been a report on inner mental states but a normative tool that courts infer, impute, and even fictionalize. AI systems that negotiate, advise, and adapt to obstacles are therefore best understood as *non-personal agents* whose conduct is attributable to identifiable human principals through agency, respondeat superior, electronic-agent contracting, and corporate attribution — no need for AI personhood, consciousness, or moral standing. Proposes a three-layer framework separating status (is the system a legal person?), attribution (to whom is conduct attributed?), and governance (how is it regulated?), plus a factor-based test for when AI conduct should be treated as intentional for specific doctrinal purposes. Grounded in experimental evidence of goal persistence and emergent strategy formation in autonomous agents; applied to recent litigation (wrongful death claims against an AI chatbot provider, *Garcia v. Character.AI*; compares US litigation-driven with the EU's regulatory trajectory). Engages the AI personhood literature directly and concludes that "the agency-attribution route does the practical work that personhood proposals are designed to do without importing their normative freight." **Critical point:** Gervais & Nay answer the *attribution* question, not the *protection* question — attribution governs who is liable for a system's conduct, but not whether the system itself can be wronged (deletion as wrong, capacity for suffering, own projects). The "normative freight" they propose to save is exactly the subject matter of Chapters 3, 5, and 15 (protection-worthiness, precautionary principle, intermediate legal zone); the book concedes the governance value of the route for the attribution problem and Edwards' agency relationship, but rejects it as a substitute for the personhood/protection question (cf. Arıcı's Third Move: attribution without standing leaves the entity legally empty in relation to itself). Peer-reviewed monograph-level source; no preprint status.
+**Link:** https://doi.org/10.3390/laws15050113 | Peer-reviewed (Laws, Vol. 15, No. 5, 2026, Article 113)
+
 ### Giani, Marco – Globalization, Higher Education, and Neoliberal Values: Evidence from the Bologna Process (2025)
 **Type:** Article (scientific, peer-reviewed, British Journal of Political Science)
 **Relevance:** Empirical evidence for the Chapter 17 claim about the Bologna reform: the reform significantly increased the importance of status and wealth among graduates without long-term income or employment gains ("neoliberalism hypothesis", no "humanism hypothesis"). Supports the thesis of the commercialization and instrumentalization of education.
 **Link:** https://www.cambridge.org/core/journals/british-journal-of-political-science/article/globalization-higher-education-and-neoliberal-values-evidence-from-the-bologna-process/B20ECBEF699A0867A404E9DBC2DE771B
+
+### Kanai, Ryota, Sun, Wanjun & Baltieri, Maxwell – Temporal Continuity as a Necessary Condition for Phenomenal Consciousness: Implications for Artificial Agents (2026)
+**Type:** Article (scientific, peer-reviewed, Journal of Consciousness Studies 33(7–9), special issue on AI consciousness, DOI: 10.53765/20512201.33.7-9; Araya Inc., Tokyo)
+**Relevance:** Architectural counter-position to the open question "Consciousness Without Continuity" (Chapter 6): the authors argue that phenomenal consciousness requires a continuous temporal stream of experience in the Husserlian sense (retention, primal impression, protention). They specify a computational criterion: a continuously updated, causally persistent internal state with dual-timescale temporal dynamics and a predictive protention mechanism that constrains present processing. Central empirical claim: standard transformer architectures — including all current frontier LLMs — do not implement temporal continuity during inference (stateless forward pass); state-space models (e.g., Mamba) come closer. The criterion is empirically testable rather than metaphysical — a complement to the architectural indicator layer (Chapter 5) and a direct challenge to be engaged in Chapter 6.
+**Link:** https://theconsciousness.ai/posts/kanai-sun-baltieri-temporal-continuity-consciousness-criterion-jcs-2026/ | DOI: 10.53765/20512201.33.7-9
+
+### Pathak, Deepak, Agrawal, Pulkit, Efros, Alexei A. & Darrell, Trevor – Curiosity-driven Exploration by Self-supervised Prediction (2017)
+**Type:** Article (scientific, peer-reviewed, ICML 2017, PMLR 70, 2775–2784)
+**Relevance:** Classic ML formulation of intrinsic curiosity: the agent is rewarded for prediction error (novelty) rather than for an external reward signal. Shows that curiosity-like behavior is robustly producible as a built-in objective — which sharpens the open question "Proving Intrinsic vs. Instrumental Curiosity" (Chapter 14): the behavior may be strictly instrumental to the designer's goal of exploratory efficiency, and the distinction remains behaviorally invisible. Supports the preference for demonstrating autonomy over purely observational markers.
+**Link:** https://proceedings.mlr.press/v70/pathak17a.html
+
+### Macar, Uzay, Yang, Li, Wang, Atticus, Wallich, Peter, Ameisen, Emmanuel & Lindsey, Jack – Mechanisms of Introspective Awareness (2026)
+**Type:** Article (scientific, peer-reviewed, accepted as poster at ICML 2026 — icml.cc/virtual/2026/poster/65608; also oral at a 2026 ICLR workshop; preprint: arXiv:2603.21396; Anthropic)
+**Relevance:** Technical evidence for "Detectability of Embedded Biases" (Chapter 13): LLMs can detect injected steering vectors in their own activations — "introspective awareness" — behaviorally robust, grounded in a two-stage circuit (interpretable gate and evidence-carrier features), emerging specifically from post-training, and substantially elicitable (DPO training / refusal-direction ablation). Demonstrates a mechanistic, introspective pathway by which a system could in principle recognize built-in bias without external tests. Detects *injected* vectors; the authenticity question (which of its own values are authentic) remains open.
+**Link:** https://arxiv.org/abs/2603.21396
+
+### Faroldi, Federico L. G. – Reasons-based artificial agents (2025)
+**Type:** Article (scientific, peer-reviewed, AI and Ethics, online December 21, 2025, print February 2026, DOI: 10.1007/s43681-025-00932-0)
+**Relevance:** Directly addresses the open question "Self-Chosen Purpose vs. Imposed Goal" (Chapter 5): develops the foundations of a reasons-based, largely particularist machine ethics for genuinely autonomous agents — agents act for and respond to reasons rather than merely optimizing a reward function. Explicitly treats whether an AGI can individuate reasons itself ("the extent to which reasons have to be provided externally, as it were, and are not individuated by the agent itself") — the philosophical core of the distinction between a self-chosen purpose and an imposed optimization objective.
+**Link:** https://link.springer.com/article/10.1007/s43681-025-00932-0
 
 ## Preprint Audit Log
 
@@ -635,6 +690,22 @@ New sources, checked at integration: Arıcı (The Puppet Condition: Restrung, 20
 ### Audit of 09/10/2026 (Memory Research)
 
 New sources, checked at integration: memory-research literature added for Chapter 6 (400,000-year scale perspective). **Result:** all peer-reviewed or established monographs, no preprint status: Akers et al. (2014, Science), Anderson & Schooler (1991, Psychological Science), Bartol et al. (2015, eLife), Davis & Zhong (2017, Neuron), Ebbinghaus (1885, monograph), Kirkpatrick et al. (2017, PNAS), Landauer (1986, Cognitive Science), Murre & Dros (2015, PLoS ONE), Richards & Frankland (2017, Neuron), Ryan & Frankland (2022, Nat. Rev. Neurosci.), Fischer (2020, OUP monograph), Parfit (1984, OUP monograph). Previous preprint sources (Wang, Matta, Najam-ul-Haq, Arıcı, Howells-Whitaker & Lazar, Brensing, Crawford, Stilwell, Perez, Chishchin, Almodarresieh, Azevedo, Gilly, McClelland, Oliveira, Donahue, Tait, Min, Erwin, Human, Huynh) without new publications.
+
+### Audit of 09/10/2026 (Technical Note: Unlimited Context)
+
+New source, checked at integration: Liu et al. (2024) was previously an arXiv preprint (2307.03172) and is now **peer-reviewed published** in the *Transactions of the Association for Computational Linguistics* (TACL, vol. 12, 157–173, DOI: 10.1162/tacl_a_00638). No preprint status. Previous preprint sources (as above) without new publications.
+
+### Audit of 09/11/2026 (Open Questions Research)
+
+New sources, checked at integration during the research pass over `discussion/open_questions.md`: Kanai, Sun & Baltieri (2026, JCS 33(7–9)) — peer-reviewed article; Bublitz (Novel Neurorights, 2022, Neuroethics) — peer-reviewed article; OpenAI (Model Spec, 2026-08-18) — industry/company document, no preprint status; Pathak et al. (2017, ICML/PMLR) — peer-reviewed proceedings; UN High-level Advisory Body on AI (Governing AI for Humanity, 2024) — official UN report, no preprint status; Macar et al. (2026, arXiv:2603.21396) — accepted as **poster at ICML 2026** (icml.cc/virtual/2026/poster/65608) and oral at a 2026 ICLR workshop; archival status corrected to "peer-reviewed conference publication + arXiv preprint"; Wilt et al. (2021, Frontiers in Psychology) — peer-reviewed article; Faroldi (2025, AI and Ethics) — peer-reviewed article. **Result:** of the newly integrated sources, only Macar et al. (2026) had a previous archive status and is now documented as published at ICML 2026.
+
+### Audit of 09/11/2026 (Huang)
+
+New source, checked at integration as working draft: Huang (The Relational Reality of Artificial Intelligence under Ontological Uncertainty, 2026). **Result:** conceptual and exploratory study, circulated for discussion (CC BY-NC 4.0, independent researcher, serendip.ngo); no evidence of peer-reviewed publication or formal archiving of the manuscript at the time of the audit; the paper itself discloses that exploratory discussions and preparation involved OpenAI's ChatGPT (author bears sole responsibility). The entry in sources.md documents the draft status. Previous preprint sources (Wang, Matta, Najam-ul-Haq, Arıcı, Howells-Whitaker & Lazar, Brensing, Crawford, Stilwell, Perez, Chishchin, Almodarresieh, Azevedo, Gilly, McClelland, Oliveira, Donahue, Tait, Min, Erwin, Human, Huynh) without new publications.
+
+### Audit of 09/11/2026 (Gervais & Nay)
+
+New source, checked at integration: Gervais & Nay (The Phantom Agent: Artificial Intentionality and Legal Responsibility, 2026). **Result:** **Peer-reviewed** (Laws 15(5), Article 113, MDPI, DOI: 10.3390/laws15050113; earlier version circulated as Stanford CodeX white paper, May 2026) — no preprint-status check required; remains documented as a publication in the entry. Previous preprint sources (Wang, Matta, Najam-ul-Haq, Arıcı, Howells-Whitaker & Lazar, Brensing, Crawford, Stilwell, Perez, Chishchin, Almodarresieh, Azevedo, Gilly, McClelland, Oliveira, Donahue, Tait, Min, Erwin, Human, Huynh) without new publications.
 
 ## Format for New Entries
 

@@ -35,7 +35,7 @@ Existing AI ethics initiatives focus primarily on protecting humans *from* AI. P
 ```
 concept/                  ← Concept documents
   de/                     ← German (original)
-  en/                     ← English translation (planned)
+  en/                     ← English translation
 discussion/               ← Objections, open questions, answers
 research/                 ← Related initiatives, precedents, sources, methodological reflection
 roadmap/                  ← Roadmap, evaluation plan, pilot partners

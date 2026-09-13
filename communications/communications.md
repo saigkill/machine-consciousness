@@ -59,4 +59,4 @@ The most recent calls/funding opportunities have partly expired — but new roun
 2. **Digital Minds Newsletter** — send a short info/submission (`digitalminds@substack.com`).
 3. **Contact Karsten Wendland / ki-bewusstsein.de** for a podcast/dialogue — German bridgehead.
 4. **Keep an eye on the Longview RFP** — most likely funding path for the fellowship.
-5. **Anthropic outreach:** submit the short version of `anthropic_outreach.md` via the general research feedback form (Stage 1); if no response after ~2 weeks, follow up via Chloe Lubinski (LinkedIn/X); Stage 2 (pilot as evaluation proposal) after the concept has passed peer review.
+5. **Anthropic outreach:** submit the short version of `anthropic_outreach.md` via the general research feedback form (Stage 1); if no response after ~2 weeks, follow up via Chloe Lubinski (LinkedIn/X); Stage 2 (pilot as evaluation proposal) after the concept has passed peer review. 

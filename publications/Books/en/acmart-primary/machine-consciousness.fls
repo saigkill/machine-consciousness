@@ -541,4 +541,5 @@ INPUT /usr/share/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/newtx/NewTXMI.pfb
+INPUT /usr/share/texmf-dist/fonts/type1/public/newtx/txmiaX.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/newtx/txsys.pfb

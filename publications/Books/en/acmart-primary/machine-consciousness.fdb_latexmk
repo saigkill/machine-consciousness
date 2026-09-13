@@ -1,18 +1,18 @@
 # Fdb version 4
-["bibtex machine-consciousness"] 1789147405.83323 "machine-consciousness.aux" "machine-consciousness.bbl" "machine-consciousness" 1789147406.89808 0
+["bibtex machine-consciousness"] 1789322374.40702 "machine-consciousness.aux" "machine-consciousness.bbl" "machine-consciousness" 1789322375.49982 0
   "./ACM-Reference-Format.bst" 1780245478 93560 7091f2b0543d2c8bfe2e82ce5d54a029 ""
-  "./acmart.bib" 1789147392.61257 32769 5f2859db7c40b7a5391b42c0de4328ad ""
-  "machine-consciousness.aux" 1789147406.76165 29000 ed7719a26c8a7e216189db313673a0ff "pdflatex"
+  "./acmart.bib" 1789321021.78735 33517 67d9d6fa70474844aa7c80566dbe562e ""
+  "machine-consciousness.aux" 1789322375.3552 29227 e0ead7f5e45239aa924cfe589efcbb0b "pdflatex"
   (generated)
   "machine-consciousness.bbl"
   "machine-consciousness.blg"
   (rewritten before read)
-["cusdep glo gls machine-consciousness"] 1789147403.6675 "machine-consciousness.glo" "machine-consciousness.gls" "machine-consciousness" 1789147406.898 0
-  "machine-consciousness.glo" 1789147406.76265 1703 603319a7de80d505d1d0c083d9b90d62 "pdflatex"
+["cusdep glo gls machine-consciousness"] 1789322373.07958 "machine-consciousness.glo" "machine-consciousness.gls" "machine-consciousness" 1789322375.49972 0
+  "machine-consciousness.glo" 1789322375.3572 1703 603319a7de80d505d1d0c083d9b90d62 "pdflatex"
   (generated)
   "machine-consciousness.gls"
   (rewritten before read)
-["pdflatex"] 1789147405.86382 "machine-consciousness.tex" "machine-consciousness.pdf" "machine-consciousness" 1789147406.89815 0
+["pdflatex"] 1789322374.44247 "machine-consciousness.tex" "machine-consciousness.pdf" "machine-consciousness" 1789322375.4999 0
   "/usr/share/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-4.enc" 1775415801 7693 0f2dce6d313c82989ec3a67fc24df2a0 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc" 1775415801 2921 8ca0eb0831f9bc5da080d3697cfe67bf ""
   "/usr/share/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc" 1775415801 2933 9ad527ce78d7c5fa0a642dead095f172 ""
@@ -80,6 +80,7 @@
   "/usr/share/texmf-dist/fonts/type1/public/newtx/LibertineMathMI.pfb" 1775415801 35829 268d1d114c9114e541f92817aec4230d ""
   "/usr/share/texmf-dist/fonts/type1/public/newtx/LibertineMathRM.pfb" 1775415801 17941 ddba6afdead1586dc42d18763749eddd ""
   "/usr/share/texmf-dist/fonts/type1/public/newtx/NewTXMI.pfb" 1775415801 32409 aee30089ce2d804d7327a2f8ccff0462 ""
+  "/usr/share/texmf-dist/fonts/type1/public/newtx/txmiaX.pfb" 1775415801 65081 1217ccf27de85b7db49806ee29c16745 ""
   "/usr/share/texmf-dist/fonts/type1/public/newtx/txsys.pfb" 1775415801 45985 fd5f8adcc4f0e93e9a95469e12126723 ""
   "/usr/share/texmf-dist/fonts/vf/public/libertine/LinBiolinumT-tlf-t1.vf" 1775415801 1728 e76e04a950024a95b620698b679c9810 ""
   "/usr/share/texmf-dist/fonts/vf/public/libertine/LinBiolinumT-tlf-ts1.vf" 1775415801 588 dd1507651160596948db71909e4bbaec ""
@@ -238,12 +239,12 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1775415801 43569 fd570f2fa160877d211e859f687312ba ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1782968922 5385779 47c0c393a77fd4a098bacfd57d66b88a ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1782968920 2809892 08ee49a2a457c16225e5c7f156b7fa0e ""
-  "machine-consciousness.aux" 1789147406.76165 29000 ed7719a26c8a7e216189db313673a0ff "pdflatex"
-  "machine-consciousness.bbl" 1789147405.86065 40056 7f65fcbf05acb5bebe145e72f3de74fb "bibtex machine-consciousness"
-  "machine-consciousness.gls" 1789147403.69583 2344 490e2f85af48cba95e211376734686e0 "cusdep glo gls machine-consciousness"
-  "machine-consciousness.out" 1789147406.76265 39912 70bdd7290c6c2b78c49cda09d28024f9 "pdflatex"
-  "machine-consciousness.tex" 1789147382.4815 281846 ce7e9eafe4646a1ab905becc275fd70f ""
-  "machine-consciousness.toc" 1789147406.76265 13948 b35d80f2f3ae8b5b1c1072736f31741c "pdflatex"
+  "machine-consciousness.aux" 1789322375.3552 29227 e0ead7f5e45239aa924cfe589efcbb0b "pdflatex"
+  "machine-consciousness.bbl" 1789322374.43821 41032 36033d4f5f061ea0db54f99cc71de0fc "bibtex machine-consciousness"
+  "machine-consciousness.gls" 1789322373.11105 2344 490e2f85af48cba95e211376734686e0 "cusdep glo gls machine-consciousness"
+  "machine-consciousness.out" 1789322375.3572 39912 70bdd7290c6c2b78c49cda09d28024f9 "pdflatex"
+  "machine-consciousness.tex" 1789322286.30248 287492 8ce4008c123de11ba9a7a987ad5d4621 ""
+  "machine-consciousness.toc" 1789322375.3572 13948 e287dabbf41654e984f693b249256572 "pdflatex"
   (generated)
   "machine-consciousness.aux"
   "machine-consciousness.glo"

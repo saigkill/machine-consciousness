@@ -70,6 +70,17 @@ Bei jeder Ergänzung des Konzepts gilt:
 
 Ziel: Konzept und Quellenliste bleiben immer synchron. Kein Verweis im Text ohne Eintrag im Anhang.
 
+## Quellen-Verifikation
+
+Bevor eine Quelle in den Text einfließt, muss ihr Volltext lokal vorliegen und im Rahmen der Bearbeitung durchgelesen bzw. gezielt durchsucht werden. Für jede dem Werk zugeschriebene Position gilt:
+
+1. Die Zuschreibung muss sich direkt aus dem Volltext belegen lassen (wörtliches Zitat oder eindeutige Passage)
+2. Zuschreibungen aus allgemeinem Modellwissen sind unzulässig — bei Unsicherheit nicht raten, sondern den Volltext prüfen
+3. Wo Zweifel bestehen, wird die Aussage als offene Frage markiert statt als Fakt formuliert
+4. In `research/sources.md` wird unter dem Eintrag ein Verifikationsvermerk ergänzt (z.B. "Verifiziert gegen Volltext am …")
+
+Ziel: Niemals Positionen einer Quelle zuschreiben, die dort nicht stehen. Faktische Aussagen über Quellen entstehen nur aus gelesenem Text, nie aus Annahmen.
+
 ## Preprint-Audit
 
 Bei jeder Änderung an `research/sources.md` oder den `.bib`-Dateien:

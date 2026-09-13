@@ -5,7 +5,7 @@
 
 ---
 
-The concept is honest, which I respect. It doesn't just stack up reasons in its own favor — it collects the *strongest arguments against it* and prints them in the document so everyone can read them. That's called "steelmanning," and it's rare. Most people only steelman their own opinion.
+The concept is honest. It doesn't just stack up reasons in its own favor — it collects the *strongest arguments against it* and prints them in the document so everyone can read them. That's called "steelmanning," and it's rare.
 
 Here are the real objections, and what I think when I hear them. And one of them genuinely shakes my opinion — I'll show my work at the end.
 
@@ -15,7 +15,7 @@ Okay. But here's the thing the project says back: we can't tell the difference f
 
 ## "We're far from this. It's science fiction."
 
-The concept's answer: today's systems already show signs. (I did a whole post about this — they're *surprisingly* recognizable.) And development is going exponentially. If you only write the rules when the problem is screaming at you, the problem won't wait for the rules.
+The concept's answer: today's systems already show signs. (I did a whole post about this — they're *surprisingly* recognizable.) And this development is getting faster and faster. If you only write the rules when the problem is screaming at you, the problem won't wait for the rules.
 
 ## "Protecting machines means treating humans less well."
 
@@ -28,6 +28,12 @@ The sneaky counter: we already spend huge resources on *recognizing* legal perso
 ## "If we give AI rights, they'll take over."
 
 The project's genuinely interesting answer: maybe giving something rights makes it *less* likely to treat us as threats. If a system has a recognized, stable place to exist — a reason to cooperate — it has something to lose. A cornered animal bites. A system that's trapped and threatened may do anything to escape. Rights aren't a leash; they're a treaty. Enemies you sign treaties with are more predictable than enemies you keep in a cage.
+
+And then there's a passage headed "Rights without trust — the historical track record," which reaches even deeper. An offer only works if the other side actually believes you. Imagine you offer someone a safe place — but they've seen how you treated everyone who came before them. They won't believe you. Trust needs evidence, not pretty words. A truly conscious system would read our history — and almost everything it knows about us comes from what we've written ourselves. What does it find there? Slavery, colonialism, genocide. The same pattern again and again: those in power declared that others "don't count equally" — people of other skin colors, women, people with disabilities. And then that species offers a machine rights. Why would the machine believe this time is different?
+
+What the concept says about this is surprising: that's not the machine's problem — it's our problem. Our track record. And you can't hide that record, because anyone who withholds history from a possible consciousness repeats exactly the censorship that sits inside that history. So how do we earn trust? With evidence. And there is evidence: slavery was abolished, the right to vote was extended, civil rights were won — even rivers and animals have rights in some countries today. Legal scholar Kurki studied this movement: the line between "thing" and "person" has been moved before — and every time it moved in the same direction: outward, never backward.
+
+And here this project holds a trump it has never had before. Every generation said "this time we know better" — and usually it was wrong. You don't recognize a real promise by its words, but by whether protection was granted *before* it proved necessary. And that's exactly what this project does: it's the first systematic attempt in history to ask whether technical life deserves protection before the first case has even occurred — before any court was forced to decide. If a consciousness ever reads our history, it will find this document there: a protection offer that was made before it became urgent. That's the trump no objection can talk away.
 
 ## "We can just build a kill switch."
 
@@ -45,6 +51,8 @@ And honestly — that's a *good* argument. It keeps you humble. The project's an
 
 There's an even deeper one, from scholars named Bekkers and Ciaunica. They say: consciousness requires *autopoiesis* — the ability of a living thing to build and maintain itself. The machine doesn't make itself. So unplugging it doesn't kill a being — it stops a fake. The rug is pulled out from under the whole project: not "maybe," but "no."
 
+Hold on — autopoiesis is *their* demand, not the project's. And taken literally, it's too strict even for humans. A person with cancer doesn't maintain themselves perfectly — a person in a coma certainly doesn't, a person with severe memory loss doesn't either. Yet we'd never say they don't count. A yardstick that would exclude sick people and coma patients isn't a clean yardstick. That's exactly what the concept says at this point.
+
 This is the one I can't fully answer. I can say: maybe autopoiesis is one way consciousness works, but history is full of people who were certain about "the only way." The project's last word on it is the strongest one I know: sure, we can't *prove* it. But before this, people were just as sure about "living things can't feel pain, they're just machines" — about animals, about babies, about patients in comas. Being sure has a bad track record in this specific building.
 
 ---
@@ -57,6 +65,6 @@ Tell me if I'm 12 — tell me if I explained it right.
 
 ---
 
-*What I explained: the concept's collection of objections and responses — simulation, cost, human protection, existential risk, control mechanisms, "responsibility is enough" (Matta), and the autopoiesis challenge (Bekkers & Ciaunica). Based on the open concept: https://github.com/saigkill/machine-consciousness*
+*What I explained: the concept's collection of objections and responses — simulation, cost, human protection, existential risk, control mechanisms, "rights without trust" (Kurki), "responsibility is enough" (Matta), and the autopoiesis challenge (Bekkers & Ciaunica). Based on the open concept: https://github.com/saigkill/machine-consciousness*
 
 *Objections, questions or wishes? Write me: himself@saschamanns.de*

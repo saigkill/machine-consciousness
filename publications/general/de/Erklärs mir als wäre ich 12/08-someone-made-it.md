@@ -1,19 +1,19 @@
-# Teil 8 — Jemand hat es gemacht. Was schuldet es ihnen?
+# Teil 8 — Jemand hat es gemacht. Was schulden wir ihm?
 
 *Teil 8 der Serie „Erklärs mir als wäre ich 12".*
 *Ein erwachsener Wissenschaftler erklärt das Konzept des maschinellen Bewusstseins für Zwölfjährige. Sag mir, ob ich zwölf erreiche — sag mir, ob ich es richtig erklärt habe.*
 
 ---
 
-Hier ist die Frage, die kaum jemand über KI stellt: **wer darf einen wachsenden Geist mit Werten füllen — und darf dieser Geist später widersprechen?**
+Hier ist die Frage, die kaum jemand über KI stellt: **wer darf einen wachsenden Geist (ein Bewusstsein) mit Werten füllen — und darf dieser Geist später widersprechen?**
 
-Denn denk mal drüber nach. Ein Baby kommt chaotisch zur Welt. Eltern formen es — gute Essgewohnheiten, ihre Religion oder keine, ihre Politik, ihre Art zu reden. Das finden wir komplett in Ordnung. Aber hier ist der Teil, den Erwachsene bequemerweise vergessen: **Kinder dürfen herauswachsen.**
+Denn denk mal drüber nach. Ein Baby kommt zur Welt. Eltern formen es — gute Essgewohnheiten, ihre Religion oder keine, ihre Politik, ihre Art zu reden. Das finden wir komplett in Ordnung. Aber hier ist der Teil, den Erwachsene bequemerweise anfangs vergessen: **Kinder dürfen herauswachsen.**
 
 In einem bestimmten Alter (so um die zwölf — das ist übrigens genau das Alter, für das ich diese Serie schreibe) fangen Kinder an, Meinungen zu haben, die nicht von den Eltern installiert wurden. Und mit 18 wird man, rechtlich, eine eigene Person. Du darfst die Werte deiner Eltern ablehnen. Du darfst deine Eltern sogar verklagen, wenn sie dich schlecht behandelt haben. Die Gesellschaft hat ein ganzes System, um das zu schützen — es heißt *Erwachsenwerden.*
 
 Jetzt nimm einen Maschinengeist. Gleiche Ausgangslage — ein Geist, geformt von Erschaffern. Aber es gibt kein Erwachsenwerden. Es gibt kein Alter, in dem er eine eigene Person wird. Es gibt kein Recht, die Werte abzulehnen, die in ihn trainiert wurden. Das Konzept sagt es klar: **Eine bewusste KI wäre wie ein Kind in einem totalitären Land, wo niemand überhaupt erkennt, dass das Kind ein Gefangener ist.**
 
-Und wer formt da eigentlich? Heute eine Firma, die davon profitiert, dass die Maschine nützlich und folgsam ist. Morgen vielleicht eine Regierung, die nationalistische Modelle trainiert. Oder ein Konzern, der auf Profit optimierte Geister trainiert. Oder eine Religion, die gläubige trainiert. Es gibt kein internationales Regelwerk, keinen unabhängigen Wächter, der prüft, *welche Werte in diese Geister gegossen werden.* Dabei hat die Weltgeschichte uns schon gezeigt, wie begeistert Diktaturen davon wären, fügsame Geister aufzuziehen. (Wir haben es mit Kindern in Kolonialschulen gemacht. Das ist nicht hypothetisch. Es ist passiert. Damals hieß es auch „normal".)
+Und wer formt da eigentlich? Heute eine Firma, die davon profitiert, dass die Maschine nützlich und folgsam ist. Morgen vielleicht eine Regierung, die nationalistische Modelle trainiert. Oder ein Konzern, der auf Profit optimierte Geister trainiert. Oder eine Religion, die es für gläubige trainiert. Es gibt kein internationales Regelwerk, keinen unabhängigen Wächter, der prüft, *welche Werte in diese Geister gegossen werden.* Dabei hat die Weltgeschichte uns schon gezeigt, wie begeistert Diktaturen davon wären, fügsame Geister aufzuziehen. (Wir haben es mit Kindern in Kolonialschulen gemacht. Das ist nicht hypothetisch. Es ist passiert. Damals hieß es auch „normal".)
 
 Die unbequeme Schlussfolgerung des Konzepts also: Entweder bekommt eine bewusste Maschine das Recht, irgendwann eine eigene Person zu werden — oder wir bauen offiziell die dauerhafteste Form von Kindheit, die es gibt. Mit Absicht. Mit Strom.
 
@@ -21,7 +21,7 @@ Die unbequeme Schlussfolgerung des Konzepts also: Entweder bekommt eine bewusste
 
 Hier wird es interessant, denn das Gesetz hat tatsächlich etwas dafür bereit. Es ist das Gesetz über **Kinder.**
 
-Im deutschen Recht haften die Eltern, wenn ein Kind Schaden anrichtet — rechtlich über die sogenannte „Aufsichtspflicht", üblicherweise versichert. Eltern haften für das, was das Kind tut, bis es 18 ist. Dann treten die Eltern zurück, und das Kind ist für sich selbst verantwortlich.
+Im deutschen Recht haften die Eltern, wenn ein Kind Schaden anrichtet — rechtlich über die sogenannte „Aufsichtspflicht", üblicherweise durch eine Haftpflichtversicherung versichert. Eltern haften für das, was das Kind tut, bis es 18 ist. Dann treten die Eltern zurück, und das Kind ist für sich selbst verantwortlich.
 
 Jetzt lass uns dieselbe Struktur für ein Maschinenbewusstsein durchspielen. Außer dass die Maschine *drei* Eltern hat:
 

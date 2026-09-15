@@ -25,10 +25,7 @@ Existing AI ethics initiatives focus primarily on protecting humans *from* AI. P
 
 ## Planned Next Steps
 
-- Consolidate notes and open questions (done)
-- Develop concept paper (done)
-- Publication in academic journals (currently in submisson by "KI-Künstliche Intelligenz" und ACM AILET)
-- Invite Anthropic as institutional partner
+See Roadmap: https://github.com/saigkill/machine-consciousness/blob/main/roadmap/roadmap.md
 
 ## Repository Structure
 
@@ -60,7 +57,10 @@ Project owners ORCID is: 0009-0000-8766-3947.
 ## Contributing
 
 Objections, questions and additions are welcome as issues or directly in `discussion/`.
+As Alternative you can use https://github.com/saigkill/machine-consciousness/discussions
 
 ## License
 
 This work is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+The project logo (machine-consciousnes-logo.png) is Public Domain from https://www.publicdomainpictures.net/de/view-image.php?image=560448&picture=netter-und-freundlicher-roboter Creator: Rostislav Kralik

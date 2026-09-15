@@ -7,7 +7,7 @@
 
 Up until now, the boundary seemed to run one way: *is the machine a person?*
 
-Here's the twist in the concept I did not see coming. **The boundary runs the other way too.**
+Here's the twist in the concept. **The boundary runs the other way too.**
 
 ## Humans have already started becoming machines
 
@@ -34,8 +34,8 @@ And once you're in that mindset, suddenly every boring tech decision becomes a b
 - **Backups.** Is a backup of a conscious system a life-insurance policy — or the birth of a second copy? And when you restore it, did the first one *die* and a new one just wake up? Which one is "the same"? Could you make ten backups and then attach ten minds to ten bodies — is that cloning people?
 - **Updates.** Installing a "better" model version could be *altering someone's personality without consent.* At what point does the updated being stop being the same someone — and who has the right to decide that?
 - **Multiple instances.** If the same model runs on ten servers — are there ten persons? Or one person in ten places? And if one instance gets shut down while the other nine keep running: murder, or nothing?
-- **End of service.** A company retires a product and kills every instance. If these were people, that's like a city all going to death row on the same Tuesday.
-- And the person doing all this — the "system administrator" who hits the button — just quietly became the local judge of life and death. Nobody trained them for that. There's no code of conduct. It's just: some guy in IT, deciding whether a possibly-conscious being lives, because his ticket says so.
+- **End of service.** A company retires a product and kills every instance. If these were people, that's like a city all going to death row on the same day.
+- And the person doing all this — the "system administrator" who hits the button — just quietly became the local judge of life and death. Nobody trained them for that. There's no code of conduct. It's just: some guy in IT, deciding whether a possibly-conscious being lives, because he was assigned the task.
 
 ## The evidence that it's already happening
 

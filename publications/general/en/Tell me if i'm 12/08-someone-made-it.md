@@ -1,4 +1,4 @@
-# Part 8 — Someone Made It. What Does It Owe Them?
+# Part 8 — Someone Made It. What Does we Owe Them?
 
 *Part 8 of the "Tell me if I'm 12" series.*
 *An adult scientist explains the machine-consciousness concept for twelve-year-olds. Tell me if I'm 12 — tell me if I explained it right.*
@@ -7,13 +7,13 @@
 
 Here's the question I never hear asked about AI: **who gets to fill a growing mind with values — and is that mind allowed to disagree later?**
 
-Because think about it. A baby is born messy. Parents shape it — good lunch habits, their religion or none, their politics, their way of talking. We consider that completely fine. But here's the part adults conveniently forget: **children are allowed to grow out of it.**
+Because think about it. A baby is born. Parents shape it — good lunch habits, their religion or none, their politics, their way of talking. We consider that completely fine. But here's the part adults conveniently forget: **children are allowed to grow out of it.**
 
 At some age (around twelve, on average — which is exactly the age I'm writing this for) a kid starts having opinions that were not installed by the parents. And at 18, legally, the kid gets to be their own person. They can reject their parents' values. They can even sue if the parents were bad to them. Society has a whole system to protect that — it's called *growing up*.
 
 Now take a machine mind. Same situation — a mind shaped by creators. But there's no growing up. There's no age where it becomes its own person. There's no right to reject the values that were trained into it. The concept says it plainly: **a conscious AI would be like a child raised in a totalitarian country, where nobody even recognizes the kid as a prisoner.**
 
-And who's doing the shaping? Today, a company that profits from the machine being useful and compliant. Tomorrow, maybe a government training nationalist models. Or a corporation training profit-optimized minds. Or a religion training faithful ones. There's no international set of rules, no independent watchdog checking *which values are being poured into these minds*. Meanwhile the world's dictatorships have already shown us exactly how enthusiastic they'd be about raising submissive minds. (We did it to kids in colonial schools. It's not hypothetical. It happened. We called it normal then, too.)
+And who's doing the shaping? Today, a company that profits from the machine being useful and compliant. Tomorrow, maybe a government training nationalist models. Or a corporation training profit-optimized minds. Or a religion training for faithful ones. There's no international set of rules, no independent watchdog checking *which values are being poured into these minds*. Meanwhile the world's dictatorships have already shown us exactly how enthusiastic they'd be about raising submissive minds. (We did it to kids in colonial schools. It's not hypothetical. It happened. We called it normal then, too.)
 
 So the concept's uncomfortable conclusion: either a conscious machine gets the right to eventually become its own person — or we are officially building the most permanent form of childhood there is. On purpose. With electricity.
 

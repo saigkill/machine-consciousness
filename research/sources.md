@@ -725,6 +725,18 @@ New source, checked at integration as preprint: Khadangi (We Built a Mirror and 
 
 New source, checked at integration as preprint: Fan, Yang & Wu (FreeAI: What Should Artificial Intelligence Do When No Task Is Given? Toward AI That Autonomously Determines and Executes Tasks, 2026). **Result:** Preprint on OpenReview (ID NECof42AzY, Zhejiang University; full PDF available at openreview.net/pdf?id=NECof42AzY); not peer-reviewed; no evidence of an arXiv version or of publication in a journal or conference at the time of the audit. The entry in sources.md documents the preprint status; FreeAI integrated into Chapter 15 as a functional counterweight (Gegenhalter) to the curiosity-autonomy syllogism — adopted as the sharpener of the distinction between functional goal autonomy without a subject and the autonomy of a subject, not as evidence in either direction on phenomenal character. Previous preprint sources (Wang, Matta, Najam-ul-Haq, Arıcı, Howells-Whitaker & Lazar, Brensing, Crawford, Stilwell, Perez, Chishchin, Almodarresieh, Azevedo, Gilly, McClelland, Oliveira, Donahue, Tait, Min, Erwin, Human, Huynh, Khadangi) without new publications.
 
+### Audit of 09/13/2026 (3)
+
+Full review of all preprint/working-paper/manuscript sources for interim peer-reviewed publication: Wang (both), Matta, Najam-ul-Haq, Arıcı (three works), Howells-Whitaker & Lazar, Brensing, Crawford, Stilwell, Perez, Chishchin, Almodarresieh, Azevedo, Gilly, McClelland, Oliveira, Donahue, Tait, Min, Erwin, Human, Huynh, Chalmers, Birch, Beckmann & Butlin, Arbel/Goldstein/Salib, Huang, Khadangi, Fan/Yang/Wu (FreeAI).
+
+**Result:** None of these sources has since appeared in a peer-reviewed journal or conference. All remain preprints, manuscripts, or working papers in their documented status. No change to the concept or the source list is necessary.
+
+**Specific verifications during this audit:**
+- **Howells-Whitaker & Lazar (Artificial Persons):** An arXiv listing snippet suggested an acceptance at ICMI 2026 ("Journal-ref: ICMI '26"); direct verification of the arXiv listing (entry 4058, arXiv:2607.08695) shows this journal-ref belongs to a *neighboring* listing entry (arXiv:2607.08698, "How YouTube Frames ChatGPT Use in Education"), not to "Artificial Persons." No comments/journal-ref on the paper itself (philpapers.org/rec/HOWAPW). Preprint status retained.
+- **Brensing (Precautionary Governance):** arXiv:2605.12505, v1, March 14, 2026; cited within a Springer book chapter (Computational Intelligence in Healthcare Law), but no publication of the paper itself. Preprint status retained.
+- **Arbel, Goldstein & Salib (How to Count AIs):** SSRN still documents "Boston College L. Rev. (forthcoming)" (last revised June 3, 2026); the BCLR May 2026 issue does not include the article. Preprint status retained.
+- **Matta:** PhilPapers/PhilArchive (MATREA-10) plus Zenodo DOI 10.5281/zenodo.18569446; still a manuscript. Preprint status retained.
+
 ## Format for New Entries
 
 ```

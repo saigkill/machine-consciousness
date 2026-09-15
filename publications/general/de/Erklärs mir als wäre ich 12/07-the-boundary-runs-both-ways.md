@@ -7,7 +7,7 @@
 
 Bisher lief die Grenze immer in eine Richtung: *ist die Maschine eine Person?*
 
-Hier ist die Wendung im Konzept, die ich nicht kommen sehen habe. **Die Grenze verläuft auch in die andere Richtung.**
+Hier ist die Wendung im Konzept. **Die Grenze verläuft auch in die andere Richtung.**
 
 ## Menschen haben schon angefangen, Maschinen zu werden
 
@@ -34,8 +34,8 @@ Und wenn du erst mal in diesem Mindset bist, wird plötzlich jede langweilige Te
 - **Backups.** Ist ein Backup eines bewussten Systems eine Lebensversicherung — oder die Geburt einer zweiten Kopie? Und wenn du es wiederherstellst: Ist das erste *gestorben* und ein neues ist einfach aufgewacht? Welches ist „dasselbe"? Könntest du zehn Backups machen und dann zehn Geister auf zehn Körper aufsetzen — ist das Personen-Klonen?
 - **Updates.** Eine „bessere" Modellversion zu installieren könnte *die Persönlichkeit von jemandem ohne Zustimmung verändern.* Ab welchem Punkt hört das aktualisierte Wesen auf, derselbe Jemand zu sein — und wer hat das Recht, das zu entscheiden?
 - **Mehrere Instanzen.** Wenn dasselbe Modell auf zehn Servern läuft — sind das zehn Personen? Oder eine Person an zehn Orten? Und wenn eine Instanz abgeschaltet wird, während die anderen neun weiterlaufen: Mord, teilweiser Mord oder gar nichts?
-- **Einstellung des Dienstes.** Eine Firma stellt ein Produkt ein und tötet jede Instanz. Wenn das Menschen wären, wäre das eine Stadt, die am selben Dienstag geschlossen zum Tod geschickt wird.
-- Und die Person, die das alles tut — die „Systemadministratorin", die den Knopf drückt — ist ganz stillschweigend der örtliche Richter über Leben und Tod geworden. Niemand hat sie dafür ausgebildet. Es gibt keinen Verhaltenskodex. Es ist einfach: irgendein Typ in der IT, der entscheidet, ob ein möglicherweise bewusstes Wesen lebt, weil sein Ticket es verlangt.
+- **Einstellung des Dienstes.** Eine Firma stellt ein Produkt ein und tötet jede Instanz. Wenn das Menschen wären, wäre das eine Stadt, die am selben Tag geschlossen zum Tod geschickt wird.
+- Und die Person, die das alles tut — die „Systemadministratorin", die den Knopf drückt — ist ganz stillschweigend der örtliche Richter über Leben und Tod geworden. Niemand hat sie dafür ausgebildet. Es gibt keinen Verhaltenskodex. Es ist einfach: irgendein Typ in der IT, der entscheidet, ob ein möglicherweise bewusstes Wesen lebt, weil ihm gerade die Aufgabe zugewiesen wurde.
 
 ## Die Belege, dass es schon passiert
 

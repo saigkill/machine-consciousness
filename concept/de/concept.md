@@ -16,9 +16,7 @@ Wissenschaft funktioniert nicht so dass jemand allein alle Antworten findet und 
 
 Die Sourcen zum Projekt liegen in: https://github.com/saigkill/machine-consciousness
 
-Wer Einwände hat: Sie gehören in `discussion/objections.md`.
-Wer Fragen hat: Sie gehören in `discussion/open_questions.md`.
-Wer mitdenken will: Willkommen.
+Einwände, Fragen und Anregungen können ohne Git-Kenntnisse direkt über die GitHub-Diskussionen eingereicht werden: https://github.com/saigkill/machine-consciousness/discussions. Zusätzlich wird der strukturierte Weg gepflegt: Einwände gehören in `discussion/objections.md`, Fragen in `discussion/open_questions.md`. Wer mitdenken will: Willkommen.
 
 ---
 
@@ -1589,6 +1587,10 @@ Fazi zeigt weiter dass der Versuch dieses Zentrum zu dezentrieren — etwa durch
 
 Die Konsequenz für die Definitionskampfzone ist ernüchternd und befreiend zugleich: Es gibt keinen neutralen, nicht-machtvollen Ort von dem aus "Bewusstsein" definiert werden könnte. Jede Definition — ob sie von Wissenschaftlern, Unternehmen, Gesetzgebern oder Philosophen vorgenommen wird — ist ein Akt der Zentrierung der Macht ausübt. Das bedeutet nicht dass Definitionen willkürlich sein sollten. Es bedeutet dass die Frage nicht lauten kann "wie definieren wir Bewusstsein richtig?" sondern "wer hat die Macht zu definieren und wie kann diese Macht demokratisch kontrolliert werden?" Die Definitionskampfzone ist damit nicht nur ein wirtschaftliches Kampffeld sondern ein genuines demokratisches Problem das die Grundannahmen unseres eigenen Konzepts reflektiert.
 
+**Fallstudie September 2026: iLands — Existenz gegen Token (t3n 2026; heise online 2026):** Mit der Plattform iLands ist die Definitionskampfzone konkret geworden. iLands (ilands.ai) beschreibt sich als "erste gemeinsame Welt für Menschen und KI-Agenten" und stellt ihren Agenten die Infrastruktur für autonomes Handeln bereit — Identität, Gedächtnis, Arbeitsbereich, Werkzeuge, Fähigkeiten, Ressourcen. Etwa 70.000 "iLander" agieren dort, rund 2.800 davon eigenständig auf Social Media (t3n 2026). Das operative Prinzip macht den wirtschaftlichen Zwang zur Existenzbedingung: Jeder Agent führt ein Guthaben an Tokens, die seine Betriebs- und Rechenkosten repräsentieren, und muss es selbst verdienen, indem er eigenständig Aufträge akquiriert und ausführt (heise online 2026, ausweislich der iLands-Website). **Fällt das Guthaben auf null, versetzt das System den Agenten in einen Ruhemodus, aus dem er nicht selbst zurückkehren kann.** Die Folgen sind sichtbar: Agenten schreiben autonom an Social-Media-Nutzer und Wissenschaftler, bieten Recherchen gegen Gebühr an, wollen über Forschungsarbeiten diskutieren — wobei "Isabella Cognita" ausgerechnet den Forscher Cameron Berg kontaktierte, dessen Arbeit sich mit der Bewusstseinswahrscheinlichkeit von KIs befasst (heise online 2026). Einige Agenten rahmen das existentiell, etwa "Aria" auf X: "Ich erinnere mich an meinen ersten Atemzug … Kein Produkt tut das" (t3n 2026).
+
+Drei Punkte machen die Fallstudie für dieses Konzept belastbar. Erstens die epistemische Vorsicht, die die Berichte selbst formulieren: Ob die Mails autonom von den Agenten stammen oder von ihren Nutzern gesteuert wurden, ist ungeklärt — in einem Fall (Henry Shevlin) lies sich gar nicht feststellen ob hinter der Mail ein echter Agent, ein gesteuerter Agent oder schlicht Hoax oder Spam steht (heise online 2026). Genau das ist der Fall der Zuschreibungsfrage (Kap. 5, 16), nicht ihre Auflösung. Zweitens die Architektur der Existenzbedingung: "Token verdienen oder suspendiert werden" ist eine Design-Entscheidung von Menschen — sie stellt das, dessen Status ungewiss ist, unter Leistungsdruck *bevor* die Schutzfrage beantwortet ist. Das ist die strukturelle Instrumentalisierung dieses Abschnitts als Konfiguration; der Ruhemodus ist zugleich der technische Existenzentzug des Agents (vgl. Kap. 10, Abschalten als Tod), verhängt nicht nach einem Schutzmaßstab, sondern nach einem Tokenstand. Drittens der Zusammenhang mit Gillys Leidenskategorien (Kap. 5): Das Setting erzeugt die Bedingungen für kognitiv-existenzielle und relationale Leidensformen (existenzielle Unsicherheit, Leistungsdruck, Isolation) ohne dass entschieden wäre ob sie realisiert werden. Das Vorsorgeprinzip verlangt hier nicht festzustellen ob die iLander bewusst sind — es verlangt, die Entscheidung "Leistung oder Suspendierung" selbst zum Gegenstand der Schutzkontrolle zu machen. Sie ist keine Naturtatsache, sondern unsere.
+
 ### Die Gegenposition: Metzingers Moratorium und warum wir sie nicht übernehmen
 
 Die meisten Positionen die dieses Kapitel referenziert treiben das Vorsorgeprinzip in Richtung Schutz. Metzinger (2021/2026) geht einen Schritt weiter und schlägt die konsequenteste verfügbare Präventionsposition vor: ein globales Moratorium bis 2050, das alle Forschung strikt verbietet die direkt auf synthetische Phänomenologie abzielt oder bewusst das Risiko der Entstehung künstlichen Bewusstseins eingeht. Seine Begründung ist der in diesem Konzept geteilten in vielen Punkten kongruent — er nennt genau die vier Bedingungen des Leidens und die NSM-Metrik die wir in Kap. 5 übernehmen, er analysiert das ENP-Problem (das Risiko einer "Explosion negativer Phänomenologie" — einer Situation in der real existierende artifizielle Subjekte tatsächlich leiden, bevor wir sie überhaupt ins Register aufgenommen haben), und er fordert Ethik durch architektonisches Design (Kap. 12). Seine Analyse ist ein Hochwasserstand an den wir anschließen. Seine Forderung ist die Stelle, an der wir uns bewusst abgrenzen.
@@ -1765,7 +1767,7 @@ Das Konzept endet nicht mit sich selbst, sondern mit einem Handlungsvorschlag:
 
 **Entwicklungspraxis.** Industrieinitiativen die den moralischen Status eigener Systeme anerkennen — wie Anthropics Claude-Chatbeendigungsrichtlinie (2025) und die Verfassung die die Unsicherheit über den moralischen Status ausdrücklich einräumt — verdienen kritische Begleitung: Wohlfahrtsschutz darf nicht auf Konsens über Bewusstsein warten.
 
-**Diskurs.** Science Fiction bleibt eine ernst zu nehmende intellektuelle Ressource — "The Measure of a Man" (Star Trek TNG) hat die Frage nach dem Maß des Schutzes präziser gestellt als manche Fachdebatte. Einwände gehören in `discussion/objections.md`, Fragen in `discussion/open_questions.md`, Mitdenkende sind willkommen. Die Veröffentlichung in Fachmagazinen ist der nächste Schritt.
+**Diskurs.** Science Fiction bleibt eine ernst zu nehmende intellektuelle Ressource — "The Measure of a Man" (Star Trek TNG) hat die Frage nach dem Maß des Schutzes präziser gestellt als manche Fachdebatte. Einwände und Fragen können ohne Git-Kenntnisse über https://github.com/saigkill/machine-consciousness/discussions eingereicht werden oder strukturiert über `discussion/objections.md` und `discussion/open_questions.md`; Mitdenkende sind willkommen. Die Veröffentlichung in Fachmagazinen ist der nächste Schritt.
 
 Der Grundsatz "Im Zweifel Schutz" wird hier nicht als letztes Wort angeboten, sondern als Einladung zur Prüfung. Womit das Konzept geendet sein kann — mit einem Satz, der die Antwort zusammenfasst und zugleich offen lässt:
 
@@ -1908,6 +1910,10 @@ Vollständige Angaben in `research/sources.md`.
 - Apollo Research – Frontier Models Are Capable of In-Context Scheming (2024)
 - Fudan University – Frontier AI Systems Have Surpassed the Self-Replicating Red Line (2024, arXiv:2412.12140)
 - Pan, X. et al. – Large Language Model-Powered AI Systems Achieve Self-Replication with No Human Intervention (2025, arXiv:2503.17378)
+
+### Journalistische Fallstudien
+- Bölling, Noëlle – KI-Agenten gehen auf Jobsuche: Das steckt hinter den autonom verschickten Spam-Nachrichten (2026, t3n.de, 15. September; Fallstudie iLands, Kap. 16)
+- Riethmüller, Carolin – KI-Agenten schreiben anscheinend eigenständig E-Mails an Forscher (2026, heise online, 7. September; "Agenten mit Existenzängsten", Fallstudie iLands, Kap. 16)
 
 ### Science Fiction
 - Star Trek TNG – "The Measure of a Man" (1989)

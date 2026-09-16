@@ -60,6 +60,14 @@ A central quality feature of this project is the **systematic inclusion of oppos
 
 **Justification:** Opposing positions are not ignored but used as learning opportunities. Engaging with critical objections strengthens one's own argumentation and makes the concept more resilient.
 
+### 2.5 Targeted Critique Requests from Source Authors
+
+Beyond the passive inclusion of opposing positions (Section 2.4), criticism is actively solicited from the authors whose work is most deeply embedded in the concept. Authors with the strongest chapter-level connection to the concept are approached with one concrete, answerable question per request — with the explicit goal of their strongest objections rather than endorsement ("criticism instead of agreement").
+
+The contact proceeds in sequential waves: deeply embedded constructive voices first, explicit critical voices second, and prominent names only after own publications. Lessons learned between the waves inform the next wave. The operative contact strategy — prioritization criteria, tiers, and prepared mail drafts — is documented in `communications/Connections/connections.md`.
+
+This pass turns the documented limitations of an iterative approach (cherry-picking, confirmation bias) into a procedure: objections are not only discovered but demanded.
+
 ## 3. Quality Control
 
 ### 3.1 Triangulation
@@ -79,12 +87,16 @@ Three manuscripts are currently under review:
 
 Feedback from these review processes will feed into future versions of the concept.
 
+### 3.4 Expert Feedback
+
+The systematic critique requests to source authors (Section 2.5) function as an external quality check: the authors best able to assess the correctness of their own positions as represented in the concept review that representation directly. Responses and their processing are documented in the discussion section of the repository (`discussion/`) and feed into the revision of the concept.
+
 ## 4. Limitations
 
 | Limitation | Justification | Countermeasure |
 |---|---|---|
 | No PRISMA-compliant review | Conceptual Analysis does not follow a standardized review protocol | Transparency about search terms and source selection |
-| No formal bias-detection protocol | Iterative approach makes standardized bias testing difficult | Deliberate inclusion of contrary evidence; documentation in the discussion section |
+| No formal bias-detection protocol | Iterative approach makes standardized bias testing difficult | Deliberate inclusion of contrary evidence; active solicitation of criticism from source authors (Section 2.5); documentation in the discussion section |
 | Reproducibility | New findings change the research question → reproduction is difficult | Full documentation of all changes in the changelog |
 | Update pressure | The field develops quickly; references can become outdated | Ongoing alerts, preprint audit (see AGENTS.md) |
 
@@ -112,6 +124,11 @@ For the grant application and further research, the following consolidations of 
 4. **Structured documentation of opposing positions:**
    - For every main idea: name and document at least one opposing position
    - Use the four-outcome framework (Stilwell 2026) as an epistemic basis
+
+5. **Active solicitation of critique:**
+   - Contact authors of deeply embedded sources with one concrete question per request (criticism instead of endorsement)
+   - Sequential waves with learning loops between waves — operative list in `communications/Connections/connections.md`
+   - Document responses and their processing in `discussion/answers.md`
 
 ---
 

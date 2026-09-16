@@ -63,6 +63,7 @@ DOI: [10.5281/zenodo.21453666](https://doi.org/10.5281/zenodo.21453666)
 **Ways to contribute:**
 - **Raise an objection** — The project maintains a structured objection catalog (`discussion/objections.md`). Every serious objection is addressed and integrated.
 - **Ask an open question** — If something is unclear or underexplored (`discussion/open_questions.md`).
+- **No Git?** — Without technical knowledge, objections and questions can be submitted via GitHub Discussions: https://github.com/saigkill/machine-consciousness/discussions
 - **Suggest a source** — Particularly welcome: interdisciplinary work bridging consciousness studies, AI ethics, and legal theory.
 - **Bring expertise** — Especially: computer scientists, lawyers, psychologists, theologians/philosophers, and science fiction authors. SF authors have already worked through many scenarios without political pressure — that is a genuine intellectual resource.
 - **Just read and think** — Not everyone needs to contribute actively. Honest engagement with the argument is contribution enough.

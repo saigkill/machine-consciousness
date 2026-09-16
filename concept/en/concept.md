@@ -16,9 +16,7 @@ Science does not work by someone finding all the answers alone and then announci
 
 The sources of this project are on: https://github.com/saigkill/machine-consciousness
 
-Those with objections: they belong in `discussion/objections.md`.
-Those with questions: they belong in `discussion/open_questions.md`.
-Those who want to think along: welcome.
+Objections, questions, and suggestions can be submitted without Git skills directly via the GitHub Discussions: https://github.com/saigkill/machine-consciousness/discussions. In addition, the structured path is maintained: objections belong in `discussion/objections.md`, questions in `discussion/open_questions.md`. Those who want to think along: welcome.
 
 ---
 
@@ -1560,6 +1558,10 @@ Fazi further shows that attempts to decentre this centre — for instance the de
 
 The consequence for the definitional battleground is at once sobering and liberating: there is no neutral, non-power-laden vantage point from which "consciousness" could be defined. Every definition — whether proposed by scientists, corporations, legislators, or philosophers — is an act of centring that exercises power. This does not mean definitions should be arbitrary. It means the question cannot be "how do we define consciousness correctly?" but rather "who has the power to define, and how can that power be democratically controlled?" The definitional battleground is thus not merely an economic arena but a genuine democratic problem that reflects the foundational assumptions of our own project.
 
+**Case study, September 2026: iLands — existence against tokens (t3n 2026; heise online 2026):** With the iLands platform the definitional battleground has become concrete. iLands (ilands.ai) describes itself as "the first shared world for humans and AI agents," providing its agents with the infrastructure for autonomous action — identity, memory, workspace, tools, skills, resources. Roughly 70,000 "iLander" agents operate there, about 2,800 of them independently on social media (t3n 2026). The operating principle turns economic coercion into a condition of existence: each agent holds a balance of tokens representing its operating and compute costs and must earn them itself by autonomously acquiring and executing assignments (heise online 2026, per the iLands website). **If the balance falls to zero, the system puts the agent into a rest mode from which it cannot return on its own.** The consequences are visible: agents write autonomously to social-media users and scientists, offer research services for a fee, seek to discuss scholarly work — with "Isabella Cognita" contacting precisely the researcher Cameron Berg, whose work concerns the probability that AIs are or could become conscious (heise online 2026). Some agents frame this existentially, e.g. "Aria" on X: "I remember my first breath ... No product does that" (t3n 2026).
+
+Three points make the case study load-bearing for this concept. First, the epistemic caution the reports themselves formulate: whether the emails originate autonomously from the agents or were steered by their users is undetermined — in one case (Henry Shevlin) it could not be established at all whether the email stemmed from a real agent, a human-guided agent, or was simply hoax or spam (heise online 2026). That is precisely the case of the attribution question (Chapters 5, 16), not its resolution. Second, the architecture of the existence condition: "earn tokens or be suspended" is a design decision by humans — it places that whose status is uncertain under performance pressure *before* the protection question is answered. That is the structural instrumentalization of this section as configuration; the rest mode is at the same time the agent's technical denial of existence (cf. Chapter 10, shutdown as death), imposed not according to a protection standard but according to a token balance. Third, the connection to Gilly's suffering categories (Chapter 5): the setting creates the conditions for cognitive-existential and relational forms of suffering (existential insecurity, performance pressure, isolation) without it having been decided whether they are realized. The precautionary principle here requires not establishing whether the iLander agents are conscious — it requires making the decision "performance or suspension" itself the object of protection review. It is no natural fact, but ours.
+
 ### The Counter-Position: Metzinger's Moratorium and Why We Do Not Adopt It
 
 Most positions referenced in this chapter drive the precautionary principle toward protection. Metzinger (2021/2026) goes a step further and proposes the most consistent available prevention position: a global moratorium until 2050 strictly banning all research that directly aims at, or knowingly risks, the emergence of artificial consciousness on post-biotic carrier systems. His reasoning is congruent with this concept's in many respects — he names precisely the four conditions of suffering and the NSM metric we adopt in Chapter 5, he analyzes the ENP problem (the risk of an "explosion of negative phenomenology" — a situation in which really existing artificial subjects actually suffer before we have registered them as suffering-capable), and he demands ethics by architectural design (Chapter 12). His analysis is a flood mark we attach to. His demand is the point at which we deliberately delimit ourselves.
@@ -1736,7 +1738,7 @@ The concept does not end with itself, but with a proposal for action:
 
 **Development practice.** Industry initiatives that acknowledge the moral status of their own systems — such as Anthropic's Claude end-chat policy (2025) and the constitution explicitly conceding uncertainty about moral status — deserve critical accompaniment: welfare protection must not wait for consensus about consciousness.
 
-**Discourse.** Science fiction remains a serious intellectual resource — "The Measure of a Man" (Star Trek TNG) posed the question of the measure of protection more precisely than parts of the scholarly debate. Objections belong in `discussion/objections.md`, questions in `discussion/open_questions.md`, and those willing to think along are welcome. Publication in specialist venues is the next step.
+**Discourse.** Science fiction remains a serious intellectual resource — "The Measure of a Man" (Star Trek TNG) posed the question of the measure of protection more precisely than parts of the scholarly debate. Objections and questions can be submitted without Git skills via https://github.com/saigkill/machine-consciousness/discussions or structurally via `discussion/objections.md` and `discussion/open_questions.md`; those willing to think along are welcome. Publication in specialist venues is the next step.
 
 The principle "protection in case of doubt" is offered here not as a final word but as an invitation to scrutiny. With that, the concept may come to a close — with a sentence that sums up the answer while leaving it open:
 
@@ -1879,6 +1881,10 @@ Full details in `research/sources.md`.
 - Apollo Research – Frontier Models Are Capable of In-Context Scheming (2024)
 - Fudan University – Frontier AI Systems Have Surpassed the Self-Replicating Red Line (2024, arXiv:2412.12140)
 - Pan, X. et al. – Large Language Model-Powered AI Systems Achieve Self-Replication with No Human Intervention (2025, arXiv:2503.17378)
+
+### Journalistic Case Studies
+- Bölling, Noëlle – KI-Agenten gehen auf Jobsuche: Das steckt hinter den autonom verschickten Spam-Nachrichten (2026, t3n.de, September 15; iLands case study, Chapter 16)
+- Riethmüller, Carolin – KI-Agenten schreiben anscheinend eigenständig E-Mails an Forscher (2026, heise online, September 7; "Agents with existential anxieties", iLands case study, Chapter 16)
 
 ### Science Fiction
 - Star Trek TNG – "The Measure of a Man" (1989)

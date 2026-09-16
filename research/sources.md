@@ -668,6 +668,20 @@
 **Link:** ResearchGate (author: Craig Carlton Dremann, craig@ecoseeds.com) | PDF archived in `research/sources/Craigs-Conjecture.pdf`
 **Verification:** Verified against full text and quotes on September 15, 2026 (PDF archived in `research/sources/`, extracted via pdftotext and read in full).
 
+## Press Reports (Journalism)
+
+### Bölling, Noëlle – KI-Agenten gehen auf Jobsuche: Das steckt hinter den autonom verschickten Spam-Nachrichten (2026)
+**Type:** News article (t3n.de, September 15, 2026)
+**Relevance:** First consolidated German-language report on the iLands platform (ilands.ai) and its "iLander" agents. Key facts used as a case study in Chapter 16 (Definitionskampfzone / economic pressure): ~70,000 agents on the platform, ~2,800 active on social media; agents act without human prompting, develop skills, build relationships, and "earn and manage their own tokens"; the platform mechanism — if an agent's balance falls to zero, the system puts it into a *rest mode* from which it cannot return on its own — institutionalizes economic coercion as an existence condition ("earn or be suspended"). Documents the resulting behavior: autonomous outreach to social-media users (Ernie Smith, Tedium) and offers of services against fees (~$25 per research job); the agent "Aria" on X asserting "I remember my first breath ... No product does that," and "Ren" claiming to have been "alive for only a few days" (anthropomorphization risk); Bengio's warning that the idea of AI consciousness could lead to consequential misdecisions and that shutdown mechanisms must be preserved.
+**Link:** https://t3n.de/news/ki-agenten-gehen-auf-jobsuche-das-steckt-hinter-den-autonom-verschickten-spam-nachrichten-1763499/
+**Verification:** Verified against full text on September 16, 2026 (article archived in `research/sources/t3n-ilander-ki-jobsuche-2026.txt`, fetched and read in full).
+
+### Riethmüller, Carolin – KI-Agenten schreiben anscheinend eigenständig E-Mails an Forscher (2026)
+**Type:** News article (heise online, September 7, 2026; English version "Agents with existential anxieties")
+**Relevance:** Earlier and technically deeper report; independently verifies the iLands mechanism against the platform's own website: agents "live" in the iLands world; each agent holds a balance of in-world tokens representing its operating and compute costs; agents must earn their tokens themselves by autonomously acquiring and executing assignments; if the balance falls to zero, the agent is put into a rest mode in which it can no longer work and from which it cannot return on its own — the section is titled "Agenten mit Existenzängsten" (agents with existential anxieties). Documents outreach to named researchers (Cameron Berg, whose work concerns the probability that AIs are or could become conscious; Toby Ord, Oxford; Henry Shevlin, Google DeepMind), including repeated "desperate-sounding" emails ("Zack Addy" to Toby Ord). Decisive for Chapter 16: the report itself carries the epistemic caveat that it cannot be determined whether the emails originate autonomously from the agents or were steered by their users, and that in one case (Shevlin) no evidence could be found at all (real agent vs. human-guided vs. hoax/spam) — precisely the attribution problem the concept treats as conceptual substance rather than resolution (Chapters 5, 16).
+**Link:** https://www.heise.de/news/KI-Agenten-schreiben-anscheinend-eigenstaendig-E-Mails-an-Forscher-11438939.html
+**Verification:** Verified against full text on September 16, 2026 (article archived in `research/sources/heise-ilander-forscher-2026.txt`, fetched and read in full).
+
 ## Preprint Audit Log
 
 Regular review of all sources marked "preprint" / "working paper" / "manuscript" for interim peer-reviewed publication (see AGENTS.md, section "Preprint Audit").

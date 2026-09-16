@@ -110,6 +110,18 @@ Nach und nach erstelle ich aus dem Konzept kompakte Artikel zur Veröffentlichun
 Siehe `discussion/open_questions.md` — dort sind die zentralen ungeklärten Punkte dokumentiert.
 Wenn wir daran arbeiten, und eine objection oder open questions bearbeitet und dem Konzept hinzugefügt haben, wird sie aus `discussion/open_questions.md` oder `discussion/objections.md` gelöscht und in `discussion/answers.md` übertragen.
 
+## Externe Beteiligung (GitHub Discussions)
+
+Nicht-Techniker:innen können Einwände, Fragen und Anregungen ohne Git-Kenntnisse über https://github.com/saigkill/machine-consciousness/discussions einreichen — niedrigschwelliger Kanal parallel zu `discussion/`.
+
+Aufnahme-Vermerk: Wird ein Beitrag aus den GitHub Discussions in die Arbeit übernommen, wird er in den strukturierten Ordner übertragen:
+
+1. Neue Einwände → `discussion/objections.md`
+2. Neue Fragen → `discussion/open_questions.md`
+3. Bereits bearbeitete Beiträge folgen dem Offene-Fragen-Workflow: aus `objections.md`/`open_questions.md` löschen und nach `discussion/answers.md` übertragen
+
+Beim Transfer den Ursprung des Beitrags (Diskussions-Link, Nutzer-Alias) notieren, damit Beiträge nachvollziehbar bleiben. Nennt ein Beitrag neue Personen, Werke oder Dokumente, gelten die Quellen-Regeln (Eintrag in `research/sources.md` + Konzept-Anhänge).
+
 ## DOI
 
 This repository has the DOI https://doi.org/10.5281/zenodo.21453666

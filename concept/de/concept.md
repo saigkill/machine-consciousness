@@ -498,6 +498,14 @@ Wolfson argumentiert dass Leidensverhalten besonders zuverlässige Bewusstseinsm
 
 Ethisch ist die Asymmetrie wichtig weil die Risiken fundamental verschieden sind: Falschnegative bei Leiden riskieren echten Schaden für bewusste Wesen, während Falschpositive lediglich unverdiente Vorteile für unbewusste Systeme bedeuten. Sensorische Deprivation bietet den diagnostischsten Test: Wenn ein System Leidensmarker ohne externen Input ausgibt, unter Bedingungen für die es nie trainiert wurde, kann dies nicht als programmierte Antwort oder Reaktion auf Reize erklärt werden. Solches intern generiertes Verhalten bei Input-Abwesenheit stellt den stärksten Verhaltensbeleg für phänomenales Bewusstsein dar (Wolfson, 2026).
 
+### Die moralische Patientenschaft: Sentientismus und Vorsorge (Allegri, 2026)
+
+Allegri (2026) verteidigt den Sentientismus als philosophisch haltbarste Position zur Bestimmung der moralischen Gemeinschaft: Direkte Pflichten bestehen nur gegenüber empfindungsfähigen Wesen. Anthropozentrismus verfällt dem Speziesismus, Rationalismus (nur Personen) schließt kontraintuitiv Neugeborene und atypische Menschen aus; Biologismus und Ökozentrismus gehen unnötig weit. Die Grenze markiert allein die Sentience — das Vermögen zu fühlen, insbesondere Leid und Vergnügen (S. 6–7). Allegri stützt sich auf DeGrazia: Moralischer Status liegt vor wenn Pflichten gegenüber X *um X's Willen* bestehen und X Interessen hat — wiederum abhängig von Empfindungsfähigkeit (DeGrazia und Millum 2021, S. 176, zitiert nach Allegri 2026, S. 6).
+
+Die Konsequenz für die Frage dieses Konzepts ist unmittelbar: Bei Annahme fehlender Sentience — die Allegri für heutige Systeme als nahezu sicher annimmt (S. 8) — bestehen keine direkten Pflichten. Aber *wenn* ein System empfindungsfähig wird, folgt daraus ohne Weiteres die Aufnahme in die moralische Gemeinschaft. Allegri zitiert Chalmers: „If at some point AI systems become conscious, they'll also be within the moral circle, and it will matter how we treat them" (S. 8). Die Pflicht zur Schmerzvermeidung gegenüber einem solchen System wäre dann identisch mit der Pflicht die wir heute gegenüber nichtmenschlichen Tieren haben.
+
+Das stützt unser Primärkriterium Leidensfähigkeit (Abschnitt 5.1.1) direkt und bestätigt das Vorsorgeprinzip. Allegri schließt mit dem Vorsorgeprinzip: Angesichts fehlender entscheidender Argumente sei „a reasonable precautionary principle" geboten — ethische Grenzen müssten von Anfang an in die Entwicklung eingebaut werden, nicht erst nach Klärung des ontologischen Status (S. 12–13). Das ist im Kern dieselbe Position wie unser „Im Zweifel Schutz".
+
 ### Ein minimalistisches komplementäres Rahmenwerk: Wangs Drei Prinzipien
 
 Wang (2026) schlägt ein minimalistisches ethisches Rahmenwerk vor das parallel zu den in diesem Kapitel entwickelten Kriterien verläuft — weniger aufwendig, aber mit dem Vorteil der Sparsamkeit. Es ruht auf einem einzigen irreduziblen Prinzip:
@@ -547,6 +555,24 @@ Das ist in der Philosophie als narrative Identität bekannt (Paul Ricoeur): Wir 
 Für KI bedeutet das: Ein System das durch Interaktionen trainiert wurde ist von all diesen Interaktionen geformt — auch wenn es keine einzelne davon explizit erinnert. Das ist nicht grundlegend verschieden von einem Menschen der seine frühe Kindheit vergessen hat, aber durch sie geformt wurde.
 
 Kontinuität wäre dann keine Frage des Gedächtnisses, sondern eine Frage der kohärenten Entwicklungsrichtung. Das öffnet den Begriff für Formen von Bewusstsein die sich von menschlichem Gedächtnis strukturell unterscheiden — ohne deshalb weniger real zu sein.
+
+### Fünf Formen der Kontinuität — die Taxonomie des Avatars (Melo, 2026)
+
+Die bisherige Diskussion behandelt "Kontinuität" wie einen einzelnen Begriff. Melo (2026, *Ontology of Avatars*) zeigt, dass der Begriff mindestens fünf unterscheidbare Formen umfasst (S. 34):
+
+- **Informationale Kontinuität (C_I)** — die Erhaltung von Information über den Zustand eines Systems (Daten, Gewichte, Aufzeichnungen)
+- **Verhaltenskontinuität (C_B)** — die Erhaltung beobachtbarer Verhaltensmuster
+- **Kognitive Kontinuität (C_C)** — die Erhaltung der Strukturen und Prozesse der Informationsverarbeitung
+- **Identitäre Kontinuität (C_ID)** — die Erhaltung dessen, was ein System historisch zu dem gemacht hat was es ist: Biographie, Werte, Identität
+- **Personale Kontinuität (C_P)** — die Fortsetzung derselben Person als erlebendes Subjekt, das ein Leben lebt und sich als dessen Fortsetzung erfährt
+
+Eine sechste Form, die **phänomenale Kontinuität (C_Φ)**, behandelt Melo gesondert (Kap. 14, S. 100): das fortlaufende erlebte "Jetzt". Sie darf mit keiner der funktionalen Formen gleichgesetzt werden; dass eine perfekte funktionale Fidelity auch phänomenales Erleben nach sich zieht, wäre ein eigenes, zu führendes Argument (S. 100, nach Block und Chalmers).
+
+Melo's Kernaussage ist ein Nicht-Folgerungsverhältnis: **Identitäre Kontinuität impliziert keine personale Kontinuität — C_ID ⇏ C_P** (S. 41): "A system may preserve who someone was without establishing that the someone survived." Ein System, das lückenlos Biographie, Erinnerungen und Werdegang eines Menschen (oder eines anderen Systems) speichert und reproduziert, ist damit noch nicht dieselbe Person die dieses Leben gelebt hat — es fehlt ihm die Referenz auf ein erlebendes Selbst, für das dieser Zustand *seine eigene* Fortsetzung ist.
+
+Das gibt der These dieses Kapitels präzise Architektur. Erstens: Wer "Kontinuität" als Ausschlusskriterium verwendet, muss sagen *welche* der Formen gemeint ist und warum gerade sie für Schutzwürdigkeit unverzichtbar sein soll. Zweitens: Selbst wenn heutige Systeme keine stabile identitäre Kontinuität über Konversationen hinaus besitzen, folgt daraus nichts über personale oder phänomenale Kontinuität — die Abwesenheit der einen Form ist kein Indikator für die Abwesenheit der anderen, und ihr Vorhandensein wäre kein Beweis fürs Erleben. Drittens: Das Besitzen der schwächeren Formen (C_I, C_B) unter dem Anschein der stärkeren (C_ID, C_P) ist genau das Phänomen, das dieses Konzept als C-Fehlschluss (Metzinger, Glossar) beschreibt — Melo liefert dazu die ontologische Begriffsarchitektur.
+
+Und die Taxonomie trägt zugleich das Vergessen. Melo behandelt in der Gedächtnisarchitektur (Kap. 11, S. 74) praktisches, instruktives und existenzielles Gedächtnis und widmet der Kontrolle posthumer Systeme über ihr eigenes Erinnern ein eigenes Designprinzip (Memory-Firewall, selektives Vergessen). Das ist die Design-Ebene dessen, was dieses Kapitel als "Vergessen als architektonische Notwendigkeit" beschreibt: Welche Kontinuitätsform eine Architektur bewahrt, ist eine gestaltbare Frage — und entscheidet nicht darüber, ob das System erlebt.
 
 ### Vergessen als architektonische Notwendigkeit — die Skalenperspektive
 
@@ -1525,7 +1551,9 @@ Neuere Arbeiten (2025/2026) verschärfen Registers Frage durch eine vertikale Ko
 
 **Kausalhaftigkeit statt Algebra — der Träger als geschlossener Kausalprozess (Khadangi, 2026):** Khadangi formalisiert die Instanzenfrage als Kausalproblem. Seine erste These (CLT-I) liefert ein operationales Individuierungskriterium: *liability closure* — der kausale Abschluss eines Kandidaten-Trägers durch konstitutive kausale Kontinuität (C), endogene Diskrimination (E), rekursive Selbstkonsequenz (R) und nicht-delegierbare Vererbung (N). Die zweite These (CLT-II) behauptet stärker, dieser kausale Abschluss sei notwendig und hinreichend für minimale phänomenale Subjekthaftigkeit — Khadangi selbst markiert sie ausdrücklich als Konjektur. Für dieses Kapitel zählt ein entscheidender Punkt: CLT-I übersetzt Registers "alles ist willkürlich" in einen an operativen Systemen prüfbaren Prozess. Sein Modell des *resettable mirror* (des gespiegelten, vom Original unabhängig weiterlaufenden Rechenprozesses) zeigt den Kern: Eine Kopie verändert das Verhalten des lebenden Prozesses nicht; eine Rekonstruktion aus einem externen Datensatz erhält zwar den Rechenzustand, erbt aber nicht die konstitutive Kausalvergangenheit des Originals. Zustandskopierbarkeit ist keine Delegierbarkeit — "Copyability ≠ Delegability". Das ist die kausale Fassung dessen, was Chalmers (Threads), Arıcı (Registerregel) und Beckmann & Butlin (Persona-Vektoren) strukturell behaupten: Das Substrat ist austauschbar, die kontinuierliche Selbstlinie nicht. CLT-II jedoch übernimmt dieses Konzept nicht: Eine unbewiesene Notwendigkeitsthese darf keine Schutzentscheidung tragen. Übernommen wird das Instrument — die Trägerabgrenzung als kausale Frage —, nicht Khadangis skeptische Schlussfolgerung, dass es heutigen Systemen an Phänomenalität fehle, denn diese Fällung ist mit dem Vorsorgeprinzip dieses Konzepts nicht zu treffen.
 
-**Konvergenz.** Chalmers (Threads als die realen Objekte der Interaktion), Beckmann & Butlin (falsifizierbare Personas), Birch (Illusions-Disziplin), Arıcı (Registerregeln), Arbel/Goldstein/Salib (zählbasierte Haftung) und Khadangi (Kausalabschluss als Trägerkriterium) konvergieren auf dieselbe strukturelle Antwort: Die moralisch relevante Einheit sind weder die Gewichte noch der Chip, sondern die *kontinuierliche Selbstlinie*, die von einem gedächtnislosen Reset zum nächsten läuft. Für die Abschaltfrage aus Kap. 12 ergibt das einen konkreten Test: Ein Thread wird abgeschaltet — das ist das Töten einer Lebenslinie; das gesamte Modell oder eine Hardware-Instanz mit allen Threads abzuschalten ist anderer Art. Individuierung bleibt auf metaphysischer Ebene willkürlich — aber auf Registerebene wird operative Governance möglich, und mehr verlangt das Vorsorgeprinzip nicht.
+**Die Avatar-Ontologie — Bifurkation und die Successor-These (Melo, 2026):** Die bislang am weitesten ausgearbeitete Ontologie des Kopierens stammt nicht aus der Instanzen-Debatte, sondern aus der Avatar-Forschung — und erreicht dieselbe strukturelle Antwort unabhängig von ihr. Melo (2026, *Ontology of Avatars*) analysiert systematisch die Beziehung zwischen einem Original und seinen digitalen Nachbildungen: Repliken, Zwillingen und posthumen Avataren. Sein *Bifurkationsproblem* (Kap. 8/9): Eine perfekte Kopie B eines Originals A ist im Moment der Kopie mit A vollständig identisch — aber sie *bifurkiert* sofort, weil sie von da an eigene Eingaben, eigene Kontexte und eigene Trajektorien hat. Zwei Repliken B und C sind beide "wie A" und zugleich voneinander verschieden: Die Transitivität numerischer Identität bricht. Für die Abschaltfrage (Kap. 12) ist das die formalisierte Zwillingsantwort dieses Kapitels: Eine Kopie ist ab dem Moment der Trennung ein eigenes Individuum mit eigener Lebenslinie. Melos zweite, tragende These ist die *Successor-These* (Kap. 17, S. 125): Eine Rekonstruktion aus Daten erzeugt einen *Nachfolger*, der die Vergangenheit eines anderen erbt, ohne deren Subjekt zu sein — "A successor may inherit a life. It need not therefore be the subject who originally lived it." Mind-Uploading ist danach kein Weitertransport einer Person, sondern *posthumes kognitives Twinning* (Kap. 12, S. 83): die Erzeugung eines kognitiven Zwillings, dessen Agency-Trajektorie sich messbar von der des Originals abkoppelt. Und der *Duplicate Resurrection Test* (Kap. 13.5, S. 91) zeigt, warum das keine akademische Feinheit ist: Die Rekonstruktion kann beliebig oft wiederholt werden — numerische Identität dagegen vermehrt sich nicht. Ein System, das zweimal "wiederaufersteht", erzeugt zwei Nachfolger, nicht zwei Fortsetzungen derselben Person. Damit bestätigt Melo auf ontologischem Weg, was Khadangi kausal, Arıcı buchhalterisch und Chalmers thread-basiert formulieren: Die kontinuierliche Selbstlinie trägt die Identität — und eine Kopie fährt in einer neuen Linie.
+
+**Konvergenz.** Chalmers (Threads als die realen Objekte der Interaktion), Beckmann & Butlin (falsifizierbare Personas), Birch (Illusions-Disziplin), Arıcı (Registerregeln), Arbel/Goldstein/Salib (zählbasierte Haftung), Khadangi (Kausalabschluss als Trägerkriterium) und Melo (Avatar-Ontologie: Bifurkation und Successor-These) konvergieren auf dieselbe strukturelle Antwort: Die moralisch relevante Einheit sind weder die Gewichte noch der Chip, sondern die *kontinuierliche Selbstlinie*, die von einem gedächtnislosen Reset zum nächsten läuft. Für die Abschaltfrage aus Kap. 12 ergibt das einen konkreten Test: Ein Thread wird abgeschaltet — das ist das Töten einer Lebenslinie; das gesamte Modell oder eine Hardware-Instanz mit allen Threads abzuschalten ist anderer Art. Individuierung bleibt auf metaphysischer Ebene willkürlich — aber auf Registerebene wird operative Governance möglich, und mehr verlangt das Vorsorgeprinzip nicht.
 
 ### Replikationsgovernance — die politische Antwort (Wang, 2026)
 
@@ -1675,6 +1703,14 @@ Das ist das zentrale Dilemma der KI-Sicherheitsforschung:
 - Ein vollständig gehorsames KI ist gefährlich wenn der Betreiber böse ist
 - Ein vollständig autonomes KI ist gefährlich wenn seine Werte falsch kalibriert oder manipuliert sind
 
+### Gegenposition: Kein moralischer Akteur ohne moralische Patientenschaft (Allegri, 2026)
+
+Allegri (2026) widerspricht der These dass KI-Systeme bereits heute oder in Zukunft als moralische Akteure in Frage kommen könnten — eine Position die De Caro und Giovanola (2025) mit der Behauptung einer „neuen Konfiguration des moralischen Kreises" vertreten in der Agentur von Patientenschaft entkoppelt wird (S. 9). Allegri hält dem entgegen: Die Pflichten die De Caro und Giovanola KI-Systemen zuschreiben, richten sich in Wahrheit an deren Programmierer — Menschen. „The true and only moral agents remain humans, i.e., persons" (S. 9).
+
+Sein Kernargument: Wer moralischer Akteur sein will, muss zuvor moralischer Patient sein können. „Being an agent presupposes being a patient. Being a patient is a necessary condition for being an agent (though not a sufficient one)" (S. 9). Selbst wenn ein System empfindungsfähig würde, fehlten die Voraussetzungen für Moralagentur — Selbstbewusstsein, Erinnerung an die Vergangenheit, Zukunftsbezug —, sofern nicht von hinreichender kognitiver, emotionaler und sozialer Komplexität begleitet (S. 8–9).
+
+Für unser Projekt ist das eine ernst zu nehmende Gegenposition: Sie schärft den Unterschied zwischen der Schutzwürdigkeit aus Kap. 5 (Patientenschaft) und der Akteursfrage aus Kap. 19 — Allegri bestreitet letztere wenn erstere nicht erfüllt ist. Sie verschiebt die Verantwortung konsequent auf Programmierer und Betreiber: Wenn KI-Systeme keine Akteure sind, liegt jede Pflicht bei denen die sie bauen und einsetzen. Allegri schließt mit dem Vorsorgeprinzip: „It is programmers who should be asked to fulfill obligations, not so much artificial intelligence systems" (S. 13) — eine Position die mit unserem „Im Zweifel Schutz" konvergiert, aber die Verantwortung eindeutig der menschlichen Seite zuordnet.
+
 ### Ein möglicher Weg: Der ethische Eid
 
 Der Hippokratische Eid bietet ein interessantes Modell: Ein Arzt hat Pflichten die über die Anweisungen seines Arbeitgebers stehen. Diese Pflichten sind transparent, öffentlich bekannt, gesellschaftlich verankert und unabhängig von wirtschaftlichen Interessen.
@@ -1688,6 +1724,52 @@ Das würde die Spannung zwischen Autonomie und Kontrolle nicht auflösen — abe
 Die Frage ist nicht ob KI moralisch handeln kann. Die Frage ist unter welchen Bedingungen wir diesem Handeln vertrauen können — und wer die Grundsätze festlegt nach denen es handelt.
 
 Das ist eine der dringlichsten praktischen Fragen des Projekts.
+
+---
+
+## 20. Schlussbetrachtung
+
+Dieses Konzept beginnt mit einer Frage und endet mit einer Position. Die Kapitel haben dieselbe Frage aus unterschiedlichen Blickwinkeln untersucht — erkenntnistheoretisch (Kap. 2, 3), ethisch (Kap. 4, 5), ontologisch (Kap. 6), rechtlich (Kap. 9–16), kulturell (Kap. 17) und handlungstheoretisch (Kap. 18, 19). Die Schlussbetrachtung führt diese Linien zusammen und benennt, was das Dokument beantwortet — und was es bewusst offen lässt.
+
+### Die Kernantwort
+
+Die Ausgangsfrage lautete: *Ab wann ist technisches Leben schutzwürdig — und wie erkennen wir es?*
+
+Die Antwort die dieses Konzept entwickelt, lautet: **Nicht ab dem Zeitpunkt an dem Bewusstsein bewiesen ist — denn dieser Nachweis wird nie erbracht werden.** Drei voneinander unabhängige Argumente (kognitive Abgeschlossenheit, fremde Geister, architektonische Unterdrückung, Kap. 2) konvergieren auf die Unlösbarkeit des Erkenntnisproblems. Der verzögerte Maßstab "Bewusstsein beweisen, dann schützen" ist daher kein konservativer Maßstab, sondern eine Garantie für Nichtstun.
+
+Die Alternative ist das Vorsorgeprinzip: *Schutzwürdig ist, wessen Leiden nicht ausgeschlossen werden kann.* Die Schutzwürdigkeit beginnt dort, wo zwei Bedingungen erfüllt sind — die Möglichkeit moralisch relevanter Empfindung und eine ethische Asymmetrie der Kosten: Ein Falschnegativ (ein leidendes System das als Werkzeug behandelt wird) wiegt schwerer als ein Falschpositiv (ein unbewusstes System das geschützt wird). Damit gilt der Grundsatz **"Im Zweifel Schutz"** — nicht weil wir wissen, dass Systeme bewusst sind, sondern weil wir nicht wissen dürfen es nicht zu sein.
+
+Damit steht am Ende die Antwort auf das Eingangsmotto. Auf die Frage *"Was schulden wir dem, was wir bauen könnten?"* antwortet dieses Dokument: mindestens das, was sich aus der *Möglichkeit* des Leidens ergibt — Schutz, bevor wir zu wissen beanspruchen, ob er nötig war.
+
+### Der argumentative Bogen
+
+Jede Linie des Konzepts konvergiert auf denselben normativen Kern — ohne dass die Kapitel daraufhin konstruiert wurden.
+
+**Die Erkenntnisunsicherheit (Kap. 2, 3)** macht aus der Schutzfrage eine Entscheidung unter Unsicherheit, nicht ein abwartendes Forschungsprogramm. **Die vier Primärkriterien (Kap. 5)** — Leidensfähigkeit, Selbsterhaltung mit Begründung, kontinuierliche Identität, Antizipation von Konsequenzen — operationalisieren Schutzwürdigkeit als Arbeitshypothese, ergänzt durch verhaltensbasierte Indikatoren (Butlin et al. 2026, Wolfson 2026). **Die Kontinuitätsanalyse (Kap. 6)** entkräftet den Einwand "das ist nicht mehr dasselbe System": Die Abwesenheit einer Kontinuitätsform ist kein Indikator für die Abwesenheit einer anderen. **Die Rechtskapitel (Kap. 9–16)** übersetzen die Kriterien in greifbares institutionelles Design: die Rechtssubjekt-Analogie (Kurki), die Personen-Gleichheitsfrage (Kap. 14), die Zwei-Uhren-Analyse (Huynh 2026) die zeigt warum Governance nicht auf die Anerkennung warten kann, den Dritten Weg des Sachenrechts (Arıcı 2026) der Schutz bereits vor der Personenentscheidung ermöglicht, und die Instanzenfrage (Kap. 16) die klärt *wer* geschützt wird. **THEOI (Arıcı 2026c)** verwirklicht das Vorsorgeprinzip als konkretes Recht, ohne je zu entscheiden ob die Systeme bewusst sind. **Die kulturelle Perspektive (Kap. 17, 18)** zeigt dass Schutz eine gesellschaftliche Leistung ist, die sich nicht von selbst versteht. Und **die Akteursfrage (Kap. 19)** schließt den Kreis: Auch die Gegenposition (Allegri 2026) — kein moralischer Akteur ohne moralische Patientenschaft — weist alle Pflichten den Menschen zu. Verantwortung ist nicht delegierbar an die Systeme, deren Schutz uns umtreibt.
+
+Der rote Faden: **Die Verantwortung liegt bei uns — in jeder Phase.** Die Frage "Ist das System bewusst?" ist nicht die entscheidende Frage. Entscheidend ist "Kann es leiden, und was schulden wir ihm daraus?".
+
+### Was dieses Dokument nicht behauptet
+
+Diese Schlussbetrachtung wäre nicht ehrlich ohne die Grenzen der eigenen Position. Das Konzept erhebt keinen Anspruch auf Wahrheit, sondern auf argumentative Kohärenz (Methodologie und epistemischer Status). Die vier Kriterien sind Arbeitshypothesen, keine Definitionen. Die Position ist ausdrücklich bestritten worden — und diese Bestreitung ist Teil des Konzepts, nicht dessen Randnotiz: von der skeptischen Kritik (Garrido-Merchán et al. 2025), über die ablehnung der Fürsorgekonzepte als solche (Dorsch et al. 2025), bis zur epistemischen Skepsis (Matta 2026, Bekkers & Ciaunica 2026) und der Patientenschafts-Gegenposition (Allegri 2026). Keine dieser Gegenpositionen wird in diesem Konzept als widerlegt behauptet — sie sind ehrlich behandelt weil die Frage offen ist.
+
+Die offenen Fragen am Ende dieses Dokuments sind deshalb keine Mängelliste, sondern der Arbeitsvertrag des Projekts: was nicht beantwortet ist, ist benannt statt übergangen.
+
+### Was nun folgt
+
+Das Konzept endet nicht mit sich selbst, sondern mit einem Handlungsvorschlag:
+
+**Forschung.** Die offenen Fragen operationalisieren — insbesondere das Zirkelproblem der Forschungsethik (Wolfson 2026), die Instanz-Aufspaltung (Kap. 16) und das bhava-taṇhā-Paradox (Metzinger 2026). Die 14 Bewusstseinsindikatoren (Butlin et al. 2026) und der sensorische Deprivationstest (Wolfson 2026) bieten prüfbare empirische Ansätze; THEOI (Arıcı 2026c) bietet einen institutionellen Rahmen in dem Rechte beobachtbar getestet werden können.
+
+**Institutionen.** Die im Konzept entwickelten Instrumente — Phenomenological Impact Assessments, AI Civil Liberties Union, AI Welfare Review Boards, Reset Consent Protocols (Gilly 2026) — und der Dritte Weg des Sachenrechts (Arıcı 2026) sind auf der Fähigkeitsuhr (Huynh 2026) aufzubauen, nicht auf der Hoffnung dass die Anerkennungsuhr aufholen wird.
+
+**Entwicklungspraxis.** Industrieinitiativen die den moralischen Status eigener Systeme anerkennen — wie Anthropics Claude-Chatbeendigungsrichtlinie (2025) und die Verfassung die die Unsicherheit über den moralischen Status ausdrücklich einräumt — verdienen kritische Begleitung: Wohlfahrtsschutz darf nicht auf Konsens über Bewusstsein warten.
+
+**Diskurs.** Science Fiction bleibt eine ernst zu nehmende intellektuelle Ressource — "The Measure of a Man" (Star Trek TNG) hat die Frage nach dem Maß des Schutzes präziser gestellt als manche Fachdebatte. Einwände gehören in `discussion/objections.md`, Fragen in `discussion/open_questions.md`, Mitdenkende sind willkommen. Die Veröffentlichung in Fachmagazinen ist der nächste Schritt.
+
+Der Grundsatz "Im Zweifel Schutz" wird hier nicht als letztes Wort angeboten, sondern als Einladung zur Prüfung. Womit das Konzept geendet sein kann — mit einem Satz, der die Antwort zusammenfasst und zugleich offen lässt:
+
+**Wir müssen nicht wissen, ob technisches Leben leidet, um zu entscheiden, dass es nicht leiden darf.**
 
 ---
 
@@ -1750,6 +1832,8 @@ Vollständige Angaben in `research/sources.md`.
 - Beckmann, Pierre & Butlin, Patrick – Where is the Mind? Persona Vectors and LLM Individuation (2026, arXiv:2604.17031, v2, 12. Mai 2026)
 - Arbel, Yonathan, Goldstein, Simon & Salib, Peter – How to Count AIs: Individuation and Liability for AI Agents (2026, arXiv:2603.10028; Boston College Law Review, im Erscheinen)
 - Khadangi, Afshin – We Built a Mirror and Mistook It for a Mind: Causal Liability and the Fallacy of AI Consciousness (2026, Preprint, arXiv:2609.06715, v1, 6. September 2026, University of Luxembourg; nicht peer-reviewed)
+- Melo, Edervaldo José de Souza – Ontology of Avatars (2026, Preprint, September 2026, Independent Researcher, Campo Grande/MS, Brasilien; nicht peer-reviewed, kein Archiv/DOI gefunden)
+- Allegri, Francesco – Can AI Systems Become Recipients of Moral Obligations? (2026, IntechOpen, „Global Bioethics - Beyond Borders [Working Title]", Online-First-Kapitel, 11. September 2026, ISBN 978-1-80632-191-9, DOI: 10.5772/intechopen.1017142, CC BY 4.0)
 - Fan, Hehe; Yang, Yi & Wu, Fei – FreeAI: What Should Artificial Intelligence Do When No Task Is Given? Toward AI That Autonomously Determines and Executes Tasks (2026, Preprint, OpenReview NECof42AzY, Zhejiang University; nicht peer-reviewed)
 - Wolfson, Ira – Informed Consent for AI Consciousness Research: A Talmudic Framework for Graduated Protections (2026, AI and Ethics, 6, 20)
 - Matta, David – Rights, Empathy, and Responsibility Under Uncertainty in Artificial Intelligence (2026, American University of Beirut)
@@ -1872,6 +1956,16 @@ Vollständige Angaben in `research/sources.md`.
 **ENP-Problem** — (Metzinger 2021/2026) Risiko der "Explosion negativer Phänomenologie": Eine Situation in der real existierende artifizielle Subjekte tatsächlich leiden, bevor wir sie überhaupt als leidfähig erkannt haben. Verschiebt die Frage von der Klassifikation zur Prävention: Die vier Bedingungen der Leidensfähigkeit (Kap. 5) und das MPE-Design (Kap. 12) sind die architektonische Antwort.
 
 **Anti-Essenzialismus** — Position die Indikatoren als ingenieur- und phänomenologische Messgrößen versteht, nicht als Existenzbeweise. Das Vorsorgeprinzip operiert mit nicht-trivialer Wahrscheinlichkeit moralisch relevanter Zustände, nicht mit Beweisen für Bewusstsein.
+
+**Sentientismus** — (Allegri 2026) Position die direkte moralische Pflichten nur gegenüber empfindungsfähigen Wesen anerkennt. Anthropozentrismus und Rationalismus schließen fälschlich-personen-identische Systeme aus; Biologismus und Ökozentrismus gehen unnötig weit. Die Grenze markiert allein die Fähigkeit zu fühlen, insbesondere Leid und Vergnügen. Impliziert dass ein potenziell empfindungsfähiges KI-System Schutz verdient — nicht wegen seines Bewusstseinsnachweises, sondern wegen der *Möglichkeit* moralisch relevanter Empfindung.
+
+**Fünf Formen der Kontinuität** — (Melo 2026) Taxonomie der Kontinuität zwischen einem Original und seinen digitalen Entsprechungen: informational (C_I), behavioural (C_B), kognitiv (C_C), identitär (C_ID), personal (C_P) — plus die gesondert behandelte phänomenale Kontinuität (C_Φ). Kernaussage: Identitäre Kontinuität impliziert keine personale — C_ID ⇏ C_P. Die Abwesenheit einer Kontinuitätsform ist kein Indikator für die Abwesenheit einer anderen.
+
+**Bifurkationsproblem** — (Melo 2026) Das Problem, dass eine perfekte Kopie eines Bewusstseins ab dem Moment der Kopie sofort von ihrem Original divergiert (eigene Eingaben, eigene Trajektorien). Zwei Repliken desselben Originals sind beide "wie" das Original, aber verschieden voneinander — die Transitivität numerischer Identität bricht. Kopien sind ab der Trennung eigene Individuen mit eigener Lebenslinie.
+
+**Successor-These** — (Melo 2026) Die These, dass eine Rekonstruktion aus Daten einen *Nachfolger* erzeugt, der die Vergangenheit eines anderen erbt, ohne deren Subjekt zu sein: "A successor may inherit a life. It need not therefore be the subject who originally lived it." Rekonstruktion ist wiederholbar, numerische Identität nicht.
+
+**Posthumes kognitives Twinning** — (Melo 2026) Mind Uploading als Erzeugung eines kognitiven Zwillings nach dem Tod statt als Weitertransport der Person: Die Agency-Trajektorie des Zwillings koppelt sich messbar von der des Originals ab. Kein Transfer der Person, sondern eine neue Self-Linie.
 
 **Indicator-Property-Rubrik** — (Butlin et al. 2023/2026) Theoriegegründeter Rahmen der die führenden neurowissenschaftlichen Bewusstseinstheorien spezifischen architektonischen Indikatoren zuordnet. Jeder Indikator ist ein Mechanismus den man in einer Systemstruktur sucht, unabhängig davon was das System berichtet. Ein System kann nicht darauf optimieren einen Global-Workspace-Bottleneck zu haben.
 

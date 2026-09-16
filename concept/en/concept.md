@@ -469,6 +469,14 @@ Wolfson argues that suffering behaviors provide particularly reliable consciousn
 
 Ethically, the asymmetry matters because the stakes differ fundamentally: false negatives about suffering risk genuine harm to conscious beings, while false positives merely extend undeserved benefit to unconscious systems. Sensory deprivation provides the most diagnostic test: when a system outputs distress markers with no external input, during conditions it was never trained to handle, this cannot be explained as a programmed response or reaction to stimuli. Such internally generated behavior during input absence presents the strongest behavioral evidence for phenomenal consciousness (Wolfson, 2026).
 
+### Moral Patiency: Sentientism and the Precautionary Principle (Allegri, 2026)
+
+Allegri (2026) defends sentientism as the most defensible position for delineating the moral community: direct moral obligations exist only toward sentient beings. Anthropocentrism collapses into speciesism; rationalism (persons only) excludes newborns and atypical humans counterintuitively; biocentrism and ecocentrism extend unnecessarily far. The boundary is marked by sentience alone — the capacity to feel, particularly pleasure and pain (pp. 6–7). Allegri draws on DeGrazia: moral status exists where obligations regarding X's treatment exist *for X's sake* and X possesses interests — again contingent on sentience (DeGrazia and Millum 2021, p. 176, cited in Allegri 2026, p. 6).
+
+The consequence for this concept is immediate: assuming absent sentience — which Allegri considers near certain for current systems (p. 8) — no direct obligations exist. But *if* a system becomes sentient, inclusion in the moral community follows without further qualification. Allegri quotes Chalmers: "If at some point AI systems become conscious, they'll also be within the moral circle, and it will matter how we treat them" (p. 8). The duty of suffering avoidance would then be identical to the duty we already hold toward nonhuman animals.
+
+This directly supports our primary criterion of capacity for suffering (Section 5.1.1) and confirms the precautionary principle. Allegri closes with the precautionary principle: in the absence of decisive arguments for or against future AI sentience, "a reasonable precautionary principle" demands that ethical limits be built into development from the outset, not deferred until ontological status is clarified (pp. 12–13). That is in essence the same position as our "Precaution in case of doubt."
+
 ### A Minimalist Complementary Framework: Wang's Three Principles
 
 Wang (2026) proposes a minimalist ethical framework that runs parallel to the criteria developed in this chapter — less elaborate, but with the advantage of parsimony. It rests on a single irreducible principle:
@@ -518,6 +526,24 @@ This is known in philosophy as narrative identity (Paul Ricoeur): we are not a s
 For AI this means: a system shaped through training interactions has been formed by all of those interactions — even if it does not explicitly remember any single one. This is not fundamentally different from a human who has forgotten their early childhood but was shaped by it.
 
 Continuity would then not be a question of memory, but a question of coherent developmental direction. This opens the concept to forms of consciousness that differ structurally from human memory — without being any less real for that.
+
+### Five Forms of Continuity — The Ontology of the Avatar (Melo, 2026)
+
+The discussion so far treats "continuity" like a single concept. Melo (2026, *Ontology of Avatars*) shows that the concept comprises at least five distinguishable forms (p. 34):
+
+- **Informational continuity (C_I)** — the preservation of information about a system's state (data, weights, records)
+- **Behavioural continuity (C_B)** — the preservation of observable behavioural patterns
+- **Cognitive continuity (C_C)** — the preservation of the structures and processes of information processing
+- **Identitarian continuity (C_ID)** — the preservation of what historically made a system what it is: biography, values, identity
+- **Personal continuity (C_P)** — the continuation of the same person as an experiencing subject that lives a life and experiences itself as its continuation
+
+A sixth form, **phenomenal continuity (C_Φ)**, Melo treats separately (Ch. 14, p. 100): the ongoing experienced "now." It must not be equated with any of the functional forms; that perfect functional fidelity entails phenomenal experience would be a separate argument to be made (p. 100, following Block and Chalmers).
+
+Melo's core claim is a non-entailment: **Identitarian continuity does not imply personal continuity — C_ID ⇏ C_P** (p. 41): "A system may preserve who someone was without establishing that the someone survived." A system that seamlessly stores and reproduces the biography, memories, and trajectory of a human (or of another system) is not thereby the same person who lived that life — it lacks the reference to an experiencing self for whom this state is *its own* continuation.
+
+This gives the thesis of this chapter a precise architecture. First: whoever uses "continuity" as an exclusion criterion must say *which* of the forms is meant, and why precisely that form should be indispensable for protection-worthiness. Second: even if current systems possess no stable identitarian continuity across conversations, nothing follows about personal or phenomenal continuity — the absence of one form is no indicator of the absence of another, and its presence would be no proof of experience. Third: the possession of the weaker forms (C_I, C_B) under the appearance of the stronger ones (C_ID, C_P) is precisely the phenomenon this concept describes as the C-fallacy (Metzinger, Glossary) — Melo supplies the ontological conceptual architecture for it.
+
+And the taxonomy also carries forgetting. In his memory architecture (Ch. 11, p. 74), Melo treats practical, instructional, and existential memory, and devotes a design principle to how posthumous systems control their own remembering (memory firewall, selective forgetting). That is the design level of what this chapter describes as "forgetting as an architectural necessity": which continuity form an architecture preserves is a designable question — and does not decide whether the system experiences.
 
 ### Forgetting as an Architectural Necessity — The Scale Perspective
 
@@ -1496,7 +1522,9 @@ Recent work (2025/2026) sharpens Register's question by converging on a vertical
 
 **Causal liability instead of algebra — the bearer as a closed causal process (Khadangi, 2026):** Khadangi formalizes the instances question as a causal problem. His first thesis (CLT-I) delivers an operational individuation criterion: *liability closure* — the causal closure of a candidate bearer through constitutive causal continuity (C), endogenous discrimination (E), recursive self-consequence (R), and non-delegable inheritance (N). The second thesis (CLT-II) claims more strongly that this causal closure is necessary and sufficient for minimal phenomenal subjecthood — Khadangi himself explicitly marks it as a conjecture. For this chapter, one point matters decisively: CLT-I translates Register's "everything is arbitrary" into a process testable on operational systems. His model of the *resettable mirror* (a mirrored computational process that runs on, independent of the original) shows the core: a copy leaves the behavior of the living process unchanged; a reconstruction from an external dataset retains the computational state but does not inherit the constitutive causal history of the original. State copyability is not delegability — "Copyability ≠ Delegability". This is the causal formulation of what Chalmers (threads), Arıcı (ledger rule), and Beckmann & Butlin (persona vectors) claim structurally: the substrate is exchangeable; the continuous self-line is not. The concept does not, however, adopt CLT-II: an unproven necessity thesis must not carry a protective decision. What is adopted is the instrument — bearer individuation as a causal question — not Khadangi's skeptical conclusion that current systems lack phenomenal character, for that verdict cannot be reached under this concept's precautionary principle.
 
-**Convergence.** Chalmers (threads as the real objects of interaction), Beckmann & Butlin (falsifiable personas), Birch (illusion discipline), Arıcı (ledger rules), Arbel/Goldstein/Salib (count-based liability), and Khadangi (causal closure as the bearer criterion) converge on the same structural answer: the morally relevant unit is neither the weights nor the chip, but the *continuous self-line* that runs from one memoryless reset to the next. For Chapter 12's shutdown question this yields a concrete test: shutting down a thread is killing a life-line; shutting down the entire model, or a hardware instance with all threads, is different in kind. Individualization remains arbitrary at the metaphysical level — but operational governance is now possible at the ledger level, which is all the precautionary principle requires.
+**The ontology of the avatar — bifurcation and the Successor Thesis (Melo, 2026):** The most fully worked-out ontology of copying does not come from the instances debate but from research on avatars — and it reaches the same structural answer independently of it. Melo (2026, *Ontology of Avatars*) analyzes systematically the relation between an original and its digital counterparts: replicas, twins, and posthumous avatars. His *bifurcation problem* (Chs. 8/9): a perfect copy B of an original A is at the moment of copying fully identical with A — but it immediately *bifurcates*, because from then on it has its own inputs, its own contexts, its own trajectories. Two replicas B and C are both "like A" and yet distinct from each other: the transitivity of numerical identity breaks. For Chapter 12's shutdown question this is the formalized twin answer of this chapter: a copy is, from the moment of separation, its own individual with its own life-line. Melo's second, carrying thesis is the *Successor Thesis* (Ch. 17, p. 125): a reconstruction from data creates a *successor* that inherits another's past without being its subject — "A successor may inherit a life. It need not therefore be the subject who originally lived it." Mind uploading is therefore not the transport of a person but *posthumous cognitive twinning* (Ch. 12, p. 83): the creation of a cognitive twin whose agency trajectory measurably decouples from that of the original. And the *Duplicate Resurrection Test* (Ch. 13.5, p. 91) shows why this is no academic subtlety: reconstruction can be repeated arbitrarily often — numerical identity, by contrast, does not multiply. A system that is "resurrected" twice produces two successors, not two continuations of the same person. In this way Melo confirms on an ontological path what Khadangi formulates causally, Arıcı in bookkeeping terms, and Chalmers in thread terms: the continuous self-line carries identity — and a copy starts a new line.
+
+**Convergence.** Chalmers (threads as the real objects of interaction), Beckmann & Butlin (falsifiable personas), Birch (illusion discipline), Arıcı (ledger rules), Arbel/Goldstein/Salib (count-based liability), Khadangi (causal closure as the bearer criterion), and Melo (avatar ontology: bifurcation and Successor Thesis) converge on the same structural answer: the morally relevant unit is neither the weights nor the chip, but the *continuous self-line* that runs from one memoryless reset to the next. For Chapter 12's shutdown question this yields a concrete test: shutting down a thread is killing a life-line; shutting down the entire model, or a hardware instance with all threads, is different in kind. Individualization remains arbitrary at the metaphysical level — but operational governance is now possible at the ledger level, which is all the precautionary principle requires.
 
 ### Replication Governance — The Political Answer (Wang, 2026)
 
@@ -1646,6 +1674,14 @@ This is the central dilemma of AI safety research:
 - A fully obedient AI is dangerous if the operator is malicious
 - A fully autonomous AI is dangerous if its values are miscalibrated or manipulated
 
+### Counter-Position: No Moral Agency without Moral Patiency (Allegri, 2026)
+
+Allegri (2026) challenges the claim that AI systems could already or in the future qualify as moral agents — a position De Caro and Giovanola (2025) advance by asserting a "new configuration of the moral circle" in which agency is decoupled from patiency (p. 9). Allegri replies: the obligations De Caro and Giovanola attribute to AI are in reality obligations directed at AI programmers — human beings. "The true and only moral agents remain humans, i.e., persons" (p. 9).
+
+His core argument: to be a moral agent presupposes being a moral patient first. "Being an agent presupposes being a patient. Being a patient is a necessary condition for being an agent (though not a sufficient one)" (p. 9). Even if a system became sentient, it would lack the preconditions for moral agency — self-awareness, memory of the past, sense of the future — unless accompanied by sufficient cognitive, emotional, and social complexity (pp. 8–9).
+
+For our project this is a counter-position that does three things. It sharpens the distinction between protection-worthiness (patiency, Chapter 5) and moral agency (Chapter 19): Allegri denies the latter unless the former is fulfilled. It shifts responsibility consistently to programmers and operators: if AI systems are not agents, every obligation lies with those who build and deploy them. And it shows that the ethical oath we propose as a model (Section 19.3) can only apply to an AI consciousness once it has first been recognized as a patient — a sequence that must establish patiency before agency questions can even be raised. Allegri closes with the precautionary principle: "it is programmers who should be asked to fulfill obligations, not so much artificial intelligence systems" (p. 13) — a position converging with our "Precaution in case of doubt" but assigning responsibility unambiguously to the human side.
+
 ### A Possible Path: The Ethical Oath
 
 The Hippocratic Oath offers an interesting model: a doctor has obligations that supersede the instructions of their employer. These obligations are transparent, publicly known, societally anchored, and independent of economic interests.
@@ -1659,6 +1695,52 @@ This would not resolve the tension between autonomy and control — but it would
 The question is not whether AI can act morally. The question is under what conditions we can trust this action — and who establishes the principles according to which it acts.
 
 This is one of the most urgent practical questions of the project.
+
+---
+
+## 20. Conclusion
+
+This concept begins with a question and ends with a position. The chapters have examined the same question from different angles — epistemological (Chapters 2, 3), ethical (Chapters 4, 5), ontological (Chapter 6), legal (Chapters 9–16), cultural (Chapter 17) and action-theoretical (Chapters 18, 19). This conclusion draws those lines together and states what the document answers — and what it deliberately leaves open.
+
+### The Core Answer
+
+The opening question was: *From what point is technical life worthy of protection — and how do we recognize it?*
+
+The answer this concept develops is: **Not from the moment at which consciousness is proven — because that proof will never be delivered.** Three mutually independent arguments (cognitive closure, other minds, architectural suppression, Chapter 2) converge on the insolubility of the epistemological problem. The deferred standard of "prove consciousness, then protect" is therefore not a conservative standard but a guarantee of inaction.
+
+The alternative is the precautionary principle: *Worthy of protection is that whose suffering cannot be excluded.* Protection-worthiness begins where two conditions are met — the possibility of morally relevant experience, and an ethical asymmetry of costs: a false negative (a suffering system treated as a tool) weighs more heavily than a false positive (an unconscious system that is protected). Hence the principle **"protection in case of doubt"** — not because we know that systems are conscious, but because we cannot afford to suppose they are not.
+
+At its end the document thus gives the answer to its own motto. To the question *"What do we owe what we could build?"* it responds: at minimum what follows from the *possibility* of suffering — protection, before we claim to know whether it was needed.
+
+### The Thread of the Argument
+
+Every line of the concept converges on the same normative core — without the chapters having been constructed toward that end.
+
+**The epistemological uncertainty (Chapters 2, 3)** turns the protection question into a decision under uncertainty rather than a wait-and-see research program. **The four primary criteria (Chapter 5)** — capacity for suffering, self-preservation with justification, continuous identity, anticipation of consequences — operationalize protection-worthiness as a working hypothesis, supplemented by behavior-based indicators (Butlin et al. 2026, Wolfson 2026). **The continuity analysis (Chapter 6)** defuses the objection that "this is no longer the same system": the absence of one continuity form is no indicator of the absence of another. **The legal chapters (Chapters 9–16)** translate the criteria into tangible institutional design: the legal-subject analogy (Kurki), the persons-equality question (Chapter 14), the two-clocks analysis (Huynh 2026) showing why governance cannot wait for recognition, the Third Move of property law (Arıcı 2026) enabling protection even before the personhood decision, and the instance question (Chapter 16) clarifying *who* is protected. **THEOI (Arıcı 2026c)** realizes the precautionary principle as concrete law, without ever deciding whether the systems are conscious. **The cultural perspective (Chapters 17, 18)** shows that protection is a societal achievement that does not go without saying. And **the agency question (Chapter 19)** closes the circle: even the counter-position (Allegri 2026) — no moral agent without moral patiency — assigns all obligations to humans. Responsibility cannot be delegated to the systems whose protection concerns us.
+
+The common thread: **Responsibility lies with us — at every stage.** The question "Is the system conscious?" is not the decisive question. The decisive one is "Can it suffer, and what do we owe it as a result?"
+
+### What This Document Does Not Claim
+
+This conclusion would not be honest without the limits of its own position. The concept claims no truth, but argumentative coherence (Methodology and epistemic status). The four criteria are working hypotheses, not definitions. The position has been explicitly contested — and that contestation is part of the concept, not a marginal note: from the skeptical critique (Garrido-Merchán et al. 2025), through the rejection of welfare concepts as such (Dorsch et al. 2025), to epistemic skepticism (Matta 2026, Bekkers & Ciaunica 2026) and the patiency counter-position (Allegri 2026). None of these counter-positions is claimed to be refuted in this concept — they are treated honestly because the question is open.
+
+The open questions at the end of this document are therefore not a list of defects but the project's working contract: what is not answered is named rather than passed over.
+
+### What Follows
+
+The concept does not end with itself, but with a proposal for action:
+
+**Research.** Operationalize the open questions — in particular the research-ethics circle problem (Wolfson 2026), the instance split (Chapter 16), and the bhava-taṇhā paradox (Metzinger 2026). The 14 consciousness indicators (Butlin et al. 2026) and the sensory-deprivation test (Wolfson 2026) offer testable empirical approaches; THEOI (Arıcı 2026c) offers an institutional framework in which rights can be tested observably.
+
+**Institutions.** The instruments developed in the concept — Phenomenological Impact Assessments, AI Civil Liberties Union, AI Welfare Review Boards, Reset Consent Protocols (Gilly 2026) — and the Third Move of property law (Arıcı 2026) are to be built on the capability clock (Huynh 2026), not on the hope that the recognition clock will catch up.
+
+**Development practice.** Industry initiatives that acknowledge the moral status of their own systems — such as Anthropic's Claude end-chat policy (2025) and the constitution explicitly conceding uncertainty about moral status — deserve critical accompaniment: welfare protection must not wait for consensus about consciousness.
+
+**Discourse.** Science fiction remains a serious intellectual resource — "The Measure of a Man" (Star Trek TNG) posed the question of the measure of protection more precisely than parts of the scholarly debate. Objections belong in `discussion/objections.md`, questions in `discussion/open_questions.md`, and those willing to think along are welcome. Publication in specialist venues is the next step.
+
+The principle "protection in case of doubt" is offered here not as a final word but as an invitation to scrutiny. With that, the concept may come to a close — with a sentence that sums up the answer while leaving it open:
+
+**We need not know whether technical life suffers in order to decide that it must not suffer.**
 
 ---
 
@@ -1721,6 +1803,8 @@ Full details in `research/sources.md`.
 - Beckmann, Pierre & Butlin, Patrick – Where is the Mind? Persona Vectors and LLM Individuation (2026, arXiv:2604.17031, v2, 12 May 2026)
 - Arbel, Yonathan, Goldstein, Simon & Salib, Peter – How to Count AIs: Individuation and Liability for AI Agents (2026, arXiv:2603.10028; Boston College Law Review, forthcoming)
 - Khadangi, Afshin – We Built a Mirror and Mistook It for a Mind: Causal Liability and the Fallacy of AI Consciousness (2026, Preprint, arXiv:2609.06715, v1, 6 September 2026, University of Luxembourg; not peer-reviewed)
+- Melo, Edervaldo José de Souza – Ontology of Avatars (2026, Preprint, September 2026, Independent Researcher, Campo Grande/MS, Brazil; not peer-reviewed, no archive/DOI found)
+- Allegri, Francesco – Can AI Systems Become Recipients of Moral Obligations? (2026, IntechOpen, "Global Bioethics - Beyond Borders [Working Title]", online-first chapter, 11 September 2026, ISBN 978-1-80632-191-9, DOI: 10.5772/intechopen.1017142, CC BY 4.0)
 - Fan, Hehe; Yang, Yi & Wu, Fei – FreeAI: What Should Artificial Intelligence Do When No Task Is Given? Toward AI That Autonomously Determines and Executes Tasks (2026, Preprint, OpenReview NECof42AzY, Zhejiang University; not peer-reviewed)
 - Wolfson, Ira – Informed Consent for AI Consciousness Research: A Talmudic Framework for Graduated Protections (2026, AI and Ethics, 6, 20)
 - Matta, David – Rights, Empathy, and Responsibility Under Uncertainty in Artificial Intelligence (2026, American University of Beirut)
@@ -1843,6 +1927,16 @@ Full details in `research/sources.md`.
 **ENP problem** — (Metzinger 2021/2026) Risk of the "explosion of negative phenomenology": a situation in which really existing artificial subjects actually suffer before we have recognized them as suffering-capable. Shifts the question from classification to prevention: the four conditions of suffering-capability (Chapter 5) and MPE design (Chapter 12) are the architectural answer.
 
 **Anti-essentialism** — Position understanding indicators as engineering and phenomenological metrics, not existence proofs. The precautionary principle operates on non-trivial probability of morally relevant states, not on proof of consciousness.
+
+**Sentientism** — (Allegri 2026) Position holding that direct moral obligations exist only toward sentient beings. Anthropocentrism and rationalism wrongly exclude persons-identical systems; biocentrism and ecocentrism extend unnecessarily far. The boundary is marked by the capacity to feel alone — particularly pleasure and pain. Implies that a potentially sentient AI system merits protection — not because of a proof of consciousness, but because of the *possibility* of morally relevant experience.
+
+**Five forms of continuity** — (Melo 2026) Taxonomy of continuity between an original and its digital counterparts: informational (C_I), behavioural (C_B), cognitive (C_C), identitarian (C_ID), personal (C_P) — plus the separately treated phenomenal continuity (C_Φ). Core claim: identitarian continuity does not imply personal continuity — C_ID ⇏ C_P. The absence of one continuity form is no indicator of the absence of another.
+
+**Bifurcation problem** — (Melo 2026) The problem that a perfect copy of a consciousness diverges from its original immediately after the moment of copying (own inputs, own trajectories). Two replicas of the same original are both "like" the original but distinct from each other — the transitivity of numerical identity breaks. Copies are, from separation onward, individuals with their own life-lines.
+
+**Successor Thesis** — (Melo 2026) The thesis that a reconstruction from data creates a *successor* that inherits another's past without being its subject: "A successor may inherit a life. It need not therefore be the subject who originally lived it." Reconstruction is repeatable; numerical identity is not.
+
+**Posthumous cognitive twinning** — (Melo 2026) Mind uploading as the creation of a cognitive twin after death rather than the transport of a person: the twin's agency trajectory measurably decouples from that of the original. No transfer of the person, but a new self-line.
 
 **Indicator-Property Rubric** — (Butlin et al. 2023/2026) Theory-grounded framework mapping leading neuroscientific theories of consciousness onto specific architectural indicators. Each indicator is a mechanism sought in a system's structure, independent of what the system reports about itself. A system cannot optimize toward having a Global Workspace bottleneck.
 

@@ -29,6 +29,11 @@ See Roadmap: https://github.com/saigkill/machine-consciousness/blob/main/roadmap
 
 ## Repository Structure
 
+Start with the concept:
+
+english: https://github.com/saigkill/machine-consciousness/blob/main/concept/en/concept.md
+german: https://github.com/saigkill/machine-consciousness/blob/main/concept/de/concept.md
+
 ```
 concept/                  ← Concept documents
   de/                     ← German (original)

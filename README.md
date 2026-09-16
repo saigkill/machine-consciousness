@@ -32,6 +32,7 @@ See Roadmap: https://github.com/saigkill/machine-consciousness/blob/main/roadmap
 Start with the concept:
 
 english: https://github.com/saigkill/machine-consciousness/blob/main/concept/en/concept.md
+
 german: https://github.com/saigkill/machine-consciousness/blob/main/concept/de/concept.md
 
 ```

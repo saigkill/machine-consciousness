@@ -4,6 +4,8 @@ Status: geplant (Stand 12.09.2026). Ziel: Wissenschaftler:innen aus `research/so
 
 Verwandte Dokumente: `communications/communications.md`, `communications/anthropic_outreach.md`. Diese Datei ergänzt beide um die Einzelkontakte zu den Autor:innen der Quellen. Die vorbereiteten Tier-1-Mails liegen in `communications/Connections/tier1_emails.md`.
 
+Die Datei operiert in zwei Strängen: **Feedback-Kontakte** (Tier-Listen unten, Mails an Quellen-Autor:innen) und **institutionelle Gastanbindung** (Abschnitt „Gastanbindung Rheinland-Pfalz", Erstgespräche + formelle Anbindung gemäß Exposé Abschnitt 4).
+
 ---
 
 ## Strategie
@@ -79,6 +81,31 @@ Verwandte Dokumente: `communications/communications.md`, `communications/anthrop
 - **Institutionen/Dokumente:** Rio-Deklaration, BGB, CRPD, Bologna, EU-Parlament, UN-Berichte.
 - **Industrie/Unternehmen:** OpenAI (Model Spec), Anthropic (→ eigene Outreach-Datei), Apollo Research, Fudan, DeepMind-Papers — keine Einzelkontakte über diese Datei.
 - **Einzeln nicht kontaktierbar:** Papers ohne öffentliche Kontaktadresse (z. B. wenn nur Verteiler-Email); dort ggf. Vermittlung über ResearchGate/LinkedIn erst prüfen.
+
+---
+
+## Gastanbindung Rheinland-Pfalz — konkrete Kandidaten (Stand 16.09.2026)
+
+Dies ist der **institutionelle Strang** (Exposé Abschnitt 4, Stufe 1/2): konkrete Lehrstühle für die niedrigschwelligen Erstgespräche und die spätere Gastanbindung — getrennt vom Feedback-Strang (obere Tier-Listen). Verifiziert gegen die offiziellen Universitäts- und Institutesseiten am 16.09.2026; E-Mail-Adressen vor Versand erneut prüfen.
+
+**Priorität 1 — RPTU Kaiserslautern (stärkstes Bündel):**
+- **Prof. Dr. Katharina Zweig** — Algorithm Accountability Lab (FB Informatik), KI-Ethik/Fairness/Accountability, Co-Vorsitzende Digitalrat RLP. Kontakt: `zweig@cs.uni-kl.de`.
+- **Prof. Dr. Karen Joisten** — Professorin für Philosophie (FB Sozialwissenschaften), Technoethik & Digitalisierung, Sprecherin CEDIS 2019–2025, Leiterin der ethischen Begleitung mehrerer KI-Projekte (EBAKIS, KI4TUK, HumanE AI) und des Zertifikatsstudiengangs Technoethik. Kontakt: `karen.joisten@rptu.de`.
+- **CEDIS — Center for Ethics and the Digital Society** (Potenzialbereich der RPTU, von Zweig und Joisten mitgegründet): natürliche institutionelle Heimat, bereits interdisziplinär.
+
+**Priorität 2 — Universität Trier:**
+- **Prof. Dr. Matthias Hoesch** — Professur für Praktische Philosophie, Sprecher des Trierer Instituts für Angewandte Ethik (**TRIANE**, Senatsbeschluss 12/2025, eröffnet 05/2026), Schwerpunkt „Moralisch handeln im Zeitalter der Digitalisierung" (u. a. KI); dazu ab WS 2026/27 der neue BA „Menschenzentrierte Künstliche Intelligenz". Kontakt über TRIANE/Uni Trier.
+
+**Priorität 3 — Universität Koblenz:**
+- **Prof. Dr. Frank Hopfgartner** — Institute for Web Science & Technologies, Human-Centred & Responsible AI (Fairness, Transparenz, FATE) — eher informatisch-methodisch, weniger philosophisch.
+
+**Bewusst nicht wählen (Verifikations-Corner):**
+- **Mario Martini** — hat Speyer im Juli 2024 verlassen (nun Universität der Bundeswehr München); trotz FÖV-Speyer-Bezug nicht mehr RLP-Lehrstuhl. Nicht als Gast-Host anschieben.
+- **Thomas Metzinger** — emeritiert (Univ.-Prof. i. R., JGU Mainz), kein formeller Host; bleibt als Tier-3-Feedback-Kontakt (C/E/M, Kap. 3/5/12) in der oberen Liste geführt.
+- **Gottfried Vosgerau** — nicht in Mainz, sondern an der HHU Düsseldorf.
+- Mainzer Philosophie außer Metzinger (Busse, Henning, Albertzart) — klassisch ausgerichtet, thematisch nur mittlere Nähe; überwiegend Netzwerk, keine Gast-Option.
+
+**Empfehlung:** Stufe 1 auf das RPTU-Bündel konzentrieren (Zweig + Joisten + CEDIS: zwei kompatible Lehrstühle und ein Zentrum an einem Standort), Trier/TRIANE als zweites Gespräch derselben Welle. Falls gewünscht, kann dieser Abschnitt die Erwähnung der RPTU als prioritären Zielstandort im Exposé (Abschnitt 4, Stufe 1) stützen.
 
 ---
 

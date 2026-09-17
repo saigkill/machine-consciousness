@@ -159,7 +159,7 @@ Anpassen pro Person: Betreff, Anrede, der **Personalisierungs-Baustein** (aus de
 
 | Datum | Name | Kanal | Gesendeter Text | Antwort | Antwort-Datum | Nächster Schritt |
 |---|---|---|---|---|---|---|
-| — | — | — | — | — | — | — |
+| 16.09.2026 | **Katharina Zweig** (Gastanbindung RLP) | E-Mail (`zweig@cs.uni-kl.de`) | Anfrage Gastanbindung (Stufe 1/2, RPTU-Bündel) | **Absage** | 17.09.2026 | Nächster Kandidat: **Karen Joisten** — Entwurf in `gastanbindung_joisten.md`, Versand offen |
 
 Einträge hier ergänzen, sobald Mails rausgehen. Staffelung beachten (Welle 1: Arıcı, Register, Donahue, Wolfson, Kurki; dann die übrigen).
 

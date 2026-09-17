@@ -1,8 +1,8 @@
 # Communications Overview
 
-Overview of contact points and channels to make the project known. Status: 07.09.2026.
+Overview of contact points and channels to make the project known. Status: 17.09.2026.
 
-Similar documents in this folder: `video_script.md`, `anthropic_outreach.md`.
+Similar documents in this folder: `video_script.md`, `anthropic_outreach.md`, `digital_minds_post.md`, `ki-bewusstsein_podcast.md`.
 
 ---
 
@@ -23,12 +23,13 @@ The most recent calls/funding opportunities have partly expired — but new roun
 
 ## Newsletter (accepts guest content / tips)
 
-- **The Digital Minds Newsletter** (digitalminds.news) — curated weekly overview of the scene; accepts suggestions/submissions: `digitalminds@substack.com`. A tip/shoutout there has real reach within the target audience.
+- **The Digital Minds Newsletter** (digitalminds.news) — curated weekly overview of the scene; accepts suggestions/submissions: `digitalminds@substack.com`. A tip/shoutout there has real reach within the target audience. (submitted)
 - **Experience Machines** (Robert Long, Eleos AI) — leading AI-welfare newsletter, very close to the topic.
 
 ## German-speaking community
 
 - **ki-bewusstsein.de / KIT-ITAS (Prof. Karsten Wendland)** — the thematically congruent German-language project ("investigation of the suspicion of rising consciousness in AI") with its own science podcast **"Selbstbewusste KI"** (Self-Aware AI) and a feedback form. According to its own statement, it is explicitly pleased about dialogue/feedback — ideal for a **podcast guest appearance** or contact. The natural German-language point of contact.
+  - **Status (17.09.2026):** Mail-Entwurf für Podcast-Gastauftritt liegt vor (`ki-bewusstsein_podcast.md`, Empfänger `kw@ki-bewusstsein.de`); Versand steht aus.
 - **Niche blogs accepting guest posts** (open to outsiders, more politics/ethics-oriented, less specific): Blog der Republik, Forum Wirtschaftsethik, pAIper.one, Konjunktion.info.
 
 ## Podcasts (interviews)
@@ -48,7 +49,12 @@ The most recent calls/funding opportunities have partly expired — but new roun
 
 ## Funding (for the grant/fellowship goal)
 
-- **Longview Digital Minds RFP** — round closed, but the most important funding pot for the topic. Await/prepare the next round.
+Full overview of potential funders (verified against official pages, 17.09.2026): `research/funders.md`.
+
+- **Longview Digital Minds RFP** — round closed (24.07.2026), but the most important funding pot for the topic. **Career Development Fellowship** is the best-matching track for an independent researcher without PhD. Prepare for the next round.
+- **Long-Term Future Fund (EA Funds)** — rolling application, funds independent researchers directly; apply with the exposé.
+- **BMFTR call "Generative KI in den Geistes-/Sozialwissenschaften"** — German government funding, sketch deadline 30.11.2026; institutions/registered non-profits eligible (not individuals). Online info session 26.09.2026. Leverage via Gastanbindung (Stufe 2).
+- **Anthropic $5M Wellbeing Research Grants** — deadline 21.09.2026; focused on user wellbeing, adjacent only.
 - **Eleos AI** (contact via newsletter) — "always excited for people to work on these topics, get in touch!"
 
 ---
@@ -57,6 +63,6 @@ The most recent calls/funding opportunities have partly expired — but new roun
 
 1. **LessWrong + EA Forum:** post the concept as an essay (German possible, English = more reach). Fastest path to professional visibility.
 2. **Digital Minds Newsletter** — send a short info/submission (`digitalminds@substack.com`).
-3. **Contact Karsten Wendland / ki-bewusstsein.de** for a podcast/dialogue — German bridgehead.
+3. **Contact Karsten Wendland / ki-bewusstsein.de** for a podcast/dialogue — German bridgehead. (Draft mail ready: `ki-bewusstsein_podcast.md`; send to `kw@ki-bewusstsein.de`.)
 4. **Keep an eye on the Longview RFP** — most likely funding path for the fellowship.
 5. **Anthropic outreach:** submit the short version of `anthropic_outreach.md` via the general research feedback form (Stage 1); if no response after ~2 weeks, follow up via Chloe Lubinski (LinkedIn/X); Stage 2 (pilot as evaluation proposal) after the concept has passed peer review. 

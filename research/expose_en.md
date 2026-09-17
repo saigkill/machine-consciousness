@@ -135,7 +135,7 @@ The guidelines developed in the project are deliberately formulated so that they
 
 **Justification of the individual items:**
 
-- **Living expenses (€1,800):** Based on the current account overview (January/February 2026). Includes: housing contribution (€1,000), R+V health/life/general insurance (~€350), Vodafone (€35), Netflix/Amazon/Medium (~€35), food/pharmacy variable (~€380).
+- **Living expenses (€1,800):** Based on the current account overview (January/February 2026). Includes: housing contribution (€1,000), R+V health/life/general insurance (~€350).
 - **Research resources (€500):** Participation in 1–2 specialist conferences (ACM FAccT, IEEE Ethics in AI, DGPhil), access to specialist databases, printing costs/open-access APCs.
 - **Buffer (€700):** Open items, research material, occasional travel costs for conversations with cooperation partners.
 

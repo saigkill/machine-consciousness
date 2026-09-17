@@ -135,7 +135,7 @@ Die im Projekt entwickelten Leitlinien sind bewusst so formuliert, dass sie:
 
 **Begründung der Einzelposten:**
 
-- **Lebenshaltungskosten (1.800 €):** Basierend auf der aktuellen Kontoübersicht (Januar/Februar 2026). Enthalten: Wohnbeitrag (1.000 €), R+V Kranken-/Lebens-/Allgemeine Versicherung (~350 €), Vodafone (35 €), Netflix/Amazon/Medium (~35 €), Lebensmittel/Apoth variable (~380 €).
+- **Lebenshaltungskosten (1.800 €):** Basierend auf der aktuellen Kontoübersicht (Januar/Februar 2026). Enthalten: Wohnbeitrag (1.000 €), R+V Kranken-/Lebens-/Allgemeine Versicherung (~350 €) uvm.
 - **Forschungsmittel (500 €):** Teilnahme an 1–2 Fachkonferenzen (ACM FAccT, IEEE Ethics in AI, DGPhil), Zugang zu Fachdatenbanken, Druckkosten/Open-Access-APC.
 - **Puffer (700 €):** Offene Posten, Forschungsmaterial, gelegentliche Fahrtkosten zu Gesprächen mit Kooperationspartner*innen.
 

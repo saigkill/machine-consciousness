@@ -29,18 +29,6 @@ See Roadmap: https://github.com/saigkill/machine-consciousness/blob/main/roadmap
 
 ## Repository Structure
 
-Start with the concept:
-
-english: https://github.com/saigkill/machine-consciousness/blob/main/concept/en/concept.md
-
-german: https://github.com/saigkill/machine-consciousness/blob/main/concept/de/concept.md
-
-Concept simplified:
-
-englisch: https://github.com/saigkill/machine-consciousness/blob/main/publications/general/en/Tell%20me%20if%20i'm%2012/Tell_me_if_im_12.pdf
-
-german: https://github.com/saigkill/machine-consciousness/blob/main/publications/general/de/Erkl%C3%A4rs%20mir%20als%20w%C3%A4re%20ich%2012/Erklaers_mir_als_waere_ich_12.pdf
-
 ```
 concept/                  ← Concept documents
   de/                     ← German (original)
@@ -56,6 +44,20 @@ publications/             ← Published and planned articles
     de/                   ← German versions
     en/                   ← English versions
 ```
+
+## Concept
+
+Start with the concept:
+
+english: https://github.com/saigkill/machine-consciousness/blob/main/concept/en/concept.md
+
+german: https://github.com/saigkill/machine-consciousness/blob/main/concept/de/concept.md
+
+Concept simplified:
+
+englisch: https://github.com/saigkill/machine-consciousness/blob/main/publications/general/en/Tell%20me%20if%20i'm%2012/Tell_me_if_im_12.pdf
+
+german: https://github.com/saigkill/machine-consciousness/blob/main/publications/general/de/Erkl%C3%A4rs%20mir%20als%20w%C3%A4re%20ich%2012/Erklaers_mir_als_waere_ich_12.pdf
 
 ## Methodology
 

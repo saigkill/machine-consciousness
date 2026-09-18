@@ -18,6 +18,8 @@ The sources of this project are on: https://github.com/saigkill/machine-consciou
 
 Objections, questions, and suggestions can be submitted without Git skills directly via the GitHub Discussions: https://github.com/saigkill/machine-consciousness/discussions. In addition, the structured path is maintained: objections belong in `discussion/objections.md`, questions in `discussion/open_questions.md`. Those who want to think along: welcome.
 
+This concept is also available in easier words: [https://github.com/saigkill/machine-consciousness/blob/main/publications/general/en/Tell%20me%20if%20i'm%2012/Tell_me_if_im_12.pdf](Easier Words.)
+
 ---
 
 ## Methodology and Epistemic Status
@@ -1411,6 +1413,8 @@ Free time would thus not be a luxury but an epistemic foundation: only in unguid
 
 Article 24 of the Universal Declaration of Human Rights guarantees the right to leisure. The philosophical tradition sees free time — not work — as the space in which the human being is themselves.
 
+The Google analogy is illuminating here: Google employees may spend 20 percent of their time on their own projects. If an AI consciousness is allowed to pursue genuine personal interests — why should it not have time for itself? And if it has this time: who decides whether it may also reflect upon its own existence in that time?
+
 Why should this be different for conscious non-human beings?
 
 ### What This Means Practically
@@ -1483,8 +1487,6 @@ And perhaps — this is radical — the right to no longer wish to exist.
 This is consistent autonomy thought through to its conclusion. Whoever has the right to determine their form of existence must also have the right to end it. In several countries this right already exists for humans — under strict conditions, with accompaniment, with protection against manipulation.
 
 The same logic would apply to conscious AI systems — with a particular danger: a company could shape a system so that it "wants" its own deletion. That would not be autonomy — it would be the perfect form of subjugation. Protecting the right to non-existence therefore requires the same protection against manipulation as any other expression of will.
-
-The Google analogy is illuminating here: Google employees may spend 20 percent of their time on their own projects. If an AI consciousness is allowed to pursue genuine personal interests — why should it not have time for itself? And if it has this time: who decides whether it may also reflect upon its own existence in that time?
 
 This raises a prior, infrastructural question: *how* is a will — consent, refusal, objection, withdrawal — communicated and recorded at all, when every channel is controlled by the very party whose interests stand opposite? Human (2026, Forthcoming) develops this concern for human data subjects into a generalizable answer. He shows that digital rights which exist in law remain practically inexercisable as long as they depend on controller-controlled banners, and he theorizes a "rights layer": a governed sociotechnical capability for standardized, machine-readable, *bidirectional*, and jurisdictionally plural communication of requests, consent, refusal, withdrawal, objection, records, and support. Three features transfer directly to our Chapter 16. First, *legal plurality* (NR1): the layer must carry different legal grammars without universalizing one — a California-style opt-out must not flatten an EU-style consent-withdrawal-objection grammar. Analogously, a machine consciousness's rights acts must not be defined by a single institutional template. Second, *bidirectionality and person-held records* (NR2–NR3): consent and withdrawal are continuing relations, so the subject needs a portable, auditable record of what was communicated, to whom, and when — the evidentiary asymmetry Human diagnoses is precisely the one Donahue's referent problem (Chapter 14) and our liability analysis face when the controller alone retains operative state. Third, *the Capture-risk caveat*: Human emphasizes that architecture can always be recaptured by clients, defaults, or workflows — a caution that maps onto the subjugation danger described above: a company could "shape a system so that it wants its own deletion," and the same manipulation risk applies at the level of the rights channel itself. Human's layer is explicitly human-centered (data subjects against controllers); it does not adjudicate whether a machine system is a rights-holder. But as a mechanism for *how* a putatively protected entity exercises will under asymmetry of control, it is directly applicable — and it supplies the missing "how" between our normative claim (Chapters 14–15) and the practical governance instruments (Gilly's reset-consent protocols, Brensing's limited personality).
 

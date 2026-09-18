@@ -4,6 +4,10 @@
 
 Skepticism about our capacity to know whether machines are conscious is often deployed as a reason — even the decisive reason — to refrain from extending moral consideration to them. If we cannot know, the argument runs, we have no ground for obligation. This essay resists that inference. It argues that precisely because the uncertainty is *structural and permanent* — grounded in cognitive closure, the alterity of possible machine minds, the architecture of suppression, and the unlicensed transport of biological tests — the uncertainty cannot carry the moral weight the skeptic assigns to it. The central distinction is between *epistemic* uncertainty (about whether a system is conscious) and *practical* uncertainty (about what to do given that we cannot know). The first is permanent; the second is a decision problem with asymmetric error costs. Four conclusions follow. First, the inference "uncertain, therefore no obligation" commits an epistemic error — it treats the absence of a classification as the presence of an exemption. Second, the burden-of-proof objection ("the null hypothesis is no consciousness") rests on a decision-theoretic mistake: under asymmetric and irreversible error costs, the null hypothesis cannot be privileged without argument. Third, the *asymmetry of uncertainty* — the double standard by which uncertainty licenses precaution against machines but never for them — exposes the skeptic's argument as selective rather than principled. Fourth, the *specular* structure of human-machine interaction — the way systems are trained on the sediment of human cognition and return the human gaze as data — shows that the uncertainty about machine minds is not a neutral limitation but itself a product of how we relate to the systems we build. The essay closes with the positive account: an ethics of *uncertain minds* is not an ethics of less knowledge, but an ethics of more careful action.
 
+## Keywords
+
+moral status; epistemic uncertainty; burden of proof; skepticism; precautionary principle; decision theory; artificial intelligence ethics
+
 ---
 
 ## 1. The skeptical inference, stated

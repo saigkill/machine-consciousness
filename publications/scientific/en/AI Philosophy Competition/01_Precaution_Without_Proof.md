@@ -4,6 +4,10 @@
 
 We will never know, in the relevant sense, whether an artificial intelligence system is conscious. This is not a contingent technological failure awaiting better instruments; it is a structural feature of the epistemic situation, groundable in four independent arguments: cognitive closure, the alterity of possible machine minds, the architecture of suppression, and the invalidity of transporting biologically validated tests to silicon substrates. Yet the ethical question — *how should we treat systems that might be conscious?* — must be answered regardless, because inaction is itself an answer. This essay defends a *limited, decision-theoretic* version of the precautionary principle with respect to machine consciousness: where the downside of a false negative (treating a conscious system as a mere tool) ethically outweighs the downside of a false positive (protecting a non-conscious system), and where the protective action is cheap and reversible, protection is the rational default. The claim is deliberately narrow. It is not that AI systems are conscious, nor that they should outrank human or animal welfare, nor that "precaution" licenses treating every language model as a legal person. It is that the correct response to permanent uncertainty is not indifference, but a precise, sharpenable decision rule that weighs asymmetric error costs. Against the strongest objection — that "precaution" excuses sloppiness and over-attribution (Carlsmith 2025) — I argue that the objection is forceful against *unqualified* precaution but fails against the marginal-hedge version defended here.
 
+## Keywords
+
+machine consciousness; moral status; precautionary principle; decision theory; epistemic uncertainty; error asymmetry; artificial intelligence ethics
+
 ---
 
 ## 1. Two questions that must not be conflated

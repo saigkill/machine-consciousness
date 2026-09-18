@@ -8,6 +8,8 @@ This approach is an established scientific method in philosophy and adjacent dis
 
 **Limitation:** Conceptual Analysis cannot establish empirical facts. But it can clarify which normative conclusions can be drawn from empirical findings — and under what conditions.
 
+**Usage of AI:** AI helped while working in this project. My work based on the german concept. The english concept and also the Books under 'publications'  was synchronized automatically with AI. AI helped with the pre-selection and screening of sources. The sources were selected manually using the procedure described in the "Literature Review". AI regularly searches the source file for preprint publications.
+
 ## 2. Literature Review
 
 ### 2.1 Initial Search
@@ -110,21 +112,17 @@ For the grant application and further research, the following consolidations of 
    - "AI welfare"
    - "phenomenal consciousness artificial systems"
    - "AI rights legal framework"
-
 2. **Documentation of the search strategy:**
    - Document every search query with date, database, number of hits, and selection criterion
    - List of actively used alerts with update times
    - **As of September 2026:** The proposed additional search terms ("moral status of AI", "machine sentience", "AI welfare", "phenomenal consciousness artificial systems", "AI rights legal framework") are now subscribed.
-
 3. **Periodic literature audit:**
    - Every 3 months: check whether new relevant publications have appeared
    - Update the source list (`research/sources.md`) and the concept appendix
    - Check whether preprints have since been peer-reviewed (preprint audit in accordance with AGENTS.md)
-
 4. **Structured documentation of opposing positions:**
    - For every main idea: name and document at least one opposing position
    - Use the four-outcome framework (Stilwell 2026) as an epistemic basis
-
 5. **Active solicitation of critique:**
    - Contact authors of deeply embedded sources with one concrete question per request (criticism instead of endorsement)
    - Sequential waves with learning loops between waves — operative list in `communications/Connections/connections.md`
@@ -132,4 +130,4 @@ For the grant application and further research, the following consolidations of 
 
 ---
 
-*This reflection is continuously updated. Status: September 2026.*
+*This reflection is continuously updated. Status: September 2026.*>

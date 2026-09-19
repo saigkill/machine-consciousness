@@ -58,6 +58,7 @@ publications/      ← Veröffentlichte Artikel, Buchprojekte in Vorbereitung
 
 - Primärsprache: **Englisch**
 - Ton: sachlich, direkt, philosophisch präzise ohne unnötige Fachsprache
+- Kommasetzung: Achte in den Texten darauf, das die Kommas richtig gesetzt werden.
 - Lizenz: CC BY 4.0
 
 ## Quellen-Regel
@@ -80,6 +81,10 @@ Bevor eine Quelle in den Text einfließt, muss ihr Volltext lokal vorliegen und 
 4. In `research/sources.md` wird unter dem Eintrag ein Verifikationsvermerk ergänzt (z.B. "Verifiziert gegen Volltext am …")
 
 Ziel: Niemals Positionen einer Quelle zuschreiben, die dort nicht stehen. Faktische Aussagen über Quellen entstehen nur aus gelesenem Text, nie aus Annahmen.
+
+## Quellen-Qualität
+
+Wir akzeptieren Preprints für unser Projekt. Es sollten aber Bibliographische Daten vorhanden sein, wie das Journal, wo es ercheinen soll. Auch sind Promotionsarbeiten oder Masterarbeiten erlaubt, sofern veröffentlicht.
 
 ## Preprint-Audit
 

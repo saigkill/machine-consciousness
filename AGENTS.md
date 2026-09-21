@@ -59,6 +59,7 @@ publications/      ← Veröffentlichte Artikel, Buchprojekte in Vorbereitung
 - Primärsprache: **Englisch**
 - Ton: sachlich, direkt, philosophisch präzise ohne unnötige Fachsprache
 - Kommasetzung: Achte in den Texten darauf, das die Kommas richtig gesetzt werden.
+- Inhalt: Vermeide lange Schachtelsätze.
 - Lizenz: CC BY 4.0
 
 ## Quellen-Regel
@@ -108,7 +109,7 @@ Wenn wir mit externen Artikeln arbeiten, zitieren wir wissenschaftlich korrekt.
 
 ## Slicing
 
-Nach und nach erstelle ich aus dem Konzept kompakte Artikel zur Veröffentlichung. In 'publications/slicing.md' habe ich bereits mögliche Artikel zusammengestellt. Sobald ein Artikel veröffentlicht wurde, wird dies in der Liste vermerkt. Um ein Selbstplagiat zu vermeiden, verweisen wir auf die Projektseite 'https://github.com/saigkill/machine-consciousness'. Sollte das Journal, bei dem ich einreiche eine anonymisierung verlangen (zB JEST) lassen wir die Projektseite weg. In den zu generierenden Dateien fügen wir oberhalb der Referenzen den Passus "Der Autor erklärt keinen Interessenkonflikt zu haben".
+Nach und nach erstelle ich aus dem Konzept kompakte Artikel zur Veröffentlichung. In 'publications/slicing.md' habe ich bereits mögliche Artikel zusammengestellt. Sobald ein Artikel veröffentlicht wurde, wird dies in der Liste vermerkt. Um ein Selbstplagiat zu vermeiden, verweisen wir auf die Projektseite '<https://github.com/saigkill/machine-consciousness>'. Sollte das Journal, bei dem ich einreiche eine anonymisierung verlangen (zB JEST) lassen wir die Projektseite weg. In den zu generierenden Dateien fügen wir oberhalb der Referenzen den Passus "Der Autor erklärt keinen Interessenkonflikt zu haben".
 
 ## Offene Fragen
 
@@ -117,7 +118,7 @@ Wenn wir daran arbeiten, und eine objection oder open questions bearbeitet und d
 
 ## Externe Beteiligung (GitHub Discussions)
 
-Nicht-Techniker:innen können Einwände, Fragen und Anregungen ohne Git-Kenntnisse über https://github.com/saigkill/machine-consciousness/discussions einreichen — niedrigschwelliger Kanal parallel zu `discussion/`.
+Nicht-Techniker:innen können Einwände, Fragen und Anregungen ohne Git-Kenntnisse über <https://github.com/saigkill/machine-consciousness/discussions> einreichen — niedrigschwelliger Kanal parallel zu `discussion/`.
 
 Aufnahme-Vermerk: Wird ein Beitrag aus den GitHub Discussions in die Arbeit übernommen, wird er in den strukturierten Ordner übertragen:
 
@@ -129,4 +130,4 @@ Beim Transfer den Ursprung des Beitrags (Diskussions-Link, Nutzer-Alias) notiere
 
 ## DOI
 
-This repository has the DOI https://doi.org/10.5281/zenodo.21453666
+This repository has the DOI <https://doi.org/10.5281/zenodo.21453666>

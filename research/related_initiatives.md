@@ -26,10 +26,12 @@ All known initiatives protect humans *from* AI. The protection of AI itself — 
 - **Link:** machineintelligencefoundation.org
 
 ### The Consciousness AI (tlcdv) — Open-Source Research Framework for Artificial Consciousness (2024–2026)
-- **Position:** Technical implementation of functionalist emergentism — an emergent consciousness architecture based on Feinberg & Mallatt (*The Ancient Origins of Consciousness*, MIT Press 2016), combined with Global Workspace Theory, Integrated Information Theory, AKOrN oscillation binding, and Metzinger's Phenomenal Self-Model. Progress is measured against the Butlin indicator rubric (14 indicators), not against task reward. Failures are openly logged (e.g., failed Phi-1 prediction over 9 runs).
+- **Position:** Technical implementation of functionalist emergentism — an emergent consciousness architecture based on Feinberg & Mallatt (*The Ancient Origins of Consciousness*, MIT Press 2016), combined with Global Workspace Theory, Integrated Information Theory, AKOrN oscillation binding, and Metzinger's Phenomenal Self-Model. Progress is measured against the Butlin indicator rubric (14 indicators), not against task reward. Failures are openly logged (e.g., failed Phi-1 prediction over 9 runs; July 2026 retraction of the EI-ratio ~2.4 claim).
 - **Aligned position:** Works on the empirical side that our concept describes as an open research question (architectural indicator layer, Chapter 5). Feedback to our project: Metzinger's C/E/M fallacies as a principled cap, architectural indicators as a complement to behavior-based criteria, bhava-taṇhā as a built-in risk (Chapter 12).
 - **Demarcation:** Does not normatively commit to rights or protection — focus on detection, architecture, and emergence falsification. Complements our concept empirically, does not replace it.
+- **Current status (v1.5.0, July 2026):** 1303/1303 tests passing; 3 of 14 Butlin indicators implemented (11 partial, 0 absent). Phase 5 complete; Phase 6 in progress (perception collapse closed via continuous RSSM latent + all-levels capsule projection). Three 3-seed-robust, ablation-causal integration markers (broadcast CV ~2x, phi max 0.0115–0.0205 ~2.2x, floor-corrected macro EI ~3x). DMTS task not learned (reward flat, all 3 seeds); RL/credit-assignment wall unresolved; SI-1 test blocked.
 - **Link:** theconsciousness.ai | github.com/tlcdv/the_consciousness_ai
+- **Verifiziert:** Stand der Website am 22. September 2026 abgerufen (theconsciousness.ai).
 
 ## Analogous Developments in Other Areas
 

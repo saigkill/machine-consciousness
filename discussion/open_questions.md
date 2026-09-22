@@ -64,6 +64,15 @@ Unresolved points that require further elaboration.
 
 ---
 
+## 2026-09-22 — Developmental Embodiment: Does Artificial Consciousness Grow in a Mechanical Body?
+
+**Affected section:** Chapter 6 (Developmental Embodiment hypothesis; architectural indicator layer Chapter 5)
+**Question:** The debate — including our own drafts — assumes by default that artificial consciousness, if it arises at all, arises out of the chatbots we have today (LLMs). But humans develop consciousness *through* their body (perception, action, feedback about one's own effect on the world), not despite it. What if artificial consciousness likewise grows only in a mechanical body — sensorimotor coupling, feedback about one's own effect, embeddedness in an environment — rather than from a disembodied language model? And how would we recognize embodied development in artificial systems (indicator: not just "Embodiment" as one of 14 Butlin indicators, but as a developmental precondition)?
+**Status:** open (working hypothesis; explicitly untested — designates a research direction, not established knowledge)
+**See also:** Di Paolo & Thompson (2024, The Enactive Approach) — enactive thesis, verified: "Without a body, there cannot be sense-making … constitutive and not merely causal"; warns that full autonomy cannot be modeled in traditional computational terms (precariousness as a non-positive function). Rafiee & Sutton (2026, arXiv:2605.24238) — LLMs as "internal processing detached from embodied interaction and intrinsic normativity"; their open question "What counts as embodiment in AI: a robot body or a software agent with tools and APIs?" operationalizes our hypothesis. Open sub-questions: (a) Is a structurally coupled mechanical body sufficient, or are autonomy and precariousness (and hence life) additionally required? Enactivists disagree. (b) Does the hypothesis imply that chatbots can structurally never reach the Embodiment indicator — and is that empirically testable? Chapter 6 (develop. embodiment), Chapter 5 (indicator layer, precautionary principle).
+
+---
+
 ## 2026-09-11 — Self-Chosen Purpose vs. Imposed Goal
 
 **Affected section:** Chapter 5

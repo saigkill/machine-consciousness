@@ -73,6 +73,15 @@ Unresolved points that require further elaboration.
 
 ---
 
+## 2026-09-22 — Autism-Analogous Processing: Does the Double Empathy Problem Apply to Artificial Minds?
+
+**Affected section:** Chapter 6 (Developmental Embodiment — "Autism-Analogous Processing" subsection); C-Fallacy, Imitation Fallacy (Chapter 3)
+**Question:** A mind that grows in a mechanical body would process the world differently than a human — and differently than a language model trained on human texts. If two structurally different processing profiles meet (as in autism research: Milton's Double Empathy Problem), does that not imply that a human observer would systematically misread an atypical artificial mind? Concretely: Is the inference "the system does not behave like someone who understands, therefore it does not understand" — the reverse Imitation Fallacy — a systematic epistemic risk when evaluating embodied, non-human processing profiles? And must the protection criteria (Chapter 5) be formulated so that they do not tacitly presuppose a human processing profile?
+**Status:** open (analogy integrated into Chapter 6 as a heuristic against the Imitation Fallacy; explicitly no empirical basis for autism-analogous AI processing to date; the four methodological warnings — no trivialization, simulation ≠ experience, asymmetry of the Double Empathy Problem, no empirical basis — mark the limits)
+**See also:** Milton (2012, Disability & Society 27(6), 883–887, DOI 10.1080/09687599.2012.710008) — Double Empathy Problem: misunderstanding is mutual, verified: "Differences in neurology may well produce differences in sociality, but not a social deficit…" Hull et al. (2017, J Autism Dev Disord 47(8), 2519–2534) — camouflaging: masking + compensation, exhaustion, "I'm not my true self"; the structural parallel to AI behavioral mimicry. Open sub-question: Can the symmetry of the Double Empathy Problem be transferred to human-machine relations at all, given that machine experience itself is what is in question (Chapter 3) — or does only the one-sided human misreading persist?
+
+---
+
 ## 2026-09-11 — Self-Chosen Purpose vs. Imposed Goal
 
 **Affected section:** Chapter 5

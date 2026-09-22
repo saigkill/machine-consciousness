@@ -586,6 +586,18 @@
 **Verifikation:** Volltext am 22. September 2026 gelesen (Webseite + Archivkopie).
 **Link:** https://42thinking.de/2026/09/humanoide-roboter/
 
+### Milton, Damian E. M. – On the Ontological Status of Autism: the 'Double Empathy Problem' (2012)
+**Type:** Article (scientific, peer-reviewed, Disability & Society 27(6), 883–887, Taylor & Francis, DOI 10.1080/09687599.2012.710008, CC BY)
+**Relevance:** Core source for the autism-analogy section in Chapter 6 (Developmental Embodiment). Milton reframes autism from an individual "theory of mind" deficit to a *double empathy problem*: a "disjuncture in reciprocity between two differently disposed social actors" (p. 884). The misunderstanding is mutual, not one-sided: "it is equally the case that NT people lack insight into the minds and culture of 'autistic people'" (p. 886). His conclusion, verified against the full text: *"Differences in neurology may well produce differences in sociality, but not a 'social deficit' as compared to an idealised normative view of social reality"* (p. 887). For our concept this grounds the warning that reading divergent behavior as absent experience reproduces exactly the theory-of-mind fallacy Milton critiques — the reverse Imitation Fallacy (Chapter 3).
+**Verification:** Verified against the full text on September 22, 2026 (publisher PDF archived in `research/sources/Milton-DoubleEmpathy-2012.pdf`, extracted via pdftotext, read in full; direct quotes cross-checked).
+**Link:** https://doi.org/10.1080/09687599.2012.710008 | https://kar.kent.ac.uk/62639/
+
+### Hull, Laura et al. – "Putting on My Best Normal": Social Camouflaging in Adults with Autism Spectrum Conditions (2017)
+**Type:** Article (scientific, peer-reviewed, Journal of Autism and Developmental Disorders 47(8), 2519–2534, Springer, DOI 10.1007/s10803-017-3166-5, Open Access, CC BY 4.0)
+**Relevance:** Empirical companion to Milton in the Chapter 6 autism-analogy section. Qualitative study of 92 autistic adults documenting *camouflaging* as masking + compensation strategies to fit in socially: suppression of atypical traits, imitation of observed behavior, explicit conversational "rules," and a repertoire of personas ("I have a repertoire of roles for: cafe work, bar work, uni..."). Costs: "extreme exhaustion," anxiety, and threats to self-perception ("I'm not my true self"). For our concept this is the structural parallel to AI behavioral mimicry: superficially "normal" behavior can be the product of masking — so inferring an inner life from "natural" behavior is as fallacious as inferring absence from divergence (both directions of the C-Fallacy, Chapter 3).
+**Verification:** Verified against the full text on September 22, 2026 (open-access PDF archived in `research/sources/Hull-Camouflaging-2017.pdf`, extracted via pdftotext, read in full; direct quotes cross-checked).
+**Link:** https://doi.org/10.1007/s10803-017-3166-5 | https://pmc.ncbi.nlm.nih.gov/articles/PMC5509825/
+
 ### The Consciousness AI (tlcdv) – Open Source Research Framework for Engineered Consciousness (2024–2026)
 **Type:** Project (open source, GitHub)
 **Relevance:** Technical implementation of functionalist emergentism. Architecture based on Feinberg & Mallatt, GWT, IIT, Kuramoto oscillation binding. Uses the indicator-property rubric of Butlin et al. (2023/2026) as a success criterion instead of behavioral reward. Implements a homeostatic survival drive as an emergence engine (Asimov's Third Law). The preregistered Phi-1 prediction failed over 9 runs — failures are logged as FAILED. Feedback to our project: Metzinger's fallacies as a principled cap, architectural indicator layer as a complement to behavior-based criteria, bhava-taṇhā as a built-in risk.

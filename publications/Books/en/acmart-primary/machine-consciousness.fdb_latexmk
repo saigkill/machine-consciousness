@@ -1,23 +1,24 @@
 # Fdb version 4
-["bibtex machine-consciousness"] 1790091946.83399 "machine-consciousness.aux" "machine-consciousness.bbl" "machine-consciousness" 1790091948.03096 0
+["bibtex machine-consciousness"] 1790102711.38387 "machine-consciousness.aux" "machine-consciousness.bbl" "machine-consciousness" 1790102712.65472 0
   "./ACM-Reference-Format.bst" 1780245478 93560 7091f2b0543d2c8bfe2e82ce5d54a029 ""
   "./acmart.bib" 1790091902.66006 40559 269ecac73726868420a6cadf690e0052 ""
-  "machine-consciousness.aux" 1790091947.88509 34360 aba11159c6d54a84b3c7287a4f842701 "pdflatex"
+  "machine-consciousness.aux" 1790102712.50162 35020 5e5d975c75461074edab924f1a4b438b "pdflatex"
   (generated)
   "machine-consciousness.bbl"
   "machine-consciousness.blg"
   (rewritten before read)
-["cusdep glo gls machine-consciousness"] 1790091945.59816 "machine-consciousness.glo" "machine-consciousness.gls" "machine-consciousness" 1790091948.03088 0
-  "machine-consciousness.glo" 1790091947.88709 3074 9aa8767ce69fb4e50820bc277b7ded64 "pdflatex"
+["cusdep glo gls machine-consciousness"] 1790102711.34997 "machine-consciousness.glo" "machine-consciousness.gls" "machine-consciousness" 1790102712.65462 0
+  "machine-consciousness.glo" 1790102712.50362 3260 b046fbde94db6023d6016a54c48168a7 "pdflatex"
   (generated)
   "machine-consciousness.gls"
   (rewritten before read)
-["pdflatex"] 1790091946.86445 "machine-consciousness.tex" "machine-consciousness.pdf" "machine-consciousness" 1790091948.03104 0
+["pdflatex"] 1790102711.41937 "machine-consciousness.tex" "machine-consciousness.pdf" "machine-consciousness" 1790102712.6548 0
   "/usr/share/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-4.enc" 1775415801 7693 0f2dce6d313c82989ec3a67fc24df2a0 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc" 1775415801 2921 8ca0eb0831f9bc5da080d3697cfe67bf ""
   "/usr/share/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc" 1775415801 2933 9ad527ce78d7c5fa0a642dead095f172 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc" 1775415801 2934 a4a9158faed2e9e89c771b4e3b7fc12f ""
   "/usr/share/texmf-dist/fonts/enc/dvips/libertine/lbtn_afusau.enc" 1775415801 3358 dfe33526c2f2184d6b22489aab24ba03 ""
+  "/usr/share/texmf-dist/fonts/enc/dvips/libertine/lbtn_fygcup.enc" 1775415801 2824 67c67e7402c76b84866a6f91f9790b12 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc" 1775415801 3357 5261ce65ba03aef9faf6135657b9abb6 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/libertine/lbtn_ncsllp.enc" 1775415801 3288 25b5d43be7be8cba51d85b642598b3b0 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc" 1775415801 2933 8d808fcabf70c6c809bb14c283ece4da ""
@@ -51,6 +52,8 @@
   "/usr/share/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1.tfm" 1775415801 19488 f569478ca339d9b5ad93b46bf7a470e2 ""
   "/usr/share/texmf-dist/fonts/tfm/public/libertine/LinLibertineTI-tlf-t1--base.tfm" 1775415801 1932 54655639067fe21ae3b23b77173351a5 ""
   "/usr/share/texmf-dist/fonts/tfm/public/libertine/LinLibertineTI-tlf-t1.tfm" 1775415801 19920 63bb3db95807ffe45b0900d104896325 ""
+  "/usr/share/texmf-dist/fonts/tfm/public/libertine/LinLibertineTZ-tlf-ot1--base.tfm" 1775415801 1360 a425d2371104892a5a1ef36bfb35a4d6 ""
+  "/usr/share/texmf-dist/fonts/tfm/public/libertine/LinLibertineTZ-tlf-ot1.tfm" 1775415801 7980 71b0e73dbd483925d19ec6431fc391c6 ""
   "/usr/share/texmf-dist/fonts/tfm/public/newtx/LibertineMathMI.tfm" 1775415801 1552 f91250a4f6e3f34d48dfc8f34aabc764 ""
   "/usr/share/texmf-dist/fonts/tfm/public/newtx/LibertineMathRM.tfm" 1775415801 768 5d62e4cbf373f8d0d7ef7daa7a6f7a5d ""
   "/usr/share/texmf-dist/fonts/tfm/public/newtx/NewTXMI.tfm" 1775415801 1408 ef71a9098da4d5a1a85b5920860b6731 ""
@@ -77,6 +80,7 @@
   "/usr/share/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb" 1775415801 614791 ea39341e4db76f25cb20c361802d3cd5 ""
   "/usr/share/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb" 1775415801 538965 19c5c8b7f952ac97afb8565e9c21a82d ""
   "/usr/share/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb" 1775415801 490980 e27f1e217a0902faea22205f197918d4 ""
+  "/usr/share/texmf-dist/fonts/type1/public/libertine/LinLibertineTZ.pfb" 1775415801 526513 df8837485c436abdc438032d23b309fa ""
   "/usr/share/texmf-dist/fonts/type1/public/newtx/LibertineMathMI.pfb" 1775415801 35829 268d1d114c9114e541f92817aec4230d ""
   "/usr/share/texmf-dist/fonts/type1/public/newtx/LibertineMathRM.pfb" 1775415801 17941 ddba6afdead1586dc42d18763749eddd ""
   "/usr/share/texmf-dist/fonts/type1/public/newtx/NewTXMI.pfb" 1775415801 32409 aee30089ce2d804d7327a2f8ccff0462 ""
@@ -93,7 +97,9 @@
   "/usr/share/texmf-dist/fonts/vf/public/libertine/LinLibertineT-tlf-ts1.vf" 1775415801 640 f2633b196ddbd644937d19e300a5024e ""
   "/usr/share/texmf-dist/fonts/vf/public/libertine/LinLibertineTB-tlf-t1.vf" 1775415801 1768 5d66dfd9709f1f38b8fb3cb38db46402 ""
   "/usr/share/texmf-dist/fonts/vf/public/libertine/LinLibertineTI-tlf-t1.vf" 1775415801 1768 b3bfd8ed1fe2dce5fd19610abe4c3dbe ""
+  "/usr/share/texmf-dist/fonts/vf/public/libertine/LinLibertineTZ-tlf-ot1.vf" 1775415801 928 e309451f0d164a7f91077df077a91ecc ""
   "/usr/share/texmf-dist/fonts/vf/public/newtx/ntxsy.vf" 1775415801 1792 7cf99effbd74f7851ca7683a6d12b685 ""
+  "/usr/share/texmf-dist/fonts/vf/public/newtx/ntxsy7.vf" 1775415801 1940 bf4bac1135a7513fb45cfd9280176019 ""
   "/usr/share/texmf-dist/fonts/vf/public/newtx/nxlmi.vf" 1775415801 2744 3e5ba39e1559219ae379b7645e2f9524 ""
   "/usr/share/texmf-dist/fonts/vf/public/newtx/nxlmia.vf" 1775415801 2252 bb868e02d533d88cf043058750d87c0b ""
   "/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1775415801 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -240,12 +246,12 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1775415801 43569 fd570f2fa160877d211e859f687312ba ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1782968922 5385779 47c0c393a77fd4a098bacfd57d66b88a ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1782968920 2809892 08ee49a2a457c16225e5c7f156b7fa0e ""
-  "machine-consciousness.aux" 1790091947.88509 34360 aba11159c6d54a84b3c7287a4f842701 "pdflatex"
-  "machine-consciousness.bbl" 1790091946.86109 50432 8b8e3ab5e44204c0221bad0c087f2965 "bibtex machine-consciousness"
-  "machine-consciousness.gls" 1790091945.62622 3655 34cbdbb628e93f604bd5f73fc5d3b8c4 "cusdep glo gls machine-consciousness"
-  "machine-consciousness.out" 1790091947.88709 46938 3f208dddff17302cf418a83d572e46b1 "pdflatex"
-  "machine-consciousness.tex" 1790091888.07906 366429 78203454bf27f841ffef4b4d4fe5d331 ""
-  "machine-consciousness.toc" 1790091947.88709 16204 81488a6556bc2e81c959dea98e8328dc "pdflatex"
+  "machine-consciousness.aux" 1790102712.50162 35020 5e5d975c75461074edab924f1a4b438b "pdflatex"
+  "machine-consciousness.bbl" 1790102711.41564 50432 8b8e3ab5e44204c0221bad0c087f2965 "bibtex machine-consciousness"
+  "machine-consciousness.gls" 1790102711.38162 3812 0b3ba11fdbe3c307cf3889b278ff0058 "cusdep glo gls machine-consciousness"
+  "machine-consciousness.out" 1790102712.50362 48476 926b99e8e1d846b7038fd5cd9b1cf403 "pdflatex"
+  "machine-consciousness.tex" 1790102584.7065 380508 49779cede4d821a1ee74731cba5e0090 ""
+  "machine-consciousness.toc" 1790102712.50362 16650 569f363ae4f51758152c43fa4e9acdd7 "pdflatex"
   (generated)
   "machine-consciousness.aux"
   "machine-consciousness.glo"

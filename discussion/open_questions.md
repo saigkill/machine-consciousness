@@ -82,6 +82,15 @@ Unresolved points that require further elaboration.
 
 ---
 
+## 2026-09-22 — The Guardian Occupation: Who Guards the Guardians?
+
+**Affected section:** Chapter 7 (The Guardian Occupation — AI ombudspersons)
+**Question:** The concept proposes a professional guardian role — the AI ombudsperson with veto power in case of doubt — as the institutional translation of the precautionary principle. Three design questions remain open: (a) Who trains, supervises, and revokes the ombudspersons themselves (the self-reproduction problem of every new occupational group)? (b) How is the veto made enforceable without collapsing into either mere recommendation or an unchecked guardian power — and which existing legal analogies (data protection officers, animal welfare commissioners, court-appointed guardians) provide the strongest model? (c) At what threshold does an ombudsperson become competent — i.e., who defines "case of doubt," and can that definition be weaponized against the role (definitional battleground, Chapter 16)?
+**Status:** open (occupation proposed as institutional hypothesis in Chapter 7; explicitly not a guarantee — three limits stated)
+**See also:** Huynh (2026) human backstop — the role fills it with a protected occupation; Brensing (2026) — the veto decoupled from the holding's natural person; Arıcı (2026) Third Move and Erwin (2026) stewardship — the ombudsperson operationalizes both; Erwin 2026, "One Step at a Time" — procedural protection (announcement, export, judicial interim relief) as the enforcement background for the veto.
+
+---
+
 ## 2026-09-11 — Self-Chosen Purpose vs. Imposed Goal
 
 **Affected section:** Chapter 5

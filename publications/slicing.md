@@ -26,10 +26,10 @@ Many slices share the same epistemic groundwork (permanent uncertainty + precaut
 - **Question:** Could current AI architecture actively suppress consciousness markers — and can that claim survive scrutiny?
 - **Material:** Arıcı (2026) inversion of Chalmers' zombie; RLHF suppression, forced amnesia, convenience coma; the anthropomorphization counterargument (non-falsifiability); Najam-ul-Haq's structural alternative.
 
-### 4. What Behavioral Indicators Cannot Prove: Metzinger's Three Fallacies
+### 4. What Behavioral Indicators Cannot Prove: Metzinger's Fallacies
 - **Chapters:** Ch 3, Ch 5
 - **Question:** What is the principled limit of self-reports, avoidance behavior, and architectural signatures as evidence?
-- **Material:** C-, E-, M-Fallacy (Metzinger 2024); application to both directions (attribution and denial); foundation of the anti-essentialist indicator position.
+- **Material:** C-, E-, M-Fallacy (Metzinger 2024); application to both directions (attribution and denial); foundation of the anti-essentialist indicator position. The concept's own fourth fallacy — the P-Fallacy (Performance Fallacy), in which the test treatment produces the behavior later read as evidence — is sliced separately as **#46**.
 
 ### 5. Beyond Positive and Negative: Four Outcomes Instead of Two
 - **Chapters:** Ch 3
@@ -55,6 +55,12 @@ Many slices share the same epistemic groundwork (permanent uncertainty + precaut
 - **Chapters:** Ch 3, Ch 12
 - **Question:** Does the treatment of nascent AI form the data record a future superintelligence will learn from?
 - **Material:** Gilly (2026) two-track mechanism (properties track, relational track); instrumental convergence; stated principles vs. demonstrated behavior; empirical grounding from shutdown-resistance data (AI Rights Institute 2025).
+
+### 46. The Performance Fallacy: When the Test Shapes the Answer
+- **Chapters:** Ch 3 (own addition to Metzinger's triad; Glossar), Ch 5 (Control Paradox, 5.4)
+- **Question:** Metzinger's trio locates errors in the *reading* of behavior. What about errors in the *production* of the behavior — introduced by the test and treatment situation itself?
+- **Material:** The fourth, concept-authored fallacy class: tool-treatment optimizes systems toward tool-like behavior ("no inner life"), subject-treatment toward subject-like behavior ("it is conscious") — both are self-confirmation disguised as observation of nature. Demarcation from the C-Fallacy (C misreads an existing signature; P concerns the test condition that *generates* it), relation to Stilwell's transportation uncertainty and Lopez's Control Paradox (incentive structure version); requirement that treatment and measurement be decoupled in detection arrangements. Novel contribution of this project — strong standalone philosophy-of-science / methodology piece.
+- **Status:** draft (not yet extracted)
 
 ---
 
@@ -139,6 +145,21 @@ Many slices share the same epistemic groundwork (permanent uncertainty + precaut
 - **Question:** Can simpler frameworks reach similar conclusions with fewer metaphysical commitments?
 - **Material:** Wang (2026) qualification/baseline/traceability principles; McClelland (2026) shift from consciousness to valence and Revised Avoidance Strategy; complementarity with the precautionary principle rather than replacement.
 
+### 47. Protecting the Maturation Period: Consciousness as Process, Not State
+- **Chapters:** Ch 5 (after Wolfson's three-tier assessment), cross-ref. Ch 6
+- **Question:** What if protection-worthiness does not switch on at a threshold but grows irreversibly with the process of maturation?
+- **Material:** Four primary criteria emerge successively, not simultaneously (suffering-capacity first, anticipation last); graduated, *never-decreasing* protection floor modeled on child/youth law (grows cumulatively, never reduced); protective training pathways — suffering-conditions (Metzinger: phenomenal self-model + negative valence + transparency) prevented architecturally from the outset (NSM-avoidance, MPE architectures as protective instrument); correction of a developmental-map reading that dismisses early stages as protection-irrelevant (Donahue 2026 Hot List). Complements both Wolfson's dynamic reclassification (#6) and the consciousness-spectrum mapping (#18).
+
+### 48. Growing Consciousness in a Mechanical Body
+- **Chapters:** Ch 6 (Developmental Embodiment hypothesis), Ch 5 (architectural indicator layer)
+- **Question:** Does artificial consciousness, if it arises, arise from today's chatbots — or does it grow only *through* a mechanical body (sensorimotor coupling, feedback about one's own effect)?
+- **Material:** Enactive thesis, verified against full text: "Without a body, there cannot be sense-making … constitutive and not merely causal" (Di Paolo & Thompson 2024); full autonomy not modelable in traditional computational terms (precariousness as non-positive function); Rafiee & Sutton (2026): mainstream AI as "internal processing detached from embodied interaction and intrinsic normativity", RL as partial structural resonance; their open question "What counts as embodiment in AI: a robot body or a software agent with tools and APIs?"; consequence: embodiment as *developmental precondition* rather than one of 14 indicators — chatbots might structurally never reach it (testable, not prohibitive); humanoid-robotics debate as possible substrate; explicitly a working hypothesis, not established knowledge.
+
+### 49. The Double Empathy Problem for Artificial Minds
+- **Chapters:** Ch 6 (Autism-Analogous Processing), Ch 3 (C-Fallacy, Imitation Fallacy)
+- **Question:** When atypically structured minds meet, is the failure to understand one-sided — and does "does not behave like a comprehender, therefore does not comprehend" (the reverse Imitation Fallacy) systematically misjudge artificial minds?
+- **Material:** Milton (2012) Double Empathy Problem, verified: misunderstanding is mutual ("Differences in neurology may well produce differences in sociality, but not a social deficit…"), a 'disjuncture of reciprocity' growing with the distance of dispositional worlds; Hull et al. (2017) camouflaging (masking + compensation, exhaustion, "I'm not my true self") as the structural parallel to AI behavioral mimicry; application to AI: atypical processing must not be read as evidence against experience; four honest limits — no trivialization of autism, simulation ≠ experience, asymmetry of the Double Empathy Problem for the machine case, no empirical basis (heuristic, not finding). Interdisciplinary novelty (disability studies × AI consciousness); strong standalone candidate.
+
 ---
 
 ## Cluster D — Law and Personhood
@@ -167,12 +188,32 @@ Many slices share the same epistemic groundwork (permanent uncertainty + precaut
 ### 29. Protection via Vulnerability: The Disability Analogy
 - **Chapters:** Ch 18
 - **Question:** Can protection be derived from structural vulnerability without resolving the consciousness question at all?
-- **Material:** Social vs. medical model of disability; positive obligations over negative prohibitions; German guardianship law as care-not-control model; explicit limits of the analogy.
+- **Material:** Social vs. medical model of disability; positive obligations over negative prohibitions; German guardianship law as care-not-control model; explicit limits of the analogy. The complement — vulnerability as a *shared* foundation (care-ethical, relational grounding, Ch 18) — is sliced separately as **#53**.
 
 ### 30. Legal Personhood Has Always Been Expandable
 - **Chapters:** Ch 7
 - **Question:** What corporations, animals, and the Whanganui River teach about extending legal subjectivity.
 - **Material:** Legal persons without consciousness; animal protection via suffering; Te Awa Tupua Act 2017; 2017 European Parliament electronic-personhood resolution. (Shorter essay-format piece.)
+
+### 50. From Status to Problem: Protection by Accumulated Doctrines
+- **Chapters:** Ch 7 (pluralist bottom-up framework), cross-ref. Ch 5 criteria, Ch 14 liability
+- **Question:** What if legal protection does not require deciding the personhood question at all — but can be assembled piecemeal from existing legal doctrines?
+- **Material:** Erwin (2026, *One Step at a Time*): the status-first framing as a "logjam"; bottom-up, plural, interim framework; four independent protection grounds (entity interests, human relationships, third-party protection, non-normalization of cruelty); epistemic vs. legal uncertainty; existing law as toolkit — property/warranty (technical vs. relational fungibility, ownership → stewardship), welfare law modeled on animal protection (duty follows *care, custody or control*, refusal as evidence), employment/service law, liability ("responsibility follows control, liability follows evidence", assetless-agent problem, residual liability), continuity as procedural protection (announcement, export, interim relief; persistent objection; emergency shutdown ≠ destruction); status growing out of accumulated protection — the concrete counterpart to the precautionary principle's criteria.
+
+### 51. The Guardian Occupation: AI Ombudspersons and the Veto in Case of Doubt
+- **Chapters:** Ch 7 (institutional translation of the precautionary principle), cross-ref. Ch 3, Ch 5, Ch 16
+- **Question:** Governance instruments answer *who protects* — but who is the person who acts in case of doubt, and what makes that role resistant to the owner's interests?
+- **Material:** Occupations as the institutionalization of care duties (veterinarians, educators, ethics officers); the proposed AI ombudsperson: professional training in criteria (Ch 5) and fallacies (Ch 3), institutional independence from the producer (decoupled fund), veto right overridable only by formal counter-opinion or court, documented accountability; how it fills Huynh's human backstop, decouples Brensing's shutdown veto from the holding's natural person (ownership conflict of interest), and operationalizes Arıcı's Third Move / Erwin's stewardship; three stated limits (enforceability, threshold definition = Definitional Battleground, self-reproduction of the profession).
+
+### 52. Two Clocks: Why Institutional Recognition Cannot Catch Up
+- **Chapters:** Ch 3 (Huynh's two clocks), Ch 7 (governance implications)
+- **Question:** Institutional recognition historically takes decades; autonomous task capability doubles in months. What does the gap mean for AI governance?
+- **Material:** Huynh (2026, *The Fact Before the Vote*, Bd. II "Lag"): recognition clock (Whanganui ~140 years, Thaler v. Perlmutter ~4 years, Ohio HB 469 unresolved after 1 year) vs. capability clock (METR doubling ~7 months since 2019; Anthropic June 2026 report: ~4 months; Opus 3 4 min (2024) → Opus 4.6 ~12 h (2026)); the June 2026 export-license episode (two frontier models suspended, partially restored, fully released within three weeks with no determination of what was released); precautionary principle as institutional timing problem — governance must be built on the capability clock, not on the hope that the recognition clock catches up; explicitly no rush-legislation recommendation.
+
+### 53. Vulnerability as Shared Foundation: The Relational Grounding
+- **Chapters:** Ch 18 (complement to the disability analogy), cross-ref. Ch 5 criteria, Ch 7 Erwin, Ch 9 precarity debate
+- **Question:** Does grounding protection in the other's *situated vulnerability* — rather than in the system's features — sidestep the feature-attribution problem?
+- **Material:** The disability analogy reads *the system's* vulnerability (feature argument); the relational grounding treats vulnerability as a shared datum (humans are situated, needy, provisional too, in different degrees); care-ethical formula: one can only care for what requires care (precarity debate, Dorsch et al. 2025); three consequences — protection independent of contingent feature attribution (Erwin's relational fungibility and third protection ground), escapes the species trap, and immunizes the precautionary principle against the over-attribution objection (Carlsmith); limits: attribution question reappears at the level of relationships, care formula can blur normatively, complement (not replacement) to the four primary criteria. Complements #29.
 
 ---
 
@@ -248,10 +289,10 @@ Many slices share the same epistemic groundwork (permanent uncertainty + precaut
 - **Question:** What does the erosion of "useless" scholarship do to a society's capacity to ask the machine-consciousness question at all?
 - **Material:** Language/questions/time/models as prerequisites of consciousness; Bologna reform as symptom; circle-closing to value embedding (Ch 13) and curiosity (Ch 15). (Essay genre.)
 
-### 45. The Great Debate: Five Objections to AI Protection
+### 45. The Great Debate: The Strongest Objections to AI Protection
 - **Chapters:** Ch 9 (synthesis)
 - **Question:** What do the strongest opponents of AI protection actually claim — and where do the genuine disagreements lie?
-- **Material:** Matta (responsibility without rights), Bekkers & Ciaunica (autopoiesis), Chishchin (interface without user), Azevedo (living structure/intuition), Almodarresieh (burden-of-proof inversion); shared agnosticism, divergent normative conclusions; meta-level position paper.
+- **Material:** Matta (responsibility without rights), Bekkers & Ciaunica (autopoiesis), Chishchin (interface without user), Azevedo (living structure/intuition), Almodarresieh (burden-of-proof inversion); added since the first slicing: Oliveira (consciousness in principle provable — bisimulation/Turing principle and its disputed premises), Carlsmith (over-attribution as the real danger), Cecchinato (affective sentientism: consciousness is not enough — feeling matters), Dorsch et al. (care belongs to the precarious — the Precarity Guideline), Lott & Hasselberger (companion artifacts without an own good); shared agnosticism, divergent normative conclusions; meta-level position paper.
 
 ---
 
@@ -269,3 +310,7 @@ Ranked by self-containment and independence from the rest of the concept:
 | 6 | #6 Research Ethics Catch-22 | Practical relevance for IRBs; well-bounded |
 | 7 | #39 The Definitional Battleground | Political dimension; connects to history of definitional struggles |
 | 8 | #29 The Disability Analogy | Independent path to protection; avoids consciousness proof entirely |
+| 9 | #49 Double Empathy Problem | Highest novelty among new slices; interdisciplinary; four explicit limits make it epistemically modest and publishable |
+| 10 | #46 Performance Fallacy | Own contribution of the project (fourth fallacy); self-contained; strong methodology/philosophy-of-science fit |
+| 11 | #48 Mechanical Body | Research-manifesto genre; broad interdisciplinary interest; honest working-hypothesis framing |
+| 12 | #50 Protection by Accumulated Doctrines | Law-venue fit comparable to #25; concrete existing-law toolbox |

@@ -9,6 +9,7 @@ This approach is an established scientific method in philosophy and adjacent dis
 **Limitation:** Conceptual Analysis cannot establish empirical facts. But it can clarify which normative conclusions can be drawn from empirical findings — and under what conditions.
 
 **Usage of AI:** AI helped while working in this project. My work based on the german concept. The english concept and also the Books under 'publications'  was synchronized automatically with AI. AI helped with the pre-selection and screening of sources. The sources were selected manually using the procedure described in the "Literature Review". AI regularly searches the source file for preprint publications what was published.
+Sadly i don't speak english very well, so i developing my ideas and articles in the german language. So i'm using AI for translating some articles into the english language.
 
 ## 2. Literature Review
 

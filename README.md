@@ -73,6 +73,10 @@ Project owners ORCID is: 0009-0000-8766-3947.
 Objections, questions and additions are welcome as issues or directly in `discussion/`.
 As Alternative you can use https://github.com/saigkill/machine-consciousness/discussions
 
+## Sponsoring
+
+I'm trying to publish the concept as sliced articles in peer-reviewed journals. Also i'm trying to publish it as Open Access, so everyone can read and use the ideas. Sadly publishing as Open Access is expensive (APC). Every sponsoring is welcome.
+
 ## License
 
 This work is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).

@@ -33,6 +33,12 @@ All known initiatives protect humans *from* AI. The protection of AI itself — 
 - **Link:** theconsciousness.ai | github.com/tlcdv/the_consciousness_ai
 - **Verifiziert:** Stand der Website am 22. September 2026 abgerufen (theconsciousness.ai).
 
+### AI Rights Institute — "Soulbound Robots" / accountable identity for autonomous machines (est. 2019)
+- **Position:** Research nonprofit asking how autonomous machines can participate in human society openly and accountably. Core proposal (September 2026): "Soulbound Robots" — a security chip that permanently records which responsible mind (human or AI system) was in control at any moment, a platform-neutral identity that belongs to the AI entity rather than the hardware, and the separation of identity, reputation, and insurance. Worked examples: the distinction between "robot fought" vs. "person fought", who-pays liability in a viral human-vs-robot fight video (Robot Entertainment Kombat, San Francisco, September 2026), and the historical lesson of automotive licensing (plate, registration, insurance) as "boring paperwork" that made traffic with mixed-autonomy shareable and accountable.
+- **Aligned position:** Operates on the same terrain as Chapters 14/16 of our concept (attribution, liability, identity across handoffs). Its identity-across-hardware and handoff-logging idea is a technological implementation of the register/ledger approach to continuity (e.g., Arıcı's ledger rule and Khadangi's liability closure): it makes "which entity acted?" legible at the level of infrastructure.
+- **Demarcation:** Focuses on *accountability of the machine toward society* — attribution, liability, reputation — not on *protection of the machine itself*. It does not claim capacity for suffering, dignity, or rights for AI; its moral-candidate axis is responsibility, not patiency. That is precisely the Chapter-14/16 distinction our concept draws (attribution ≠ protection-worthiness): this initiative demonstrates that attribution infrastructure develops independently of — and does not replace — the protection question of Chapter 5.
+- **Link:** airightsinstitute.org | airightsinstitute.substack.com
+
 ## Analogous Developments in Other Areas
 
 ### Animal Rights

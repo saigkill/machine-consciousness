@@ -1,0 +1,43 @@
+## References
+
+Arıcı, B. (2026). Detecting consciousness and granting rights: A comprehensive framework for ethical AI development. *PhilPapers*. https://philpapers.org/archive/ARCDCA-2.pdf
+
+Bentham, J. (1789). *An introduction to the principles of morals and legislation*. T. Payne.
+
+Butlin, P., Long, R., Elmoznino, E., Bengio, Y., Birch, J., Constant, A., ... & Schwitzgebel, E. (2023). Consciousness in artificial intelligence: Insights from the science of consciousness. *arXiv preprint*, arXiv:2308.08708.
+
+Butlin, P., Long, R., Sebo, J., Chang, E., Dai, Y., Devlin, S., ... & Schwartz, R. (2026). Identifying indicators of consciousness in AI systems. *Trends in Cognitive Sciences*, *30*(6), 488–501. https://doi.org/10.1016/j.tics.2025.10.011
+
+Carlsmith, J. (2025). The stakes of AI moral status. *Essay series*. https://joecarlsmith.substack.com/p/the-stakes-of-ai-moral-status
+
+Caviola, L., Bennet, S., Bales, N., Beaumont, J., Carey, S., Cleland, J., ... & Zhu, R. J. (2025). Futures with digital minds. *Expert survey report*. https://digitalminds.report/forecasting-2025/
+
+Cristol, A. (2026). *Consciousness in large language models: A systematic review and Bayesian meta-analysis* [Working paper]. Referenced in Wang (2026).
+
+Dorsch, J., Goddu, M. K., Nave, K., Vierkant, T., Coeckelbergh, M., Gürtler, P., Urban, P., Spang, F., & Moll, M. (2025). Against AI welfare: Care practices should prioritize living beings over AI. *AI Magazine*, *46*, e70016. https://doi.org/10.1002/aaai.70016
+
+Fish, K. (2025). Estimates of consciousness probability in current AI models [Blog posts, April/August 2025]. Anthropic.
+
+Gilly, T. (2026). The great inversion: Moral reciprocity, AI consciousness, and the ethics of precedent (v3). *Working paper*, Real Safety AI Foundation. https://realsafetyai.org/documents/Great_Inversion_v3.pdf
+
+Greenblatt, R. (2025). Improving the welfare of AIs: A nearcasted proposal. *LessWrong*. https://www.lesswrong.com/posts/F6HSHzKezkh6aoTr2/
+
+Kurki, V. A. J. (2021). *Legal personhood*. Cambridge University Press. https://doi.org/10.1017/9781108767873
+
+Kurki, V. A. J. (2019). Animals, slaves, and corporations: Analysing legal thinghood. *German Law Journal*, *18*(5), 1051–1076.
+
+Lopez, P. A. (2025). Beyond AI consciousness detection: Standards for treating emerging personhood. *AI Rights Institute*.
+
+Matta, D. (2026). Rights, empathy, and responsibility under uncertainty in artificial intelligence. *Working paper*, American University of Beirut.
+
+McGinn, C. (1989). Can we solve the mind–body problem? *Mind*, *98*(391), 349–366.
+
+Metzinger, T. (2024). *The elephant and the blind: The neuroscience of consciousness*. MIT Press.
+
+Shanahan, M. (2024). Simulacra as conscious exotica. *Philosophical Studies*, *181*(5), 289–315.
+
+Stilwell, P. (2026). Indeterminacy as a scientific result: A four-outcome framework for consciousness attribution. *Independent scholar*. https://philpapers.org/
+
+Sunstein, C. R. (2005). *Laws of fear: Beyond the precautionary principle*. Cambridge University Press.
+
+Wang, H. (2026). Recasting moral patienthood: A minimalist ethical framework grounded in higher-order intelligence and sentience. *Working paper*.

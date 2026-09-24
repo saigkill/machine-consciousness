@@ -80,6 +80,10 @@ No central thesis rests on a single source. The four core criteria for protectio
 ### 3.2 Transparency
 
 All research material is openly available under CC BY 4.0. The discussion section (`discussion/`) systematically documents objections, open questions, and answers — a format that is rarely implemented so consistently in conceptual research.
+We created two files for more transparency:
+
+* 'research/decisions_log': That is the place where we documenting what articles are used and why/why not.
+* 'research/terminology': Its a file for using a term constantly around the concept.
 
 ### 3.3 Peer Review (External)
 

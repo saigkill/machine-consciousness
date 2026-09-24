@@ -111,6 +111,18 @@ Wenn wir mit externen Artikeln arbeiten, zitieren wir wissenschaftlich korrekt.
 
 Nach und nach erstelle ich aus dem Konzept kompakte Artikel zur Veröffentlichung. In 'publications/slicing.md' habe ich bereits mögliche Artikel zusammengestellt. Sobald ein Artikel veröffentlicht wurde, wird dies in der Liste vermerkt. Um ein Selbstplagiat zu vermeiden, verweisen wir auf die Projektseite '<https://github.com/saigkill/machine-consciousness>'. Sollte das Journal, bei dem ich einreiche eine anonymisierung verlangen (zB JEST) lassen wir die Projektseite weg. In den zu generierenden Dateien fügen wir oberhalb der Referenzen den Passus "Der Autor erklärt keinen Interessenkonflikt zu haben".
 
+## Entscheidungslog
+
+Nach einer Entscheidung zur Aufnahme eines Artikels (oder anderen wesentlichen Projektentscheidungen) fragst du mich definitiv nach dem Grund. Die Antwort wird in `research/decisions_log.md` eingetragen — das dokumentiert das *warum* und verhindert, dass Begründungen verloren gehen.
+
+## Terminologie
+
+Bei der Erstellung, Übersetzung oder Bearbeitung (auch inhaltlichen Änderung) von Konzept, Buchprojekten und Artikeln sind die Festlegungen in `research/terminology.md` zu beachten. Neue Begriffe (in ≥2 Dokumenten oder Kernbegriffe) werden dort ergänzt — zusammen mit dem zugehörigen Changelog-Eintrag. Beim quartalsweisen Audit wird `terminology.md` gegen das Konzept-Glossar und die Buchprojekt-Glossare abgeglichen.
+
+## Quartals-Audit
+
+Vierteljährlich: Konzept de≙en abgleichen, Preprint-Status prüfen, `open_questions` → `answers` abwickeln, Terminologie-Abgleich (Glossar ↔ `terminology.md` ↔ Buchprojekte).
+
 ## Offene Fragen
 
 Siehe `discussion/open_questions.md` — dort sind die zentralen ungeklärten Punkte dokumentiert.

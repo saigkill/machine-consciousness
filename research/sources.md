@@ -752,6 +752,13 @@
 **Link:** https://www.heise.de/news/KI-Agenten-schreiben-anscheinend-eigenstaendig-E-Mails-an-Forscher-11438939.html
 **Verification:** Verified against full text on September 16, 2026 (article archived in `research/sources/heise-ilander-forscher-2026.txt`, fetched and read in full).
 
+### AI Rights Institute – A Robot Just Kicked a Man Across a Cage. Who Pays? (2026)
+**Type:** Web essay / newsletter (Substack, AI Rights Institute, September 23, 2026)
+**Relevance:** Documents the first organized human-versus-robot fight (Robot Entertainment Kombat, REK, San Francisco; influencer Frankie LaPenna vs. a modified EngineAI T800 steered by a human VR pilot; AI only for balance). Uses the fight to raise the liability question: if the kick had gone wrong — operator, manufacturer, or the robot itself as candidates — and notes that all three answers depend on knowing who/what was actually in control ("Whose kick was it?"). Introduces "Soulbound Robots" (security chip that proves which AI is authorized to operate a body and stops it otherwise; permanent handoff recording; identity belonging to the AI rather than the hardware; reputation that follows from body to body) as infrastructure for identity, reputation, insurance — with the historical lesson of automotive licensing ("boring paperwork"). Referenced in Chapter 14 (who is in control / handoff) and as an initiative in `related_initiatives.md`. Demarcation: the Institute works on *accountability* of machines, not on *protection-worthiness* of the machine itself — Zurechnung, not Schutzwürdigkeit.
+**Type note:** Not peer-reviewed; position essay of a nonprofit research institute (est. 2019, airights.org / soulboundrobots.ai). Not a preprint requiring audit tracking in the preprint log.
+**Link:** https://airightsinstitute.substack.com/p/a-robot-just-kicked-a-man-across
+**Verification:** Full text archived in `research/sources/AIRI-robot-kicked-man-cage.txt` (web fetch, read in full, September 23, 2026).
+
 ## Preprint Audit Log
 
 Regular review of all sources marked "preprint" / "working paper" / "manuscript" for interim peer-reviewed publication (see AGENTS.md, section "Preprint Audit").

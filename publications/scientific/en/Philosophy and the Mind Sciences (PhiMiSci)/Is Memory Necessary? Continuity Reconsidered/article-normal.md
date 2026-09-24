@@ -6,12 +6,9 @@
 
 **Title:** Is Memory Necessary? Continuity Reconsidered
 
-**Author:** Sascha Manns
-**Email:** smanns@acm.org
-**ORCID:** 0009-0000-8766-3947
-**Affiliation:** Independent Researcher; Member, Association for Computing Machinery (ACM)
-
----
+Sascha Manns
+Independent Researcher
+ORCID: 0009-0000-8766-3947
 
 ## Abstract
 
@@ -237,7 +234,7 @@ Third, there are two things I have not attempted. I have not argued that current
 
 **Data Availability:** This is a conceptual-analysis paper. No empirical data were generated or analysed during the current study.
 
-**Author Contributions:** Sascha Manns: Conceptualization, Methodology, Writing — original draft, Writing — review & editing.
+**Author Contributions:** The author: Conceptualization, Methodology, Writing — original draft, Writing — review & editing.
 
 ---
 
@@ -277,6 +274,4 @@ Ricoeur, P. (1990). *Soi-même comme un autre*. Éditions du Seuil. [Engl. *Ones
 
 Ryan, T. J., & Frankland, P. W. (2022). Forgetting as a form of adaptive engram cell plasticity. *Nature Reviews Neuroscience*, *23*(3), 173–186.
 
----
-
-*This paper is part of the project "Ethical Guidelines for Artificial Consciousness" (<https://github.com/saigkill/machine-consciousness>). The author declares no conflict of interest.*
+*This article based on the concept of the project "Machine Consciousness — Ethical Guidelines for Artificial Consciousness". DOI: https://doi.org/10.5281/zenodo.21453666 (https://github.com/saigkill/machine-consciousness)*

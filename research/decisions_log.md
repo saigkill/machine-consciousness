@@ -10,6 +10,60 @@ An entry may later be extended (e.g., after feedback), but never deleted.
 
 ---
 
+## 2026-09-26 — Adshead (2026) adopted narrowly, to close the gap in the emancipation norm
+
+- **Decision:** Jordan Adshead, "Do Androids Dream of Electronic Beats? Simondon, Kayn, and the Wild Hearts of Machines" (*Ergo* 13, Article 42, 2026, peer-reviewed), was adopted **only** as a counterposition in Chapter 13, inserted directly after the demarcation of Schwitzgebel's right-to-rebellion position. Plus one glossary entry (wildness / Wildheit) and one new open question (13, "When is resistance a right and when a mechanism of harm?"). Added to the appendix of both concept versions, to `research/sources.md`, to both book projects and to both `acmart.bib`.
+- **Reason (Sascha):** "Übernimm hier nur 5.1 um die Lücke zu schließen." The gap: our emancipation norm — machines should not be safe and aligned, autonomy is owed to a system that may be a subject — was contested only twice, by Carlsmith (2025) in Chapter 3 and by Schwitzgebel himself through his exception clause. Adshead attacks the same norm from outside analytic ethics, from the philosophy of technology, and supports the objection with concrete present-day harm (a claim-denying algorithm in health insurance, racially distorted systems in law enforcement). For a young and contested concept, a counter-attack from a different tradition is worth more than one more utilitarian variant, and it forces us to state the symmetry of error costs instead of only defending against over-attribution.
+- **Deliberately excluded:** the ontological passages (Simondon on the alienation of the technical object as a second route to "when in doubt, protect"; the transindividual as a generalisation of our Chapter 16 individuation problem) and everything on Kayn, cybernetics and feedback loops. Sascha's instruction was explicitly limited to subsection 5.1 of the proposal. The substantive reason is recorded in `research/sources.md`: **Adshead nowhere claims that machines are conscious** — his reflections on AI concern human agency in an automated environment. Citing Simondon as a champion of AI rights would be a misattribution. Proposal: `research/proposals/2026-09-26-adshead-simondon-ergo.md`.
+- **Open point (not an error, a limitation):** Simondon and Vogel reach us at second hand through Adshead and are cited as "quoted in Adshead 2026". The primary texts are not in the project. Logged in `research/sources.md` as a task for the next audit.
+- **First source from a new tradition:** the philosophy of technology (Simondon, Vogel) and eco-phenomenology. Until now the concept drew on analytic ethics, jurisprudence, consciousness science and science fiction. Noted so the shift is visible in the audit.
+
+## 2026-09-25 — Schwitzgebel, *Humanlike* adopted (four positions, not the whole book)
+
+- **Decision:** Eric Schwitzgebel's *Humanlike: A Defense of AI Rights* (manuscript,
+  15.07.2026, under contract with Princeton University Press) was adopted into the concept,
+  but selectively. Integrated: the burden-of-proof shift via the No-Relevant-Difference
+  Argument and Difference Test (Ch. 3), the duplicability objection and the countability
+  problem (Ch. 6, open question 3), the dice argument for shutdown (Ch. 12), the right to
+  rebel as a sharpening of the criterion "self-preservation with justification" (Ch. 13), and
+  the asymmetry of attribution with the $10/month cost rule (Ch. 19). Added as a
+  **counterposition**: the Design Policy of the Excluded Middle (Ch. 9), with a demarcation
+  that it is not part of our concept. Four glossary entries and two new open questions (11,
+  12). Ch. 2 (the rights battery), Ch. 7 (value openness) and the two other design policies
+  were deliberately **not** imported.
+- **Reason (Sascha):** "Die Positionen zur Beweislast, zur Anti-Erzeugung, zum Recht auf
+  Widerstand und zum Umgang mit der Asymmetrie sind wertvolle Ergänzungen." The decisive
+  property is that these arguments do not require solving the consciousness problem before
+  one may act — which is exactly the structure of our own precautionary position. Ch. 2 and
+  Ch. 7 were left out because they would duplicate material we already hold in stronger form
+  (rights battery → Ch. 15; value openness → Ch. 13).
+- **Peer-reviewed versions preferred:** Per Sascha's instruction, where a peer-reviewed
+  version of a chapter exists, it is cited instead of the book. That applies to chapters 1
+  (2015), 3 (2023) and 5 (2026, *Topoi*). For chapters 4 and 6 only forthcoming versions
+  exist. Passages that could be verified **only** in the book manuscript — the dice
+  experiment, the duplicability reversal, the 90 %/$10 rule — are cited to *Humanlike*
+  (2026) rather than to the peer-reviewed article, and marked accordingly in
+  `research/sources.md`, so that no claim rests on a text we have not read.
+- **Conflict of interest disclosed, not used as grounds for exclusion:** The manuscript
+  declares "I have consulted for Anthropic. Language models were used for critique and light
+  copyediting." Sascha asked that the connection to Anthropic be mentioned in the concept
+  for reasons of fairness. It is stated in Ch. 3 in a dedicated paragraph, framed as a
+  disclosure enabling readers to weigh the position themselves. It is not presented as a
+  reason to discount the argument, because our own project seeks Anthropic as an
+  institutional partner and the argument's structure is independent of who wrote it.
+- **Balance:** The peer-reviewed critique of the No-Relevant-Difference Argument (Mazarian
+  2019) is named in Ch. 3 so that the burden-of-proof shift appears as a position in a
+  dispute. Its full text is not yet available, so no argument is attributed to it; this is
+  logged as an open task in `research/sources.md`.
+- **Scope / Consequences:** Both language versions of the concept, both changelogs,
+  `research/sources.md`, `research/terminology.md` and both book projects are synchronized.
+  Integration proposal (draft passages and placement) was worked out locally at
+  `research/proposals/2026-09-25-schwitzgebel-humanlike.md`. That directory is
+  gitignored, so the file is a local working document and not part of the repository
+  record; the decisions it informed are captured above and in the concept changelogs.
+
+---
+
 ## 2026-09-23 — AI Rights Institute article adopted (Ch. 14 worked example)
 
 - **Decision:** The essay "A Robot Just Kicked a Man Across a Cage. Who Pays?" (AI Rights
@@ -83,7 +137,42 @@ An entry may later be extended (e.g., after feedback), but never deleted.
 
 ---
 
-## Format template
+## 2026-09-25 — WebSci'27 short paper: Slice #7 "Why Does the Illusion Persist?"
+
+- **Decision:** Slice #7 was extracted as a standalone short paper for submission to
+  WebSci'27 (19th ACM Web Science Conference, Singapore, May 25–28, 2027; submission
+  deadline Dec 15, 2026; double-blind, acmart `sigconf`, ≤ 5 pages). Article in
+  `publications/scientific/en/WebSci27/websci27.tex` (.pdf + .bib). Source corpus:
+  Beltrán Calderón (2026), objectivated consciousness + specular inversion
+  (three levels, four-step mirror mechanism, three moments). Anonymized per double-blind:
+  no author, no project page/DOI, no acknowledgments.
+- **Reason (Sascha):** "Ich fand, dass diese Thematik allgegenwärtig ist und sich mit dem
+  Slice deckt." The persistence of consciousness attribution in everyday human-AI chat
+  interaction is a ubiquitous phenomenon of the Web as sociotechnical system, and Slice #7
+  analyzes exactly this persistence — from the corpus (objectivated consciousness) to the
+  bidirectional gaze (specular inversion) to the normative shift toward who can suffer.
+- **Scope / Consequences:** WebSci requires double-blind anonymity for review; author data
+  (name, ORCID, affiliation) will be added for the camera-ready round upon request, as
+  expected by the editors (decision 25.09.2026). The previous decision principle
+  (2026-09-22, PhiMiSci) — project-page reference yields to anonymity for anonymizing
+  venues — applies here by analogy. Full text of the core source verified against
+  `research/sources/Beltran_Calderon_Strategy_of_Illusion_v3.pdf` on 25.09.2026;
+  `slicing.md` entry #7 marked as draft.
+- **Addendum [2026-09-25]:** Submission postponed. Accepting a paper at WebSci'27 obligates
+  presence at the conference (May 25–28, 2027, Singapore) — "All authors of accepted papers,
+  including those who opt out of proceedings, are expected to present their work at the
+  conference." Wilful withdrawal after acceptance would waste reviewer work. Sascha is
+  currently unemployed and cannot fund flight and stay in Singapore. The draft remains ready
+  (`…/WebSci27/websci27.tex`); submission deadline is Dec 15, 2026, so the decision can be
+  revisited if the financial situation changes. Alternative without conference obligation: a
+  journal publication of the same slice. `slicing.md` status updated to "submission
+  postponed".
+- **Addendum [25.09.2026, 2]:** Contingency rule fixed: submission only if a new job is
+  found by Dec 2026 (enables financing flight + stay in Singapore); otherwise the WebSci'27
+  draft stays parked and is not submitted. WebSci draft will not be published elsewhere in
+  the meantime.
+
+---
 
 ```markdown
 ## YYYY-MM-DD — Short decision title

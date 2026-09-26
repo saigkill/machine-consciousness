@@ -25,7 +25,7 @@ Existing AI ethics initiatives focus primarily on protecting humans *from* AI. P
 
 ## Planned Next Steps
 
-See Roadmap: https://github.com/saigkill/machine-consciousness/blob/main/roadmap/roadmap.md
+See Roadmap: [Roadmap](https://github.com/saigkill/machine-consciousness/blob/main/roadmap/roadmap.md)
 
 ## Repository Structure
 
@@ -49,15 +49,15 @@ publications/             ← Published and planned articles
 
 Start with the concept:
 
-english: https://github.com/saigkill/machine-consciousness/blob/main/concept/en/concept.md
+english: [concept](https://github.com/saigkill/machine-consciousness/blob/main/concept/en/concept.md)
 
-german: https://github.com/saigkill/machine-consciousness/blob/main/concept/de/concept.md
+german: [concept](https://github.com/saigkill/machine-consciousness/blob/main/concept/de/concept.md)
 
 Concept simplified:
 
-englisch: https://github.com/saigkill/machine-consciousness/blob/main/publications/general/en/Tell%20me%20if%20i'm%2012/Tell_me_if_im_12.pdf
+englisch: [concept](https://github.com/saigkill/machine-consciousness/blob/main/publications/general/en/Tell%20me%20if%20i'm%2012/Tell_me_if_im_12.pdf)
 
-german: https://github.com/saigkill/machine-consciousness/blob/main/publications/general/de/Erkl%C3%A4rs%20mir%20als%20w%C3%A4re%20ich%2012/Erklaers_mir_als_waere_ich_12.pdf
+german: [concept](https://github.com/saigkill/machine-consciousness/blob/main/publications/general/de/Erkl%C3%A4rs%20mir%20als%20w%C3%A4re%20ich%2012/Erklaers_mir_als_waere_ich_12.pdf)
 
 ## Methodology
 
@@ -81,4 +81,4 @@ I'm trying to publish the concept as sliced articles in peer-reviewed journals. 
 
 This work is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
-The project logo (machine-consciousnes-logo.png) is Public Domain from https://www.publicdomainpictures.net/de/view-image.php?image=560448&picture=netter-und-freundlicher-roboter Creator: Rostislav Kralik
+The project logo (machine-consciousnes-logo.png) is Public Domain from [Public Domain Pictures](https://www.publicdomainpictures.net/de/view-image.php?image=560448&picture=netter-und-freundlicher-roboter) Creator: Rostislav Kralik

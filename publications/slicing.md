@@ -45,6 +45,7 @@ Many slices share the same epistemic groundwork (permanent uncertainty + precaut
 - **Chapters:** Ch 3, Ch 9
 - **Question:** Why consciousness attribution survives intellectual dismantling — and what the human-machine gaze exchange reveals.
 - **Material:** Beltrán Calderón (2026): objectivated consciousness, three levels of analysis, mirror effect; specular inversion; normative criterion shifts from "who has more consciousness" to "who can suffer."
+- **Status:** draft — extracted for WebSci'27 (short paper, `publications/scientific/en/WebSci27/websci27.tex`); submission postponed (see `research/decisions_log.md`, 2026-09-25)
 
 ### 8. Three Explanations for Missing Evidence
 - **Chapters:** Ch 4

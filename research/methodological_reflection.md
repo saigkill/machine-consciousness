@@ -8,8 +8,7 @@ This approach is an established scientific method in philosophy and adjacent dis
 
 **Limitation:** Conceptual Analysis cannot establish empirical facts. But it can clarify which normative conclusions can be drawn from empirical findings — and under what conditions.
 
-**Usage of AI:** AI helped while working in this project. My work based on the german concept. The english concept and also the Books under 'publications'  was synchronized automatically with AI. AI helped with the pre-selection and screening of sources. The sources were selected manually using the procedure described in the "Literature Review". AI regularly searches the source file for preprint publications what was published.
-Sadly i don't speak english very well, so i developing my ideas and articles in the german language. So i'm using AI for translating some articles into the english language.
+**Usage of AI:** AI helped while working in this project. My work based on the german concept. Sadly i don't speak english very well. So the english concept and also the Books under 'publications'  was synchronized and translated automatically with AI. Also some of the articles was previous in german, but translated in english via AI. AI helped with the pre-selection and screening of sources. The sources were selected manually using the procedure described in the "Literature Review". AI regularly searches the source file for preprint publications what was published.
 
 ## 2. Literature Review
 
@@ -82,8 +81,8 @@ No central thesis rests on a single source. The four core criteria for protectio
 All research material is openly available under CC BY 4.0. The discussion section (`discussion/`) systematically documents objections, open questions, and answers — a format that is rarely implemented so consistently in conceptual research.
 We created two files for more transparency:
 
-* 'research/decisions_log': That is the place where we documenting what articles are used and why/why not.
-* 'research/terminology': Its a file for using a term constantly around the concept.
+* `research/decisions_log`: That is the place where we documenting what articles are used and why/why not.
+* `research/terminology`: Its a file for using a term constantly around the concept.
 
 ### 3.3 Peer Review (External)
 

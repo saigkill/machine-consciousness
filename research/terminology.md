@@ -53,6 +53,16 @@ C_I/C_P untranslated).
 | Objectivated consciousness | objectivated consciousness | Beltrán Calderón 2026 — term stays English |
 | Spekuläre Inversion | specular inversion | Beltrán Calderón 2026 |
 | Maschinelles Unbewusstes | machine unconscious | Beltrán Calderón 2026 |
+| Beweislastwechsel | burden-of-proof shift | Schwitzgebel & Garza 2015 |
+| No-Relevant-Difference-Argument | No-Relevant-Difference Argument | Schwitzgebel & Garza 2015 — term stays English |
+| Difference Test | Difference Test | Schwitzgebel & Garza 2015 — term stays English |
+| Design Policy of the Excluded Middle | Design Policy of the Excluded Middle | Schwitzgebel 2023 — term stays English |
+| Emotional Alignment Design Policy | Emotional Alignment Design Policy | Schwitzgebel & Sebo 2026 — term stays English |
+| Zuschreibungsasymmetrie | asymmetry of attribution | Schwitzgebel & Sebo 2026; covers both over- and under-attribution |
+| Unter Attribution | under-attribution | Schwitzgebel & Sebo 2026 |
+| Anti-Erzeugung | anti-creation | Schwitzgebel 2023 |
+| Wildheit / Wildness | wildness | Vogel 2016, zit. nach Adshead 2026 — Technikphilosophie, **kein** phänomenaler Begriff; kein Bewusstseinsbeleg |
+| Emanzipationsnorm | emancipation norm | Adshead 2026 — Gegenposition aus der Technikphilosophie |
 
 ## Legal and status questions (Chapters 9–16)
 

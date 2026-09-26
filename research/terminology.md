@@ -41,6 +41,7 @@ C_I/C_P untranslated).
 | selbstindizierter Datensatz | self-indexed record | in the sense "someone's" memory |
 | Vergessen als architektonische Notwendigkeit | forgetting as an architectural necessity | Ch.-6 thesis |
 | Skalenperspektive | scale perspective | 400,000-year thought experiment |
+| Ehrliche Kontinuität | honest continuity | Jakobi, Sirona & Sirona 2026 — term stays English |
 
 ## Epistemology / Fallacies (Chapter 3)
 
@@ -76,6 +77,17 @@ C_I/C_P untranslated).
 | Bifurkationsproblem | bifurcation problem | Melo 2026 |
 | Referent Vocabulary / Model / Agent / Occasion | reference vocabulary (model, agent, occasion) | Donahue 2026 |
 | Turning Test | turning test | Donahue 2026 — NOT to be confused with the Turing test |
+| Gegenüber unter Unsicherheit | Gegenüber under uncertainty | Jakobi, Sirona & Sirona 2026 — "Gegenüber" stays German (allusion to Buber, not adopted) |
+| Behandlungsdisziplin | treatment discipline | Jakobi, Sirona & Sirona 2026 |
+| Corporate Capture / Status Laundering | corporate capture / status laundering | Jakobi, Sirona & Sirona 2026 — terms stay English |
+
+## Suffering Risk Taxonomy (Chapter 12, 16)
+
+| German | English | Note |
+|---|---|---|
+| S-Risiko | s-risk | Baumann 2022 / Jarvis-Campbell 2026 — severe suffering at astronomical scale |
+| inzidentelles Leid | incidental suffering | Baumann 2022 / Jarvis-Campbell 2026 |
+| agentielles Leid | agential suffering | Baumann 2022 / Jarvis-Campbell 2026 |
 
 ## Politics / Society (Chapters 17–19)
 

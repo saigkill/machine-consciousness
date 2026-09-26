@@ -1,8 +1,5 @@
 # AGENTS.md — Kontext für OpenCode
 
-## Globale Konfiguration
-
-Lies und befolge ~/.config/opencode/AGENTS.md
 
 ## Arbeitsweise
 
@@ -37,11 +34,7 @@ Ab wann ist technisches Leben schutzwürdig — und wie erkennen wir es?
 
 ## Geplante nächste Schritte
 
-1. Notizen und offene Fragen von Sascha konsolidieren (done)
-2. Konzeptpapier ausarbeiten (done)
-3. GitHub Repository veröffentlichen (done)
-4. Mitstreiter suchen
-5. Anthropic und ACM ansprechen
+Die geplanten Schritte sind in `roadmap/roadmap.md`zu finden.
 
 ## Repo-Struktur
 
@@ -53,14 +46,6 @@ research/          ← Related Initiatives, Präzedenzfälle, Sources
 roadmap/           ← Roadmap, Evaluation Plan, Pilot Location
 publications/      ← Veröffentlichte Artikel, Buchprojekte in Vorbereitung
 ```
-
-## Stil und Sprache
-
-- Primärsprache: **Englisch**
-- Ton: sachlich, direkt, philosophisch präzise ohne unnötige Fachsprache
-- Kommasetzung: Achte in den Texten darauf, das die Kommas richtig gesetzt werden.
-- Inhalt: Vermeide lange Schachtelsätze.
-- Lizenz: CC BY 4.0
 
 ## Quellen-Regel
 
@@ -102,10 +87,6 @@ Ziel: Die Quellendatenbank enthält immer den aktuellen Veröffentlichungsstand.
 
 Halte die englische (concept/en) und die deutsche (concept/de) inhaltlich synchron. Lediglich die Sprache des Textes sollte sich unterscheiden.
 In `publications/Books/de/acmart-primary/machine-consciousness_de.tex` und `publications/Books/en/acmart-primary/machine-consciousness.tex` befinden sich Buchprojekte zu dem Projekt. Synchronisiere bei jeder Änderung der Konzepte auch die angegebenen Buchprojekte und deren bibliographie.
-
-## Einarbeitung
-
-Wenn wir mit externen Artikeln arbeiten, zitieren wir wissenschaftlich korrekt.
 
 ## Slicing
 

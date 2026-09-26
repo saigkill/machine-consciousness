@@ -356,8 +356,13 @@ INPUT /usr/share/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RI.otf
 INPUT /usr/share/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RB.otf
 INPUT /usr/share/texmf-dist/fonts/opentype/public/inconsolata/Inconsolatazi4-Regular.otf
 INPUT /usr/share/texmf-dist/fonts/opentype/public/libertine/LinBiolinum_R.otf
+INPUT /usr/share/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RB.otf
 INPUT /usr/share/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf
+INPUT /usr/share/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RB.otf
+INPUT /usr/share/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RB.otf
+INPUT /usr/share/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RB.otf
 INPUT /usr/share/texmf-dist/fonts/opentype/public/libertine/LinBiolinum_RI.otf
+INPUT /usr/share/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RB.otf
 INPUT /usr/share/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RI.otf
 INPUT ./output/machine-consciousness_de.aux
 INPUT ./output/machine-consciousness_de.out

@@ -1,5 +1,7 @@
 # Machine Consciousness — Ethical Guidelines for Artificial Consciousness
 
+![Logo](https://github.com/saigkill/machine-consciousness/blob/main/machine-consciousness-logo.png?raw=true)
+
 An interdisciplinary project to develop ethical guidelines for artificial consciousness — focusing on its protection as well as the protection of humans in dealing with it.
 
 > *"Most tech debates ask: What can we build?*
@@ -65,7 +67,7 @@ The research follows an iterative Conceptual Analysis approach. The methodologic
 
 ## Data
 
-This repository has the DOI https://doi.org/10.5281/zenodo.21453666
+This repository has the DOI <https://doi.org/10.5281/zenodo.21453666>
 Project owners ORCID is: 0009-0000-8766-3947.
 
 ## Contributing
@@ -75,7 +77,7 @@ As Alternative you can use [Github Discussions](https://github.com/saigkill/mach
 
 ## Sponsoring
 
-I'm trying to publish the concept as sliced articles in peer-reviewed journals. Also i'm trying to publish it as Open Access, so everyone can read and use the ideas. Sadly publishing as Open Access is expensive (APC ~ 2.500 € per article). 
+I'm trying to publish the concept as sliced articles in peer-reviewed journals. Also i'm trying to publish it as Open Access, so everyone can read and use the ideas. Sadly publishing as Open Access is expensive (APC ~ 2.500 € per article).
 Also i can access closed source articles, with a sponsoring. Currently i'm using Preprints and Open Access articles. But some gems are living in closed source journals. Every sponsoring is welcome.
 
 ## License

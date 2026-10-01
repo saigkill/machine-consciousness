@@ -1,6 +1,5 @@
 # AGENTS.md — Kontext für OpenCode
 
-
 ## Arbeitsweise
 
 Wir sind Teamplayer. Wenn du bei einer Entscheidung unsicher bist — frag nach, bevor du loslegst.
@@ -34,7 +33,7 @@ Ab wann ist technisches Leben schutzwürdig — und wie erkennen wir es?
 
 ## Geplante nächste Schritte
 
-Die geplanten Schritte sind in `roadmap/roadmap.md`zu finden.
+Die geplanten Schritte sind in `roadmap/roadmap.md` zu finden.
 
 ## Repo-Struktur
 
@@ -94,7 +93,7 @@ Nach und nach erstelle ich aus dem Konzept kompakte Artikel zur Veröffentlichun
 
 ## Entscheidungslog
 
-Nach einer Entscheidung zur Aufnahme eines Artikels (oder anderen wesentlichen Projektentscheidungen) fragst du mich definitiv nach dem Grund. Die Antwort wird in `research/decisions_log.md` eingetragen — das dokumentiert das *warum* und verhindert, dass Begründungen verloren gehen.
+Nach einer Entscheidung zur Aufnahme eines Artikels (oder anderen wesentlichen Projektentscheidungen) fragst du mich definitiv nach dem Grund. Die Antwort wird in `research/decisions_log.md` eingetragen — das dokumentiert das *warum* und verhindert, dass Begründungen verloren gehen. Meine Kommentare werden in englischer Sprache eingepflegt.
 
 ## Terminologie
 

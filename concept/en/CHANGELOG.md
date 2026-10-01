@@ -3,6 +3,24 @@
 All substantive changes to `concept.md` are documented here. Format follows
 [Keep a Changelog](https://keepachangelog.com/); version numbers follow the concept version.
 
+## [2026-10-01]
+
+### Fixed
+
+- **Consistency of the insolubility arguments** — Chapter 3 now names, like the Executive Summary and the Conclusion, the three converging arguments cognitive closure (McGinn), alien minds (Shanahan) and architectural suppression (Arıcı); Lopez's practical-impossibility argument is presented as a complementary, pragmatic argument. Reason (Sascha): harmonise on the Executive Summary's list.
+- **Matta attribution (Chapter 12)** — Schwitzgebel's dice argument was wrongly described as the burden-of-proof inversion demanded by Matta; Matta rejects that inversion. Corrected to: the inversion defended in Chapter 5, which Matta rejects.
+- **Cross-references** — Author's normative position: counterarguments are addressed in Chapters 3 and 9 (Bekkers & Ciaunica in Chapter 9); non-existent "T-Fallacy" and "Section 5.1.1" replaced; open question 13 aligned with Chapter 13 (capacity for resistance remains an open design question there, not one ruled out).
+- **Bublitz** — *Might Artificial Intelligence Become Part of the Person?* now cited consistently as 2024 (AI & Society), matching `research/sources.md` and the `.bib` files.
+- **Wording** — grammar of the Emotional Alignment Design Policy passage (Chapter 19) and the "Sentientism" glossary entry (aligned with the Allegri account in Chapter 5) corrected; "other minds" → "alien minds" in the Conclusion.
+- **Date line** updated to October 2026.
+
+## [2026-09-28]
+
+### Added
+
+- **Kuczynski (2026), *On AI and Some Philosophical Challenges*, Communication & Cognition 59(3–4), 155–176** — only Part 2 of the paper (the function of consciousness and its absence in AI) adopted, in two places. Chapter 4: new section adding a fourth, independently grounded answer to why current AI shows no clear signs of consciousness — alongside Arıcı's suppression, Najam-ul-Haq's architectural impossibility, and Perez's emulation thesis, Kuczynski's thesis of absent selection pressure: consciousness-like features (real-time processing, reflexive self-monitoring, integration) are absent not because they are suppressed or impossible, but because no functional survival pressure requires them. Chapter 12: new section adding an independent confirmation of Metzinger's bhava-taṇhā paradox from cognitive science rather than the philosophy of consciousness — Kuczynski's pain/emotion analogues for autonomous combat robots construct the same principle (homeostatic survival drive as a potential source of suffering) at a purely engineering level. Reason (Sascha): the fourth answer to why there are no signs of consciousness is a valuable addition to the concept.
+- **Deliberately not adopted:** Part 1 of the paper ("Rethinking Mind: Neural Architecture, Intelligence, and the Limits of Computational Theory") — a purely cognitive-science foundational debate (CTM vs. connectionism, the analog-digital interface) without an independent ethical contribution to the protection-worthiness question.
+
 ## [2026-09-26]
 
 ### Added

@@ -135,6 +135,7 @@ Many slices share the same epistemic groundwork (permanent uncertainty + precaut
 - **Chapters:** Ch 6
 - **Question:** Does lack of persistent memory disqualify a system from consciousness and protection?
 - **Material:** Amnesia analogy; Ricoeur's narrative identity ("developing coherently" vs. "remaining unchanged"); training interactions as formative history; sharpest counter-formulation (Almodarresieh: capacity vs. substrate) and response.
+- Declined by PhiMiSci. Published on Zenodo
 
 ### 23. Consciousness Without a Brain
 - **Chapters:** Ch 6

@@ -8,16 +8,16 @@
 
 | Medium | Format | Einreichweg | Honorar |
 |---|---|---|---|
-| **netzpolitik.org**<br />(submitted) | Gastbeiträge/Meinungsstücke, Analyse | Idee per Mail `cr@netzpolitik.org` (Titel + 2 Absätze, keine fertigen Texte) | spendenfinanziert, i.d.R. unbezahlt |
+| **netzpolitik.org**<br /> | Gastbeiträge/Meinungsstücke, Analyse | Idee per Mail `cr@netzpolitik.org` (Titel + 2 Absätze, keine fertigen Texte) | spendenfinanziert, i.d.R. unbezahlt (submitted) |
 | **Berliner Gazette** | kritische Essays, Technikphilosophie | jährliche „Call for Papers" (Themenjahr 2026 läuft), `info@berlinergazette.de` | pro bono, aber dafür Veranstaltungen/Partner |
-| **iRights.info** (iRights.Lab) | Recht & KI, digitale Ethik — sehr passend für die Rechts- und Haftungskapitel | `redaktion@irights.info` | meist unbezahlt |
-| **Philosophie.ch** (CH) | philosophische Artikel für Publikum, 8.000–20.000 Zeichen | fertige Texte an `info@philosophie.ch` | unbezahlt, sehr niedrige Hürde |
+| **iRights.info** (iRights.Lab) | Recht & KI, digitale Ethik — sehr passend für die Rechts- und Haftungskapitel | Erstkontakt `redaktion@irights.info`; Antwort von **Lea Singson** (`ls@irights.info`) — Gastbeiträge werden angenommen (ca. 1.000 Wörter), Thema + grobe Gliederung als Vorschlag | meist unbezahlt (submitted) |
+| **Philosophie.ch** (CH) | philosophische Artikel für Publikum, 8.000–20.000 Zeichen | fertige Texte an `info@philosophie.ch` | unbezahlt, sehr niedrige Hürde (submitted) |
 
 ## Guter Fit (große Reichweite, Tech-/Wirtschaftspublikum)
 
 | Medium | Format | Einreichweg | Honorar |
 |---|---|---|---|
-| **t3n** | Gastartikel, Praxis/Meinung | Themenidee an `gastartikel@t3n.de`; passt besonders für „Abschalten als Tod", Definitionskampfzone | unbezahlt, dafür große Reichweite + Autorenbox |
+| **t3n** | Gastartikel, Praxis/Meinung | Themenidee an `gastartikel@t3n.de`; passt besonders für „Abschalten als Tod", Definitionskampfzone | unbezahlt, dafür große Reichweite + Autorenbox (submitted          ) |
 | **brand eins** | Essays, „Wirtschaft mit Haltung" | kein offizielles Pitchen; Kontaktformular / Redaktion, Themen mit Gesellschaftsbezug | bezahlt |
 | **Technology Review (heise)** | populärwissenschaftlich | über heise-Autorenwege | bezahlt |
 | **Philosophie Magazin (philomag.de)** | Essays, „Philosophie in den Alltag" | redaktionell, Themenvorschlag an Ressort | bezahlt |

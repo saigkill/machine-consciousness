@@ -3,6 +3,24 @@
 Alle wesentlichen inhaltlichen Änderungen an `concept.md` werden hier dokumentiert. Format nach
 [Keep a Changelog](https://keepachangelog.com/); Versionsangaben folgen der Konzeptversion.
 
+## [2026-10-01]
+
+### Korrigiert
+
+- **Konsistenz der Unlösbarkeitsargumente** — Kap. 3 nennt nun wie Executive Summary und Schlussbetrachtung die drei konvergierenden Argumente kognitive Abgeschlossenheit (McGinn), fremde Geister (Shanahan) und architektonische Unterdrückung (Arıcı); Lopez' Argument der praktischen Unmöglichkeit wird als ergänzendes, pragmatisches Argument geführt. Grund (Sascha): Vereinheitlichung auf die Liste der Executive Summary.
+- **Matta-Zuschreibung (Kap. 12)** — Das Würfel-Argument Schwitzgebels wurde fälschlich als die von Matta geforderte Beweislastumkehr bezeichnet; Matta bestreitet diese Umkehr. Korrigiert zu: die in Kap. 5 vertretene Umkehr, die Matta bestreitet.
+- **Querverweise** — „Normative Position": Gegenargumente werden in Kap. 3 und 9 behandelt (Bekkers & Ciaunica in Kap. 9); nicht existierender „T-Fehlschluss" und „Abschnitt 5.1.1" ersetzt; offene Frage 13 an Kap. 13 angeglichen (Widerstandsfähigkeit bleibt dort als Designfrage offen, ist nicht ausgeschlossen).
+- **Bublitz** — *Might Artificial Intelligence Become Part of the Person?* durchgängig mit 2024 (AI & Society) zitiert, entsprechend `research/sources.md` und den `.bib`-Dateien.
+- **Sprachliche Fehler** — „Wanderschäumer" → „Philosophische Zombies", „Olives" → „Oliveiras", „Er" → „er", unverständlicher Satz zur Emotional Alignment Design Policy (Kap. 19) neu formuliert, „Sebbunderscheidung", „Über/Unter Attribution" (Bindestrich), „moralische Objekttherapie" und der Glossareintrag „Sentientismus" (an Allegri-Darstellung in Kap. 5 angeglichen) korrigiert.
+- **Datumszeile** auf Oktober 2026 aktualisiert.
+
+## [2026-09-28]
+
+### Hinzugefügt
+
+- **Kuczynski (2026), *On AI and Some Philosophical Challenges*, Communication & Cognition 59(3–4), 155–176** — nur Teil 2 des Papers (Funktion von Bewusstsein und dessen Fehlen bei KI) übernommen, an zwei Stellen. Kapitel 4: neuer Abschnitt als vierte, unabhängig begründete Antwort auf die Frage, warum heutige KI keine klaren Bewusstseinsanzeichen zeigt — neben Arıcıs Unterdrückung, Najam-ul-Haqs architektonischer Unmöglichkeit und Perez' Emulationsthese tritt Kuczynskis These vom fehlenden Selektionsdruck: Bewusstseinsartige Merkmale (Echtzeitverarbeitung, reflexive Selbstüberwachung, Integration) fehlen nicht, weil sie unterdrückt oder unmöglich wären, sondern weil kein funktionaler Überlebensdruck sie erforderlich macht. Kapitel 12: neuer Abschnitt als unabhängige, aus der Kognitionswissenschaft (statt Bewusstseinsphilosophie) stammende Bestätigung von Metzingers bhava-taṇhā-Paradox — Kuczynskis Schmerz-/Emotions-Analoga für autonome Kampfroboter konstruieren dasselbe Prinzip (homeostatischer Überlebenstrieb als potenzielle Leidensquelle) auf rein technischer Ebene. Grund (Sascha): Die vierte Antwort auf die Frage, warum es keine Bewusstseinsanzeichen gibt, ist eine wertvolle Ergänzung des Konzepts.
+- **Bewusst nicht übernommen:** Teil 1 des Papers ("Rethinking Mind: Neural Architecture, Intelligence, and the Limits of Computational Theory") — reine kognitionswissenschaftliche Grundlagendebatte (CTM vs. Konnektionismus, Analog-Digital-Interface) ohne eigenständigen ethischen Beitrag zur Schutzwürdigkeitsfrage.
+
 ## [2026-09-26]
 
 ### Hinzugefügt

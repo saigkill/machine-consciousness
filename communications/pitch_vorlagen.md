@@ -77,6 +77,25 @@ Je Medium eine Variante. Ein Pitch ist eine kurze Anfrage, die die Redaktion üb
 
 ---
 
+## Variante F — iRights.info (Erstkontakt: Modalitäten statt fertiger Pitch)
+
+**Hinweis:** Erstkontakt per Mail an `redaktion@irights.info` ist erfolgt; die Redaktion hat mit **Lea Singson** (`ls@irights.info`) geantwortet. Grundsatzbereitschaft für externe Gastbeiträge bestätigt, Modalitäten: ca. 1.000 Wörter, Thema + grobe Gliederung als Vorschlag, danach Entwurf, dann redaktionelle und juristische Korrektur, Veröffentlichung mit Social-Media-Begleitung. Videocall optional angeboten. Anders als Variante A–E ist dies kein fertiger Themen-Pitch, sondern eine **Vorab-Anfrage nach den Modalitäten für Gastbeiträge** (Umfang, Honorar, Ablauf), kombiniert mit einer kurzen Themenangabe — nach demselben Prinzip wie bei netzpolitik.org (Titel + 2 Absätze, keine fertigen Texte). Passt besonders zu den Rechts- und Haftungskapiteln (7, 14–16). **Antwort erhalten — Folgeschritt:** Thema plus grobe Gliederung liegen vor in `irights-pitch.md`, versandfertige E-Mail in `email-irights.md`.
+
+> Betreff: Anfrage zu Gastbeiträgen bei iRights.info
+>
+> Sehr geehrtes iRights.info-Team,
+>
+> ich arbeite seit über einem Jahr an einem interdisziplinären, öffentlich lizenzierten Projekt zu den ethischen und rechtlichen Grundlagen des Umgangs mit potenziell bewusster KI (github.com/saigkill/machine-consciousness) und würde Ihnen gerne einen Gastbeitrag vorschlagen. Der Fokus läge auf einer Frage, die in der aktuellen KI-Regulierungsdebatte kaum vorkommt: nicht, wie wir Menschen vor KI schützen, sondern ab wann und wie ein KI-System selbst rechtlich und ethisch schutzwürdig werden könnte — inklusive konkreter Anschlussfragen zu Rechtspersönlichkeit, Haftung und dem Vorsorgeprinzip als Regulierungsmaßstab.
+>
+> Bevor ich einen konkreten Themenvorschlag ausformuliere, wollte ich kurz nachfragen: Nehmen Sie grundsätzlich externe Gastbeiträge an, und wenn ja, nach welchen Modalitäten (Umfang, Ablauf, Honorar)?
+>
+> Ich bin unabhängiger Forscher auf diesem Gebiet und Mitglied der Association for Computing Machinery (ACM). Über eine kurze Rückmeldung würde ich mich sehr freuen.
+>
+> Mit freundlichen Grüßen
+> Sascha Manns
+
+---
+
 ## Variante E (einfachste) — Heise online / Technology Review (dt.)
 
 **Hinweis:** Am ehesten für den Technologie-/Community-Aspekt. Kürzerer, pragmatischerer Ton, direkte E-Mail.

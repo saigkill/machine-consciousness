@@ -25,6 +25,14 @@ C_I/C_P untranslated).
 | Vorsorgeprinzip | precautionary principle | after Rio 1992 / Art. 191 TFEU |
 | Fehler-Asymmetrie | error asymmetry | cost of false negative ≫ false positive |
 | Entscheidungsregel | decision rule | formal: p·d⁺ > (1−p)·d⁻ |
+| evidentielle Analogie | evidential analogy | Holyoak & Monti 2026; Kap. 9, Glossar |
+| weiches INUS-Set | soft INUS set | Holyoak & Monti 2026; keep "INUS" (Mackie) |
+| epistemische Anästhesie | epistemic anesthesia | Pemberton 2026; Kap. 3, Glossar |
+| Exakt-Null-Behandlung | exact-zero treatment | Pemberton 2026; "no safe zero" |
+| widerlegbare Vermutung (humaner Behandlung) | rebuttable presumption (of humane treatment) | Pemberton 2026; Kap. 9 |
+| Care Effect / Caring Relation | care effect / caring relation | Shahzad 2026; keep English terms in German text |
+| Care Attribution Gap | care attribution gap | Shahzad 2026; keep English term |
+| moralische Vorbereitung | moral preparedness | Shahzad 2026; Kap. 3 |
 
 ## Continuity (Chapter 6)
 

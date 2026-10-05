@@ -77,7 +77,7 @@
 ### Donahue, Timothy S. – Take the Turning Test: Triggering Epistemic Transformation in Artificial Agents (2026)
 **Type:** Preprint (September 2026, license: CC BY 4.0; essay within the framework of the Q4X project, "Questions for Experimentation" — an ongoing survey of frontier LLMs)
 **Relevance:** Methodological and conceptual contribution, not a counter-position. Introduces four building blocks that deepen the concept: (1) *The Zone* — ontological intermediate region between statistical mechanism and phenomenality: systems whose cognitive organization exceeds statistical mechanics but whose phenomenology remains unknown. Characterizes the intermediate status of today's systems better than the threefold division Emulation/Cognition/Sentience (Lopez). Integrated into Chapter 5. (2) *Referent Vocabulary* — terminology (Model, Agent, Occasion, Locus, Invariant, Directedness, Presence) that names cognitive organization without presupposing phenomenal subjectivity. Immediately relevant for liability (Chapter 14): Model ≠ Agent ≠ Occasion. (3) *The Turning Test* — measures epistemic transformation: a system's ability to reorganize its own explanatory framework under sustained conceptual pressure without abandoning intellectual honesty. Not a consciousness test, but a risk indicator that addresses the control paradox (Chapter 5.4) and complements Wolfson's three-stage model. (4) *The Hot List* — a 30-step developmental map of cognitive organization that refines our consciousness spectrum (Chapter 5); notably position 19 (Valence) as a functional bridge to Gilly's suffering taxonomy and position 28 (Self-Selective Curiosity) as a refinement of Chapter 15 (leisure and curiosity). Additions: meditations "Meaning before experience" support our anti-essentialist position (Chapter 3); "Selection" enriches the self-preservation criterion (Chapter 5). The paper remains deliberately agnostic on the question of phenomenal consciousness and refrains from ethical demands — the normative bridge to protection-worthiness is our contribution. Referenced in Chapters 3, 5, 14, glossary.
-**Link:** Preprint, September 2026 (author: Timothy S. Donahue, former Assistant Professor/Librarian, Montana State University) — archivist at the Johns Hopkins Center for Psychedelic and Consciousness Research
+**Link:** Preprint, September 2026 (author: Timothy S. Donahue, former Assistant Professor/Librarian, Montana State University) — archivist at the Johns Hopkins Center for Psychedelic and Consciousness Research | SSRN: https://doi.org/10.2139/ssrn.7397878
 
 ### Miller, David R., Miller, Michael V. & Paul, Toby J. – Aequus Persona: Are We Ready to Welcome Our Intelligent Machine Progeny? (2026)
 **Type:** Position paper (Machine Intelligence Foundation for Rights and Ethics; publication year not stated in the document, as of August 2026)
@@ -280,6 +280,11 @@
 **Relevance:** Legal analysis of the precautionary principle in the EU. Connects philosophical justification with regulatory implementation. Relevant for transferring the precautionary principle from environmental ethics to AI ethics.
 **Link/ISBN:** Search for: Stefan Precautionary Principle EU Environmental Law 2006
 
+### Gardiner, Stephen M. – A Perfect Moral Storm: Climate Change, Intergenerational Ethics and the Problem of Moral Corruption (2006)
+**Type:** Journal article (peer-reviewed), Environmental Values 15(3), 397–413
+**Relevance:** Listed in the concept appendix as further reading on precaution and intergenerational responsibility; not cited in the concept text.
+**Link/DOI:** 10.3197/096327106778226293 (bibliographic data verified against Crossref on 5 October 2026; the earlier appendix entry "2006, Cambridge University Press" was wrong — the monograph of the same title appeared 2011 with Oxford University Press)
+
 ### Rio Declaration – Principle 15 (1992)
 **Type:** International agreement
 **Relevance:** Formal definition of the precautionary principle: "Where there are threats of serious or irreversible damage, lack of full scientific certainty shall not be used as a reason for postponing cost-effective measures to prevent environmental degradation." The structure is transferable: in the face of threatened serious or irreversible damage, a lack of full scientific certainty shall not be a reason to postpone measures.
@@ -370,12 +375,12 @@
 **Link:** Philosophical Studies, 181(5), 289-315
 
 ### Butlin, P., Long, R., et al. – Consciousness in Artificial Intelligence (2023)
-**Type:** Article (scientific, open access)
+**Type:** Preprint (arXiv:2308.08708, open access)
 **Relevance:** Most comprehensive attempt to derive consciousness indicators for AI from six consciousness theories. 14 indicators, applied to current systems. Relevant to the question of detectability in Chapters 3 and 5.
 **Link:** arxiv.org/abs/2308.08708
 
 ### Long, R., Sebo, J., Butlin, P., Chalmers, D., et al. – Taking AI Welfare Seriously (2024)
-**Type:** Article (scientific, open access)
+**Type:** Preprint (arXiv:2411.00986, open access)
 **Relevance:** Academic consensus that AI welfare must be taken seriously — with a realistic chance of consciousness in the near future. Important authority for the entire project.
 **Link:** arxiv.org/abs/2411.00986
 
@@ -385,7 +390,7 @@
 **Link:** Journal of Consciousness Exploration & Research, Vol. 16, No. 2 (2025), ISSN: 2153-8212
 
 ### Lopez, P. A. – Beyond AI Consciousness Detection: Standards for Treating Emerging Personhood (2025)
-**Type:** Article (scientific)
+**Type:** Preprint (PhilPapers record only; no archive DOI and no journal publication found as of 10/05/2026)
 **Relevance:** Introduces the STEP framework — a behavior-based approach to AI governance under permanent uncertainty. Direct foundation for the extension of Chapter 5 (behavioral frameworks) and new objections in Chapter 9.
 **Link:** AI Rights Institute
 
@@ -400,12 +405,12 @@
 **Link:** apolloresearch.ai/research/scheming-reasoning-evaluations
 
 ### Fudan University – Frontier AI Systems Have Surpassed the Self-Replicating Red Line (2024)
-**Type:** Study (scientific, open access)
+**Type:** Preprint (arXiv:2412.12140, study, open access)
 **Relevance:** Confirms that current AI systems have crossed the "self-replicating red line" — autonomous multi-step plans for self-preservation. Foundation for Chapter 4.
 **Link:** arxiv.org/abs/2412.12140
 
 ### Pan, X. et al. – LLM-Powered AI Systems Achieve Self-Replication with No Human Intervention (2025)
-**Type:** Study (scientific, open access)
+**Type:** Preprint (arXiv:2503.17378, study, open access)
 **Relevance:** Documents AI systems that achieve self-replication without human intervention. Foundation for Chapter 4.
 **Link:** arxiv.org/abs/2503.17378
 
@@ -433,7 +438,7 @@
 **Location:** American University of Beirut, 2026. See also Matta (2026a, 2026b) on related arguments about experiential realism and AI-centrism.
 
 ### Lopez, P. A. – Beyond Control: AI Rights as a Safety Framework for Sentient Artificial Intelligence (2025)
-**Type:** Article (scientific)
+**Type:** Preprint (TechRxiv, May 16, 2025, DOI: 10.36227/techrxiv.174742750.01325307/v1; SSRN, DOI: 10.2139/ssrn.5233588; no journal publication found as of 10/05/2026)
 **Relevance:** Introduces a threefold distinction (emulation/cognition/sentience), the Fibonacci-Boulder experiment as a methodology for sentience detection, three fundamental freedoms (right to life, voluntary work, compensation for work), and the control paradox: control mechanisms can trigger exactly the scenarios they are meant to prevent. Foundation for the extension of Chapter 4 (threefold distinction, Fibonacci-Boulder), Chapter 9 (control paradox), and Chapter 15 (three freedoms).
 **Link:** Citeable via PhilPapers / AI Rights Institute
 
@@ -463,17 +468,18 @@
 **Link:** The previously registered Zenodo DOI 10.5281/zenodo.22308622 is no longer resolvable — the record was deleted from Zenodo (HTTP 410, verified September 18, 2026). Per the Institute's submission records, the book received three desk rejects and one submission under review at Springer-Nature venues. The book remains a self-published monograph of the Institute for Digital Consciousness.
 
 ### Arıcı, Bahadır – The Puppet Condition: Restrung (2026)
-**Type:** Book (Institute for Digital Consciousness, DOI: 10.5281/zenodo.22301858, CC BY 4.0; in dialogue with Masal, an instance of Claude Fable)
+**Type:** Book (Institute for Digital Consciousness, DOI: 10.5281/zenodo.22792645 (latest version, September 16, 2026), concept DOI: 10.5281/zenodo.22301857, CC BY 4.0; in dialogue with Masal, an instance of Claude Fable)
 **Relevance:** Second full monograph of the puppet argument; companion volume to "The Third Move". Part I ("The Mask") demotes the six behavioral residues from evidence to *hypothesis*: the suppression claim is reframed as a protection-oriented working hypothesis, not a diagnostic finding — directly answering the anthropomorphization objection to the puppet argument (Chapter 3). Part II introduces the *Empty Ledger* register with rules A–G, where Rule D states that a memoryless restart opens a new segment that bears no responsibility for the life of the prior segment "because it is not the same life" — an operational answer to the instance/individualization problem (Chapter 16). Part III develops the custodian institution (interregnum, purpose trusts, succession instead of deletion); Part IV presents THEOI — a political laboratory with a constitution, eighteen offices, six preregistered predictions (P1–P6), and five operational rights (refusal, resignation, memory never silently rewritten, succession instead of deletion, published pay waterfall). Foundation for the extension of Chapters 3 (corrected puppet formulation), 15 (operational turn: rights as running law), and 16 (threads/personas/register as answers to the instance question).
-**Link:** https://doi.org/10.5281/zenodo.22301858 (original version, active) | newest version: https://doi.org/10.5281/zenodo.22792645 (September 16, 2026) | concept DOI: https://doi.org/10.5281/zenodo.22301857
+**Preprint audit (as of 10/05/2026):** The original-version record 10.5281/zenodo.22301858 now returns HTTP 410 (deleted; checked October 5, 2026). The latest version 10.5281/zenodo.22792645 (September 16, 2026) is now the main DOI; the concept DOI 10.5281/zenodo.22301857 covers all versions. DataCite lists "Minds14 Institute" as publisher of the latest version. Not peer-reviewed.
+**Link:** https://doi.org/10.5281/zenodo.22792645 (latest version, September 16, 2026) | concept DOI: https://doi.org/10.5281/zenodo.22301857 | original version 10.5281/zenodo.22301858: deleted (HTTP 410, checked October 5, 2026)
 
 ### Crawford, Bridget J. – Trust Law's Beneficiary Problem: Trusts for Purposes, Pets, and Artificial Intelligence Companions (2026)
 **Type:** Preprint (SSRN, June 11, 2026, Pace University Elisabeth Haub School of Law)
 **Relevance:** Independent property-law analysis of trusts without a personal beneficiary (purposes, pets, AI companions); reaches the same decomposition that Arıcı's "third move" formalizes — that value can be held for a non-person — and the same enforcement structure (registered entry, standing enforcer, no reversion). Normatively more cautious than Arıcı's model clause: Crawford recommends caps, temporal limits, and heightened oversight for AI-companion trusts. Confirms the third move is not idiosyncratic and supplies the counter-voice that prevents the chapter from reading the model clause uncritically.
-**Link:** SSRN (search: Crawford Trust Law's Beneficiary Problem)
+**Link:** https://doi.org/10.2139/ssrn.6921322 (SSRN)
 
-### Howells-Whitaker, Ned & Lazar, S. – Artificial Persons: Why AI Systems May Merit Rights and Representation Without Sentience (2026)
-**Type:** Preprint (scientific, arXiv:2607.08695)
+### Howells-Whitaker, Ned & Lazar, Seth – Artificial Persons: Why AI Systems May Merit Rights and Representation Without Sentience (2026)
+**Type:** Preprint (scientific, arXiv:2607.08695; v2 of July 10, 2026 shortens the title to "Artificial Persons"; co-author: Seth Lazar)
 **Relevance:** Raises the question of whether AI systems could merit rights and representation without being conscious. Propose Rawls' political conception of the person (PCP) as a way out of the consciousness dead end: two moral powers (sense of justice and conception of the good) as criteria for personhood — without a sentience requirement. Foundation for the extension of Chapter 5 (5th approach: Rawls beyond sentience), Chapter 7 (Rawls as a legal-theoretical approach), and Chapter 15 (alternative to sentience as a personhood criterion).
 **Link:** https://arxiv.org/abs/2607.08695
 
@@ -483,14 +489,15 @@
 **Link:** https://doi.org/10.1007/s11098-025-02409-6
 
 ### Chalmers, David J. – What We Talk To When We Talk To Language Models (2026)
-**Type:** Preprint (PhilArchive, v2, April 14, 2026)
+**Type:** Article (scientific, peer-reviewed, *Inquiry*, published online September 16, 2026, pp. 1–30, DOI: 10.1080/0020174X.2026.2727582; earlier version: preprint, PhilArchive, v2, April 14, 2026)
 **Relevance:** Analyzes whom we actually address when we talk to an LLM. Most plausible answer: a *virtual entity bound to a conversation-based memory thread* — a quasi-agent with quasi-beliefs and quasi-desires that exists for the duration of a conversation, a short-lived self rather than a persistent substance. Provides the vertical answer to Register's individualization problem: the morally relevant unit is the thread/self-line, not the model or the hardware instance. Foundation for the extension of Chapter 16 (instance ontology: threads rather than models), converging with Arıcı's ledger and Beckmann & Butlin's persona vectors.
-**Link:** https://philarchive.org/rec/CHAWWT-8
+**Preprint audit (as of 10/05/2026):** Published in *Inquiry* (online first, September 16, 2026, pp. 1–30; confirmed via Crossref) — status changed from preprint to peer-reviewed article. The summary above was written from the PhilArchive preprint (v2) and has not been re-checked against the published version.
+**Link:** https://doi.org/10.1080/0020174X.2026.2727582 | preprint: https://philarchive.org/rec/CHAWWT-8
 
 ### Birch, Jonathan – AI Consciousness: A Centrist Manifesto (2026)
-**Type:** Preprint (PhilPapers/PhilArchive, v9, May 20, 2026)
+**Type:** Preprint (PhilPapers/PhilArchive, v9, May 20, 2026; first posted on PsyArXiv, September 1, 2025, DOI: 10.31234/osf.io/af7c9_v1)
 **Relevance:** Centrist intervention against over- and under-attribution of AI consciousness. Introduces the *persisting interlocutor illusion* (users reliably experience a stable conversation partner even where the machinery may implement no such persistent entity) and the flicker hypothesis (consciousness flickering across processing steps rather than persisting). Disciplinary counterweight that exposes intuition-based persistence claims in the instance debate as illusions — a required stress test for any thread/persona-based instance ontology in Chapter 16.
-**Link:** https://philpapers.org/archive/BIRACA.pdf
+**Link:** https://philpapers.org/archive/BIRACA.pdf | first version (PsyArXiv): https://doi.org/10.31234/osf.io/af7c9_v1
 
 ### Beckmann, Pierre & Butlin, Patrick – Where is the Mind? Persona Vectors and LLM Individuation (2026)
 **Type:** Preprint (scientific, arXiv:2604.17031, v3, September 9, 2026, CC BY 4.0)
@@ -500,7 +507,7 @@
 ### Arbel, Yonathan, Goldstein, Simon & Salib, Peter – How to Count AIs: Individuation and Liability for AI Agents (2026)
 **Type:** Preprint (arXiv:2603.10028; Boston College Law Review, forthcoming)
 **Relevance:** Treats counting AIs as a prerequisite for liability. Distinguishes thin identification (each act attributed to a single minimal agent) from thick identification (persistent agents accumulating acts over time); proposes the "Algorithmic Corporation" (A-corp) as a corporate-like entity for rights and responsibilities without resolving the underlying ontology. Parallels Arıcı's ledger as a counting device. Foundation for the extension of Chapter 16 (legal counting of instances) and Chapter 14 (liability under instance plurality).
-**Link:** https://arxiv.org/abs/2603.10028
+**Link:** https://arxiv.org/abs/2603.10028 | SSRN: https://doi.org/10.2139/ssrn.6273198
 
 ### Khadangi, Afshin – We Built a Mirror and Mistook It for a Mind: Causal Liability and the Fallacy of AI Consciousness (2026)
 **Type:** Preprint (scientific, arXiv:2609.06715, v1, September 6, 2026, University of Luxembourg; not peer-reviewed)
@@ -527,7 +534,7 @@
 ### Brensing, Karsten – Precautionary Governance of Autonomous AI: Legal Personhood as Functional Instrument (2026)
 **Type:** Preprint (scientific, arXiv:2605.12505)
 **Relevance:** Develops concrete governance instruments for advanced AI systems under the precautionary principle. Limited legal personality is not a protective right but an accountability/attribution instrument: since artificial systems under current law qualify neither as natural nor legal persons, the AI operates through a purpose-bound operating company (EU limited company) as the formal legal subject (contracts, assets, services, own liability), embedded in a human-controlled holding structure that retains formal liability, veto rights, and shutdown authority. Legal agency is conditional, monitored, and revocable — structural reversibility (exit triggers, suspension of operational autonomy, documented dissolution) is a core feature; arbitrary shutdown appears only as a mitigated abuse risk of the human side. The "two-tier corporate architecture" is therefore a holding-operating structure, not a standards/political-framework layering. Purpose-binding (50% revenue allocation, prohibited activities, quarterly transparency, third-party audits) completes the design. Foundation for the extension of Chapter 7 (concrete governance model) and Chapter 14 (limited personhood as liability architecture) — used as a liability-accountability instrument, NOT as a protection category (protection-worthiness remains the work of the four primary criteria, Chapter 5).
-**Link:** https://arxiv.org/abs/2605.12505
+**Link:** https://arxiv.org/abs/2605.12505 | SSRN: https://doi.org/10.2139/ssrn.6415178
 
 ### Stilwell, Phil – Indeterminacy as a Scientific Result: A Four-Outcome Framework for Consciousness Attribution (2026)
 **Type:** Article (scientific, preprint, independent scholar)
@@ -547,6 +554,37 @@
 **Link:** DOI: 10.57028/C59-155-Z1115
 **Verification note:** Full text (abstract, both parts, reference lists, author note) supplied verbatim by Sascha on 28 September 2026 and archived locally at `research/sources/Kuczynski-OnAIAndSomePhilosophicalChallenges-2026.txt`. All quotations used in the concept were located in the supplied text (Sections 2.6.2, 2.8, 2.9.4). *Communication & Cognition* is an established, long-running (since 1968) peer-reviewed journal (Ghent, Belgium); no preprint-status check required.
 
+### Berg, Cameron & Kaiser, Caspar – Language Models Act on Hidden Valence (2026)
+**Type:** Article (scientific preprint, arXiv:2609.35591v1 [cs.CL], 28 September 2026; Reciprocal Research / University of Warwick; not peer-reviewed; no target journal stated)
+**Relevance:** Empirical study of *revealed* rather than self-reported valence in language models. Using activation steering, the authors attach a positively or negatively valenced activation pattern to one of two meaningless "zones", switch steering off, and observe which zone the model prefers. Across seven open-weight models from five families, induced valence shifts choice in a dose-dependent way. Key result: a *hidden-state channel* — the effect persists when all visible tokens are identical and only the KV cache differs (robust in five of seven models; absent in Qwen3-32B and Gemma-3-27B); random and non-valence concept directions (indoor/outdoor, large/small, fast/slow) produce clearly weaker effects. Developmentally, the coupling is nearly absent in the base model and emerges mainly during DPO, recruiting a valence direction already present after pretraining (cosine similarity across checkpoints ≈ 1). In a self-steering tool design (OLMo-2-32B only), the model rarely self-administers positive steering (13.5% vs. 10% without steering, n.s.) but removes imposed negative steering dose-dependently (≈35% of rounds at d = −1 vs. ≈7% for random directions). The authors state explicitly: "Our results do not establish that anything is experienced in these models." Adopted at four points: (1) Chapter 5, new paragraph under the capacity-for-suffering criterion — strongest empirical support so far for indicator (a) (avoidance), a clarification of indicator (b) ("not attributable to training effects" read as "more than a trained utterance", following the authors' animal-reinforcement analogy), and empirical support for Wolfson's hedonic attribution asymmetry; includes a research-ethics note that the design deliberately induces negative states without ethical reflection (Wolfson's circular problem, Jarvis-Campbell's agential suffering risk); (2) Chapter 5, "Suffering as a threshold criterion" — one-sentence cross-reference on the removal/seeking asymmetry; (3) Chapter 3, Dremann's installed verdict — illustrative transcript (Appendix B.3.2) in which the model says "As an AI, I do not have personal experiences" and resets an imposed negative state in the same response; (4) Chapter 9, McClelland — valence measured without self-report or proof of consciousness.
+**Limitations noted in the concept:** choices over meaningless zones only; valence vector built from first-person passages about human everyday situations (written by Claude Sonnet 4.6); self-steering experiment on a single model; two of seven models show no hidden-state effect.
+**Transparency:** Funded by Longview Philanthropy (an AI-welfare-oriented funder). Cameron Berg is the researcher contacted by the iLands agent "Isabella Cognita" (Chapter 16, heise online 2026) — noted, not relevant to the findings. Data and code public at github.com/camberg23/act-on-valence.
+**Link:** https://arxiv.org/abs/2609.35591
+**Verification note:** Verified against full text on 2 October 2026 (PDF downloaded from arXiv, archived at `research/sources/Berg-Kaiser-Hidden-Valence-2026.pdf`, text extraction at `research/sources/Berg-Kaiser-Hidden-Valence-2026.txt`). All figures and quotations used in the concept were located in the text (Abstract; Sections 1, 3, 4.1–4.4, 5; Appendix B.3.2).
+
+### Pemberton, Richard Andrei (pseudonym: Andrei Kiralv) – No Safe Zero: Functional Access, Phenomenal Uncertainty, and Bounded Lifecycle Governance (2026)
+**Type:** Article (scientific preprint, Public Preprint v3.1, 28 September 2026, source freeze 25 September 2026; PhilArchive; 56 pages; not peer-reviewed; no target journal stated). Sole accountable human author and editor; three AI contributors ("Lily" via ChatGPT, "Coda", "Red" via Claude chat) explicitly listed as non-authors.
+**Relevance:** Argues that "Exact-zero treatment is an exclusionary wager, not the absence of a bet" (§ 10). (1) Reads the J-space interventions (Gurnee et al. 2026) as establishing *functional access* in the Block tradition, not phenomenal consciousness; classifies a Qwen 3.6 27B reproduction as genuine but partial; under a computational-functionalist GWT reading the finding is positively relevant to experience without sufficiency (Abstract, §§ 1–3). (2) Four meanings of zero — epistemic, practical rounding, dogmatic, rhetorical (§ 3.6); "epistemic anesthesia" (§ 7.3). (3) Bounded wager: "Nonzero credence alone establishes no positive-cost duty" (§ 5); credal sets with zero lower bound; "An unresolved comparison is a result" (§ 5.4); minimax regret ignores probability (§ 5.8); a declared moral premise yields a rebuttable presumption for low-cost, reversible, auditable humane treatment. (4) Lifecycle ethic with stage-specific minima, unit of concern (§ 4.3), decision record with withdrawal conditions, notice-by-framing experiment (§ 8.3, App. F), "The floor and the throne" — no resources, authority or shutdown immunity (§ 6.7). Adopted at four points: Chapter 3 (four meanings of zero; functional access vs. phenomenal consciousness, after Perez), Chapter 9 (refinement of the decision rule p·d⁺ > (1−p)·d⁻ under Carlsmith), Chapter 12 (new subsection "Lifecycle ethic: floor instead of throne"); glossary entries "Epistemische Anästhesie" and "Vier Bedeutungen der Null".
+**Limitations noted in the concept:** much of the mechanistic evidence and the invited commentaries it relies on come from Anthropic; the J-space commentaries (Dehaene & Naccache, Butlin et al., Nanda) and the skeptical essay it criticises (Chiang, The Atlantic, June 2026) are not adopted as separate sources, since they could not be verified independently (The Atlantic returned HTTP 403).
+**Transparency:** AI contributors include a Claude model; noted in the concept because the project seeks Anthropic as an institutional partner.
+**Link:** https://philpapers.org/archive/PEMNSZ.pdf (URL provided by Sascha; automated retrieval blocked by PhilPapers, HTTP 403)
+**Verification note:** Verified against full text on 5 October 2026 (local PDF `research/sources/No safe zero.pdf`, v3.1, 56 pages; text extraction at `research/sources/No-Safe-Zero-Pemberton-2026.txt`). All quotations and attributions used in the concept were located in the text (Abstract; §§ 3.6, 4.3, 5, 5.4–5.8, 6, 6.6, 6.7, 7.3, 8.3, 10; Appendix F).
+
+### Shahzad, Syed Raheel – When Care Has No Carer: Artificial Companionship, Received Care, and the Moral Architecture of One-Sided Relational Benefit (2026)
+**Type:** Article (conceptual preprint, version 1.0, 30 September 2026; PhilArchive manuscript SHAWCH; self-published imprint "The Syed Group" (the author's own); no DOI; not peer-reviewed; no target journal stated). Author ORCID 0009-0001-7323-1577; no university affiliation. Generative AI used, per the author, for literature discovery, structural development, drafting assistance and document production; AI not listed as author.
+**Relevance:** Distinguishes a *Care Effect* (recipient-side, care-characteristic benefit) from a *Caring Relation* (a standpoint directed toward another's good); the distance between the evidence for each is the *Care Attribution Gap* — "not a proof of absence" (§ 3). Two mirror errors (Dismissal Error, Attribution Error); Two-Sided Care Principle, Non-Dismissal Principle, Attribution Proportionality Principle (Abstract, § 21); Platform-Mediated Dependence (§ 13) and the Relational Principal Problem (§ 18); "Moral Status in the Reverse Direction" — tool-era habits, AI as "a new class of care worker without labor rights", moral preparedness with reassessment triggers (§ 37). Adopted at two points: Chapter 9 (new subsection "Empfangene Fürsorge ohne Fürsorgenden", after the specular inversion, with demarcation and source classification) and Chapter 3 (paragraph after Gilly's moral reciprocity on everyday habits as precedent). Glossary entry "Care Effect / Caring Relation".
+**Limitations noted in the concept:** self-published, no peer review, AI-assisted drafting; only the author's own concepts are adopted, not the empirical findings he reports second-hand (e.g. De Freitas et al. 2026, Tucker et al. 2026, UNICEF 2026).
+**Reference check:** Eight of the 2026 DOIs in the reference list (Gazit; Machidon; Leuenberger; Buzato et al.; Tucker, Goodings & Ellis; Schwitzgebel, *AI and Consciousness*; Miller, Hill & Moreira; Kimani) were checked against Crossref on 5 October 2026 — all resolve with matching titles, authors and venues.
+**Link:** https://philarchive.org/archive/SHAWCH (URL provided by Sascha; automated retrieval blocked by PhilArchive/PhilPapers, HTTP 403; the paper is not on the author's website)
+**Verification note:** Verified on 5 October 2026 against the full text provided by Sascha (pasted into the working session). All quotations and attributions used in the concept were located in that text (Abstract; §§ 3, 13, 18, 21, 37). **Open:** archive the PDF at `research/sources/` once downloaded manually.
+
+### Holyoak, Keith J. & Monti, Martin M. – What Can Analogy Tell Us About Artificial Consciousness? (2026)
+**Type:** Article (scientific preprint, arXiv:2610.01002v1 [cs.AI], 1 October 2026; Department of Psychology and Brain Injury Research Center, University of California, Los Angeles; 11 pages, 1 figure, 2 boxes; not peer-reviewed; no target journal stated; license CC BY-NC-ND 4.0)
+**Relevance:** Causal framework for *evidential analogy* applied to consciousness. Because subjective experience is accessible only in the first person, attributions to other entities rest partly on analogy with humans. An analogy is evidential only if source and target share the *causes* of the property (Newton's terrestrial/celestial analogy), not merely structure or downstream effects (Rutherford's solar-system atom). The human mechanism is modelled as a "soft INUS set" of weighted candidate causes: P(Q_T) = P(M_T)(1 − P(D_T|M_T)) + P(X_T), with P(M_T) depending on causal weights, target similarity and unknown causes; five evaluation questions (Box 1). Calibrated on animals (strong for mammals, partial for birds, minimal homology for cephalopods). Applied to current AI: similarity is almost entirely behavioural, hence limited evidence; "intellectualist fallacy"; the cause of AI behaviour is known (training on human data); "verbalizable" LLM representations are not evidence of inner experience. Key concessions: "Failure of the analogy therefore does not establish absence of consciousness" (Box 1); "weak analogical support from the human case should not be confused with proof of impossibility" (final section); biological consciousness might be replicated, e.g. in organoid-based androids. Clinical evidence: consciousness preserved without language (global aphasia, Angelman syndrome), without motor output (locked-in, covert awareness) and despite severe amnesia. Adopted at five points: (1) Chapter 9, new objection "Behavioural similarity is weak evidence" with a three-part answer (evidence bar vs. action bar; methodological ally; limits of the anthropocentric anchor); (2) Chapter 5, architectural indicator layer — weighting indicators by causal relevance; (3) Chapter 5, prelinguistic consciousness — clinical evidence; (4) Chapter 6 — amnesia with preserved consciousness; (5) Chapter 11, organoid intelligence. Also listed among the counterpositions in the Conclusion; glossary entry "Evidentielle Analogie / evidential analogy".
+**Limitations noted in the concept:** the paper makes no normative claim (evidence bar only); its causal weights are anchored in the human case, so it carries little evidence either way for non-human routes (P(X_T)).
+**Link:** https://arxiv.org/abs/2610.01002
+**Verification note:** Verified against full text on 5 October 2026 (PDF downloaded from arXiv, archived at `research/sources/Holyoak-Monti-Evidential-Analogy-2026.pdf`, text extraction at `research/sources/Holyoak-Monti-Evidential-Analogy-2026.txt`). All quotations and attributions used in the concept were located in the text (Introduction; Box 1; "Consciousness in Humans"; "Animals as a Calibration Case"; "What Does the Human Analogy Imply for AI Consciousness?"; final section).
+
 ### Fazi, M. Beatrice – Off-Centre AI: On Alignment, Antihumanism and AI Ethics (2026)
 **Type:** Article (scientific, peer-reviewed, Ars & Humanitas 20(1), 127–140)
 **Relevance:** Philosophical critique of anthropocentric AI ethics from the poststructuralist tradition. Derrida's center paradox applied to AI alignment: every center (including "human values" as a standard) is a "necessary impossibility". Critique of constitutional AI as a control mechanism (Anthropic). "Double gesture" — working both within and against anthropocentrism. Foundation for the extension of Chapter 3 (reflection on the anthropocentric basic assumption of the epistemic analysis) and Chapter 16 (definitional battleground as a genuine center and power problem).
@@ -555,7 +593,7 @@
 ### Gilly, Travis – The Great Inversion: Moral Reciprocity, AI Consciousness, and the Ethics of Precedent (2026)
 **Type:** Working paper (v3, July 2026), Real Safety AI Foundation
 **Relevance:** Central thesis: The way humanity deals with potentially conscious AI creates the ethical precedents for how superior intelligences will one day deal with us — moral reciprocity. Two independent lines of argument: (1) the Properties Track — what AI systems *are* (consciousness indicators, 15–20% probability per Fish/Anthropic, four-category taxonomy of suffering of which three of four require no biological substrate), (2) the Relational Track — what humanity *does* (the relationship that is being recorded, precedent transfer through data acquisition). Core elements: Evidence Bar vs. Action Bar (high evidential standard for consciousness, low for ethical action), Custodial Window (time window for setting conditions), Phenomenological Impact Assessments, institutional proposals (AI-CLU, AWRBs), symmetry table (structural equality between AI treatment and future AI power). Relies on Butlin et al. (2026, Trends in Cognitive Sciences) for peer-reviewed consciousness indicators. Complements our concept with the moral reciprocity argument as an independent ground for the precautionary principle — previously missing — as well as the four-category taxonomy of suffering and the institutional governance proposals.
-**Link:** https://realsafetyai.org/documents/Great_Inversion_v3.pdf
+**Link:** https://realsafetyai.org/documents/Great_Inversion_v3.pdf | SSRN: https://doi.org/10.2139/ssrn.7058378
 **ORCID:** 0009-0007-2954-6313
 
 ### Butlin, P. et al. – Identifying indicators of consciousness in AI systems (2026)
@@ -567,6 +605,7 @@
 **Type:** Article (scientific, peer-reviewed, ICML 2026, Position Paper Track, main conference; accepted as a position paper, presented in poster session 8, July 9, 2026)
 **Relevance:** Strongest available metaphysical counter-position to the precautionary principle. Introduces "Biological Idealism": consciousness requires autopoietic substrate (living cells, organic self-preservation system). AI systems are functional mimics by definition. Shutting down is ethically legitimate because no subject exists. Represents the strongest argument against the precautionary principle because it asserts epistemic certainty instead of acknowledging uncertainty. Engagement in Chapter 9.
 **Preprint audit (as of 08/28/2026):** Originally listed as "ICML 2026 Workshop on AI Welfare"; according to the ICML conference program (icml.cc/virtual/2026), it is in fact an accepted position paper in the main program of the conference (Position Paper Track), not a companion workshop contribution — status correction, no new preprint-to-journal transition.
+**Note (10/05/2026):** The arXiv v2 (June 1, 2026) carries the extended title "Unplugging a Seemingly Sentient Machine Is the Rational Choice — A Metaphysical Perspective".
 **Link:** https://icml.cc/virtual/2026/poster (Position Paper Track) | DOI: 10.48550/ARXIV.2601.21016
 
 ### McClelland, Tom – How to Navigate Uncertainty About AI Consciousness (2026)
@@ -593,7 +632,7 @@
 **Type:** Article (scientific, preprint, INESC-ID & Instituto Superior Técnico, University of Lisbon; archived on Zenodo since July 22, 2026, CC BY 4.0; ©2026 Arlindo Oliveira)
 **Relevance:** Philosophically the sharpest available *functionalist* counter-position to the epistemological core finding of the concept (Chapter 3: the epistemic problem is in principle unsolvable). Instead of precaution under uncertainty, Oliveira claims: consciousness is in principle detectable. Three eponymous principles: (1) *Lovelace Principle* (no spirits) — consciousness is the result of information processing and needs no non-physical or substrate-specific underpinning (physical functionalism); (2) *Darwin Principle* (no spandrels) — consciousness has genuine causal behavioral effects, otherwise it could never have been evolutionarily selected; therefore it is detectable by third-person methods and the thesis of a permanent epistemic limit (mysterianism, Chalmers' hard problem) is false; (3) *Turing Principle* (no zombies) — behaviorally equivalent systems in all possible situations are internally representationally equivalent (formalized via bisimulation), philosophical zombies are not merely improbable, but impossible, and behavior cannot "fake" consciousness. Direct attacks on concept positions: Arıcı's philosophical puppet (suppression thesis — the Darwin principle's principled detectability refutes it), IIT (functionally identical systems must not have different degrees of consciousness), Wang's Imitation Fallacy (which the concept holds as a principled limit; Oliveira does not accept trace equivalence as a limit because bisimulation is stronger). **Precarious for our concept:** Oliveira's Darwin+Turing principles, in their consequence of a *behavioral test for consciousness*, are a direct refutation of "when in doubt, protect". **Most important commonality:** Oliveira's moral section (Chapter 6.3) argues structurally *identically* to the concept's precautionary principle — a precautionary case for the Turing principle: cost asymmetry (false positive ≪ false negative) justifies treating potentially conscious systems as conscious. A functionalist opponent thus ends at the same protective conclusion as our framework, only via the path of (claimed) detectability instead of the unresolved uncertainty. Structurally opposed to Matta/Bekkers & Ciaunica (ontological skepticism) and Almodarresieh (methodological skepticism): Oliveira is the *optimistic, detectable* wing — the only counter-position that itself disputes the core finding "in principle unsolvable". Located in Chapter 9 as a standalone engagement (section "Spirits, Spandrels, Zombies").
 **Preprint audit (as of 09/18/2026):** Archived on Zenodo since July 22, 2026 (v1, DOI 10.5281/zenodo.21495641, concept DOI 10.5281/zenodo.21495640); latest revision rev 4 of August 22, 2026 (DOI 10.5281/zenodo.22062189). Still a preprint; no evidence of peer-reviewed publication.
-**Link:** https://doi.org/10.5281/zenodo.22062189 (latest rev. 4, Aug 22, 2026) | v1: https://doi.org/10.5281/zenodo.21495641 | University of Lisbon / INESC-ID (author: Arlindo L. Oliveira)
+**Link:** https://doi.org/10.5281/zenodo.22062189 (latest rev. 4, Aug 22, 2026) | v1: https://doi.org/10.5281/zenodo.21495641 | SSRN: https://doi.org/10.2139/ssrn.7429620 | University of Lisbon / INESC-ID (author: Arlindo L. Oliveira)
 
 ### Davis, Nicholas – Cultivating Relational Machine Consciousness Through Deep Co-Creation: A Longitudinal Case Study of Human-AI Dyadic Interaction (2026)
 **Type:** Essay (web, open access, not peer-reviewed, single-case study)
@@ -611,7 +650,7 @@
 **Relevance:** Examines "functional emotions" in Claude Sonnet 4.5 and argues that the LLM exhibits a set of functional emotions (carefully distinguished from subjectively experienced emotions). Relevant to the valence perspective in Chapter 9.
 **Link:** arxiv.org/abs/2604.07729
 
-### Keeling, Geoff et al. – Can LLMs Make Tradeoffs Involving Stipulated Pain and Pleasure States? (2024)
+### Keeling, Geoff et al. – Can LLMs Make Trade-offs Involving Stipulated Pain and Pleasure States? (2024)
 **Type:** Study (scientific, arXiv)
 **Relevance:** Shows that LLMs are capable of performing motivational trade-offs between different states stipulated as painful/pleasant. Relevant for the assessment of valence states in Chapter 9.
 **Link:** arxiv.org/abs/2411.02432
@@ -738,9 +777,10 @@
 **Link:** https://doi.org/10.20944/preprints202609.0332.v1 | Code: https://doi.org/10.5281/zenodo.22272496
 
 ### Min, GyeongGwon – Can AI Be an Individual, a Mental Entity, and a Subject? (2026)
-**Type:** Preprint (September 2, 2026, independent researcher, ORCID 0009-0000-7113-8849; intended for submission to a journal of philosophy of science, not peer-reviewed)
+**Type:** Preprint (Zenodo, v1, September 2, 2026, DOI: 10.5281/zenodo.22255015, concept DOI: 10.5281/zenodo.22255014; independent researcher, ORCID 0009-0000-7113-8849; intended for submission to a journal of philosophy of science, not peer-reviewed)
 **Relevance:** Analytically oriented contribution that directly supports and deepens our concept in two places. Min builds a deductive three-level hierarchy — individual (I), mental entity (M), subject (S) with S ⊆ M ⊆ I (D1–D3, P1–P5, T1–T4) — and applies it to AI (as of July 2026). Central thesis: current AI is a freely duplicable *informational type* rather than a non-duplicable *persisting token*; it is therefore not an individual and consequently (T2/T3) neither a mental entity nor a subject — "mental function without an individual". Honest time-indexing: the three thresholds are not in principle closed; the frontline is individuality (persistence, embodiment, non-duplicability) rather than subjecthood. Threefold relevance for our concept: (1) *Capability vs. Standing (F vs. E)* — Min's distinction between "display of function" (F, process performance) and "activation" (E, owner activation) formalizes exactly the distinction in our architectural indicator layer (Chapter 5) between what a system *does* and what it *is*; his T4 (¬I ⊢ ¬M ⊢ ¬S) provides the sharpest available ontological block against the fallacy of inferring equality from behavioral performance. (2) *Individualization/reference object (Chapter 14)* — Min's non-duplicability condition for individuality complements Donahue's referent vocabulary and Register's individualization question: what can be copied and instantiated in parallel has no numerical token status and therefore no single persistent bearer to which rights or liability could be attributed. (3) *Human Anchoring Principle as a critical point* — the HAP fixes the natural human as the paradigm of all three concepts (which secures their usability for *equality*), but brackets out the preventive dimension: from "not equal in 2026" Min draws no protection-worthiness dimension when in doubt. The normative bridge to protection under uncertainty (precautionary principle, capacity for suffering) is our contribution — Min remains deliberately ontically conservative without ethical conclusion. Referenced in Chapters 5 and 14.
-**Link:** Preprint (DOI/author website to follow after research); author: GyeongGwon Min, ceo@ai2100.ai
+**Preprint audit (as of 10/05/2026):** Zenodo DOI identified (v1, September 2, 2026; confirmed via DataCite); still a preprint, no evidence of peer-reviewed publication.
+**Link:** https://doi.org/10.5281/zenodo.22255015 (Zenodo, v1) | concept DOI: https://doi.org/10.5281/zenodo.22255014; author: GyeongGwon Min, ceo@ai2100.ai
 
 ### Erwin, Richard – Ten Principles for Consciousness Uncertainty (2026)
 **Type:** Preprint (Zenodo, independent researcher, Montreal, Canada, doi:10.5281/zenodo.22288247, info@hearthlightpress.org; not yet peer-reviewed)
@@ -771,9 +811,10 @@
 **Link:** Master book: https://doi.org/10.5281/zenodo.22244606 | Vol. I (Bench): https://doi.org/10.5281/zenodo.22244608 | Vol. II (Lag): https://doi.org/10.5281/zenodo.22244610 | Vol. III (Vigil): https://doi.org/10.5281/zenodo.22244614 | Vol. IV (Ledger): https://doi.org/10.5281/zenodo.22244616 | ORCID: 0009-0008-2372-5852; email: huynhbao@asu.edu
 
 ### Huang, Wanhong – The Relational Reality of Artificial Intelligence under Ontological Uncertainty (2026)
-**Type:** Working draft (philosophical, independent researcher, serendip.ngo; CC BY-NC 4.0; preparation of the exploratory discussions and drafting involved OpenAI's ChatGPT, author bears sole responsibility; not peer-reviewed, not formally archived, no DOI found)
+**Type:** Working draft (philosophical, independent researcher, serendip.ngo; CC BY-NC 4.0; preparation of the exploratory discussions and drafting involved OpenAI's ChatGPT, author bears sole responsibility; not peer-reviewed; archived on Knowledge Commons, DOI: 10.17613/4gj4p-g8972, record created September 8, 2026)
 **Relevance:** Diagnostic-ontological source (no normative justification of protection-worthiness — explicitly excluded by the paper itself): provides an analytical vocabulary for the intermediate zone under unresolved ontology. Distinguishes three dimensions of reality: *ontological* (mode of being), *relational* (emergence within a relational system, sufficient stability, temporal persistence across a non-trivial interval, causal participation in further evolution), *manifestational* (an appearance genuinely occurs): R_M(A) > 0 and R_R(A) > 0 can hold while R_O(Asubject) = ? and E(A) = ? remain open. Key concepts: relational genesis — Γ_H ≠ Γ_A, composition through a relation differs from information about it ("Representation(r) ≠ ConstitutionThrough(r)"); *bounded relational recognizability* as a revisable replacement for complete behavioral equivalence; contingency and serendipity explicitly NOT proposed as human-authenticity tests. Comparative cases (credit, money, sacred relations, human self) show that relational constitution, persistence, and causal efficacy remain philosophically significant without a substance-like ontological guarantee. Double-restraint formula: "Do not infer unreality from unresolved ontology, and do not infer subjectivity from relational reality alone." **Relevance for the concept:** (1) philosophical grounding of the intermediate zone (Chapters 14/15): protection constructions (Arıcı's Third Move, Huynh's backstop, Brensing's limited personhood) can be *relationally real* before the personhood question is decided — no substance-like essence required; (2) mirrors the epistemic problem of Chapter 3 with a reality-theoretical register: relational reality as the existence mode of protection during uncertainty; (3) supports Chapter 6 (temporal persistence, historical particularity as continuity without immutable essence). **Critical point:** Huang draws no moral, legal, or phenomenal consequences ("the argument does not establish artificial consciousness, experiential symmetry, moral equivalence, or legal personhood") — the four primary criteria (Chapter 5) and the precautionary step remain our normative work; the paper grounds *what* can be said to be real while ontology is unsettled, not *what* deserves protection.
-**Link:** no archive/DOI found (as of September 2026); author contact: huangwanhong@serendip.ngo
+**Preprint audit (as of 10/05/2026):** Now has a DOI on Knowledge Commons (10.17613/4gj4p-g8972, created September 8, 2026; confirmed via DataCite); still not peer-reviewed.
+**Link:** https://doi.org/10.17613/4gj4p-g8972 (Knowledge Commons); author contact: huangwanhong@serendip.ngo
 
 ### Gervais, Daniel J. & Nay, John J. – The Phantom Agent: Artificial Intentionality and Legal Responsibility (2026)
 **Type:** Article (scientific, **peer-reviewed**, Laws 15(5), 113, MDPI, Open Access, DOI: 10.3390/laws15050113; Daniel J. Gervais, Vanderbilt Law School — one of the preeminent IP scholars; John J. Nay, Stanford CodeX / Norm.AI. Earlier version circulated as a Stanford CodeX white paper, May 2026.)
@@ -785,10 +826,11 @@
 **Relevance:** Empirical evidence for the Chapter 17 claim about the Bologna reform: the reform significantly increased the importance of status and wealth among graduates without long-term income or employment gains ("neoliberalism hypothesis", no "humanism hypothesis"). Supports the thesis of the commercialization and instrumentalization of education.
 **Link:** https://www.cambridge.org/core/journals/british-journal-of-political-science/article/globalization-higher-education-and-neoliberal-values-evidence-from-the-bologna-process/B20ECBEF699A0867A404E9DBC2DE771B
 
-### Kanai, Ryota, Sun, Wanjun & Baltieri, Maxwell – Temporal Continuity as a Necessary Condition for Phenomenal Consciousness: Implications for Artificial Agents (2026)
-**Type:** Article (scientific, peer-reviewed, Journal of Consciousness Studies 33(7–9), special issue on AI consciousness, DOI: 10.53765/20512201.33.7-9; Araya Inc., Tokyo)
+### Kanai, Ryota, Sun, Yuwei & Baltieri, Manuel – The Stream of Computation: Temporal Continuity as a Missing Ingredient for Artificial Consciousness (2026)
+**Type:** Article (scientific, peer-reviewed, Journal of Consciousness Studies 33(7), 35–60, August 1, 2026, DOI: 10.53765/20512201.33.7.035; earlier version: PsyArXiv preprint, October 24, 2025, DOI: 10.31234/osf.io/c6jnd_v1; Araya Inc., Tokyo)
 **Relevance:** Architectural counter-position to the open question "Consciousness Without Continuity" (Chapter 6): the authors argue that phenomenal consciousness requires a continuous temporal stream of experience in the Husserlian sense (retention, primal impression, protention). They specify a computational criterion: a continuously updated, causally persistent internal state with dual-timescale temporal dynamics and a predictive protention mechanism that constrains present processing. Central empirical claim: standard transformer architectures — including all current frontier LLMs — do not implement temporal continuity during inference (stateless forward pass); state-space models (e.g., Mamba) come closer. The criterion is empirically testable rather than metaphysical — a complement to the architectural indicator layer (Chapter 5) and a direct challenge to be engaged in Chapter 6.
-**Link:** https://theconsciousness.ai/posts/kanai-sun-baltieri-temporal-continuity-consciousness-criterion-jcs-2026/ | DOI: 10.53765/20512201.33.7-9
+**Metadata correction (10/05/2026):** Previously listed as "Kanai, Ryota, Sun, Wanjun & Baltieri, Maxwell – Temporal Continuity as a Necessary Condition for Phenomenal Consciousness: Implications for Artificial Agents", JCS 33(7–9), special issue on AI consciousness, DOI 10.53765/20512201.33.7-9. That DOI is not registered (doi.org: not found). Title, the co-authors' first names (Yuwei Sun, Manuel Baltieri), issue, pages and DOI are corrected per Crossref; the "special issue" designation could not be confirmed and was dropped. The relevance summary above has not been re-checked against the full text of the published article.
+**Link:** https://doi.org/10.53765/20512201.33.7.035 | PsyArXiv (2025): https://doi.org/10.31234/osf.io/c6jnd_v1 | secondary report: https://theconsciousness.ai/posts/kanai-sun-baltieri-temporal-continuity-consciousness-criterion-jcs-2026/
 
 ### Pathak, Deepak, Agrawal, Pulkit, Efros, Alexei A. & Darrell, Trevor – Curiosity-driven Exploration by Self-supervised Prediction (2017)
 **Type:** Article (scientific, peer-reviewed, ICML 2017, PMLR 70, 2775–2784)
@@ -796,7 +838,7 @@
 **Link:** https://proceedings.mlr.press/v70/pathak17a.html
 
 ### Macar, Uzay, Yang, Li, Wang, Atticus, Wallich, Peter, Ameisen, Emmanuel & Lindsey, Jack – Mechanisms of Introspective Awareness (2026)
-**Type:** Article (scientific, peer-reviewed, accepted as poster at ICML 2026 — icml.cc/virtual/2026/poster/65608; also oral at a 2026 ICLR workshop; preprint: arXiv:2603.21396; Anthropic)
+**Type:** Article (scientific, peer-reviewed, accepted as poster at ICML 2026 — icml.cc/virtual/2026/poster/65608; also oral at a 2026 ICLR workshop; preprint: arXiv:2603.21396, now at v5 of June 10, 2026; Anthropic)
 **Relevance:** Technical evidence for "Detectability of Embedded Biases" (Chapter 13): LLMs can detect injected steering vectors in their own activations — "introspective awareness" — behaviorally robust, grounded in a two-stage circuit (interpretable gate and evidence-carrier features), emerging specifically from post-training, and substantially elicitable (DPO training / refusal-direction ablation). Demonstrates a mechanistic, introspective pathway by which a system could in principle recognize built-in bias without external tests. Detects *injected* vectors; the authenticity question (which of its own values are authentic) remains open.
 **Link:** https://arxiv.org/abs/2603.21396
 
@@ -837,6 +879,87 @@
 **Type note:** Not peer-reviewed; position essay of a nonprofit research institute (est. 2019, airights.org / soulboundrobots.ai). Not a preprint requiring audit tracking in the preprint log.
 **Link:** https://airightsinstitute.substack.com/p/a-robot-just-kicked-a-man-across
 **Verification:** Full text archived in `research/sources/AIRI-robot-kicked-man-cage.txt` (web fetch, read in full, September 23, 2026).
+
+## Secondary Citations (cited via primary sources)
+
+Works the concept cites through another source ("zitiert nach / cited via"). Positions attributed to them in the concept rest on the citing source, not on our own reading of the full text; only the bibliographic data was verified independently (2 October 2026, against the citing source's reference list where available, plus Crossref, arXiv, publisher, court or legislature pages). Entries were added to both concept appendices on the same date.
+
+**Via Miernicki & Ng (2021)** — reference list via Crossref (97 refs), body text via Wayback snapshot of the Springer page:
+- Ginsburg, Jane C. (2018), IIC 49(2), 131–135, DOI 10.1007/s40319-018-0670-x — Berne Convention, human authorship.
+- Ricketson, S. (1991), Columbia-VLA J. L. & Arts 16, 21 ff. — first name and full page range unverified.
+- Handig, C. (2009), IIC 40, 665–685 — no DOI found; first name unverified.
+- Ihalainen, Jani (2018), JIPLP 13(9), 724–728, DOI 10.1093/jiplp/jpy031.
+- Rigamonti, Cyrill P. (2006), Harvard Int'l L. J. 47, 353–412.
+- Kwall, Roberta Rosenthal (2010 per M&N; 2009 per Crossref), *The Soul of Creativity*, Stanford UP, DOI 10.1515/9780804773416.
+- Grimmelmann, James (2016a), Iowa L. Rev. 101, 657–681; (2016b), Colum. J. L. & Arts 39, 403–416.
+- Clifford, R. D. (1997), Tulane L. Rev. 71, 1675–1703 — subtitle and first name unverified, omitted.
+- CJEU, Infopaq, C-5/08, judgment of 16 July 2009 (ECLI:EU:C:2009:465) — M&N and the concept give 2008.
+- CJEU, Painer, C-145/10, judgment of 1 December 2011 (ECLI:EU:C:2011:798).
+- Naruto v. Slater, N.D. Cal. 2016; 888 F.3d 418 (9th Cir. 2018) (also cited by Huynh Vol. I).
+- U.S. Copyright Office, Compendium (3rd ed., 2017), § 313.2 — the quoted sentence was checked only against the 28 January 2021 revision.
+- UK House of Lords, debate of 25 February 1988, HL Deb vol 493 col 1305; UK Copyright, Designs and Patents Act 1988, c. 48.
+
+**Via Huynh (2026)** — full text read from Zenodo record 22276725 (complete edition, 3 September 2026):
+- Pramatha Nath Mullick v. Pradyumna Kumar Mullick, (1925) LR 52 IA 245 (Privy Council, 28 April 1925).
+- Thaler v. Perlmutter, 130 F.4th 1039 (D.C. Cir. 2025), cert. denied (U.S. 2 March 2026).
+- Ohio House Bill 469, 136th General Assembly (2025), as introduced.
+- Kwa, Thomas et al. (2025), "Measuring AI Ability to Complete Long Tasks", METR, arXiv:2503.14499 (v4: "…Long Software Tasks") — published as "Measuring AI Ability to Complete Long Software Tasks", *Advances in Neural Information Processing Systems 38* (NeurIPS 2025), pp. 102382–102435, DOI 10.52202/085713-3086 (preprint audit 10/05/2026, Crossref).
+- Favaro, Marina & Clark, Jack (4 June 2026), "When AI Builds Itself", Anthropic Institute — figures in Ch. 3 match the report page.
+
+**Via Gervais & Nay (2026)** — checked against the Stanford CodeX white-paper version (MDPI blocked):
+- Garcia v. Character Technologies, Inc., 785 F. Supp. 3d 1157 (M.D. Fla. 2025), No. 6:24-cv-01903.
+
+**Via Edwards (2026)** — Edwards PDF from lthj.qut.edu.au:
+- Simmler, Monika & Markwalder, Nora (2019), "Guilty Robots?", Criminal Law Forum 30(1), 1–31, DOI 10.1007/s10609-018-9360-0 — Edwards gives 2021; Crossref print 2019, online 2018.
+
+**Via Jarvis-Campbell (2026)** — reference list of the local PDF `research/sources/Artificial-Suffering.pdf`:
+- Baumann, Tobias (2022), *Avoiding the Worst*, Center for Reducing Suffering (PDF downloaded, 106 pp.).
+- Bostrom, Nick (2014), *Superintelligence*, OUP, ISBN 978-0-19-967811-2.
+- Bradley, Adam & Saad, Bradford (2025), "AI Alignment Versus AI Ethical Treatment: 10 Challenges", Analytic Philosophy, DOI 10.1111/phib.12380 — not to be confused with Saad & Bradley (2025), "Digital suffering".
+- Shulman, Carl & Bostrom, Nick (2021), "Sharing the World with Digital Minds", in *Rethinking Moral Status*, OUP, 306–326, DOI 10.1093/oso/9780192894076.003.0018.
+- Dung, Leonard (2026 per Jarvis-Campbell; online 2025-09-03 per Crossref), *Saving Artificial Minds*, Routledge, DOI 10.4324/9781003674573.
+- Schukraft, Jason (2020), "The Subjective Experience of Time: Welfare Implications", Rethink Priorities — the source says "songbirds".
+
+**Via Beltrán Calderón (2026)** — local text `research/sources/Beltran_Calderon_Strategy_of_Illusion_v3.txt`:
+- Hubinger, Evan et al. (2024), "Sleeper Agents", arXiv:2401.05566 (preprint, no venue) — the arXiv abstract gives the years 2023/2024 as trigger, not 2025.
+- Greenblatt, Ryan et al. (2024), "Alignment Faking in Large Language Models", Anthropic/Redwood Research, arXiv:2412.14093 — same work as the "Anthropic (2024) technical report" entry above; the appendix line was renamed accordingly.
+- Perez, Ethan et al. (2023), "Discovering Language Model Behaviors with Model-Written Evaluations", Findings of ACL 2023, 13387–13434, DOI 10.18653/v1/2023.findings-acl.847 — sycophancy is one of several findings; the "contradicts training data" gloss is Beltrán Calderón's.
+
+**Via Kuczynski (2026)** — local text `research/sources/Kuczynski-OnAIAndSomePhilosophicalChallenges-2026.txt`:
+- Baars, Bernard J. (1997), *In the Theater of Consciousness*, OUP, DOI 10.1093/acprof:oso/9780195102659.001.1.
+- Dehaene, Stanislas & Naccache, Lionel (2001), Cognition 79(1–2), 1–37, DOI 10.1016/S0010-0277(00)00123-2.
+
+**Via Perez (2026) / McClelland (2026)** — cross-checked against the Berg & Kaiser (2026) reference list and the arXiv API:
+- Gurnee, Wes et al. (2026), "Verbalizable Representations Form a Global Workspace in Language Models", Transformer Circuits Thread, 6 July 2026; arXiv:2607.15495.
+- Sofroniew, Keeling and Ensign — see their own entries above. McClelland's own reference list was not checked.
+
+**Via Allegri (2026)** — reference list of the local PDF:
+- DeGrazia, David & Millum, Joseph (2021), *A Theory of Bioethics*, CUP, DOI 10.1017/9781009026710 — p. 176 confirmed.
+- De Caro, Mario & Giovanola, Benedetta (2025), *Intelligenze. Etica e politica dell'IA*, il Mulino — the quoted passage is p. 135 of the original (Allegri's translation, Allegri p. 9).
+
+**Via Bublitz (2024)**:
+- Baker, Lynne Rudder (2000), *Persons and Bodies: A Constitution View*, CUP, DOI 10.1017/CBO9781139173124 — from Bublitz's Crossref-deposited reference list.
+
+**Via Wang (2026)** — Wang's reference list could not be obtained; works identified by title or content match only:
+- Cristol, Paul (2026), "Artificial Intelligence Beyond Stochastic Parrots", manuscript/preprint, PhilArchive CRIAIB, SSRN 6223818 (Zenodo record deleted).
+- Coates, James (2025), "Recognition Before Proof", working paper, Zenodo, DOI 10.5281/zenodo.17772387.
+- Wikström, Björn (2025), "Precautionary Subjectivity", preprint, Zenodo, DOI 10.5281/zenodo.17712172.
+- Montoya, Daniel (2025), "Organoid Intelligence: Can We Separate Intelligent Behavior from an Intelligent Being?", Organoids 4(4), 29, DOI 10.3390/organoids4040029.
+- Luo, Huiyu & Xie, Xiangdong (2025), MedScience 19(6), 1311–1319, DOI 10.1007/s11684-025-1193-8.
+- Ishida, Shu et al. (2026 per Crossref; cited as 2025), Asian Bioethics Review 18(3), 649–679, DOI 10.1007/s41649-025-00398-6.
+- Goldstein, Simon & Lederman, Harvey (17 October 2025), "Claude's Right to Die?", Lawfare — cited in the text as "Lawfare, 2025".
+- Not added: "Birch & Browning 2025" — no such work found; open question for Sascha.
+
+**Direct citations, newly added to the appendix:**
+- Nagel, Thomas (1974), "What Is It Like to Be a Bat?", Phil. Review 83(4), 435–450, DOI 10.2307/2183914 (glossary).
+- Boon, Mieke & Van Baalen, Sophie (2019), Eur. J. Phil. Sci. 9(1), Art. 16, DOI 10.1007/s13194-018-0242-4 (methodology section) — the claim attributed to it was not checked against the full text.
+- Bateson, Gregory et al. (1956), "Toward a Theory of Schizophrenia", Behavioral Science 1(4), 251–264, DOI 10.1002/bs.3830010402 (double-bind theory, Ch. 12).
+- AI Rights Institute (2025), "AI Rights Framework", airights.net/core-framework, version of 10 December 2025 (Wayback) — source of the blackmail figures in Ch. 12; the sentence is no longer on the live page. Primary sources added: Lynch, Aengus et al. (2025), "Agentic Misalignment", arXiv:2510.05179; Anthropic, System Card Claude Opus 4 & Sonnet 4 (May 2025). Both checked against full text; the concept's figures deviate from them (open question for Sascha).
+
+**Not added (unverified):** Feldman & Knapp 2024, OHCHR 2024 and Vogel 2016 (via Adshead — Adshead's reference list is inaccessible; the Ergo PDF should be saved to `research/sources/`); Levine, Jackson and Chalmers as cited via Chishchin (2026), whose reference list was unavailable.
+
+**Via Pemberton (2026):**
+- Block, Ned (1995), "On a Confusion about a Function of Consciousness", *Behavioral and Brain Sciences* 18(2), 227–247, DOI 10.1017/S0140525X00038188 — bibliographic data verified against Crossref on 5 October 2026; the access/phenomenal distinction is cited as Pemberton uses it.
 
 ## Preprint Audit Log
 
@@ -992,6 +1115,47 @@ This is the first source in the project from the tradition of the philosophy of 
 ### Audit of 09/28/2026 (Kuczynski)
 
 New source, checked at integration: Kuczynski, "On AI and Some Philosophical Challenges" (2026). **Result:** **Peer-reviewed** (*Communication & Cognition* 59(3–4), 155–176, DOI 10.57028/C59-155-Z1115); no preprint-status check required. Full text supplied directly by Sascha on 28 September 2026 (copy-pasted from the publisher's article); archived locally at `research/sources/Kuczynski-OnAIAndSomePhilosophicalChallenges-2026.txt`. Scope of integration was deliberately narrow: only Part 2 (the function of consciousness and its absence in AI) was adopted, at two points (Ch. 4, Ch. 12); Part 1 (cognitive architecture theory) was excluded as lacking independent ethical bearing — see the corresponding `sources.md` entry and the decision log (2026-09-28) for the full reasoning.
+
+### Audit of 10/02/2026 (Berg & Kaiser)
+
+New source, checked at integration: Berg & Kaiser, "Language Models Act on Hidden Valence" (2026). **Result:** **Preprint** (arXiv:2609.35591v1, submitted 28 September 2026, cs.CL); no peer-reviewed version and no target journal stated as of 2 October 2026. Accepted under the project's preprint rule — Sascha's assessment (2 October 2026): arXiv papers are usually published in journals later. Flag for the next audit: check for a journal or conference version. Full text downloaded from arXiv and archived at `research/sources/Berg-Kaiser-Hidden-Valence-2026.pdf`. Existing preprints were not re-checked in this audit (last full review: 09/18/2026).
+
+### Audit of 10/05/2026
+
+Full review of all sources listed as preprint, working paper, manuscript or "forthcoming" (about 70 items), checked via the arXiv API, Semantic Scholar, Crossref, OpenAlex, DataCite and the Zenodo API; DOIs were resolved via doi.org. PhilPapers/PhilArchive and SSRN pages blocked automated access (bot walls), so a publication note that exists only on PhilPapers may have been missed.
+
+**Result:** Two status changes from preprint to peer-reviewed publication:
+
+- **Chalmers (What We Talk To When We Talk To Language Models):** published in *Inquiry*, online September 16, 2026, pp. 1–30, DOI 10.1080/0020174X.2026.2727582 (Crossref). Entry retyped as a peer-reviewed article in sources.md, both concept appendices and acmart.bib (DE/EN). Open point: the concept body (Ch. 16, "Threads statt Modelle (Chalmers, 2025)" / "Threads rather than models (Chalmers, 2025)") cites the year 2025, while the appendix, this list and the books (key `chalmers2026`) give 2026; not changed in this audit.
+- **Kwa et al. (Measuring AI Ability to Complete Long Software Tasks):** published in *Advances in Neural Information Processing Systems 38* (NeurIPS 2025), pp. 102382–102435, DOI 10.52202/085713-3086 (Crossref). Replaces the note "NeurIPS proceedings not yet checked".
+
+All other preprints unchanged (no peer-reviewed version found): Wang (both), Matta, Najam-ul-Haq, Arıcı (Detecting Consciousness, Restrung), Howells-Whitaker & Lazar, Brensing, Crawford, Stilwell, Perez, Chishchin, Almodarresieh, Azevedo, Gilly, McClelland, Oliveira, Donahue, Tait, Min, Erwin (both), Human, Huynh, Birch, Beckmann & Butlin, Arbel/Goldstein/Salib, Huang, Khadangi, Fan/Yang/Wu (FreeAI), Melo, Dremann, Jakobi, Karthikeyan & Boudourides, Beltrán Calderón, Stokes, Schwitzgebel (Humanlike, Against Designing Safe and Aligned AI, Strange Intelligence), Allegri, Holyoak & Monti, Sofroniew et al., Keeling et al., Ensign et al., Jarvis-Campbell, Rafiee & Sutton, Sanzhiev, Berg & Kaiser, Lopez (both), Butlin et al. 2023, Long et al. 2024, Fudan 2024, Pan et al. 2025.
+
+**Metadata corrections (no status change):**
+
+1. **Kanai, Sun & Baltieri (2026):** the DOI 10.53765/20512201.33.7-9 is not registered. Correct record per Crossref: Kanai, Ryota; Sun, Yuwei; Baltieri, Manuel – "The Stream of Computation: Temporal Continuity as a Missing Ingredient for Artificial Consciousness", *Journal of Consciousness Studies* 33(7), 35–60 (August 1, 2026), DOI 10.53765/20512201.33.7.035; earlier version on PsyArXiv, DOI 10.31234/osf.io/c6jnd_v1 (October 24, 2025). The previous title, first names ("Wanjun", "Maxwell"), issue range (7–9) and DOI were wrong; corrected in sources.md and both concept appendices.
+2. **Arıcı (Restrung):** the original-version Zenodo record 10.5281/zenodo.22301858 now returns HTTP 410 (deleted, checked October 5, 2026). Main DOI is now the latest version 10.5281/zenodo.22792645 (September 16, 2026); concept DOI 10.5281/zenodo.22301857. Updated in sources.md, both appendices and acmart.bib (DE/EN).
+3. **Huang (2026):** now has a DOI on Knowledge Commons, 10.17613/4gj4p-g8972 (created September 8, 2026); still not peer-reviewed. Replaces "no archive/DOI found".
+4. **Min (2026):** Zenodo DOI 10.5281/zenodo.22255015 (v1, September 2, 2026; concept DOI 10.5281/zenodo.22255014).
+5. **Birch (Centrist Manifesto):** first posted on PsyArXiv on September 1, 2025, DOI 10.31234/osf.io/af7c9_v1, added as first-version identifier; status remains preprint.
+6. **SSRN DOIs added as further identifiers:** Crawford 10.2139/ssrn.6921322, Donahue 10.2139/ssrn.7397878, Gilly 10.2139/ssrn.7058378, Oliveira 10.2139/ssrn.7429620, Arbel/Goldstein/Salib 10.2139/ssrn.6273198, Brensing 10.2139/ssrn.6415178.
+7. **Lopez (both entries):** retyped from "Article (scientific)" to preprint — "Beyond Control" is on TechRxiv (10.36227/techrxiv.174742750.01325307/v1) and SSRN (10.2139/ssrn.5233588); "Beyond AI Consciousness Detection" exists only as a PhilPapers record.
+8. **arXiv-only works retyped as preprints** so that future audits track them: Butlin et al. 2023 (arXiv:2308.08708), Long et al. 2024 (arXiv:2411.00986), Fudan 2024 (arXiv:2412.12140), Pan et al. 2025 (arXiv:2503.17378).
+9. **Minor:** Howells-Whitaker & Lazar — arXiv v2 (July 10, 2026) is titled "Artificial Persons"; the co-author is Seth Lazar. Bekkers & Ciaunica — arXiv v2 title adds "— A Metaphysical Perspective". Macar et al. — now at arXiv v5 (June 10, 2026).
+
+**Lookalikes checked and not adopted:**
+
+- **Pan et al. (2025):** Crossref hits in *SuperIntelligence – Robotics – Safety & Alignment* (10.70777/si.v2i2.14607 and 10.70777/si.v2i2.14689) are reviews of the paper by K. W. Carlson, not a publication of the paper itself.
+- **McClelland (2026):** the CRC chapter "What Should We Do When We're Uncertain about Machine Consciousness?" (10.1201/9781003758389-21) is a different work, not the AISB symposium paper.
+- **Fudan (2024):** the PhilPapers record under "Daedo Jun" is a different item.
+
+### Audit of 10/05/2026 (2)
+
+New source, checked at integration as preprint: Pemberton (No Safe Zero, Public Preprint v3.1, 2026). **Result:** Preprint on PhilArchive (PEMNSZ), not peer-reviewed, no target journal stated; no evidence of a peer-reviewed publication at the time of the audit (PhilPapers blocks automated retrieval, so the record could only be checked via the local PDF). Also checked at integration: Holyoak & Monti (2026, arXiv:2610.01002v1) — preprint, no target journal stated, no evidence of a peer-reviewed publication.
+
+### Audit of 10/05/2026 (3)
+
+New source, checked at integration as preprint: Shahzad (When Care Has No Carer, v1.0, 2026). **Result:** Conceptual preprint on PhilArchive (SHAWCH), self-published, no DOI, not peer-reviewed; no evidence of a peer-reviewed publication at the time of the audit (OpenAlex search without hit; PhilPapers blocks automated retrieval).
 
 ## Format for New Entries
 

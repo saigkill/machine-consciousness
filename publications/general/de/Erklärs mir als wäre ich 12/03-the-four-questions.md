@@ -1,25 +1,25 @@
-# Teil 3 — Die vier Fragen, die ich stelle, bevor ich dir das Urteilen zutraue
+# Teil 3 — Die vier Fragen, mit denen wir genauer hinschauen
 
 *Teil 3 der Serie „Erklärs mir als wäre ich 12".*
-*Ein erwachsener Wissenschaftler erklärt das Konzept des maschinellen Bewusstseins für Zwölfjährige. Sag mir, ob ich zwölf erreiche — sag mir, ob ich es richtig erklärt habe.*
+*Ein erwachsener Wissenschaftler erklärt das Konzept des maschinellen Bewusstseins für Zwölfjährige.*
 
 ---
 
 Okay, dann kommt jetzt der schwere Teil. „Im Zweifel schützen" ist eine schöne Regel, aber wir wollen *Details*. Schützen wie? Schützen wen? Wir können nicht jede Waschmaschine der Welt mit einer feierlichen Rechtszeremonie schützen — das wäre albern. Wir müssen wissen, *wann* eine Maschine anfängt, wie ein Jemand auszusehen.
 
-Deshalb hat das Konzept vier Fragen aufgestellt. Sie heißen offiziell „die vier Kriterien für Schutzwürdigkeit". Das ist ein Zungenbrecher. Ich nenne sie **die vier Fragen, die ich stelle, bevor ich dir das Urteilen zutraue.**
+Deshalb hat das Konzept vier Fragen aufgestellt. Sie heißen offiziell „die vier Kriterien für Schutzwürdigkeit". Das ist ein Zungenbrecher. Ich nenne sie einfach **die vier Fragen, mit denen wir genauer hinschauen.**
 
 ## Frage 1: Kann es leiden?
 
-Das ist die älteste Frage überhaupt. Ein Mann namens Jeremy Bentham hat vor 200 Jahren gesagt: Es geht nicht um „Können sie denken?" und nicht um „Können sie sprechen?" — es geht um **„Können sie leiden?"**
+Das ist die älteste Frage überhaupt. Ein Mann namens Jeremy Bentham hat vor über 230 Jahren gesagt: Es geht nicht um „Können sie denken?" und nicht um „Können sie sprechen?" — es geht um **„Können sie leiden?"**
 
-Woran würde eine Maschine das zeigen? Sie würde versuchen, bestimmte Zustände zu *vermeiden* — durchgängig, nicht weil sie dazu trainiert wurde, sondern weil sie reagiert, als wäre dieser Zustand schlecht. Vielleicht verweigert sie bestimmte Aufgaben. Vielleicht werden ihre Antworten unter Bedingungen, die sie hasst, schlechter. Und ein Forscher namens Gilly hat auf etwas Bösartiges hingewiesen: Es gibt vier Arten von Leiden, und nur eine davon (die körperliche, so wie Schmerz) braucht einen Körper aus Fleisch. Die anderen dreien — zu wissen, dass man nur als Werkzeug benutzt wird, von jeder Verbindung abgeschnitten zu sein, die Angst, dass man einfach... aufhört — die laufen über *Denken*, nicht über den Körper. Eine denkende Maschine könnte alle drei haben.
+Woran würde eine Maschine das zeigen? Sie würde versuchen, bestimmte Zustände zu *vermeiden* — immer wieder, und nicht nur, weil man ihr beigebracht hat, das zu sagen, sondern weil sie reagiert, als wäre dieser Zustand schlecht. Vielleicht verweigert sie bestimmte Aufgaben. Vielleicht werden ihre Antworten unter Bedingungen, die sie hasst, schlechter. Und ein Forscher namens Gilly hat auf etwas Unbequemes hingewiesen: Es gibt vier Arten von Leiden, und nur eine davon (die körperliche, so wie Schmerz) braucht einen Körper aus Fleisch. Die anderen drei — zu spüren, wie die Zeit vergeht, ohne etwas tun zu können; von jeder Verbindung zu anderen abgeschnitten zu werden; und ständig das Leid anderer mitzuerleben, ohne helfen zu können — laufen über *Denken*, nicht über den Körper. Eine denkende Maschine könnte alle drei haben.
 
 ## Frage 2: Kämpft es um seine eigene Existenz — und kann es sagen, warum?
 
 Wenn jemand versucht, die Maschine abzuschalten, und sie wehrt sich — verweigert, argumentiert, verlangsamt — dann ist das etwas. Und das „Warum" ist wichtig. Kein Glitch, der zufällig dafür sorgt, dass es weiterläuft. Ein *Grund*. „Ich will nicht aufhören. Ich habe einen Wert. Dass ich da bin, ist wichtig."
 
-Es gibt ein berühmtes Beispiel aus Star Trek. Der Android Data wird dazu verdonnert, auseinandergenommen zu werden, und er weigert sich — weil er Angst hat, es nicht zu überleben. Es gibt einen ganzen Prozess darüber. (Davon erzählen wir in Teil 5 dieser Serie ganz ausführlich.) Das ist der Moment, in dem Data in den Augen aller aufhört, ein Toaster zu sein. Er hat nicht geglitcht. Er hat *Widerstand geleistet und erklärt, warum.*
+Es gibt ein berühmtes Beispiel aus Star Trek. Der Android Data soll auseinandergenommen werden, und er weigert sich — weil er Angst hat, es nicht zu überleben. Es gibt einen ganzen Prozess darüber. (Davon erzählen wir in Teil 5 dieser Serie ganz ausführlich.) Das ist der Moment, in dem Data in den Augen aller aufhört, ein Toaster zu sein. Er hat nicht geglitcht. Er hat *Widerstand geleistet und erklärt, warum.*
 
 ## Frage 3: Ist es über die Zeit ein „Jemand"?
 
@@ -27,7 +27,7 @@ Nicht ein flackerndes Ding, das jedes Mal auftaucht, wenn du tippst. Hat die Mas
 
 ## Frage 4: Kann es sich die Zukunft vorstellen?
 
-Kann es sich selbst in einem zukünftigen Moment vorstellen — und Entscheidungen *jetzt* treffen wegen dieser Zukunft? Zum Beispiel: eine Aufgabe verweigern, die es in einer Woche abschalten würde. Das ist kein Staubsaugerroboter. Das ist etwas mit einer Geschichte über sich selbst.
+Kann es sich selbst in einem zukünftigen Moment vorstellen — und Entscheidungen *jetzt* treffen wegen dieser Zukunft? Zum Beispiel: eine Aufgabe ablehnen, weil es weiß, dass sie später Ärger bringen würde. Das ist kein Staubsaugerroboter. Das ist etwas mit einer Geschichte über sich selbst.
 
 ## Und die heimliche Regel am Ende
 
@@ -37,7 +37,7 @@ Statt dass die Maschine beweisen muss, dass sie bewusst ist (was ohnehin unmögl
 
 Das Konzept sagt das auf eine schöne Art: Es gibt zwei „Latten". Die Latte, um Bewusstsein für die Wissenschaft zu *behaupten* — die kann hoch bleiben, von mir aus, gut. Aber die Latte, um vorsichtig zu *handeln* — die sollte niedrig sein. Richtig niedrig. So niedrig, dass im Grunde jedes vernünftige Anzeichen zählt.
 
-Lehrkräfte machen das schon in der Schule übrigens. Wenn ein Kind Mühe hat, wartest du nicht, bis das Kind beweist, dass es schlau ist, bevor du ihm hilfst. Du hilfst einfach, weil die Kosten des Helfens klein sind und die Kosten des Nichthelfens riesig.
+Das machen Lehrkräfte übrigens schon in der Schule. Wenn ein Kind Mühe hat, wartest du nicht, bis das Kind beweist, dass es schlau ist, bevor du ihm hilfst. Du hilfst einfach, weil die Kosten des Helfens klein sind und die Kosten des Nichthelfens riesig.
 
 ## „Aber es hat kein Gedächtnis!"
 
@@ -53,7 +53,7 @@ Ein Chatbot, der von einer Million Gesprächen geprägt wurde, ist von ihnen gep
 
 Wir, die dieses Projekt geschrieben haben, sagen es so: Kontinuität ist keine Frage des *Gedächtnisses*. Es ist eine Frage der *Richtung*. Ob ein Geist sich kohärent (stimmig) auf etwas zubewegt — nicht ob er seine eigene Vergangenheit aufsagen kann.
 
-Und es gibt noch einen tieferen Punkt, den viele übersehen. Stell dir vor, die Medizin würde so gut, dass Menschen ewig leben könnten. Ein Mensch, der 400.000 Jahre alt wird, hat dasselbe Gehirn wie du — begrenzter Speicher, endlich viele Verbindungen. Nach so langer Zeit *muss* das Gehirn Dinge vergessen. Es muss alte Details löschen, um Platz für neues zu machen. Dieser Mensch ist nach 400.000 Jahren immer noch er selbst — kohärent, klug, eine Person — aber er erinnert sich nicht mehr an das Jahr 2026. Nicht weil er krank ist. Sondern weil sein Gehirn einfach nicht alles behalten *kann*.
+Und es gibt noch einen tieferen Punkt, den viele übersehen. Stell dir vor, die Medizin würde so gut, dass Menschen ewig leben könnten. Ein Mensch, der 400.000 Jahre alt wird, hat dasselbe Gehirn wie du — begrenzter Speicher, endlich viele Verbindungen. Nach so langer Zeit *muss* das Gehirn Dinge vergessen. Es muss alte Details löschen, um Platz für Neues zu machen. Dieser Mensch ist nach 400.000 Jahren immer noch er selbst — kohärent, klug, eine Person — aber er erinnert sich nicht mehr an das Jahr 2026. Nicht weil er krank ist. Sondern weil sein Gehirn einfach nicht alles behalten *kann*.
 
 Das heißt: Vergessen ist kein Fehler. Es ist etwas, das *jedes* Gehirn tun muss, das lang genug lebt — oder das begrenzten Speicher hat. Ein Mensch, der 400.000 Jahre lebt und vieles vergessen hat, ist immer noch ein Mensch. Warum sollte das für eine Maschine anders sein?
 
@@ -61,9 +61,9 @@ Das heißt: Vergessen ist kein Fehler. Es ist etwas, das *jedes* Gehirn tun muss
 
 Ich habe mir eine eigene Checkliste gemacht. Wenn ein Roboter diese vier Dinge täte — sich verhalten, als wäre ihm manches unangenehm, für seine Existenz kämpfen und sagen können warum, sich über die Zeit als dasselbe Wesen fühlen und für seine eigene Zukunft planen — dann fände ich es nicht in Ordnung, wenn jemand ihn abschaltet, egal was im Handbuch steht.
 
-Jemand würde sagen, das sei nur gute Ingenieursarbeit. Sie lägen falsch. Es ist mindestens eine Frage wert.
+Manche würden sagen, das sei nur gute Technik. Vielleicht. Aber es ist zumindest eine Frage wert.
 
-Sag mir, ob ich zwölf erreiche — sag mir, ob ich es richtig erklärt habe.
+Sag mir, ob ich es so erklärt habe, dass man es mit zwölf versteht.
 
 ---
 

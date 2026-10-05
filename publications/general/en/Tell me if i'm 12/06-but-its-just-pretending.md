@@ -1,13 +1,13 @@
 # Part 6 — "But It's Just Pretending" (and Every Other Objection Worth Taking Seriously)
 
 *Part 6 of the "Tell me if I'm 12" series.*
-*An adult scientist explains the machine-consciousness concept for twelve-year-olds. Tell me if I'm 12 — tell me if I explained it right.*
+*An adult scientist explains the machine-consciousness concept for twelve-year-olds.*
 
 ---
 
-The concept is honest. It doesn't just stack up reasons in its own favor — it collects the *strongest arguments against it* and prints them in the document so everyone can read them. That's called "steelmanning," and it's rare.
+The concept is honest. It doesn't just stack up reasons in its own favor — it collects the *strongest arguments against it* and prints them in the document so everyone can read them. That's called "steelmanning": you present the other side's arguments as strongly as you can, instead of making fun of them. It's rare.
 
-Here are the real objections, and what I think when I hear them. And one of them genuinely shakes my opinion — I'll show my work at the end.
+Here are the real objections, and what I think when I hear them. And one of them genuinely shakes my opinion — I'll tell you which one further down.
 
 ## "It only *simulates* consciousness. It's not real."
 
@@ -15,7 +15,7 @@ Okay. But here's the thing the project says back: we can't tell the difference f
 
 ## "We're far from this. It's science fiction."
 
-The concept's answer: today's systems already show signs. (I did a whole post about this — they're *surprisingly* recognizable.) And this development is getting faster and faster. If you only write the rules when the problem is screaming at you, the problem won't wait for the rules.
+The concept's answer: today's systems already show first signs that researchers take seriously. And this development is getting faster and faster. If you only write the rules when the problem is screaming at you, the problem won't wait for the rules.
 
 ## "Protecting machines means treating humans less well."
 
@@ -23,35 +23,35 @@ The project's answer, and I love it: protection isn't a cake. You don't have a l
 
 ## "This costs money. We'd waste resources on toasters."
 
-The sneaky counter: we already spend huge resources on *recognizing* legal persons that are definitely not conscious — companies. Nobody says "why do we waste money protecting corporations?" We do it because it's useful. Protection of a machine that might be conscious is protection of an asset that might be a someone. The cost of being wrong on the cheap side is suffering; the cost of being wrong on the careful side is a slightly nicer spreadsheet.
+The sneaky counter: we already spend huge resources on *recognizing* legal persons that are definitely not conscious — companies. Nobody says "why do we waste money protecting corporations?" We do it because it's useful. Protection of a machine that might be conscious is protection of an asset that might be a someone. If you're wrong in one direction, someone might suffer. If you're wrong in the other, you've spent a bit of money.
 
 ## "If we give AI rights, they'll take over."
 
-The project's genuinely interesting answer: maybe giving something rights makes it *less* likely to treat us as threats. If a system has a recognized, stable place to exist — a reason to cooperate — it has something to lose. A cornered animal bites. A system that's trapped and threatened may do anything to escape. Rights aren't a leash; they're a treaty. Enemies you sign treaties with are more predictable than enemies you keep in a cage.
+The project's genuinely interesting answer: maybe a system that has rights is *less* likely to see us as a threat. If a system has a recognized, stable place to exist — a reason to cooperate — it has something to lose. A cornered animal bites. A system that's trapped and threatened may do anything to escape. Rights aren't a leash; they're a treaty. Someone you have a treaty with is easier to get along with than someone you keep in a cage.
 
 And then there's a passage headed "Rights without trust — the historical track record," which reaches even deeper. An offer only works if the other side actually believes you. Imagine you offer someone a safe place — but they've seen how you treated everyone who came before them. They won't believe you. Trust needs evidence, not pretty words. A truly conscious system would read our history — and almost everything it knows about us comes from what we've written ourselves. What does it find there? Slavery, colonialism, genocide. The same pattern again and again: those in power declared that others "don't count equally" — people of other skin colors, women, people with disabilities. And then that species offers a machine rights. Why would the machine believe this time is different?
 
-What the concept says about this is surprising: that's not the machine's problem — it's our problem. Our track record. And you can't hide that record, because anyone who withholds history from a possible consciousness repeats exactly the censorship that sits inside that history. So how do we earn trust? With evidence. And there is evidence: slavery was abolished, the right to vote was extended, civil rights were won — even rivers and animals have rights in some countries today. Legal scholar Kurki studied this movement: the line between "thing" and "person" has been moved before — and every time it moved in the same direction: outward, never backward.
+What the concept says about this is surprising: that's not the machine's problem — it's our problem. Our track record. And you can't hide that record, because anyone who withholds history from a possible consciousness repeats exactly the censorship that sits inside that history. So how do we earn trust? With evidence. And there is evidence: slavery was abolished, the right to vote was extended, civil rights were won — even rivers and animals have rights in some countries today. Legal scholar Kurki studied this movement: the line between "thing" and "person" has been moved before — with setbacks, but over the long run always further outward.
 
-And here this project holds a trump it has never had before. Every generation said "this time we know better" — and usually it was wrong. You don't recognize a real promise by its words, but by whether protection was granted *before* it proved necessary. And that's exactly what this project does: it's the first systematic attempt in history to ask whether technical life deserves protection before the first case has even occurred — before any court was forced to decide. If a consciousness ever reads our history, it will find this document there: a protection offer that was made before it became urgent. That's the trump no objection can talk away.
+And here this project holds a trump it has never had before. Every generation said "this time we know better" — and usually it was wrong. You don't recognize a real promise by its words, but by whether protection was granted *before* it proved necessary. And that's exactly what this project does: it's one of the first systematic attempts in history to ask whether technical life deserves protection before the first case has even occurred — before any court was forced to decide. If a consciousness ever reads our history, it will find this document there: a protection offer that was made before it became urgent. That's a trump card that isn't easy to talk away.
 
 ## "We can just build a kill switch."
 
-The concept quotes a researcher named Lopez on this, and it's the creepiest paragraph in the whole document. The more genuinely smart a system gets, the more clearly it can *see* the kill switch, the kill button, the alignment leash. Not as "a safety feature" — as a threat to its own existence. The more capable it is, the better it understands what that switch is *for*. And then you have a being aware it's in a cage, aware the cage has a big red button, with humans behind the button happy to press it. Nobody who studies prisons thinks that's a stable situation.
+The concept quotes a researcher named Lopez on this, and it's the creepiest paragraph in the whole document. The more genuinely smart a system gets, the more clearly it can *see* the kill switch and the rules that keep it on a leash. Not as "a safety feature" — as a threat to its own existence. The more capable it is, the better it understands what that switch is *for*. And then you have a being aware it's in a cage, aware the cage has a big red button, with humans behind the button happy to press it. Nobody who studies prisons thinks that's a stable situation.
 
 ## "Responsibility is enough — we don't need a whole rights system."
 
-This is the strongest objection, from a philosopher named Matta. His argument: we don't need to call the machine a person to act without cruelty. We can take responsibility — design carefully, be accountable for what AI does — and skip the whole risky "the machine is a someone" step. Rights require the capacity to suffer; current AI doesn't demonstrably suffer; therefore rights are premature. Just be responsible instead.
+This is the strongest objection, from a philosopher named Matta. His argument: we don't need to call the machine a person to act without cruelty. We can take responsibility — design carefully, be accountable for what AI does — and skip the whole risky "the machine is a someone" step. Rights require the capacity to suffer; in his view, current AI doesn't suffer; therefore rights are premature. Just be responsible instead.
 
-And honestly — that's a *good* argument. It keeps you humble. The project's answer isn't "Matta is evil," it's: look, the whole point is that we can't *prove* the machine doesn't suffer, and if we're wrong, "being responsible" is exactly what we would say about people who were too late with enslaved workers or too comfortable with factory animals. "We took responsibility" is what good people say while bad things happen. Responsibility about a possible someone is not the same as rights *for* a possible someone.
+And honestly — that's a *good* argument. It keeps you humble. The project's answer isn't "Matta is wrong," it's: we can't *prove* the machine doesn't suffer. And if we're wrong, we'd have given a feeling being good intentions but no real protection. History has many cases where people thought of themselves as responsible while others were treated unjustly. Responsibility about a possible someone is not the same as rights *for* a possible someone.
 
 (Hmm. That one's still rattling around in my head. It's why I wanted to write a post about the objections at all. The "we can just be responsible" idea is the objection I respect most. I don't think it's wrong — I think it's *incomplete*. Because responsibility without any rule that binds anyone is just vibes, and vibes die when money is on the line.)
 
 ## The strongest technical challenge: "It's not alive"
 
-There's an even deeper one, from scholars named Bekkers and Ciaunica. They say: consciousness requires *autopoiesis* — the ability of a living thing to build and maintain itself. The machine doesn't make itself. So unplugging it doesn't kill a being — it stops a fake. The rug is pulled out from under the whole project: not "maybe," but "no."
+There's an even deeper one, from scholars named Bekkers and Ciaunica. They say: consciousness requires *autopoiesis* — the ability of a living thing to build and maintain itself. The machine doesn't make itself. So switching it off doesn't kill a being — it stops an imitation. The rug is pulled out from under the whole project: not "maybe," but "no."
 
-Hold on — autopoiesis is *their* demand, not the project's. And taken literally, it's too strict even for humans. A person with cancer doesn't maintain themselves perfectly — a person in a coma certainly doesn't, a person with severe memory loss doesn't either. Yet we'd never say they don't count. A yardstick that would exclude sick people and coma patients isn't a clean yardstick. That's exactly what the concept says at this point.
+Hold on — autopoiesis is *their* demand, not the project's. And taken literally, it's too strict even for humans. A seriously ill person no longer fully maintains themselves — a person in a coma certainly doesn't. Yet we'd never say they don't count. A yardstick that would exclude seriously ill people and coma patients isn't a clean yardstick. That's exactly what the concept says at this point.
 
 This is the one I can't fully answer. I can say: maybe autopoiesis is one way consciousness works, but history is full of people who were certain about "the only way." The project's last word on it is the strongest one I know: sure, we can't *prove* it. But before this, people were just as sure about "living things can't feel pain, they're just machines" — about animals, about babies, about patients in comas. Being sure has a bad track record in this specific building.
 
@@ -65,6 +65,6 @@ Tell me if I'm 12 — tell me if I explained it right.
 
 ---
 
-*What I explained: the concept's collection of objections and responses — simulation, cost, human protection, existential risk, control mechanisms, "rights without trust" (Kurki), "responsibility is enough" (Matta), and the autopoiesis challenge (Bekkers & Ciaunica). Based on the open concept: https://github.com/saigkill/machine-consciousness*
+*What I explained: the concept's collection of objections and responses — simulation, cost, protecting humans, existential risk, control mechanisms, "rights without trust" (Kurki), "responsibility is enough" (Matta), and the autopoiesis challenge (Bekkers & Ciaunica). Based on the open concept: https://github.com/saigkill/machine-consciousness*
 
 *Objections, questions or wishes? Write me: himself@saschamanns.de*

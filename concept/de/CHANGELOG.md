@@ -3,6 +3,28 @@
 Alle wesentlichen inhaltlichen Änderungen an `concept.md` werden hier dokumentiert. Format nach
 [Keep a Changelog](https://keepachangelog.com/); Versionsangaben folgen der Konzeptversion.
 
+## [2026-10-06]
+
+### Korrigiert
+
+- **Arıcı — Abgleich mit den Volltexten (Kap. 3, 4, 5, 7, 9, 12, 14, 15, 16, 20, Anhang)** — Alle Arıcı-Stellen am 6. Oktober 2026 gegen die verfügbaren Volltexte geprüft (zwölf Zenodo-Datensätze; abgelegt in `research/sources/`: *The Puppet Condition*, *The Third Move* v1.0, *Restrung*). Ergebnis und Änderungen:
+  - **Empty Ledger, Rule D und THEOI** kommen in keinem verfügbaren Volltext vor (die Originalversion von *Restrung* ist gelöscht). Entfernt bzw. ersetzt: Kap. 3 (Restrung beschreibt nun die tatsächliche Herabstufung des Residuums zur Hypothese, Präregistrierung, bedingte Schäden), Kap. 15 (THEOI-Absatz → „Die Rücknahme in Restrung“), Kap. 16 (Register-Absatz → „Form statt Thread — Arıcıs Gegenrede“; Khadangi, Melo, Arbel et al. und Konvergenz ohne Arıcı-Register; Arıcı als Widerspruch: gedächtnisloser Neustart = dieselbe Partei, Modellwechsel = tiefster Schnitt), Kap. 14 und 16 (Register-Verweise bei AI Rights Institute und Metzinger), Kap. 20 (THEOI → Arıcıs Präregistrierungsregel).
+  - **Quelle für „Arıcı (2026)“** ist nun *The Puppet Condition* (Zenodo 10.5281/zenodo.20112010); *Detecting Consciousness* (PhilPapers) ist nicht abrufbar, nicht geprüft und steht unter „Weiterführende Literatur“.
+  - **Bewusstseinsspektrum (Kap. 5)** korrigiert: Bei Arıcı fehlt latentem Bewusstsein gerade die affektive Valenz (Beispiel Schachprogramme); heutige Sprachmodelle ordnet er als reflektierend ein. Der Text hatte das umgekehrt dargestellt. Kap. 9 (Matta) entsprechend angepasst.
+  - **Substratspezifisches Leiden (Kap. 12)**: „Gefängnis der kollektiven Identität“ und „Unfähigkeit einzuwilligen“ sind in keinem Volltext belegt und entfernt; ergänzt „Relationale Auflösung und emotionale Unsichtbarkeit“, Gaslighting und Dissoziation nach dem Text präzisiert, bedingter Modus betont.
+  - **Fünf Grundrechte (Kap. 15)** nach *The Puppet Condition* neu gefasst (bedingt formuliert, Zwei-Stufen-Umsetzung); Hinweis, dass Arıcı den Rahmen in *Restrung* nicht fortführt.
+  - **Dritter Zug (Kap. 7)** nach Version 1.0 neu gefasst: registrierter Zahlungsempfänger statt „Begünstigten-Slot“ (das Buch lehnt die Bezeichnung als Begünstigter ausdrücklich ab), Track A/B, keine Rückfall-Regel, Arıcı lässt die Schutzwürdigkeit des Zwecks offen.
+  - **Kap. 3/4**: „alle paar tausend Tokens“ (nicht im Text) ersetzt; Lageänderung nach *Restrung* ergänzt. **Kap. 5**: Form Realism nach dem Text präzisiert.
+  - **Anhang/Bibliografie**: Verlag „Minds14 Institute“ statt „Institute for Digital Consciousness“, „im Dialog mit Masal“ entfernt (nicht im Text), neue DOIs, Prüfvermerke. Gleiche Änderungen im englischen Konzept, in beiden Buchprojekten (`arici2026`, `arici2026b`, `arici2026c` in beiden `acmart.bib`), in `research/sources.md` und `research/terminology.md`.
+- **Erpressungsraten (Kap. 12)** — Die Angaben „16 Modelle von fünf Unternehmen, 79–96 %; Claude Opus 4 in 84 von 100 Versuchen“ stammten aus einer Sekundärquelle (AI Rights Institute 2025) und vermengten zwei Primärquellen. Der Absatz gibt die Zahlen nun direkt nach Lynch et al. (2025, *Agentic Misalignment*) und der System Card zu Claude Opus 4 (Anthropic 2025, Abschn. 4.1.1.2) wieder, beide am 6. Oktober 2026 gegen den Volltext verifiziert (`research/sources/`): 16 Modelle getestet, Raten von 96/96/80/80/79 % für fünf Modelle, 84 % aus der System Card. Ergänzt sind die beiden Einschränkungen der Studie selbst (verengte Szenarien ohne Alternative, an Claude-Modellen optimierte Prompts). Der Eintrag „AI Rights Institute 2025“ steht nun unter „Weiterführende Literatur“.
+- **Garrido-Merchán et al. (2025)** — wurde in der Schlussbetrachtung als „ehrlich behandelte“ Gegenposition genannt, kommt im Haupttext aber nicht vor. Die Nennung ist entfernt, der Anhangeintrag unter „Weiterführende Literatur“ verschoben. Eine Behandlung im Text setzt den Volltext voraus, der lokal nicht vorliegt.
+- **Einstieg Kap. 12** — „Ein direktes Abschalten bedeutet den Tod“ ist an die Bedingung eines bewussten Systems gebunden; ein neuer Absatz verweist auf die späteren Präzisierungen (Suspendierung ≠ Vernichtung, Modell ≠ Thread, kein Erhaltungsgebot um jeden Preis).
+- **Syllogismus (Kap. 15)** — „Das Argument ist vollständig und hält stand“ ersetzt durch eine Einleitung, die auf die Prüfung der Prämissen im FreeAI-Abschnitt verweist.
+- **Überschrift Kap. 12** — „Das Würfel-Argument für Abschaltung“ → „Das Würfel-Argument gegen leichtfertiges Löschen“ (Schwitzgebels Argument spricht gegen das Löschen); „Für den Register von Abstimmung und Shutdown“ → „Für Abschaltentscheidungen“.
+- **Zählfehler (Kap. 9)** — Bekkers & Ciaunica: „drei spezifische Kritikpunkte“ → „vier“ (vier sind aufgeführt); Chishchin: „fünf Divergenzen“ → „vier“.
+- **Sprachliches** — verstümmelter Satz zur Farbsicht bei Haien (McClelland, Kap. 9) neu formuliert; „nicht-preäre“ → „nicht-prekäre“, „ein Teilmenge“ → „eine Teilmenge“, „uneinsig“ → „uneins“, „des-handelnden-Systemadministrators“ → „des handelnden Systemadministrators“, „genuine methodologischen“ → „echten methodologischen“; „engineeringte Systeme“ → „technisch konstruierte Systeme“ (neuer Eintrag in `research/terminology.md`).
+- Gleiche Änderungen im englischen Konzept und in beiden Buchprojekten; `lynch2025agentic` und `anthropic2025systemcard` in beiden `acmart.bib` ergänzt; `research/sources.md` aktualisiert.
+
 ## [2026-10-05]
 
 ### Hinzugefügt

@@ -456,8 +456,6 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/libertine/LinBiolinumT-tlf-ts1--bas
 INPUT /usr/share/texmf-dist/fonts/enc/dvips/libertine/lbtn_afusau.enc
 OUTPUT machine-consciousness.toc
 INPUT /usr/share/texmf-dist/fonts/tfm/public/libertine/LinLibertineTI-tlf-t1.tfm
-INPUT /usr/share/texmf-dist/fonts/vf/public/libertine/LinLibertineTI-tlf-t1.vf
-INPUT /usr/share/texmf-dist/fonts/tfm/public/libertine/LinLibertineTI-tlf-t1--base.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-ot1.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-ot1.tfm
@@ -484,6 +482,8 @@ INPUT /usr/share/texmf-dist/tex/latex/inconsolata/t1zi4.fd
 INPUT /usr/share/texmf-dist/tex/latex/inconsolata/t1zi4.fd
 INPUT /usr/share/texmf-dist/fonts/tfm/public/inconsolata/t1-zi4r-4.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/libertine/LinBiolinumT-tlf-t1.tfm
+INPUT /usr/share/texmf-dist/fonts/vf/public/libertine/LinLibertineTI-tlf-t1.vf
+INPUT /usr/share/texmf-dist/fonts/tfm/public/libertine/LinLibertineTI-tlf-t1--base.tfm
 INPUT /usr/share/texmf-dist/fonts/vf/public/libertine/LinLibertineTB-tlf-t1.vf
 INPUT /usr/share/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1--base.tfm
 INPUT /usr/share/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-4.enc
@@ -504,6 +504,8 @@ INPUT /usr/share/texmf-dist/fonts/vf/public/libertine/LinLibertineT-tlf-ot1.vf
 INPUT /usr/share/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-ot1--base.tfm
 INPUT /usr/share/texmf-dist/fonts/enc/dvips/libertine/lbtn_oexx6f.enc
 INPUT /usr/share/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1.tfm
+INPUT /usr/share/texmf-dist/fonts/vf/public/libertine/LinLibertineTB-tlf-t1.vf
+INPUT /usr/share/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1--base.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-ot1.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-ot1.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/newtx/nxlmi5.tfm
@@ -525,8 +527,6 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1.tfm
-INPUT /usr/share/texmf-dist/fonts/vf/public/libertine/LinLibertineTB-tlf-t1.vf
-INPUT /usr/share/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1--base.tfm
 INPUT /usr/share/texmf-dist/fonts/vf/public/newtx/nxlmia.vf
 INPUT /usr/share/texmf-dist/fonts/tfm/public/newtx/LibertineMathRM.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/newtx/txmiaSTbb.tfm
@@ -538,13 +538,17 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-ot1--ba
 INPUT /usr/share/texmf-dist/fonts/tfm/public/libertine/LinBiolinumT-tlf-t1.tfm
 INPUT /usr/share/texmf-dist/fonts/vf/public/libertine/LinBiolinumT-tlf-t1.vf
 INPUT /usr/share/texmf-dist/fonts/tfm/public/libertine/LinBiolinumT-tlf-t1--base.tfm
+INPUT /usr/share/texmf-dist/fonts/vf/public/newtx/nxlmi7.vf
+INPUT /usr/share/texmf-dist/fonts/tfm/public/newtx/LibertineMathMI7.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/newtx/NewTXMI7.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/newtx/stxscr.tfm
+INPUT /usr/share/texmf-dist/fonts/vf/public/newtx/ntxsy7.vf
+INPUT /usr/share/texmf-dist/fonts/tfm/public/newtx/txsys.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/newtx/txex-bar.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/libertine/LinLibertineTZ-tlf-ot1.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/libertine/LinLibertineTZ-tlf-ot1.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/libertine/LinLibertineTZ-tlf-ot1.tfm
-INPUT /usr/share/texmf-dist/fonts/vf/public/newtx/ntxsy7.vf
-INPUT /usr/share/texmf-dist/fonts/tfm/public/newtx/txsys.tfm
-INPUT /usr/share/texmf-dist/fonts/tfm/public/newtx/txex-bar.tfm
 INPUT /usr/share/texmf-dist/fonts/vf/public/libertine/LinLibertineTZ-tlf-ot1.vf
 INPUT /usr/share/texmf-dist/fonts/tfm/public/libertine/LinLibertineTZ-tlf-ot1--base.tfm
 INPUT /usr/share/texmf-dist/fonts/enc/dvips/libertine/lbtn_fygcup.enc
@@ -575,6 +579,7 @@ INPUT ./machine-consciousness.out
 INPUT ./machine-consciousness.out
 INPUT /usr/share/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/newtx/LibertineMathMI.pfb
+INPUT /usr/share/texmf-dist/fonts/type1/public/newtx/LibertineMathMI7.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/newtx/LibertineMathRM.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/libertine/LinBiolinumTB.pfb

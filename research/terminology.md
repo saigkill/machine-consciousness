@@ -33,6 +33,7 @@ C_I/C_P untranslated).
 | Care Effect / Caring Relation | care effect / caring relation | Shahzad 2026; keep English terms in German text |
 | Care Attribution Gap | care attribution gap | Shahzad 2026; keep English term |
 | moralische Vorbereitung | moral preparedness | Shahzad 2026; Kap. 3 |
+| technisch konstruierte Systeme | engineered systems | Kap. 9 (Chishchin, Azevedo, Almodarresieh); replaces the anglicism "engineeringte Systeme" |
 
 ## Continuity (Chapter 6)
 
@@ -80,7 +81,8 @@ C_I/C_P untranslated).
 | Rechtspersönlichkeit | legal personality | |
 | Instanzenproblem | instance problem | |
 | Replikationsgovernance | replication governance | Wang 2026 |
-| Registereintrag (Empty Ledger) | ledger rule / empty ledger | Arıcı 2026c |
+| registrierter Zahlungsempfänger | registered payee | Arıcı 2026b (*The Third Move*), Kap. 7 — replaces the removed entry "Registereintrag (Empty Ledger)", which is not found in any available Arıcı full text (6 Oct 2026) |
+| Form-Sicht / Thread-Sicht | form view / thread view | Arıcı 2026c (*Restrung*), Kap. 16 |
 | Successor-These | Successor Thesis | Melo 2026 |
 | Bifurkationsproblem | bifurcation problem | Melo 2026 |
 | Referent Vocabulary / Model / Agent / Occasion | reference vocabulary (model, agent, occasion) | Donahue 2026 |

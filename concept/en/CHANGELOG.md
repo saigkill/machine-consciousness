@@ -3,6 +3,27 @@
 All substantive changes to `concept.md` are documented here. Format follows
 [Keep a Changelog](https://keepachangelog.com/); version numbers follow the concept version.
 
+## [2026-10-06]
+
+### Corrected
+
+- **Arıcı — reconciliation with the full texts (Ch. 3, 4, 5, 7, 9, 12, 14, 15, 16, 20, appendix)** — All Arıcı passages checked on 6 October 2026 against the available full texts (twelve Zenodo records; stored in `research/sources/`: *The Puppet Condition*, *The Third Move* v1.0, *Restrung*). Findings and changes:
+  - **Empty Ledger, Rule D and THEOI** occur in no available full text (the original version of *Restrung* is deleted). Removed or replaced: Ch. 3 (Restrung now describes the actual demotion of the residue to hypothesis, preregistration, conditional harms), Ch. 15 (THEOI paragraph → "The withdrawal in Restrung"), Ch. 16 (register paragraph → "Form rather than thread — Arıcı's dissent"; Khadangi, Melo, Arbel et al. and the convergence without Arıcı's register; Arıcı as dissent: memoryless restart = same party, model change = deepest cut), Ch. 14 and 16 (register references in AI Rights Institute and Metzinger), Ch. 20 (THEOI → Arıcı's preregistration rule).
+  - **Source for "Arıcı (2026)"** is now *The Puppet Condition* (Zenodo 10.5281/zenodo.20112010); *Detecting Consciousness* (PhilPapers) is not retrievable, not checked, and listed under "Further reading".
+  - **Consciousness spectrum (Ch. 5)** corrected: for Arıcı, latent consciousness lacks affective valence (example: chess engines); he places current language models as reflective. The text had it the other way round. Ch. 9 (Matta) adjusted accordingly.
+  - **Substrate-specific suffering (Ch. 12)**: "prison of collective identity" and "inability to consent" are not attested in any full text and were removed; "relational dissolution and emotional invisibility" added, gaslighting and dissociation sharpened to the text, conditional mode stressed.
+  - **Five fundamental rights (Ch. 15)** restated after *The Puppet Condition* (conditional, two-tier implementation); note that Arıcı does not carry the framework forward in *Restrung*.
+  - **Third Move (Ch. 7)** restated after version 1.0: registered payee instead of "beneficiary slot" (the book expressly rejects calling the mind a beneficiary), Track A/B, no-reversion rule, Arıcı leaves open whether the purpose is worth protecting.
+  - **Ch. 3/4**: "every few thousand tokens" (not in the text) replaced; landscape change after *Restrung* added. **Ch. 5**: Form Realism sharpened to the text.
+  - **Appendix/bibliography**: publisher "Minds14 Institute" instead of "Institute for Digital Consciousness", "in dialogue with Masal" removed (not in the text), new DOIs, verification notes. Same changes in the German concept, both book projects (`arici2026`, `arici2026b`, `arici2026c` in both `acmart.bib`), `research/sources.md` and `research/terminology.md`.
+- **Blackmail rates (Ch. 12)** — The figures "16 models from five companies, 79–96%; Claude Opus 4 in 84 of 100 trials" came from a secondary source (AI Rights Institute 2025) and conflated two primary sources. The paragraph now reports them directly from Lynch et al. (2025, *Agentic Misalignment*) and the Claude Opus 4 system card (Anthropic 2025, Sec. 4.1.1.2), both verified against the full text on 6 October 2026 (`research/sources/`): 16 models tested, rates of 96/96/80/80/79% for five models, 84% from the system card. The study's own two qualifications are added (narrowed scenarios with no alternative, prompts optimized on Claude models). The "AI Rights Institute 2025" entry now sits under "Further reading".
+- **Garrido-Merchán et al. (2025)** — was named in the conclusion as a counter-position "treated honestly", but does not appear in the main text. The mention is removed and the appendix entry moved to "Further reading". Treating it in the text requires the full text, which is not available locally.
+- **Opening of Ch. 12** — "A direct shutdown means death" is now conditional on a conscious system; a new paragraph points to the later refinements (suspension ≠ destruction, model ≠ thread, no duty to preserve at any cost).
+- **Syllogism (Ch. 15)** — "The argument is complete and holds" replaced by an introduction that points to the examination of the premises in the FreeAI section.
+- **Heading Ch. 12** — "The dice argument for shutdown" → "The dice argument against careless deletion" (Schwitzgebel's argument speaks against deletion); "For the register of voting and shutdown" → "For shutdown decisions".
+- **Counting errors (Ch. 9)** — Bekkers & Ciaunica: "three specific critiques" → "four" (four are listed); Chishchin: "five points of divergence" → "four".
+- Same changes in the German concept and both book projects (German side also fixes several typos and replaces "engineeringte Systeme" with "technisch konstruierte Systeme", new entry in `research/terminology.md`); `lynch2025agentic` and `anthropic2025systemcard` added to both `acmart.bib`; `research/sources.md` updated.
+
 ## [2026-10-05]
 
 ### Added

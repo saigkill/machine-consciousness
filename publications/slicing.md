@@ -305,7 +305,7 @@ Ranked by self-containment and independence from the rest of the concept:
 | Priority | Slice | Rationale |
 |---|---|---|
 | 1 | #2 Precaution for Machine Minds | Core normative argument; needs only Sunstein framing — ✅ submitted to Ethics and Information Technology, in peer review |
-| 2 | #22 Is Memory Necessary? | Single crisp question; strong analogy; direct rebuttal ready |
+| 2 | #22 Is Memory Necessary? | Single crisp question; strong analogy; direct rebuttal ready - ✅ submitted to Ethics and Emerging Technologis |
 | 3 | #17 The Double Standard | Compact, intuitive entry point for general audiences |
 | 4 | #25 Copyright's Lesson | Fully doctrinal; publishable in law venues without philosophy baggage — ✅ submitted to IIC, in peer review |
 | 5 | #31 Shutdown as Death | Concrete, timely (Anthropic policy, blackmail data) |

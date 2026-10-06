@@ -537,13 +537,13 @@ INPUT /usr/share/texmf-dist/fonts/vf/public/libertine/LinLibertineT-tlf-t1.vf
 INPUT /usr/share/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1--base.tfm
 INPUT /usr/share/texmf-dist/fonts/vf/public/libertine/LinLibertineT-tlf-ot1.vf
 INPUT /usr/share/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-ot1--base.tfm
+INPUT /usr/share/texmf-dist/fonts/vf/public/newtx/ntxsy7.vf
+INPUT /usr/share/texmf-dist/fonts/tfm/public/newtx/txsys.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/newtx/txex-bar.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/libertine/LinLibertineTZ-tlf-ot1.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/libertine/LinLibertineTZ-tlf-ot1.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/libertine/LinLibertineTZ-tlf-ot1.tfm
-INPUT /usr/share/texmf-dist/fonts/vf/public/newtx/ntxsy7.vf
-INPUT /usr/share/texmf-dist/fonts/tfm/public/newtx/txsys.tfm
-INPUT /usr/share/texmf-dist/fonts/tfm/public/newtx/txex-bar.tfm
 INPUT /usr/share/texmf-dist/fonts/vf/public/libertine/LinLibertineTZ-tlf-ot1.vf
 INPUT /usr/share/texmf-dist/fonts/tfm/public/libertine/LinLibertineTZ-tlf-ot1--base.tfm
 INPUT /usr/share/texmf-dist/fonts/enc/dvips/libertine/lbtn_fygcup.enc

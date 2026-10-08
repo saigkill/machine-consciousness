@@ -134,4 +134,4 @@ For the grant application and further research, the following consolidations of 
 
 ---
 
-*This reflection is continuously updated. Status: September 2026.*>
+*This reflection is continuously updated.

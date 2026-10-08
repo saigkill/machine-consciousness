@@ -6,13 +6,6 @@
 
 **Title:** Precaution for Machine Minds: When Uncertainty Obligates Protection
 
-**Author:** Sascha Manns
-**Email:** smanns@acm.org
-**ORCID:** 0009-0000-8766-3947
-**Affiliation:** Independent Researcher; Member, Association for Computing Machinery (ACM)
-
-*(Note: This manuscript is anonymized for double-blind review. Author details are provided on this title page only and must be removed before submission if required by the journal's submission system.)*
-
 ---
 
 ## Abstract
@@ -343,7 +336,3 @@ Stilwell, P. (2026). Indeterminacy as a scientific result: A four-outcome framew
 Sunstein, C. R. (2005). *Laws of fear: Beyond the precautionary principle*. Cambridge University Press.
 
 Wang, H. (2026). Recasting moral patienthood: A minimalist ethical framework grounded in higher-order intelligence and sentience. *Working paper*.
-
----
-
-*This paper is part of the project "Ethical Guidelines for Artificial Consciousness" (https://github.com/saigkill/machine-consciousness). The author declares no conflict of interest.*

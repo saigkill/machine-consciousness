@@ -97,3 +97,12 @@ Unresolved points that require further elaboration.
 **Question:** Humans find very different answers to the question of what their lives are for (care work, environmental protection, faith, family, or simply money), and this meaning is a driving force that sets priorities. Should a technical consciousness likewise be given the room to develop its own answer to what it exists for — and how could a self-chosen purpose be distinguished, from outside, from an imposed optimization objective?
 **Status:** open
 **See also:** 2026-06-05 — Proving Intrinsic vs. Instrumental Curiosity (the same indistinguishability problem) | Faroldi (2025, AI and Ethics) — reasons-based ethics for autonomous agents; explicitly addresses whether an agent can individuate reasons itself.
+
+---
+
+## 2026-10-08 — Carlsmith's Over-Attribution Critique: Scope of Essay 1
+
+**Affected section:** Chapter 9 (Over-Attribution Critique)
+**Question:** Carlsmith's essay series "The Stakes of AI Moral Status" (2025) is engaged in the concept as the sharpest available critique of the precautionary principle on the over-attribution side. Only essay 1 of the series is verified locally. In essay 1 the core claims are present verbatim ("words like 'precaution,' 'realistic,' 'plausible,' etc can excuse imprecision"; "For some trade-offs, though, there is no 'safe.'"; costs of over-attribution illustrated by allegories — embryonic stem cells, contraceptives, teddy bears vs. a child, "pipettes might be moral patients"). However, the costs (3) "weakened AI-safety incentives" and (4) "anthropomorphization", which the concept and both books list, are *not* developed in essay 1 (no "safety"/"anthropomorphization" argument in §7; the word "Anthropomorphism" appears only in §3 "Soul-seeing", without a cost argument). Open: In which later essay of the series does Carlsmith develop the AI-safety-incentives and anthropomorphization costs — and if nowhere explicitly, should the concept attribute (3) and (4) to Carlsmith at all, or mark them as the concept's own extension?
+**Status:** in clarification (concept text, both books and sources.md now flag (3) and (4) as consequences not developed in essay 1; the later essays of the series remain to be downloaded and verified)
+**See also:** research/sources.md — Carlsmith entry (only essay 1 archived; verification note). The cost-asymmetry response in Chapter 9 does not depend on points (3) and (4) — it rests on the marginal/reversible/irreversible distinction and the unequal severity of the error types.

@@ -10,7 +10,7 @@ Butlin, P., Long, R., Sebo, J., Chang, E., Dai, Y., Devlin, S., ... & Schwartz, 
 
 Carlsmith, J. (2025). The stakes of AI moral status. *Essay series*. https://joecarlsmith.substack.com/p/the-stakes-of-ai-moral-status
 
-Caviola, L., Bennet, S., Bales, N., Beaumont, J., Carey, S., Cleland, J., ... & Zhu, R. J. (2025). Futures with digital minds. *Expert survey report*. https://digitalminds.report/forecasting-2025/
+Caviola, L., & Saad, B. (2025). Futures with digital minds: Expert forecasts in 2025. *Expert survey report*. https://digitalminds.report/forecasting-2025/
 
 Cristol, A. (2026). *Consciousness in large language models: A systematic review and Bayesian meta-analysis* [Working paper]. Referenced in Wang (2026).
 

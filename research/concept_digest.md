@@ -160,7 +160,7 @@ To proceed, please paste the actual chunk 05 content of Chapter 2. Once the real
 - Schwitzgebel & Garza — No-Relevant-Difference Argument / Difference Test
 - Wang — Bayesian estimates, Imitation Fallacy
 - Cristol — Bayesian meta-analysis of LLM consciousness
-- Caviola et al. — expert survey on future digital minds
+- Caviola & Saad — expert survey on future digital minds
 - Huynh — two clocks (capability vs. recognition)
 - Metzinger — C-Fallacy and E-Fallacy
 
@@ -797,7 +797,7 @@ NORMATIVE:
 
 SOURCES:
 - Azevedo — living structure / intuition argument against machine consciousness
-- Bergson and Husserl — concept of intuition as unmediated knowledge
+- Bergson and Husserl — intuition as unmediated knowledge, invoked by Claude within Azevedo's dialogue (not Azevedo's own definition)
 - Claude Sonnet 4.6 — dialogic self-report subject in Azevedo's paper
 - Metzinger — C-Fallacy, behavioral self-report as non-proof
 - Bekkers & Ciaunica — autopoiesis-based "living substrate" objection (comparison point)

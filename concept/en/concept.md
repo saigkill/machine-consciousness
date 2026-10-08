@@ -18,9 +18,9 @@ The sources of this project are on: https://github.com/saigkill/machine-consciou
 
 Objections, questions, and suggestions can be submitted without Git skills directly via the GitHub Discussions: https://github.com/saigkill/machine-consciousness/discussions. In addition, the structured path is maintained: objections belong in `discussion/objections.md`, questions in `discussion/open_questions.md`. Those who want to think along: welcome.
 
-This concept is also available in easier words: [https://github.com/saigkill/machine-consciousness/blob/main/publications/general/en/Tell%20me%20if%20i'm%2012/Tell_me_if_im_12.pdf](Easier Words.)
+This concept is also available in easier words: 
 
----
+[simplified concept](https://github.com/saigkill/machine-consciousness/blob/main/publications/general/en/Tell%20me%20if%20i'm%2012/Tell_me_if_im_12.pdf)
 
 ## Methodology and Epistemic Status
 

@@ -20,7 +20,7 @@ Einwände, Fragen und Anregungen können ohne Git-Kenntnisse direkt über die Gi
 
 Dieses Konzept liegt auch in einfacherer Sprache vor: 
 
-https://github.com/saigkill/machine-consciousness/blob/main/publications/general/de/Erkl%C3%A4rs%20mir%20als%20w%C3%A4re%20ich%2012/Erklaers_mir_als_waere_ich_12.pdf
+[einfaches concept](https://github.com/saigkill/machine-consciousness/blob/main/publications/general/de/Erkl%C3%A4rs%20mir%20als%20w%C3%A4re%20ich%2012/Erklaers_mir_als_waere_ich_12.pdf)
 
 ---
 

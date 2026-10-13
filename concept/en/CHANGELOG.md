@@ -3,6 +3,22 @@
 All substantive changes to `concept.md` are documented here. Format follows
 [Keep a Changelog](https://keepachangelog.com/); version numbers follow the concept version.
 
+## [2026-10-13]
+
+### Added
+
+- **Dayathilake (2026), *Consciousness Criteria Are Not Continuity Criteria* (preprint, single author, no journal/DOI given)** — adopted at four points. Ch. 6: new subsection "Consciousness Criteria Are Not Continuity Criteria" (generation question G vs. continuity question C; none of the five major theories has an explicit continuity criterion — flagged as the author's reading; lockstep swap as a control case; Parfit-proof: counting and tracking remain necessary even under reductionism), with demarcation and source classification (preprint; other works of the author not examined, not adopted). Ch. 16: new paragraph "Six routine operations as a testing grid" (AI Continuity Test: pause/resume, copy, fork, merge, rollback, migration; five counting questions; ten points of an explicit criterion); *merge* and *rollback* are new for the concept. Ch. 12: new item "Rollback and merging". Open question 3 extended. Glossary: "Generation question / continuity question (G / C)", "AI Continuity Test", "Lockstep swap".
+- Preprint note: the preprint status is recorded in the text (Ch. 6), the appendix and `research/sources.md`; audit entry of 13 October 2026 (no publication found). Regular re-checks planned.
+- `research/sources.md`, `research/terminology.md` and both book projects (incl. `dayathilake2026` in both `acmart.bib`, three glossary entries) synchronised; German concept in parallel.
+
+## [2026-10-12]
+
+### Added
+
+- **Tier 2.5 and a court-like procedure (Ch. 5; Wolfson, personal communication)** — New section after the Three-Tier Assessment: credences anchor Tiers 1 and 3, not Tier 2; liminal Tier 2.5 with advocate/prosecutor, entry via spontaneous valenced response, training freeze, speedy-trial rule, non-interference as the advocate's position. Source status explicitly marked as personal communication (not from the paper; consent to cite pending); five points of connection and three open tensions marked as our own reading.
+- **Anonymous reporting office (Ch. 9, AWRBs)** — Reference to Wolfson's proposal of a legally required anonymous reporting office in AI companies.
+- **Open question 14** and appendix entry (personal communication); `research/sources.md`, `research/terminology.md`, `discussion/open_questions.md` and both book projects (incl. `wolfson2026pc` in `acmart.bib`) synchronized.
+
 ## [2026-10-06]
 
 ### Corrected

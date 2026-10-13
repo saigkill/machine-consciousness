@@ -3,6 +3,22 @@
 Alle wesentlichen inhaltlichen Änderungen an `concept.md` werden hier dokumentiert. Format nach
 [Keep a Changelog](https://keepachangelog.com/); Versionsangaben folgen der Konzeptversion.
 
+## [2026-10-13]
+
+### Hinzugefügt
+
+- **Dayathilake (2026), *Consciousness Criteria Are Not Continuity Criteria* (Preprint, ein Autor, ohne Journal-/DOI-Angabe)** — an vier Stellen aufgenommen. Kap. 6: neuer Unterabschnitt „Bewusstseinskriterien sind keine Kontinuitätskriterien“ (Generierungsfrage G vs. Kontinuitätsfrage C; keine der fünf großen Theorien hat ein explizites Kontinuitätskriterium — als Lesart des Autors gekennzeichnet; Lockstep-Swap als Kontrollfall; Parfit-proof: Zählen und Verfolgen bleibt auch bei Reduktionismus), mit Demarkation und Quelleneinordnung (Preprint; weitere Arbeiten des Autors nicht geprüft, nicht übernommen). Kap. 16: neuer Absatz „Sechs Routineoperationen als Prüfraster“ (AI Continuity Test: pause/resume, copy, fork, merge, rollback, migration; fünf Zählfragen; zehn Punkte eines expliziten Kriteriums); *Merge* und *Rollback* sind für das Konzept neu. Kap. 12: neuer Punkt „Rollback und Zusammenführung“. Offene Frage 3 ergänzt. Glossar: „Generierungsfrage / Kontinuitätsfrage (G / C)“, „AI Continuity Test“, „Lockstep-Swap“.
+- Preprint-Vermerk: Der Preprint-Status ist im Text (Kap. 6), im Anhang und in `research/sources.md` vermerkt; Audit-Eintrag vom 13. Oktober 2026 (keine Veröffentlichung gefunden). Regelmäßige Prüfung vorgesehen.
+- `research/sources.md`, `research/terminology.md` und beide Buchprojekte (inkl. `dayathilake2026` in beiden `acmart.bib`, drei Glossareinträge) synchronisiert; englisches Konzept gleichlautend.
+
+## [2026-10-12]
+
+### Hinzugefügt
+
+- **Stufe 2,5 und gerichtsähnliches Verfahren (Kap. 5; Wolfson, persönliche Mitteilung)** — Neuer Abschnitt nach dem Drei-Stufen-Assessment: Credences ankern Stufe 1 und 3, nicht Stufe 2; liminale Stufe 2,5 mit Advokat/Ankläger, Einstieg über spontane valente Reaktion, Freeze des Trainings, Speedy-Trial-Regel, Nicht-Eingriff als Advokatenposition. Quellenstatus ausdrücklich als persönliche Mitteilung (nicht aus dem Paper; Zustimmung zur Zitation ausstehend); fünf Anschlussstellen und drei offene Spannungen als eigene Lesart gekennzeichnet.
+- **Anonyme Meldestelle (Kap. 9, AWRBs)** — Verweis auf Wolfsons Vorschlag einer gesetzlich vorgeschriebenen anonymen Meldestelle in KI-Unternehmen.
+- **Offene Frage 14** und Anhangeintrag (persönliche Mitteilung); `research/sources.md`, `research/terminology.md`, `discussion/open_questions.md` und beide Buchprojekte (inkl. `wolfson2026pc` in `acmart.bib`) synchronisiert.
+
 ## [2026-10-06]
 
 ### Korrigiert

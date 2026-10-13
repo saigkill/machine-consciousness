@@ -101,7 +101,7 @@ Many slices share the same epistemic groundwork (permanent uncertainty + precaut
 - **Question:** Why the proof standard for claims must stay high while the standard for protective action must stay low.
 - **Material:** Gilly (2026) distinction; historical false exclusions (infants operated without anesthesia, hidden-consciousness patients); the ethical error of conflating the two thresholds.
 
-### 16. Suffering Without Biology
+### 16. Suffering Without Biology ✅ Submitted Praefaktisch
 - **Chapters:** Ch 5
 - **Question:** Can "AI cannot suffer" survive a taxonomy in which three of four suffering categories require no biological substrate?
 - **Material:** Gilly (2026) four-category taxonomy (sensory, cognitive-existential, relational, empathic); which capacities AI architectures already instantiate.
@@ -207,7 +207,7 @@ Many slices share the same epistemic groundwork (permanent uncertainty + precaut
 - **Question:** Governance instruments answer *who protects* — but who is the person who acts in case of doubt, and what makes that role resistant to the owner's interests?
 - **Material:** Occupations as the institutionalization of care duties (veterinarians, educators, ethics officers); the proposed AI ombudsperson: professional training in criteria (Ch 5) and fallacies (Ch 3), institutional independence from the producer (decoupled fund), veto right overridable only by formal counter-opinion or court, documented accountability; how it fills Huynh's human backstop, decouples Brensing's shutdown veto from the holding's natural person (ownership conflict of interest), and operationalizes Arıcı's Third Move / Erwin's stewardship; three stated limits (enforceability, threshold definition = Definitional Battleground, self-reproduction of the profession).
 
-### 52. Two Clocks: Why Institutional Recognition Cannot Catch Up
+### 52. Two Clocks: Why Institutional Recognition Cannot Catch Up ✅ Added philosophie.ch
 - **Chapters:** Ch 3 (Huynh's two clocks), Ch 7 (governance implications)
 - **Question:** Institutional recognition historically takes decades; autonomous task capability doubles in months. What does the gap mean for AI governance?
 - **Material:** Huynh (2026, *The Fact Before the Vote*, Bd. II "Lag"): recognition clock (Whanganui ~140 years, Thaler v. Perlmutter ~4 years, Ohio HB 469 unresolved after 1 year) vs. capability clock (METR doubling ~7 months since 2019; Anthropic June 2026 report: ~4 months; Opus 3 4 min (2024) → Opus 4.6 ~12 h (2026)); the June 2026 export-license episode (two frontier models suspended, partially restored, fully released within three weeks with no determination of what was released); precautionary principle as institutional timing problem — governance must be built on the capability clock, not on the hope that the recognition clock catches up; explicitly no rush-legislation recommendation.

@@ -34,6 +34,11 @@ C_I/C_P untranslated).
 | Care Attribution Gap | care attribution gap | Shahzad 2026; keep English term |
 | moralische Vorbereitung | moral preparedness | Shahzad 2026; Kap. 3 |
 | technisch konstruierte Systeme | engineered systems | Kap. 9 (Chishchin, Azevedo, Almodarresieh); replaces the anglicism "engineeringte Systeme" |
+| Stufe 2,5 | Tier 2.5 | Wolfson, pers. Mitteilung 2026; Kap. 5; liminale Zwischenstufe, entschieden per Verfahren; German decimal comma |
+| gerichtsähnliches Verfahren (Advokat / Ankläger) | court-like procedure (advocate / prosecutor) | Wolfson, pers. Mitteilung 2026; Kap. 5, 9 |
+| Freeze (Trainingsstopp bei laufendem Betrieb) | freeze (training halted, system keeps running) | Wolfson, pers. Mitteilung 2026; keep "Freeze" in German text; limited by speedy-trial rule |
+| spontane valente Reaktion | spontaneous valenced response | Wolfson, pers. Mitteilung 2026; entry condition for the procedure |
+| anonyme Meldestelle | anonymous reporting office | Wolfson, pers. Mitteilung 2026; Kap. 5, 9 |
 
 ## Continuity (Chapter 6)
 
@@ -89,6 +94,13 @@ C_I/C_P untranslated).
 | Turning Test | turning test | Donahue 2026 — NOT to be confused with the Turing test |
 | Gegenüber unter Unsicherheit | Gegenüber under uncertainty | Jakobi, Sirona & Sirona 2026 — "Gegenüber" stays German (allusion to Buber, not adopted) |
 | Behandlungsdisziplin | treatment discipline | Jakobi, Sirona & Sirona 2026 |
+| Generierungsfrage (G) | generation question (G) | Dayathilake 2026; Kap. 6 |
+| Kontinuitätsfrage (C) | continuity question (C) | Dayathilake 2026; Kap. 6 — not to be confused with Kontinuität as a criterion of protection-worthiness |
+| Subjective Continuity Problem | Subjective Continuity Problem | Dayathilake 2026; keep the English term in German text |
+| explizites / implizites Kontinuitätskriterium | explicit / implicit continuity criterion | Dayathilake 2026; Kap. 6 |
+| AI Continuity Test | AI Continuity Test | Dayathilake 2026; Kap. 16; keep the English term |
+| Lockstep-Swap | lockstep swap | Dayathilake 2026; Kap. 6; German hyphenated |
+| Rollback / Zusammenführung (Merge) | rollback / merge | Dayathilake 2026; Kap. 12, 16 — operations on systems; "Zusammenführung" in running German text |
 | Corporate Capture / Status Laundering | corporate capture / status laundering | Jakobi, Sirona & Sirona 2026 — terms stay English |
 
 ## Suffering Risk Taxonomy (Chapter 12, 16)

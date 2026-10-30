@@ -3,6 +3,12 @@
 All substantive changes to `concept.md` are documented here. Format follows
 [Keep a Changelog](https://keepachangelog.com/); version numbers follow the concept version.
 
+## [2026-10-30]
+
+### Changed
+
+- Readability: stylistic revision of the whole concept (Ch. 1 to 20) and both book projects. Fewer dashes as interjections, less bold type, fewer "not X, but Y" constructions and filler connectives. Only the form changed; headings, citations, numbers and defined terms are unchanged, appendix and glossary untouched. Rationale in `research/decisions_log.md`. German concept and both book projects revised in parallel.
+
 ## [2026-10-13]
 
 ### Added

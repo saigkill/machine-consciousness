@@ -10,6 +10,12 @@ An entry may later be extended (e.g., after feedback), but never deleted.
 
 ---
 
+## 2026-10-30 — Readability revision of concept and book projects (reduce AI-typical style patterns)
+
+- **Decision:** `concept/de/concept.md`, `concept/en/concept.md` and both book projects (`machine-consciousness_de.tex`, `machine-consciousness.tex`) are revised for readability. Based on the Wikipedia page "Anzeichen für KI-generierte Inhalte", the form was changed: fewer dashes used as interjections, fewer bold-marked phrases, fewer "not X, but Y" / "not only X but also Y" constructions, fewer filler connectives and inflated wording. Only the form changed, not the content. Headings, citations, quotations, numbers and defined terms stay as they were; the appendices and glossaries were left untouched.
+- **Reason (Sascha):** Improve readability.
+- **Scope / Consequences:** Large text volume affected, so the revision was done chapter-wise and checked against the previous state (headings, author-year citations, years, percentages, links, chapter cross-references). Structural patterns remain (the repeated answer scheme in Chapter 9, repeated core arguments, long paragraphs); they would need cutting, not restyling, and are not part of this decision. Open for later: typos and counting errors noticed in the German text were not corrected here.
+
 ## 2026-10-13 — Dayathilake (2026), *Consciousness Criteria Are Not Continuity Criteria*, adopted at four points
 
 - **Decision:** K. L. Senarath Dayathilake, "Consciousness Criteria Are Not Continuity Criteria: The Subjective Continuity Problem for Theories of Consciousness and Artificial Minds" (preprint, 2026, sole author, Human Wellbeing Science Program, Sri Lanka), found by Sascha, is adopted at four points: Chapter 6 (new subsection on generation vs. continuity question, the absence of continuity criteria in theories of consciousness, lockstep swap, Parfit-proof), Chapter 16 (new paragraph on the six-operation AI Continuity Test as a testing grid), Chapter 12 (new item "Rollback and merging") and open question 3. Glossary (three entries), three-plus terminology rows, `research/sources.md` (with verification note and audit entry), both concept appendices, both CHANGELOGs, both book projects and both `.bib` files. Flagged as a preprint throughout; it is to be re-checked regularly for a peer-reviewed version.

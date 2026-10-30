@@ -3,6 +3,12 @@
 Alle wesentlichen inhaltlichen Änderungen an `concept.md` werden hier dokumentiert. Format nach
 [Keep a Changelog](https://keepachangelog.com/); Versionsangaben folgen der Konzeptversion.
 
+## [2026-10-30]
+
+### Geändert
+
+- Lesbarkeit: stilistische Überarbeitung des gesamten Konzepts (Kap. 1 bis 20) und beider Buchprojekte. Weniger Gedankenstriche als Einschub, weniger Fettschrift, weniger „nicht X, sondern Y“-Konstruktionen und Füllkonjunktionen. Nur die Form wurde geändert; Überschriften, Zitationen, Zahlen und Fachbegriffe sind unverändert, Anhang und Glossar nicht angefasst. Begründung in `research/decisions_log.md`. Englisches Konzept und beide Buchprojekte synchron überarbeitet.
+
 ## [2026-10-13]
 
 ### Hinzugefügt

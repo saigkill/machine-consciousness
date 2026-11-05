@@ -3,6 +3,26 @@
 All substantive changes to `concept.md` are documented here. Format follows
 [Keep a Changelog](https://keepachangelog.com/); version numbers follow the concept version.
 
+## [2026-11-05]
+
+### Added
+
+- **Chapter 5: new subsection "The Architecture Path: From Capability to Organization"** (after "Architectural Indicator Layer", before "Form Realism"). The section reads the architectural indicators as a construction manual for humanoid household robots: five components (persistent world model, event-driven wakefulness, prioritized goal store, assessing appropriateness, memory across days), three gaps (self-model/PSM, valence/NV, unity/binding problem) and the reversal that the difference between tool and moral subject is here a question of specification, not of progress. Refers to Open Question 15.
+- **Five new sources**, all obtained as full text, read and archived in `research/sources/`: Horvitz (1999, CHI, mixed-initiative), Hughes/Chang/Carlone (2024, IJRR, Hydra), Gu et al. (2024, ICRA, ConceptGraphs), Packer et al. (2024, arXiv preprint, MemGPT), Zhang et al. (2026, EMNLP, WorldLines/ObsMem). Full texts verified 5 November 2026; bibliographic data checked against Crossref.
+- **New appendix subsection "Technical Literature (Robotics and Agent Architectures)"** with the five entries and verification notes.
+- **Open Question 15** (negative status determination from architecture) in `discussion/open_questions.md` and in the list "Open Questions for Future Research".
+- `research/terminology.md`: new section "Technical terms — architecture path" (architecture path, persistent world model, event-driven wakefulness, prioritized goal store, assessing appropriateness, binding problem).
+- **Glossary:** "Architecture path" and "Binding problem" added as entries, in the concept and in the book glossary (`\newglossaryentry`). The architecture-path entry names the five components, the three gaps, and the caveat that architecture can be optimized toward a specification; the binding-problem entry distinguishes the unity question from the hard problem.
+- German concept, both book projects (`machine-consciousness_de.tex`, `machine-consciousness.tex`) and both `acmart.bib` synchronized.
+
+### Changed
+
+- `research/sources.md`: Jakobi/Sirona entry corrected. Horvitz 1999 is no longer listed there as "background but not cited", because it is now cited independently in Chapter 5.
+
+### Not adopted
+
+- Event-driven wakefulness and the prioritized goal store are described as engineering practice without source attribution: no archived full texts existed for either (rejected candidates: π0.6/MEM blog, MemER, MeMoREval, CHI 2025 / IUI 2026 / CHIIR 2026 papers, Home Assistant / ROS 2 product documentation).
+
 ## [2026-10-30]
 
 ### Changed

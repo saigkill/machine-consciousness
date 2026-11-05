@@ -3,6 +3,26 @@
 Alle wesentlichen inhaltlichen Änderungen an `concept.md` werden hier dokumentiert. Format nach
 [Keep a Changelog](https://keepachangelog.com/); Versionsangaben folgen der Konzeptversion.
 
+## [2026-11-05]
+
+### Hinzugefügt
+
+- **Kapitel 5: neuer Unterabschnitt „Der Architekturpfad: Von der Fähigkeit zur Organisation“** (nach „Architektonischer Indikator-Layer“, vor „Form Realismus“). Der Abschnitt liest die architektonischen Indikatoren als Bauanleitung für humanoide Haushaltsroboter: fünf Komponenten (persistierendes Weltmodell, ereignisgetriebene Wachheit, priorisierter Zielspeicher, Bewertung von Angemessenheit, Gedächtnis über Tage), drei Lücken (Selbstmodell/PSM, Valenz/NV, Einheit/Bindungsproblem) und die Umkehrung, dass der Unterschied zwischen Werkzeug und moralischem Subjekt hier eine Frage der Spezifikation ist, nicht des Fortschritts. Verweist auf Offene Frage 15.
+- **Fünf neue Quellen**, alle als Volltext beschafft, gelesen und in `research/sources/` archiviert: Horvitz (1999, CHI, Mixed-Initiative), Hughes/Chang/Carlone (2024, IJRR, Hydra), Gu et al. (2024, ICRA, ConceptGraphs), Packer et al. (2024, arXiv-Preprint, MemGPT), Zhang et al. (2026, EMNLP, WorldLines/ObsMem). Volltexte verifiziert am 5. November 2026; bibliographische Daten gegen Crossref geprüft.
+- **Neuer Anhang-Unterabschnitt „Technische Literatur (Robotik und Agentenarchitekturen)“** mit den fünf Einträgen und Verifikationsvermerken.
+- **Offene Frage 15** (negative Statusbestimmung aus Architektur) in `discussion/open_questions.md` und in der Liste „Offene Fragen für zukünftige Forschung“.
+- `research/terminology.md`: neuer Abschnitt „Technical terms — architecture path“ (Architekturpfad, persistierendes Weltmodell, ereignisgetriebene Wachheit, priorisierter Zielspeicher, Bewertung von Angemessenheit, Bindungsproblem).
+- **Glossar:** „Architekturpfad“ und „Bindungsproblem“ als Einträge ergänzt, im Konzept und im Buchglossar (`\newglossaryentry`). Der Architekturpfad-Eintrag nennt die fünf Komponenten, die drei Lücken und den Vorbehalt, dass sich Architektur auf eine Spezifikation hin optimieren lässt; der Bindungsproblem-Eintrag grenzt die Einheitsfrage vom Hard Problem ab.
+- Englisches Konzept, beide Buchprojekte (`machine-consciousness_de.tex`, `machine-consciousness.tex`) und beide `acmart.bib` synchron ergänzt.
+
+### Geändert
+
+- `research/sources.md`: Eintrag Jakobi/Sirona korrigiert. Horvitz 1999 wird dort nicht mehr als „background but not cited“ geführt, weil er in Kapitel 5 eigenständig zitiert wird.
+
+### Nicht aufgenommen
+
+- Ereignisgetriebene Wachheit und priorisierter Zielspeicher werden als Ingenieurspraxis ohne Quellenzuschreibung beschrieben: für beide lagen keine archivierten Volltexte vor (verworfene Kandidaten: π0.6/MEM-Blog, MemER, MeMoREval, CHI-2025-/IUI-2026-/CHIIR-2026-Papiere, Home-Assistant-/ROS-2-Produktdokumentation).
+
 ## [2026-10-30]
 
 ### Geändert

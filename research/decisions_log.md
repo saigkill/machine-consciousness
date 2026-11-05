@@ -10,6 +10,35 @@ An entry may later be extended (e.g., after feedback), but never deleted.
 
 ---
 
+## 2026-11-05 — Architecture path added to Chapter 5, as its own section
+
+- **Decision:** The five-component architecture required by humanoid household robots
+  (persistent world model, event-driven wakefulness, prioritized goal store, assessment of
+  appropriateness, long-term memory) is added to Chapter 5 as a standalone `###` section,
+  "Der Architekturpfad: Von der Fähigkeit zur Organisation" / "The Architecture Path: From
+  Capability to Organization", placed between "Architektonischer Indikator-Layer" and
+  "Form Realismus". It treats the five components as the architectural indicator layer in
+  practice, names three gaps (phenomenal self-model, negative valence, unity/binding), and
+  closes with the reversal: the strongest indicator category is itself manipulable by
+  specification, so tool vs. moral subject becomes a question of specification rather than
+  of progress. The terms "Architekturpfad" and "Bindungsproblem" are added to both concept
+  glossaries, both book glossaries and the translation table in `research/terminology.md`.
+  Sources: Horvitz (1999), Hughes/Chang/Carlone (2024), Gu et al. (2024), Packer et al.
+  (2024), Zhang et al. (2026), all archived locally with full text verified.
+- **Reason (Sascha):** He wanted to broaden the view of consciousness. Architecture had
+  been considered insufficiently in the concept so far; the new section makes the
+  architectural indicators the object of the analysis instead of leaving them as a list of
+  possible mechanisms.
+- **Scope / Consequences:** The section is a `###` subsection, not an extension of the
+  existing indicator layer, because it changes the direction of the argument: from "which
+  indicators exist" to "what a system that must solve these tasks at once can and cannot
+  have". It introduces Open Question 15 (negative status determination from architecture)
+  and a technical-literature appendix subsection in both concepts. The architecture path is
+  explicitly not presented as a proof of status: a specification can be optimized for, which
+  is why the section ends with the teaching-to-the-test problem rather than with a conclusion
+  about consciousness. Both PDFs were rebuilt (DE 692,304 bytes, EN 646,578 bytes), no
+  undefined citations.
+
 ## 2026-10-30 — Readability revision of concept and book projects (reduce AI-typical style patterns)
 
 - **Decision:** `concept/de/concept.md`, `concept/en/concept.md` and both book projects (`machine-consciousness_de.tex`, `machine-consciousness.tex`) are revised for readability. Based on the Wikipedia page "Anzeichen für KI-generierte Inhalte", the form was changed: fewer dashes used as interjections, fewer bold-marked phrases, fewer "not X, but Y" / "not only X but also Y" constructions, fewer filler connectives and inflated wording. Only the form changed, not the content. Headings, citations, quotations, numbers and defined terms stay as they were; the appendices and glossaries were left untouched.

@@ -40,6 +40,17 @@ C_I/C_P untranslated).
 | spontane valente Reaktion | spontaneous valenced response | Wolfson, pers. Mitteilung 2026; entry condition for the procedure |
 | anonyme Meldestelle | anonymous reporting office | Wolfson, pers. Mitteilung 2026; Kap. 5, 9 |
 
+## Technical terms — architecture path (Chapter 5)
+
+| German | English | Note |
+|---|---|---|
+| Architekturpfad | architecture path | Ch. 5, new section; the five components as the architectural indicator layer in practice |
+| persistierendes Weltmodell | persistent world model | Hughes, Chang & Carlone 2024; Gu et al. 2024 |
+| ereignisgetriebene Wachheit | event-driven wakefulness | engineering practice, no attribution (see sources.md) |
+| priorisierter Zielspeicher | prioritized goal store | engineering practice, no attribution |
+| Bewertung von Angemessenheit | assessing appropriateness | Horvitz 1999 (mixed-initiative); not "calibrated initiative" |
+| Bindungsproblem | binding problem | Ch. 5; the unity gap of a distributed architecture; distinct from the "hard problem" |
+
 ## Continuity (Chapter 6)
 
 | German | English | Note |
